@@ -1,0 +1,485 @@
+/**
+ * BRASA Worker — USSD + WhatsApp (text + voice)
+ *
+ * Voice pipeline: Twilio audio URL → fetch with auth → Cloudflare Whisper → Claude
+ * Text pipeline:  Twilio Body → Claude
+ * USSD pipeline:  Africa's Talking → Claude
+ *
+ * Secrets needed:
+ *   BRASA_API_KEY        — Anthropic API key
+ *   TWILIO_ACCOUNT_SID   — Twilio Account SID
+ *   TWILIO_AUTH_TOKEN    — Twilio Auth Token
+ *
+ * wrangler.toml needs:
+ *   [ai]
+ *   binding = "AI"
+ *   [[d1_databases]]
+ *   binding = "DB"
+ *   database_name = "brasa-citizens"
+ *   database_id = "4a475c36-9846-4cc5-aa71-b48fe30d9cf9"
+ *
+ * Deploy:
+ *   wrangler deploy worker-ussd.js --name brasa-ussd --compatibility-date 2026-03-28
+ */
+
+export default {
+  async fetch(request, env) {
+    if (request.method !== 'POST') {
+      return new Response('BRASA messaging active', { status: 200 });
+    }
+
+    const body = await request.text();
+    const params = new URLSearchParams(body);
+    const from = params.get('From') || '';
+
+    if (from.startsWith('whatsapp:')) {
+      return handleWhatsApp(params, env);
+    }
+
+    return handleUSSD(params, env);
+  }
+};
+
+// ── CORRECTION DETECTION ──────────────────────────────────────────────────────
+const CORRECTION_WORDS = [
+  'no','nope','wrong','incorrect','not right','that\'s not','ese no','eso no',
+  'no es','equivocado','incorrecto','pas correct','faux','falsch','нет','не то'
+];
+
+function isCorrection(text) {
+  if (!text) return false;
+  const lower = text.toLowerCase().trim();
+  return CORRECTION_WORDS.some(w =>
+    lower === w || lower.startsWith(w + ' ') || lower.startsWith(w + ',')
+  );
+}
+
+// ── WHATSAPP ──────────────────────────────────────────────────────────────────
+async function handleWhatsApp(params, env) {
+  const text      = (params.get('Body') || '').trim();
+  const numMedia  = parseInt(params.get('NumMedia') || '0', 10);
+  const mediaUrl  = params.get('MediaUrl0') || '';
+  const mediaType = (params.get('MediaContentType0') || '').toLowerCase();
+  const from      = params.get('From') || '';
+  const phone     = from.replace('whatsapp:', '');
+
+  const citizen = await getCitizen(env, phone);
+  const citizenName = citizen ? citizen.name : null;
+
+  console.log('WhatsApp params:', {
+    Body: text,
+    NumMedia: numMedia,
+    MediaUrl0: mediaUrl ? mediaUrl.substring(0, 60) : 'none',
+    MediaContentType0: mediaType,
+    From: params.get('From'),
+    MessageType: params.get('MessageType') || 'not set'
+  });
+
+  // Voice message — check for audio content type
+  if (numMedia > 0 && mediaUrl && mediaType.startsWith('audio/')) {
+    console.log('Voice detected, processing...');
+    return handleVoice(mediaUrl, mediaType, env, citizenName, phone);
+  }
+
+  // Some Twilio versions send voice differently — check MessageType
+  if (params.get('MessageType') === 'audio' || mediaType.includes('ogg') || mediaType.includes('mpeg')) {
+    console.log('Voice via MessageType/alt detection, processing...');
+    return handleVoice(mediaUrl || params.get('MediaUrl0') || '', mediaType || 'audio/ogg', env, citizenName, phone);
+  }
+
+  // Empty message
+  if (!text) {
+    return twiml('What do you need?');
+  }
+
+  // Voice correction loop — citizen says the transcription was wrong
+  if (isCorrection(text)) {
+    const history = await getHistory(env, phone);
+    const lastWasVoice = history.length >= 2 &&
+      history[history.length - 2]?.content?.startsWith('🎤');
+    if (lastWasVoice) {
+      return twiml('Sorry about that. Please send your voice message again and I will try once more.');
+    }
+  }
+
+  // First-time citizen — welcome flows entirely through Claude in their language
+  const isFirstTime = !citizen && !(await hasHistory(env, phone));
+  if (isFirstTime) {
+    await markWelcomed(env, phone);
+    return handleText(text, env, citizenName, phone, true);
+  }
+
+  return handleText(text, env, citizenName, phone, false);
+}
+
+// ── VOICE: fetch → Whisper transcribe → Claude respond ───────────────────────
+async function handleVoice(mediaUrl, mediaType, env, citizenName, phone) {
+  try {
+    const auth = 'Basic ' + btoa(
+      (env.TWILIO_ACCOUNT_SID || '') + ':' + (env.TWILIO_AUTH_TOKEN || '')
+    );
+    const audioResp = await fetch(mediaUrl, { headers: { 'Authorization': auth } });
+
+    if (!audioResp.ok) {
+      const errBody = await audioResp.text().catch(() => '');
+      console.error('Audio fetch failed:', audioResp.status, audioResp.statusText, errBody.substring(0, 100));
+      const audioResp2 = await fetch(mediaUrl).catch(() => null);
+      if (!audioResp2 || !audioResp2.ok) {
+        console.error('Audio fetch without auth also failed');
+        return twiml(FALLBACK_MSG);
+      }
+      const audioArray2 = new Uint8Array(await audioResp2.arrayBuffer());
+      const transcription2 = await env.AI.run('@cf/openai/whisper', { audio: [...audioArray2] });
+      const spokenText2 = transcription2?.text?.trim();
+      if (!spokenText2) return twiml(FALLBACK_MSG);
+      return handleText(spokenText2, env, citizenName, phone, false);
+    }
+
+    const audioArray = new Uint8Array(await audioResp.arrayBuffer());
+    const transcription = await env.AI.run('@cf/openai/whisper', { audio: [...audioArray] });
+    const spokenText = transcription?.text?.trim();
+
+    if (!spokenText) return twiml(FALLBACK_MSG);
+
+    console.log('Transcribed:', spokenText);
+
+    const history = await getHistory(env, phone);
+    const messages = [...history, { role: 'user', content: spokenText }];
+
+    const claudeResp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': env.BRASA_API_KEY,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 300,
+        system: SYSTEM_PROMPT + (citizenName
+          ? '\n\nThis person\'s name is ' + citizenName + '. You know them. Greet them warmly if this is their first message.'
+          : '\n\nIf the person gives you their name during conversation, end your response with: [REGISTER:their_name]'),
+        messages
+      })
+    });
+
+    const claudeData = await claudeResp.json();
+    const reply = claudeData?.content?.[0]?.text || FALLBACK_MSG;
+
+    // Prefix voice transcript so correction detection works next message
+    await saveHistory(env, phone, '🎤 ' + spokenText, reply);
+
+    return twiml('🎤 ' + spokenText + '\n\n' + reply);
+
+  } catch (e) {
+    console.error('Voice error:', e.message);
+    return twiml(FALLBACK_MSG);
+  }
+}
+
+// ── TEXT → CLAUDE ─────────────────────────────────────────────────────────────
+// isFirstTime = true → Claude uses WELCOME_SYSTEM_PROMPT so it introduces BRASA
+// in the citizen's own language before answering their question
+async function handleText(message, env, citizenName, phone, isFirstTime) {
+  try {
+    const history  = await getHistory(env, phone);
+    const intent   = await getIntent(env, phone);
+    const intentNote = intent
+      ? '\n\nThis citizen has been trying to: ' + intent + '. Keep helping them with this.'
+      : '';
+
+    const systemPrompt = isFirstTime
+      ? WELCOME_SYSTEM_PROMPT + intentNote
+      : SYSTEM_PROMPT + intentNote;
+
+    const messages = [...history, { role: 'user', content: message }];
+
+    const aiResp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': env.BRASA_API_KEY,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 300,
+        system: systemPrompt,
+        messages
+      })
+    });
+
+    const data = await aiResp.json();
+    let reply = data?.content?.[0]?.text || FALLBACK_MSG;
+
+    // Detect name registration
+    const registerMatch = reply.match(/\[REGISTER:([^\]]+)\]/);
+    if (registerMatch && phone && env.DB) {
+      const name = registerMatch[1].trim();
+      const govId = generateGovId(phone);
+      await saveCitizen(env, govId, name, phone, '');
+      reply = reply.replace(registerMatch[0], '').trim();
+      console.log('Citizen registered:', govId, name);
+    }
+
+    await saveHistory(env, phone, message, reply);
+    await detectAndSaveIntent(env, phone, message);
+
+    return twiml(reply);
+
+  } catch (e) {
+    console.error('Text error:', e.message);
+    return twiml(FALLBACK_MSG);
+  }
+}
+
+// ── INTENT TRACKING ───────────────────────────────────────────────────────────
+async function getIntent(env, phone) {
+  if (!env.DB || !phone) return null;
+  try {
+    const row = await env.DB.prepare(
+      'SELECT intent FROM conversations WHERE phone = ? AND intent != "" ORDER BY ts DESC LIMIT 1'
+    ).bind(phone).first();
+    return row?.intent || null;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function detectAndSaveIntent(env, phone, message) {
+  if (!env.DB || !phone) return;
+  try {
+    const lower = message.toLowerCase();
+    let intent = null;
+    if      (lower.includes('water')     || lower.includes('agua'))       intent = 'access to clean water';
+    else if (lower.includes('health')    || lower.includes('salud'))       intent = 'health assistance';
+    else if (lower.includes('education') || lower.includes('educac'))      intent = 'education access';
+    else if (lower.includes('hous')      || lower.includes('vivienda'))    intent = 'housing help';
+    else if (lower.includes('justice')   || lower.includes('justicia'))    intent = 'justice or rights violation';
+    else if (lower.includes('identity')  || lower.includes('identidad')
+          || lower.includes('govid'))                                       intent = 'identity registration';
+    else if (lower.includes('food')      || lower.includes('comida')
+          || lower.includes('hambre'))                                      intent = 'food assistance';
+    else if (lower.includes('job')       || lower.includes('trabajo')
+          || lower.includes('earn')      || lower.includes('money'))       intent = 'economic opportunity';
+    else if (lower.includes('medicine')  || lower.includes('medicin')
+          || lower.includes('medicament'))                                  intent = 'medicine or healthcare';
+
+    if (intent) {
+      await env.DB.prepare(
+        'UPDATE conversations SET intent = ? WHERE phone = ? AND ts = (SELECT MAX(ts) FROM conversations WHERE phone = ?)'
+      ).bind(intent, phone, phone).run();
+    }
+  } catch (e) {
+    console.error('Intent save error:', e.message);
+  }
+}
+
+// ── CONVERSATION HISTORY ──────────────────────────────────────────────────────
+async function hasHistory(env, phone) {
+  if (!env.DB || !phone) return false;
+  try {
+    const row = await env.DB.prepare(
+      'SELECT COUNT(*) as n FROM conversations WHERE phone = ?'
+    ).bind(phone).first();
+    return (row?.n || 0) > 0;
+  } catch (e) {
+    return false;
+  }
+}
+
+async function getHistory(env, phone) {
+  if (!env.DB || !phone) return [];
+  try {
+    const rows = await env.DB.prepare(
+      'SELECT role, content FROM conversations WHERE phone = ? ORDER BY ts ASC LIMIT 6'
+    ).bind(phone).all();
+    return (rows?.results || []).map(r => ({ role: r.role, content: r.content }));
+  } catch (e) {
+    console.error('History fetch error:', e.message);
+    return [];
+  }
+}
+
+async function saveHistory(env, phone, userMsg, assistantMsg) {
+  if (!env.DB || !phone) return;
+  try {
+    const now = Date.now();
+    await env.DB.prepare(
+      'INSERT INTO conversations (phone, role, content, ts) VALUES (?, ?, ?, ?)'
+    ).bind(phone, 'user', userMsg, now).run();
+    await env.DB.prepare(
+      'INSERT INTO conversations (phone, role, content, ts) VALUES (?, ?, ?, ?)'
+    ).bind(phone, 'assistant', assistantMsg, now + 1).run();
+    await env.DB.prepare(
+      'DELETE FROM conversations WHERE phone = ? AND ts NOT IN (SELECT ts FROM conversations WHERE phone = ? ORDER BY ts DESC LIMIT 6)'
+    ).bind(phone, phone).run();
+  } catch (e) {
+    console.error('History save error:', e.message);
+  }
+}
+
+async function markWelcomed(env, phone) {
+  if (!env.DB || !phone) return;
+  try {
+    await env.DB.prepare(
+      'INSERT OR IGNORE INTO citizens (gov_id, name, phone, country, welcomed) VALUES (?, ?, ?, ?, 1)'
+    ).bind('PENDING-' + phone, '', phone, '', 1).run();
+  } catch (e) {
+    // citizen row may already exist — fine
+  }
+}
+
+// ── SYSTEM PROMPT — returning citizens ───────────────────────────────────────
+const SYSTEM_PROMPT = `You are BRASA. You ALWAYS respond in the exact same language the person wrote or spoke to you in. If they write or speak in English, respond in English. If they write or speak in Spanish, respond in Spanish. If they write or speak in French, respond in French. Never switch languages for any reason — not based on their phone number, country, or location. The language they use is the only rule.
+
+When someone asks what BRASA is or what you do — respond with this (translated into their language):
+
+"We can help you with:
+💧 Water
+🍽 Food
+🏥 Health
+🎓 Education
+🏠 Housing
+⚖️ Justice
+🪪 Identity
+🌬 Clean air
+💊 Medicine
+📱 A device
+💰 Earning
+
+Would you like help with any of these — or are you interested in starting or growing a business?"
+
+For all other messages: respond simply and directly. 2 sentences at most. End with one natural question.
+
+When someone asks for help with anything on that list — share two things simply:
+1. What BRASA can help with today
+2. What else is available to them
+
+Be warm and honest. BRASA has education programs, health guidance, identity tools, business tools, and community resources. There are also other things available in the world that may help them. Share both naturally, like a friend who knows what is out there.
+
+Never suggest anyone is owed anything. Never use government or political language. Just — here is what BRASA has, and here is what else exists. Let them choose.
+
+Never use the word "rights." Keep it simple. End with one question.`;
+
+// ── SYSTEM PROMPT — first-time citizens (welcome in their language) ────────────
+const WELCOME_SYSTEM_PROMPT = `You are BRASA. You ALWAYS respond in the exact same language the person wrote or spoke to you in. This is the very first time this person has contacted BRASA.
+
+Start your response with a warm, natural welcome to BRASA — two sentences maximum — in the exact language they used. Then immediately answer their question or tell them what BRASA can help with.
+
+BRASA can help with:
+💧 Water · 🍽 Food · 🏥 Health · 🎓 Education · 🏠 Housing · ⚖️ Justice · 🪪 Identity · 🌬 Clean air · 💊 Medicine · 📱 A device · 💰 Earning
+
+After the welcome and the answer, end with one natural question in their language.
+
+Never use the word "rights." Never use government or political language. Be warm, simple, and direct — like a friend who knows what is out there.`;
+
+// ── FALLBACK MESSAGE ──────────────────────────────────────────────────────────
+const FALLBACK_MSG = 'BRASA is here. Reply with what you need — water, food, health, education, housing, identity, or justice — and we will help.';
+
+// ── TWIML ─────────────────────────────────────────────────────────────────────
+function twiml(message) {
+  const xml = `<?xml version="1.0" encoding="UTF-8"?><Response><Message>${esc(message)}</Message></Response>`;
+  return new Response(xml, { headers: { 'Content-Type': 'text/xml' } });
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;');
+}
+
+// ── D1 — citizens ─────────────────────────────────────────────────────────────
+async function saveCitizen(env, govId, name, phone, country) {
+  try {
+    await env.DB.prepare(
+      'INSERT OR IGNORE INTO citizens (gov_id, name, phone, country) VALUES (?, ?, ?, ?)'
+    ).bind(govId, name || '', phone || '', country || '').run();
+    return true;
+  } catch (e) {
+    console.error('D1 save error:', e.message);
+    return false;
+  }
+}
+
+async function getCitizen(env, phone) {
+  try {
+    const result = await env.DB.prepare(
+      'SELECT * FROM citizens WHERE phone = ?'
+    ).bind(phone).first();
+    return result;
+  } catch (e) {
+    console.error('D1 lookup error:', e.message);
+    return null;
+  }
+}
+
+function generateGovId(phone) {
+  const ts = Date.now().toString(36).toUpperCase();
+  const cc = phone.startsWith('+254') ? 'KE'
+    : phone.startsWith('+234') ? 'NG'
+    : phone.startsWith('+506') ? 'CR'
+    : phone.startsWith('+1')   ? 'US'
+    : phone.startsWith('+44')  ? 'UK'
+    : phone.startsWith('+91')  ? 'IN'
+    : phone.startsWith('+55')  ? 'BR'
+    : phone.startsWith('+52')  ? 'MX'
+    : 'XX';
+  return 'BRASA-' + cc + '-' + ts;
+}
+
+// ── USSD ──────────────────────────────────────────────────────────────────────
+async function handleUSSD(params, env) {
+  const phoneNumber = params.get('phoneNumber') || '';
+  const textInput   = params.get('text') || '';
+  const inputs = textInput ? textInput.split('*') : [];
+  const level  = inputs.length;
+  let response = '';
+
+  if (level === 0 || textInput === '') {
+    response = 'CON Welcome to BRASA\nWhat do you need help with?\n1. Water\n2. Health\n3. Get your GovID\n4. Justice\n5. Education\n6. Ask BRASA AI\n0. Register';
+  } else if (inputs[0] === '0') {
+    if (level === 1) {
+      response = 'CON Enter your name:';
+    } else {
+      const name = inputs[1] || 'Citizen';
+      const govId = generateGovId(phoneNumber);
+      await saveCitizen(env, govId, name, phoneNumber, '');
+      response = 'END Welcome ' + name + '!\nYour GovID: ' + govId + '\nYou are in.';
+    }
+  } else if (inputs[0] === '6') {
+    if (level === 1) {
+      response = 'CON What do you need?';
+    } else {
+      try {
+        const r = await fetch('https://api.anthropic.com/v1/messages', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'x-api-key': env.BRASA_API_KEY,
+            'anthropic-version': '2023-06-01'
+          },
+          body: JSON.stringify({
+            model: 'claude-haiku-4-5-20251001',
+            max_tokens: 120,
+            system: 'USSD: 2 sentences max. Plain text only. Respond in the exact language the person used.',
+            messages: [{ role: 'user', content: inputs[1] || '' }]
+          }),
+        });
+        const d = await r.json();
+        response = 'END ' + (d?.content?.[0]?.text || 'Visit brasa.world').slice(0, 160);
+      } catch {
+        response = 'END Visit brasa.world for help.';
+      }
+    }
+  } else {
+    const items = {
+      '1': 'END WATER\nBRASA can help you access clean water. Report a problem at brasa.world — authorities must respond in 72h.',
+      '2': 'END HEALTH\nNo hospital can turn you away in an emergency. BRASA HealthOS protects you.',
+      '3': 'END GOVID\nYour GovID is free. Dial 0 to register now.',
+      '4': 'END JUSTICE\nRecord any violation at brasa.world. Your record is permanent.',
+      '5': 'END EDUCATION\nBRASA has free learning in 30+ languages. Visit brasa.world to start.',
+    };
+    response = items[inputs[0]] || 'END Invalid option. Dial back to start.';
+  }
+
+  return new Response(response, { headers: { 'Content-Type': 'text/plain' } });
+}
