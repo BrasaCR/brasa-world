@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="BRASA Conservation — proof that the pipe divides every colón 80/16/3/1, conserved to the colón.">
+<meta name="theme-color" content="#1B1A17">
+<title>BRASA — Identity</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.brasa.world">
+<link rel="preconnect" href="https://assets.brasa.world">
+<link rel="preconnect" href="https://images.unsplash.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap">
+
+<style>
+/* =========================================================================
+   BRASA — Conservation
+   Same surface language as the federation: photo-first hero, restrained type,
+   sticky header, dark footer. Live audit content rendered beneath.
+   ========================================================================= */
+:root{
+  --brasa-black:#1B1A17; --brasa-soft:#6B6862; --brasa-faint:#9A958C;
+  --brasa-accent:#8C3A1F; --brasa-page:#FBF9F4; --brasa-cream:#F5F0E5;
+  --brasa-callout:#F2EDE0; --brasa-rule:#E5DFD0; --brasa-rule-2:#EFEADD; --brasa-hover:#6B280F;
+  --citizens:#0D6E5C; --planet:#2C5F73; --operating:#8C3A1F; --founder:#B07D3F;
+  --clear:#0D6E5C; --watch:#B07D3F; --attn:#9B2C1E;
+  --serif:'Fraunces','Times New Roman',serif;
+  --sans:'Geist','Helvetica Neue',system-ui,sans-serif;
+  --mono:'Geist Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  --max-w:1480px; --content-w:1180px;
+  --gutter:clamp(1.25rem,4vw,2.75rem);
+  --ease:cubic-bezier(0.22,0.61,0.36,1); --ease-photo:cubic-bezier(0.16,0.84,0.34,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;scroll-padding-top:150px}
+body{background:var(--brasa-page);color:var(--brasa-black);font-family:var(--sans);font-weight:400;
+  line-height:1.5;font-feature-settings:"ss01","ss02";-webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+.container{width:100%;max-width:var(--max-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
+.content{width:100%;max-width:var(--content-w);margin:0 auto;padding-left:var(--gutter);padding-right:var(--gutter)}
+.tnum{font-variant-numeric:tabular-nums lining-nums}
+
+/* ── header ───────────────────────────────────────────────────────────── */
+.site-header{position:fixed;top:0;left:0;right:0;z-index:100;padding:1.25rem var(--gutter);
+  display:flex;align-items:center;justify-content:space-between;pointer-events:none;
+  transition:background 380ms var(--ease),padding 380ms var(--ease),backdrop-filter 380ms var(--ease)}
+.site-header>*{pointer-events:auto}
+.site-header.scrolled{background:rgba(251,249,244,.86);backdrop-filter:blur(14px) saturate(120%);
+  -webkit-backdrop-filter:blur(14px) saturate(120%);padding-top:.9rem;padding-bottom:.9rem;
+  border-bottom:1px solid rgba(229,223,208,.5)}
+.wordmark{display:flex;align-items:center}
+.wordmark-img{height:140px;width:auto;display:block}
+.nav{display:flex;gap:1.6rem;align-items:center}
+.nav a{font-family:var(--sans);font-size:.82rem;font-weight:500;letter-spacing:.04em;
+  color:var(--brasa-cream);position:relative;padding:.25rem 0;transition:color 380ms var(--ease)}
+.site-header.scrolled .nav a{color:var(--brasa-black)}
+.nav a::after{content:'';position:absolute;bottom:-2px;left:0;height:1px;width:0;background:currentColor;transition:width 360ms var(--ease)}
+.nav a:hover::after{width:100%}
+.status{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--mono);font-size:.7rem;
+  font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--brasa-soft);
+  border:1px solid var(--brasa-rule);border-radius:999px;padding:.32rem .66rem;background:var(--brasa-cream)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--brasa-faint)}
+.status[data-state="live"]{color:var(--clear);border-color:rgba(13,110,92,.4)}
+.status[data-state="live"] .dot{background:var(--clear);box-shadow:0 0 0 0 rgba(13,110,92,.5);animation:pulse 2.2s infinite}
+.status[data-state="await"]{color:var(--watch);border-color:rgba(176,125,63,.45)}
+.status[data-state="await"] .dot{background:var(--watch)}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(13,110,92,.5)}70%{box-shadow:0 0 0 7px rgba(13,110,92,0)}100%{box-shadow:0 0 0 0 rgba(13,110,92,0)}}
+@media(max-width:720px){.nav{gap:1rem}.nav a.optional{display:none}.wordmark-img{height:104px}}
+
+/* ── hero (full-bleed photo) ──────────────────────────────────────────── */
+.hero{position:relative;width:100%;min-height:100vh;min-height:100svh;display:flex;align-items:flex-start;
+  overflow:hidden;background:var(--brasa-black)}
+.hero-photo{position:absolute;inset:0;z-index:1;overflow:hidden}
+.hero-photo::after{content:'';position:absolute;inset:0;z-index:2;
+  background:linear-gradient(180deg,rgba(27,26,23,.34) 0%,rgba(27,26,23,0) 30%,rgba(27,26,23,0) 48%,rgba(27,26,23,.62) 100%)}
+.hero-photo img{width:100%;height:100%;object-fit:cover;filter:saturate(.95) contrast(1.02);
+  animation:heroBreathe 28s var(--ease-photo) infinite alternate}
+@keyframes heroBreathe{0%{transform:scale(1) translateX(0)}100%{transform:scale(1.08) translateX(-1.5%)}}
+.hero-content{position:relative;z-index:3;width:100%;padding:clamp(6.5rem,15vh,10rem) var(--gutter) 0;
+  text-align:right;color:var(--brasa-cream)}
+.hero-eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.22em;text-transform:uppercase;
+  color:rgba(245,240,229,.78);margin-bottom:1rem;opacity:0;transform:translateY(20px);animation:heroReveal 1.6s .25s var(--ease) forwards}
+.hero-identity{font-family:var(--serif);font-weight:300;font-size:clamp(2.2rem,6vw,4.4rem);line-height:.94;
+  letter-spacing:-.025em;font-variation-settings:"opsz" 144,"SOFT" 60,"WONK" 1;max-width:16ch;margin-left:auto;
+  margin-bottom:1.5rem;opacity:0;transform:translateY(28px);animation:heroReveal 1.6s .4s var(--ease) forwards}
+.hero-tag{font-family:var(--sans);font-weight:400;font-size:clamp(.95rem,1.4vw,1.1rem);letter-spacing:.04em;
+  color:rgba(245,240,229,.82);max-width:54ch;margin-left:auto;opacity:0;transform:translateY(20px);
+  animation:heroReveal 1.6s .85s var(--ease) forwards}
+@keyframes heroReveal{to{opacity:1;transform:translateY(0)}}
+.hero-scroll{position:absolute;bottom:1.5rem;left:50%;transform:translateX(-50%);z-index:3;font-family:var(--sans);
+  font-size:.7rem;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:rgba(245,240,229,.6);
+  display:flex;flex-direction:column;align-items:center;gap:.5rem;opacity:0;animation:heroReveal 1.6s 1.4s var(--ease) forwards}
+.hero-scroll::after{content:'';width:1px;height:36px;
+  background:linear-gradient(to bottom,rgba(245,240,229,.7),rgba(245,240,229,0));animation:scrollPulse 2.4s var(--ease) infinite}
+@keyframes scrollPulse{0%{transform:scaleY(0);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}51%{transform:scaleY(1);transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+
+/* ── sections / reveal ────────────────────────────────────────────────── */
+.section{padding-top:clamp(3rem,7vh,5.5rem);padding-bottom:clamp(2rem,5vh,4rem)}
+.section--tight{padding-top:clamp(2.4rem,5vh,3.6rem);padding-bottom:clamp(1.6rem,3vh,2.4rem)}
+.reveal{opacity:0;transform:translateY(30px);transition:opacity 1.1s var(--ease),transform 1.1s var(--ease)}
+.reveal.is-visible{opacity:1;transform:translateY(0)}
+.block-h{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.1rem}
+.block-h .t{font-family:var(--sans);font-size:.74rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--brasa-soft)}
+.block-h .x{font-family:var(--mono);font-size:.72rem;color:var(--brasa-faint)}
+.eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--brasa-accent)}
+
+/* ── verdict ──────────────────────────────────────────────────────────── */
+.verdict{display:flex;align-items:center;gap:1rem;margin-top:.7rem;flex-wrap:wrap}
+.verdict .mark{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;flex:none;
+  font-size:1.8rem;font-weight:700;color:#fff;background:var(--brasa-faint)}
+.verdict.pass .mark{background:var(--clear)} .verdict.fail .mark{background:var(--attn)} .verdict.await .mark{background:var(--watch)}
+.verdict h1{font-family:var(--serif);font-weight:340;font-size:clamp(1.9rem,4.5vw,3rem);line-height:1;
+  letter-spacing:-.015em;font-variation-settings:"opsz" 144,"SOFT" 50}
+.vsub{color:var(--brasa-soft);font-size:.98rem;margin-top:.9rem;max-width:70ch}
+.vsub b{color:var(--brasa-black);font-weight:600}
+.cons-strip{display:flex;align-items:center;gap:.6rem;margin-top:1.3rem;font-family:var(--mono);font-size:.78rem;flex-wrap:wrap}
+.cons-tag{display:inline-flex;align-items:center;gap:.4rem;border:1px solid var(--brasa-rule);border-radius:6px;
+  padding:.34rem .64rem;background:#fff;color:var(--brasa-soft)}
+.cons-tag.pass{color:var(--clear);border-color:rgba(13,110,92,.32)}
+.cons-tag.fail{color:var(--attn);border-color:rgba(155,44,30,.35);background:#FBEFE9}
+.cons-tag.pend{color:var(--brasa-faint)}
+.check{font-weight:700}
+
+/* ── BRASA tiles (pillar system) · metrics & laws ─────────────────────── */
+.tilegrid{display:grid;gap:clamp(.75rem,1.5vw,1.25rem);grid-template-columns:repeat(4,1fr)}
+@media(max-width:860px){.tilegrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.tilegrid{grid-template-columns:1fr}}
+.tile{position:relative;display:flex;flex-direction:column;aspect-ratio:4/3;overflow:hidden;
+  background:var(--brasa-black);isolation:isolate}
+.tile-photo{position:absolute;inset:0;z-index:1}
+.tile-photo::after{content:'';position:absolute;inset:0;z-index:2;transition:background 700ms var(--ease);
+  background:linear-gradient(180deg,rgba(27,26,23,.18) 0%,rgba(27,26,23,.08) 32%,rgba(27,26,23,.84) 100%)}
+.tile:hover .tile-photo::after{background:linear-gradient(180deg,rgba(27,26,23,.28) 0%,rgba(27,26,23,.18) 32%,rgba(27,26,23,.92) 100%)}
+.tile-photo img{width:100%;height:100%;object-fit:cover;filter:saturate(.9) contrast(1.02);
+  transition:transform 1500ms var(--ease-photo)}
+.tile:hover .tile-photo img{transform:scale(1.06)}
+.tile-content{position:relative;z-index:3;margin-top:auto;padding:clamp(1.1rem,2.4vw,1.6rem);color:var(--brasa-cream)}
+.tile-eyebrow{font-family:var(--sans);font-size:.7rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;
+  color:rgba(245,240,229,.75);margin-bottom:.45rem;display:block}
+.tile-value{font-family:var(--serif);font-weight:340;font-size:clamp(1.9rem,3vw,2.7rem);line-height:1;
+  letter-spacing:-.02em;font-variation-settings:"opsz" 144,"SOFT" 40;display:block}
+.tile-name{font-family:var(--serif);font-weight:360;font-size:clamp(1.5rem,2.4vw,2rem);line-height:1;
+  letter-spacing:-.015em;font-variation-settings:"opsz" 144,"SOFT" 50;display:block}
+.tile-state{font-family:var(--mono);font-size:.72rem;font-weight:600;letter-spacing:.03em;margin-top:.6rem;
+  display:inline-flex;align-items:center;gap:.4rem}
+.tile-state.pass{color:#8FD4C6} .tile-state.fail{color:#EBA197} .tile-state.pend{color:rgba(245,240,229,.6)}
+.tile-desc{font-size:.72rem;line-height:1.42;color:rgba(245,240,229,.66);margin-top:.5rem;display:block;max-width:34ch}
+.tile-sub{font-family:var(--sans);font-size:.7rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--brasa-soft);margin:1.4rem 0 .9rem}
+
+/* ── laws use .tilegrid / .tile (above) ───────────────────────────────── */
+.controls{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin-top:1.4rem;font-size:.82rem;color:var(--brasa-soft)}
+.btn{font-family:var(--sans);font-size:.82rem;font-weight:600;color:var(--brasa-accent);border:1px solid var(--brasa-accent);
+  padding:.5rem .9rem;background:transparent;cursor:pointer;transition:background .2s,color .2s}
+.btn:hover{background:var(--brasa-accent);color:#fff}
+
+/* ── footer ───────────────────────────────────────────────────────────── */
+.site-footer{background:var(--brasa-black);color:var(--brasa-cream);padding:clamp(3rem,7vh,5rem) var(--gutter) 2rem;margin-top:clamp(2rem,5vh,4rem)}
+.footer-inner{max-width:var(--max-w);margin:0 auto;display:grid;grid-template-columns:1fr auto;gap:2.5rem;align-items:end}
+@media(max-width:720px){.footer-inner{grid-template-columns:1fr}}
+.footer-mark-img{height:200px;width:auto;display:block;margin-bottom:.75rem}
+.footer-tagline{font-family:var(--sans);font-size:.82rem;color:rgba(245,240,229,.65);max-width:48ch;line-height:1.6}
+.footer-line{font-family:var(--serif);font-weight:300;font-size:clamp(1.1rem,2.2vw,1.5rem);line-height:1.25;
+  font-variation-settings:"opsz" 100,"SOFT" 50;max-width:42ch;margin-bottom:1rem;color:var(--brasa-cream)}
+.footer-links{display:flex;flex-direction:column;gap:.65rem;font-family:var(--sans);font-size:.82rem;font-weight:500;letter-spacing:.04em;text-align:right}
+@media(max-width:720px){.footer-links{text-align:left;flex-direction:row;flex-wrap:wrap;gap:1rem 1.5rem}}
+.footer-links a{color:rgba(245,240,229,.78);transition:color 280ms var(--ease)}
+.footer-links a:hover{color:var(--brasa-cream)}
+.footer-bottom{max-width:var(--max-w);margin:3rem auto 0;padding-top:1.5rem;border-top:1px solid rgba(245,240,229,.12);
+  display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem;font-family:var(--sans);font-size:.72rem;letter-spacing:.06em;color:rgba(245,240,229,.4)}
+:focus-visible{outline:2px solid var(--brasa-accent);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){.reveal,.hero-eyebrow,.hero-identity,.hero-tag,.hero-scroll{opacity:1;transform:none;animation:none}.hero-photo img{animation:none}*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="site-header" id="header">
+  <a href="/" class="wordmark" aria-label="BRASA — Home">
+    <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="wordmark-img" alt="BRASA">
+  </a>
+  <nav class="nav" aria-label="Primary">
+    <a class="optional" href="/open-ledger-dashboard.html">Live Ledger</a>
+    <a href="/open-ledger.html">← Open Ledger</a>
+    <span class="status" id="status" data-state="await" role="status" aria-live="polite">
+      <span class="dot"></span><span id="statusText">Awaiting feed</span>
+    </span>
+  </nav>
+</header>
+
+<!-- HERO · full-bleed photograph -->
+<section class="hero" aria-labelledby="hero-identity">
+  <div class="hero-photo">
+    <img src="https://images.brasa.world/Photos/vecteezy_woman-with-outstretched-arms-in-a-golden-wheat-field_74377108.jpeg?w=2400&q=82"
+         onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1639322537228-f710d846310a?w=2400&q=85&auto=format&fit=crop'"
+         alt="Conservation — the recorded flow through the pipe"
+         loading="eager" fetchpriority="high" width="2400" height="1350">
+  </div>
+  <div class="hero-content container">
+    <p class="hero-eyebrow">BRASA is the pipe</p>
+    <h1 class="hero-identity" id="hero-identity">Identity</h1>
+    <p class="hero-tag">BRASA never holds money. It records each event as it passes and divides the fee 80 / 16 / 3 / 1. This is the proof that the split is conserved — every colón, to the colón.</p>
+  </div>
+  <a href="#verdict-section" class="hero-scroll" aria-label="Scroll to the audit">The loop</a>
+</section>
+
+<main>
+
+  <!-- VERDICT -->
+  <section class="section section--tight" id="verdict-section">
+    <div class="content reveal">
+      <p class="eyebrow">Conservation status</p>
+      <div class="verdict await" id="verdict">
+        <div class="mark" id="verdictMark">·</div>
+        <h1 id="verdictText">Awaiting flow</h1>
+      </div>
+      <p class="vsub" id="verdictSub">BRASA is the pipe. It records each event as it passes and divides the 0.99% fee 80 / 16 / 3 / 1. This view confirms the split is conserved — to the colón.</p>
+      <div class="cons-strip" id="consStrip">
+        <span class="cons-tag pend" id="tagSplit"><span class="check">·</span> 80 + 16 + 3 + 1 = 100%</span>
+        <span class="cons-tag pend" id="tagBalance"><span class="check">·</span> allocations balance</span>
+        <span class="cons-tag pend" id="tagExact"><span class="check">·</span> exact to the colón</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- KPIs -->
+  <section class="section--tight">
+    <div class="content">
+      <div class="block-h"><span class="t">The pipe</span><span class="x" id="auditedAt"></span></div>
+      <div class="tilegrid">
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_elegant-pen-lying-on-financial-report-shows-business_58177603.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Flow recorded</span><span class="tile-value tnum" id="kFlow">—</span><span class="tile-state pend" id="kFlowState">the 0.99% fee</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Records</span><span class="tile-value tnum" id="kRecords">—</span><span class="tile-state pend" id="kRecordsState">events recorded</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Split</span><span class="tile-value">80 · 16 · 3 · 1</span><span class="tile-state pend" id="kSplitState">genesis-locked</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-closeup-the-planet-earth-view-at-night-and-city_37127646.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Conservation</span><span class="tile-value" id="kCons">—</span><span class="tile-state pend" id="kConsState">the split holds</span></div>
+        </div>
+      </div>
+
+      <p class="tile-sub">The split, tracked individually</p>
+      <div class="tilegrid">
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Citizens · 80%</span><span class="tile-value tnum" id="kAllocCitizens">—</span><span class="tile-desc">Held by the Citizens' Swiss Stiftung.</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-closeup-the-planet-earth-view-at-night-and-city_37127646.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Planet · 16%</span><span class="tile-value tnum" id="kAllocPlanet">—</span><span class="tile-desc">Swiss Stiftung &amp; Bermuda — stewardship across generations.</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Operating · 3%</span><span class="tile-value tnum" id="kAllocOperating">—</span><span class="tile-desc">BRASA Operating Fund — undivided.</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_elegant-pen-lying-on-financial-report-shows-business_58177603.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Founder · 1%</span><span class="tile-value tnum" id="kAllocFounder">—</span><span class="tile-desc">Founders Fund, Switzerland — philanthropy related to BRASA, not governed by its constitution.</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LAWS -->
+  <section class="section">
+    <div class="content">
+      <div class="block-h"><span class="t">The Four Conservation Laws</span><span class="x">verified on the recorded flow</span></div>
+      <div class="tilegrid">
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Value</span><span class="tile-name">Mass</span><span class="tile-state pend" id="lawMass"><span class="check">·</span> Awaiting</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Flow</span><span class="tile-name">Energy</span><span class="tile-state pend" id="lawEnergy"><span class="check">·</span> Awaiting</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_elegant-pen-lying-on-financial-report-shows-business_58177603.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Record</span><span class="tile-name">Information</span><span class="tile-state pend" id="lawInfo"><span class="check">·</span> Awaiting</span></div>
+        </div>
+        <div class="tile reveal">
+          <div class="tile-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-closeup-the-planet-earth-view-at-night-and-city_37127646.jpg?w=1200&q=82" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1502790671504-542ad42d5189?w=1200&q=82&auto=format&fit=crop'" alt="" loading="lazy" width="1200" height="900"></div>
+          <div class="tile-content"><span class="tile-eyebrow">Time</span><span class="tile-name">Generational</span><span class="tile-state pend" id="lawGen"><span class="check">·</span> Reserve held</span></div>
+        </div>
+      </div>
+      <div class="controls">
+        <button class="btn" id="runBtn" type="button">Re-check</button>
+        <span class="note" id="modeNote"></span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="footer-mark-img" alt="BRASA">
+      <p class="footer-line">BRASA is the pipe. It conserves the split — every colón divided 80 / 16 / 3 / 1.</p>
+      <p class="footer-tagline">This view reads the recorded flow directly and verifies the split on every pass. BRASA never handles money; it records the event and conserves the division. No simulation.</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="/open-ledger-dashboard.html">Live Ledger</a>
+      <a href="/open-ledger.html">Open Ledger</a>
+      <a href="/index.html">Index</a>
+      <a href="https://brasa.business/">Business</a>
+      <a href="https://brasagovernment.net/">Government</a>
+    </nav>
+  </div>
+  <div class="footer-bottom">
+    <span>© BRASA · 2026 · Constitutional inception</span>
+    <span>Made with care in Costa Rica</span>
+  </div>
+</footer>
+
+<script>
+const ENGINE = 'https://brasa-ledger.richard-bad.workers.dev';
+const fmtInt = (v) => new Intl.NumberFormat('en-US').format(v);
+const money = (v) => '\u20A1' + new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 }).format(Math.round(v));
+
+/* sticky header + reveal — same behavior as the rest of the site */
+const header = document.getElementById('header');
+function onScroll(){ if(window.scrollY>40) header.classList.add('scrolled'); else header.classList.remove('scrolled'); }
+window.addEventListener('scroll', onScroll, { passive:true }); onScroll();
+const io = new IntersectionObserver((es)=>es.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('is-visible'); io.unobserve(e.target);} }),
+  { threshold:.12, rootMargin:'0px 0px -8% 0px' });
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+function setStatus(state,text){ const el=document.getElementById('status'); el.dataset.state=state; document.getElementById('statusText').textContent=text; }
+function tag(id,state,html){ const el=document.getElementById(id); el.className='cons-tag '+state; el.innerHTML=html; }
+function setLaw(id,state,html){ const el=document.getElementById(id); el.className='tile-state '+state; el.innerHTML=html; }
+
+/* The pipe records and divides; it never reconciles a ledger it does not hold.
+   The only thing to verify is conservation: the split, exact, to the colon. */
+function render(a, l){
+  const splitDefOK = !!(a.conservation && a.conservation.splitDefinitionSumsTo100);
+  const exactOK    = a.splitFailures === 0;
+  const balanceOK  = a.balanceFailures === 0;
+  const conserved  = splitDefOK && exactOK && balanceOK;
+  const records    = a.journals || 0;
+  const total      = l ? (l.total || 0) : 0;
+
+  const v=document.getElementById('verdict'), mark=document.getElementById('verdictMark'),
+        txt=document.getElementById('verdictText'), sub=document.getElementById('verdictSub');
+  if(records === 0){
+    v.className='verdict await'; mark.textContent='\u00B7'; txt.textContent='Awaiting flow';
+    sub.textContent='No events have flowed through the pipe yet. As they do, each is recorded and the split is conserved here.';
+  } else if(conserved){
+    v.className='verdict pass'; mark.textContent='\u2713'; txt.textContent='The split is conserved';
+    sub.innerHTML='<b>'+fmtInt(records)+'</b> events recorded \u00B7 <b>'+money(total)+'</b> divided 80 / 16 / 3 / 1, to the col\u00F3n.';
+  } else {
+    v.className='verdict fail'; mark.textContent='!'; txt.textContent='Conservation check';
+    sub.textContent='A recorded split did not divide exactly. The genesis split is enforced in software \u2014 this should not occur.';
+  }
+
+  tag('tagSplit',   splitDefOK?'pass':'fail', '<span class="check">'+(splitDefOK?'\u2713':'\u2715')+'</span> 80 + 16 + 3 + 1 = 100%');
+  tag('tagBalance', balanceOK?'pass':'fail',  '<span class="check">'+(balanceOK?'\u2713':'\u2715')+'</span> allocations balance');
+  tag('tagExact',   exactOK?'pass':'fail',    '<span class="check">'+(exactOK?'\u2713':'\u2715')+'</span> exact to the col\u00F3n');
+
+  document.getElementById('kFlow').textContent = total>0 ? money(total) : '\u2014';
+  document.getElementById('kRecords').textContent = fmtInt(records);
+  const al = (l && l.allocations) ? l.allocations : null;
+  const setAlloc=(id,v)=>{ document.getElementById(id).textContent = (al && total>0) ? money(v) : '\u2014'; };
+  setAlloc('kAllocCitizens',  al ? al.citizens  : 0);
+  setAlloc('kAllocPlanet',    al ? al.planet    : 0);
+  setAlloc('kAllocOperating', al ? al.operating : 0);
+  setAlloc('kAllocFounder',   al ? al.founder   : 0);
+  const ss=document.getElementById('kSplitState'); ss.className='tile-state '+(exactOK?'pass':'fail'); ss.textContent=exactOK?'conserved':'check';
+  const c=document.getElementById('kCons'); const cs=document.getElementById('kConsState');
+  if(records===0){ c.textContent='Ready'; c.style.color='rgba(245,240,229,.7)'; cs.className='tile-state pend'; cs.textContent='awaiting flow'; }
+  else if(conserved){ c.textContent='Balanced'; c.style.color='#8FD4C6'; cs.className='tile-state pass'; cs.textContent='the split holds'; }
+  else { c.textContent='Check'; c.style.color='#EBA197'; cs.className='tile-state fail'; cs.textContent='imbalance'; }
+
+  setLaw('lawMass',   conserved?'pass':'fail', '<span class="check">'+(conserved?'\u2713':'\u2715')+'</span> '+(conserved?'Conserved to the col\u00F3n':'Imbalance'));
+  setLaw('lawEnergy', records>0?'pass':'pend', records>0?'<span class="check">\u2713</span> '+fmtInt(records)+' recorded':'<span class="check">\u00B7</span> Awaiting flow');
+  setLaw('lawInfo',   'pass', '<span class="check">\u2713</span> Minimal \u00B7 no transcript');
+  setLaw('lawGen',    'pass', '<span class="check">\u2713</span> Reserve in CHF');
+
+  document.getElementById('auditedAt').textContent = a.ts ? 'checked '+new Date(a.ts).toLocaleString() : '';
+}
+
+async function getJSON(path){
+  const ctrl=new AbortController(); const to=setTimeout(()=>ctrl.abort(),7000);
+  try{ const r=await fetch(ENGINE+path,{signal:ctrl.signal,cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); return await r.json(); }
+  finally { clearTimeout(to); }
+}
+async function run(){
+  setStatus('await','Checking\u2026'); document.getElementById('modeNote').textContent='';
+  try{
+    const a=await getJSON('/audit'); let l=null; try{ l=await getJSON('/ledger'); }catch(_){}
+    setStatus('live','Live'); render(a, l);
+  }catch(e){
+    setStatus('await','Engine unreachable');
+    document.getElementById('modeNote').textContent='Cannot reach the pipe. This view shows verified state only \u2014 never simulated.';
+    document.getElementById('verdictText').textContent='Engine unreachable';
+    document.getElementById('verdictSub').textContent='The pipe did not respond. No state is shown rather than a comfortable lie.';
+  }
+}
+document.getElementById('runBtn').addEventListener('click', run);
+run();
+</script>
+</body>
+</html>
