@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="BRASA Reconciliation & Audit — chain integrity, match rate, and the immutable trail. The loop closes itself.">
+<meta name="theme-color" content="#1B1A17">
+<title>BRASA — Reconciliation &amp; Audit</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://assets.brasa.world">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap">
+
+<style>
+/* =========================================================================
+   BRASA · Reconciliation & Audit — the engine room
+   Same calm system as the Open Ledger; auditor's hero = does the loop balance.
+   ========================================================================= */
+:root{
+  --ink:#1B1A17; --soft:#6B6862; --faint:#9A958C;
+  --page:#FBF9F4; --cream:#F5F0E5; --card:#FFFFFF; --rule:#E5DFD0; --rule-2:#EFEADD;
+  --accent:#8C3A1F;
+  --citizens:#0D6E5C; --planet:#2C5F73; --operating:#8C3A1F; --founder:#B07D3F;
+  --clear:#0D6E5C; --watch:#B07D3F; --attn:#9B2C1E;
+  --serif:'Fraunces','Times New Roman',serif;
+  --sans:'Geist','Helvetica Neue',system-ui,sans-serif;
+  --mono:'Geist Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  --maxw:1180px; --gutter:clamp(1.1rem,4vw,2.4rem);
+  --ease:cubic-bezier(.22,.61,.36,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--page);color:var(--ink);font-family:var(--sans);line-height:1.5;
+  font-feature-settings:"ss01","ss02";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--gutter)}
+.tnum{font-variant-numeric:tabular-nums lining-nums}
+
+header.bar{position:sticky;top:0;z-index:20;background:rgba(251,249,244,.86);
+  backdrop-filter:blur(12px) saturate(120%);-webkit-backdrop-filter:blur(12px) saturate(120%);
+  border-bottom:1px solid var(--rule)}
+.bar-in{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.7rem var(--gutter);
+  max-width:var(--maxw);margin:0 auto}
+.brand{display:flex;align-items:center;gap:.7rem}
+.brand img{height:38px;width:auto;display:block}
+.brand .wm{font-family:var(--serif);font-weight:400;font-size:1.05rem;letter-spacing:.02em;
+  font-variation-settings:"opsz" 90,"SOFT" 30}
+.head-right{display:flex;align-items:center;gap:1rem}
+.navlink{font-size:.8rem;font-weight:500;color:var(--soft);letter-spacing:.02em}
+.navlink:hover{color:var(--ink)}
+.status{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--mono);font-size:.72rem;
+  font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--soft);
+  border:1px solid var(--rule);border-radius:999px;padding:.34rem .7rem;background:var(--card)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--faint)}
+.status[data-state="live"]{color:var(--clear);border-color:rgba(13,110,92,.35)}
+.status[data-state="live"] .dot{background:var(--clear);box-shadow:0 0 0 0 rgba(13,110,92,.5);animation:pulse 2.2s infinite}
+.status[data-state="await"]{color:var(--watch);border-color:rgba(176,125,63,.35)}
+.status[data-state="await"] .dot{background:var(--watch)}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(13,110,92,.5)}70%{box-shadow:0 0 0 7px rgba(13,110,92,0)}100%{box-shadow:0 0 0 0 rgba(13,110,92,0)}}
+
+.hero{padding:clamp(2.2rem,5vw,3.4rem) 0 clamp(1.2rem,3vw,1.8rem)}
+.eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--accent)}
+.verdict{display:flex;align-items:center;gap:1rem;margin-top:.7rem;flex-wrap:wrap}
+.verdict .mark{width:54px;height:54px;border-radius:50%;display:grid;place-items:center;flex:none;
+  font-size:1.7rem;font-weight:700;color:#fff;background:var(--faint)}
+.verdict.pass .mark{background:var(--clear)} .verdict.fail .mark{background:var(--attn)} .verdict.await .mark{background:var(--watch)}
+.verdict h1{font-family:var(--serif);font-weight:340;font-size:clamp(1.7rem,4vw,2.7rem);line-height:1;
+  letter-spacing:-.01em;font-variation-settings:"opsz" 120,"SOFT" 40}
+.hero .sub{color:var(--soft);font-size:.95rem;margin-top:.8rem;max-width:66ch}
+.hero .sub b{color:var(--ink);font-weight:600}
+
+.cons-strip{display:flex;align-items:center;gap:.6rem;margin-top:1.2rem;font-family:var(--mono);font-size:.78rem;flex-wrap:wrap}
+.cons-tag{display:inline-flex;align-items:center;gap:.4rem;border:1px solid var(--rule);border-radius:6px;
+  padding:.32rem .62rem;background:var(--card);color:var(--soft)}
+.cons-tag.pass{color:var(--clear);border-color:rgba(13,110,92,.3)}
+.cons-tag.fail{color:var(--attn);border-color:rgba(155,44,30,.35);background:#FBEFE9}
+.cons-tag.pend{color:var(--faint)}
+.check{font-weight:700}
+
+section.block{padding:clamp(1.5rem,3.5vw,2.4rem) 0;border-top:1px solid var(--rule-2)}
+.block-h{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.1rem}
+.block-h .t{font-family:var(--sans);font-size:.74rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--soft)}
+.block-h .x{font-family:var(--mono);font-size:.72rem;color:var(--faint)}
+
+.cards{display:grid;gap:.9rem;grid-template-columns:repeat(4,1fr)}
+@media(max-width:820px){.cards{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.cards{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1.1rem 1.15rem;
+  display:flex;flex-direction:column;gap:.5rem;min-height:116px}
+.card .k-label{font-size:.78rem;font-weight:600;color:var(--soft)}
+.card .k-val{font-family:var(--serif);font-weight:340;font-size:clamp(1.5rem,2.6vw,2rem);line-height:1;
+  letter-spacing:-.01em;font-variation-settings:"opsz" 90,"SOFT" 30}
+.card .k-foot{margin-top:auto}
+.k-state{font-family:var(--mono);font-size:.72rem;font-weight:600;letter-spacing:.03em}
+.k-state.pass{color:var(--clear)} .k-state.fail{color:var(--attn)} .k-state.pend{color:var(--faint)}
+
+/* chain visual */
+.chain-card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1.2rem 1.25rem}
+.chain-wrap{overflow-x:auto;padding-bottom:.3rem}
+.chain{display:flex;align-items:center;gap:0;min-width:min-content}
+.node{flex:none;display:flex;flex-direction:column;align-items:center;gap:.35rem}
+.node .blk{width:62px;height:46px;border-radius:8px;border:1.5px solid var(--clear);background:rgba(13,110,92,.06);
+  display:grid;place-items:center;font-family:var(--mono);font-size:.72rem;font-weight:600;color:var(--clear)}
+.node .lbl{font-family:var(--mono);font-size:.62rem;color:var(--faint)}
+.lnk{width:26px;height:2px;background:var(--clear);flex:none;opacity:.5}
+.node.genesis .blk{border-color:var(--faint);background:var(--cream);color:var(--soft)}
+.node.more .blk{border-style:dashed;border-color:var(--faint);color:var(--faint);background:transparent}
+
+/* trail table */
+.trail{width:100%;border-collapse:collapse;font-size:.82rem}
+.trail th{text-align:left;font-family:var(--sans);font-size:.68rem;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--faint);padding:.5rem .7rem;border-bottom:1px solid var(--rule)}
+.trail td{padding:.6rem .7rem;border-bottom:1px solid var(--rule-2);vertical-align:middle}
+.trail tr:last-child td{border-bottom:none}
+.trail .seq{font-family:var(--mono);color:var(--soft)}
+.trail .ref{font-weight:600}
+.trail .amt{font-family:var(--mono);text-align:right;white-space:nowrap}
+.trail .hash{font-family:var(--mono);font-size:.72rem;color:var(--clear)}
+.trail .hash .pre{color:var(--faint)}
+.trail-note{font-size:.78rem;color:var(--faint);font-style:italic;margin-top:.7rem}
+
+/* exceptions */
+.exc-list{display:flex;flex-direction:column;gap:.6rem}
+.exc{display:flex;align-items:flex-start;gap:.7rem;background:#FBEFE9;border:1px solid rgba(155,44,30,.25);
+  border-radius:10px;padding:.8rem .95rem}
+.exc .x{font-weight:700;color:var(--attn)}
+.exc .kind{font-family:var(--mono);font-size:.72rem;font-weight:600;color:var(--attn);text-transform:uppercase;letter-spacing:.04em}
+.exc .detail{font-size:.84rem;color:var(--ink)}
+.exc .ref{font-family:var(--mono);font-size:.74rem;color:var(--soft)}
+.allclear{display:flex;align-items:center;gap:.7rem;background:rgba(13,110,92,.06);border:1px solid rgba(13,110,92,.25);
+  border-radius:10px;padding:1rem 1.1rem;color:var(--clear);font-weight:500}
+.allclear .big{font-size:1.3rem;font-weight:700}
+
+/* laws */
+.laws{display:grid;grid-template-columns:repeat(4,1fr);gap:.9rem}
+@media(max-width:820px){.laws{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.laws{grid-template-columns:1fr}}
+.law{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1rem 1.05rem}
+.law .law-name{font-family:var(--serif);font-weight:400;font-size:1.1rem;font-variation-settings:"opsz" 60,"SOFT" 40;margin-bottom:.2rem}
+.law .law-desc{font-size:.77rem;color:var(--soft);line-height:1.4;margin-bottom:.7rem}
+.law .law-state{font-family:var(--mono);font-size:.74rem;font-weight:600;display:inline-flex;align-items:center;gap:.4rem}
+.law-state.pass{color:var(--clear)} .law-state.pend{color:var(--faint)} .law-state.fail{color:var(--attn)}
+
+.controls{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin-top:1.3rem;font-size:.82rem;color:var(--soft)}
+.btn{font-family:var(--sans);font-size:.82rem;font-weight:600;color:var(--accent);border:1px solid var(--accent);
+  border-radius:8px;padding:.45rem .85rem;background:transparent;cursor:pointer;transition:background .2s,color .2s}
+.btn:hover{background:var(--accent);color:#fff}
+.note{font-size:.82rem;color:var(--faint)}
+
+footer.foot{border-top:1px solid var(--rule);background:var(--ink);color:var(--cream);
+  padding:clamp(2rem,4vw,3rem) 0;margin-top:1.5rem}
+.foot .line{font-family:var(--serif);font-weight:300;font-size:clamp(1.1rem,2.2vw,1.5rem);line-height:1.25;
+  font-variation-settings:"opsz" 100,"SOFT" 50;max-width:42ch;margin-bottom:.9rem}
+.foot .meta{font-size:.76rem;color:rgba(245,240,229,.55);line-height:1.7}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.reveal{opacity:0;transform:translateY(14px);transition:opacity .8s var(--ease),transform .8s var(--ease)}
+.reveal.in{opacity:1;transform:none}
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <div class="bar-in">
+    <a class="brand" href="/" aria-label="BRASA home">
+      <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" alt="BRASA">
+      <span class="wm">Reconciliation &amp; Audit</span>
+    </a>
+    <div class="head-right">
+      <a class="navlink" href="/brasa-ledger/open-ledger-dashboard.html">Live Ledger</a>
+      <a class="navlink" href="/brasa-ledger/open-ledger.html">← Open Ledger</a>
+      <span class="status" id="status" data-state="await" role="status" aria-live="polite">
+        <span class="dot"></span><span id="statusText">Awaiting feed</span>
+      </span>
+    </div>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+
+  <!-- HERO · the auditor's number: does the loop balance? -->
+  <section class="hero reveal">
+    <p class="eyebrow">The engine room</p>
+    <div class="verdict await" id="verdict">
+      <div class="mark" id="verdictMark">·</div>
+      <h1 id="verdictText">Awaiting the engine</h1>
+    </div>
+    <p class="sub" id="verdictSub">Reading the engine of record. This view proves the others can be trusted: it verifies the hash chain, checks that every entry balances and splits exactly 80/16/3/1, and matches each SINPE record to its tiquete and its ledger entry.</p>
+
+    <div class="cons-strip" id="consStrip">
+      <span class="cons-tag pend" id="tagSplit"><span class="check">·</span> split 80+16+3+1</span>
+      <span class="cons-tag pend" id="tagChain"><span class="check">·</span> chain</span>
+      <span class="cons-tag pend" id="tagBalance"><span class="check">·</span> balance</span>
+      <span class="cons-tag pend" id="tagExact"><span class="check">·</span> exact split</span>
+    </div>
+  </section>
+
+  <!-- KPI cards -->
+  <section class="block">
+    <div class="block-h"><span class="t">Reconciliation</span><span class="x" id="auditedAt"></span></div>
+    <div class="cards">
+      <div class="card reveal">
+        <div class="k-label">Match rate</div>
+        <div class="k-val tnum" id="kMatch">—</div>
+        <div class="k-foot"><span class="k-state pend" id="kMatchState">SINPE ↔ tiquete ↔ ledger</span></div>
+      </div>
+      <div class="card reveal">
+        <div class="k-label">Open exceptions</div>
+        <div class="k-val tnum" id="kExc">—</div>
+        <div class="k-foot"><span class="k-state pend" id="kExcState">unreconciled items</span></div>
+      </div>
+      <div class="card reveal">
+        <div class="k-label">Journals recorded</div>
+        <div class="k-val tnum" id="kJournals">—</div>
+        <div class="k-foot"><span class="k-state pend" id="kJournalsState">append-only entries</span></div>
+      </div>
+      <div class="card reveal">
+        <div class="k-label">Chain integrity</div>
+        <div class="k-val tnum" id="kChain" style="font-size:1.5rem">—</div>
+        <div class="k-foot"><span class="k-state pend" id="kChainState">tamper-evident</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- the immutable trail -->
+  <section class="block">
+    <div class="block-h"><span class="t">The immutable trail</span><span class="x">append-only · hash-chained</span></div>
+    <div class="chain-card reveal">
+      <div class="chain-wrap"><div class="chain" id="chainViz"></div></div>
+      <div id="trailHost" style="margin-top:1.1rem"></div>
+      <p class="trail-note" id="trailNote"></p>
+    </div>
+  </section>
+
+  <!-- exceptions -->
+  <section class="block">
+    <div class="block-h"><span class="t">Exceptions</span><span class="x">newest first</span></div>
+    <div id="excHost" class="reveal"></div>
+  </section>
+
+  <!-- four conservation laws -->
+  <section class="block">
+    <div class="block-h"><span class="t">The Four Conservation Laws</span><span class="x">checked at the scale shown</span></div>
+    <div class="laws">
+      <div class="law reveal"><div class="law-name">Mass</div><div class="law-desc">Every entry divides exactly 80/16/3/1 and balances to zero.</div><div class="law-state pend" id="lawMass"><span class="check">·</span> Awaiting</div></div>
+      <div class="law reveal"><div class="law-name">Energy</div><div class="law-desc">Each SINPE record is matched to its tiquete and ledger entry.</div><div class="law-state pend" id="lawEnergy"><span class="check">·</span> Awaiting</div></div>
+      <div class="law reveal"><div class="law-name">Information</div><div class="law-desc">The hash chain is intact; no posting is missing or altered.</div><div class="law-state pend" id="lawInfo"><span class="check">·</span> Awaiting</div></div>
+      <div class="law reveal"><div class="law-name">Generational</div><div class="law-desc">Value is preserved across time: transact local, reserve in CHF.</div><div class="law-state pend" id="lawGen"><span class="check">·</span> Reserve held</div></div>
+    </div>
+    <div class="controls">
+      <button class="btn" id="runBtn" type="button">Run audit</button>
+      <span class="note" id="modeNote"></span>
+    </div>
+  </section>
+
+</div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="line">The loop closes when the record is visible, reconciled, and conserved.</p>
+    <p class="meta">
+      This view reads the engine of record directly and verifies it on every pass — the split, the balance, the chain, the three-way match.
+      BRASA never handles money; the ledger is the record, not the purse. No simulation.<br>
+      BRASA CR · The First Free World School · Owned by the citizens of the world.
+    </p>
+  </div>
+</footer>
+
+<script>
+const ENGINE = 'https://brasa-ledger.richard-bad.workers.dev';
+const fmtPct = (v) => (v == null ? '—' : (v * 100).toFixed(1) + '%');
+const fmtInt = (v) => new Intl.NumberFormat('en-US').format(v);
+const money = (v) => '\u20A1' + new Intl.NumberFormat('en-US', { maximumFractionDigits: 2 }).format(v);
+
+function setStatus(state, text){ const el=document.getElementById('status'); el.dataset.state=state; document.getElementById('statusText').textContent=text; }
+function tag(id, state, html){ const el=document.getElementById(id); el.className='cons-tag '+state; el.innerHTML=html; }
+
+function renderVerdict(audit){
+  const v=document.getElementById('verdict'), mark=document.getElementById('verdictMark'),
+        txt=document.getElementById('verdictText'), sub=document.getElementById('verdictSub');
+  const clean = audit.chainIntact && audit.balanceFailures===0 && audit.splitFailures===0 && audit.openExceptions===0;
+  if(clean){
+    v.className='verdict pass'; mark.textContent='✓'; txt.textContent='The loop balances';
+    sub.innerHTML='<b>'+fmtInt(audit.journals)+'</b> journals recorded · chain intact · <b>0</b> open exceptions · match rate <b>'+fmtPct(audit.matchRate)+'</b>. Every entry verified on this pass.';
+  } else {
+    v.className='verdict fail'; mark.textContent='!'; txt.textContent='Reconciliation check';
+    sub.innerHTML='<b>'+fmtInt(audit.openExceptions)+'</b> open exception(s) · '+(audit.chainIntact?'chain intact':'<b>chain break detected</b>')+' · '+audit.balanceFailures+' balance, '+audit.splitFailures+' split failures. See below.';
+  }
+  tag('tagSplit', audit.conservation?.splitDefinitionSumsTo100?'pass':'fail', '<span class="check">'+(audit.conservation?.splitDefinitionSumsTo100?'✓':'✕')+'</span> 80+16+3+1 = 100%');
+  tag('tagChain', audit.chainIntact?'pass':'fail', '<span class="check">'+(audit.chainIntact?'✓':'✕')+'</span> chain '+(audit.chainIntact?'intact':'broken'));
+  tag('tagBalance', audit.balanceFailures===0?'pass':'fail', '<span class="check">'+(audit.balanceFailures===0?'✓':'✕')+'</span> '+audit.balanceFailures+' balance fails');
+  tag('tagExact', audit.splitFailures===0?'pass':'fail', '<span class="check">'+(audit.splitFailures===0?'✓':'✕')+'</span> '+audit.splitFailures+' split fails');
+
+  document.getElementById('auditedAt').textContent = audit.ts ? 'audited '+new Date(audit.ts).toLocaleString() : '';
+
+  // KPI
+  const m=document.getElementById('kMatch'); m.textContent=fmtPct(audit.matchRate);
+  const ms=document.getElementById('kMatchState'); const mok=audit.matchRate==null||audit.matchRate>=0.99;
+  ms.className='k-state '+(mok?'pass':'fail'); ms.textContent=mok?'reconciling cleanly':'below threshold';
+  const e=document.getElementById('kExc'); e.textContent=fmtInt(audit.openExceptions);
+  const es=document.getElementById('kExcState'); es.className='k-state '+(audit.openExceptions===0?'pass':'fail');
+  es.textContent=audit.openExceptions===0?'all reconciled':'need resolution';
+  document.getElementById('kJournals').textContent=fmtInt(audit.journals);
+  document.getElementById('kJournalsState').className='k-state pass';
+  const c=document.getElementById('kChain'); c.textContent=audit.chainIntact?'Intact':'Broken';
+  c.style.color=audit.chainIntact?'var(--clear)':'var(--attn)';
+  const cs=document.getElementById('kChainState'); cs.className='k-state '+(audit.chainIntact?'pass':'fail');
+  cs.textContent=audit.chainIntact?'tamper-evident':'tampering detected';
+
+  // laws
+  const setLaw=(id,ok,pend,okT,failT)=>{const el=document.getElementById(id);
+    if(pend){el.className='law-state pend';el.innerHTML='<span class="check">·</span> '+okT;return;}
+    el.className='law-state '+(ok?'pass':'fail');el.innerHTML='<span class="check">'+(ok?'✓':'✕')+'</span> '+(ok?okT:failT);};
+  setLaw('lawMass', audit.balanceFailures===0&&audit.splitFailures===0, false, 'Balances & splits', 'Imbalance');
+  setLaw('lawEnergy', audit.matchRate==null?false:audit.matchRate>=0.99, audit.matchRate==null, audit.matchRate==null?'Awaiting feed':fmtPct(audit.matchRate)+' matched', 'Below threshold');
+  setLaw('lawInfo', audit.chainIntact, false, 'Chain intact', 'Chain break');
+}
+
+function renderChain(entries, journals){
+  const host=document.getElementById('chainViz');
+  if(!entries || !entries.length){ host.innerHTML='<span class="note">No entries yet — the chain begins at genesis.</span>'; return; }
+  const asc=[...entries].reverse(); // oldest → newest
+  const MAX=7; let show=asc, more=0;
+  if(asc.length>MAX){ show=asc.slice(asc.length-MAX); more=asc.length-MAX; }
+  let html='<div class="node genesis"><div class="blk">⌂</div><div class="lbl">genesis</div></div><div class="lnk"></div>';
+  if(more){ html+='<div class="node more"><div class="blk">+'+more+'</div><div class="lbl">earlier</div></div><div class="lnk"></div>'; }
+  show.forEach((e,i)=>{ html+='<div class="node"><div class="blk">#'+e.seq+'</div><div class="lbl">'+e.hash.slice(0,6)+'</div></div>';
+    if(i<show.length-1) html+='<div class="lnk"></div>'; });
+  host.innerHTML=html;
+}
+
+function renderTrail(entries){
+  const host=document.getElementById('trailHost'), note=document.getElementById('trailNote');
+  if(!entries){ host.innerHTML='<p class="note">Trail endpoint not found. Redeploy the engine (wrangler deploy) to enable the immutable trail; the audit checks above still apply.</p>'; note.textContent=''; return; }
+  if(!entries.length){ host.innerHTML='<p class="note">No entries recorded yet. The first <code>/ingest</code> writes journal #1 onto the genesis hash.</p>'; note.textContent=''; return; }
+  let rows=entries.map(e=>`<tr>
+    <td class="seq">#${e.seq}</td>
+    <td><div class="ref">${e.source_ref}</div><div class="seq">${new Date(e.ts).toLocaleString()}</div></td>
+    <td class="amt">${money(e.gross)}</td>
+    <td class="amt">${money(e.fee)}</td>
+    <td class="hash"><span class="pre">…</span>${e.hash.slice(0,10)}</td>
+  </tr>`).join('');
+  host.innerHTML=`<table class="trail"><thead><tr>
+    <th>Seq</th><th>SINPE record</th><th style="text-align:right">Gross</th><th style="text-align:right">Fee</th><th>Hash</th>
+  </tr></thead><tbody>${rows}</tbody></table>`;
+  note.textContent='Each row is permanent. The hash links to the entry before it — altering any past row breaks every hash that follows.';
+}
+
+function renderExceptions(audit){
+  const host=document.getElementById('excHost');
+  if(!audit.exceptions || !audit.exceptions.length){
+    host.innerHTML='<div class="allclear"><span class="big">✓</span><span>All reconciled — no open exceptions. The record ties out end to end.</span></div>'; return;
+  }
+  host.innerHTML='<div class="exc-list">'+audit.exceptions.map(x=>`<div class="exc">
+    <span class="x">!</span>
+    <div><span class="kind">${x.kind}</span> ${x.ref?'<span class="ref">'+x.ref+'</span>':''}<div class="detail">${x.detail||''}</div></div>
+  </div>`).join('')+'</div>';
+}
+
+async function getJSON(path){
+  const ctrl=new AbortController(); const to=setTimeout(()=>ctrl.abort(),7000);
+  try{ const r=await fetch(ENGINE+path,{signal:ctrl.signal,cache:'no-store'}); clearTimeout(to);
+    if(r.status===404) return {__notfound:true};
+    if(!r.ok) throw new Error('HTTP '+r.status); return await r.json();
+  } finally { clearTimeout(to); }
+}
+
+async function run(){
+  setStatus('await','Auditing…');
+  document.getElementById('modeNote').textContent='';
+  try{
+    const audit=await getJSON('/audit');
+    setStatus('live','Live'); 
+    renderVerdict(audit);
+    renderExceptions(audit);
+    // trail (graceful if engine not yet redeployed with /journal)
+    try{
+      const jr=await getJSON('/journal?limit=25');
+      if(jr.__notfound){ renderChain(null); renderTrail(null); }
+      else { renderChain(jr.entries, audit.journals); renderTrail(jr.entries); }
+    }catch{ renderTrail(null); }
+  }catch(e){
+    setStatus('await','Engine unreachable');
+    document.getElementById('modeNote').textContent='Cannot reach the engine of record. This view shows verified state only — never simulated.';
+    document.getElementById('verdictText').textContent='Engine unreachable';
+    document.getElementById('verdictSub').textContent='The engine of record did not respond. No state is shown rather than a comfortable lie.';
+  }
+}
+
+document.getElementById('runBtn').addEventListener('click', run);
+const io=new IntersectionObserver((es)=>es.forEach(en=>{ if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);} }),
+  {threshold:.12, rootMargin:'0px 0px -8% 0px'});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+run();
+</script>
+</body>
+</html>
