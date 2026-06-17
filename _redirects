@@ -1,0 +1,20 @@
+# Cloudflare Pages — Redirects
+# https://developers.cloudflare.com/pages/configuration/redirects/
+
+# Normalise www → apex
+https://www.brasa.world/* https://brasa.world/:splat 301
+
+# Remove trailing slash (except root)
+/es/   /es   301
+/pt/   /pt   301
+/fr/   /fr   301
+
+# Legacy URL support (if any old links exist)
+/home  /  301
+/index  /  301
+/index.htm  /  301
+
+# No SPA catch-all — BRASA serves real .html files.
+# Pages serves each page directly and returns a normal 404 for unknown paths.
+# If you add a custom 404 page later, uncomment the next line:
+# /*  /404.html  404
