@@ -15,4 +15,4 @@ https://www.brasa.world/* https://brasa.world/:splat 301
 /index.htm  /  301
 
 # 404 fallback — SPA mode
-/*  /index.html  200
+
