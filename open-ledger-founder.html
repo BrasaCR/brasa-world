@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="BRASA Open Ledger — Founder, 1% of recorded flow. Live, routed straight to custody. No simulation.">
+<meta name="theme-color" content="#1B1A17">
+<title>BRASA — Open Ledger · Founder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://assets.brasa.world">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap">
+<style>
+/* =========================================================================
+   BRASA · Open Ledger dashboard — live flow
+   Calm technology · data-ink maximized · honest axes · BRASA palette
+   Single file · vanilla · inline SVG · no external chart deps
+   ========================================================================= */
+:root{
+  --ink:#1B1A17; --soft:#6B6862; --faint:#9A958C;
+  --page:#FBF9F4; --cream:#F5F0E5; --card:#FFFFFF; --rule:#E5DFD0; --rule-2:#EFEADD;
+  --accent:#8C3A1F; --accent-2:#6B280F;
+  /* allocation tones — calm, distinguishable, meaning-bearing */
+  --citizens:#0D6E5C;   /* 80 */
+  --planet:#2C5F73;     /* 16 */
+  --operating:#8C3A1F;  /* 3  */
+  --founder:#B07D3F;    /* 1  */
+  /* state colors — signal only */
+  --clear:#0D6E5C; --watch:#B07D3F; --attn:#9B2C1E;
+  --serif:'Fraunces','Times New Roman',serif;
+  --sans:'Geist','Helvetica Neue',system-ui,sans-serif;
+  --mono:'Geist Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  --maxw:1180px; --gutter:clamp(1.1rem,4vw,2.4rem);
+  --ease:cubic-bezier(.22,.61,.36,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--page);color:var(--ink);font-family:var(--sans);font-weight:400;line-height:1.5;
+  font-feature-settings:"ss01","ss02";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--gutter)}
+.tnum{font-variant-numeric:tabular-nums lining-nums}
+
+/* ---- header ---- */
+header.bar{position:sticky;top:0;z-index:20;background:rgba(251,249,244,.86);
+  backdrop-filter:blur(12px) saturate(120%);-webkit-backdrop-filter:blur(12px) saturate(120%);
+  border-bottom:1px solid var(--rule)}
+.bar-in{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.7rem var(--gutter);
+  max-width:var(--maxw);margin:0 auto}
+.brand{display:flex;align-items:center;gap:.7rem}
+.brand img{height:38px;width:auto;display:block}
+.brand .wm{font-family:var(--serif);font-weight:400;font-size:1.05rem;letter-spacing:.02em;
+  font-variation-settings:"opsz" 90,"SOFT" 30}
+.back{font-size:.8rem;font-weight:500;color:var(--soft);letter-spacing:.02em}
+.back:hover{color:var(--ink)}
+.head-right{display:flex;align-items:center;gap:1rem}
+
+/* live status pill */
+.status{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--mono);font-size:.72rem;
+  font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--soft);
+  border:1px solid var(--rule);border-radius:999px;padding:.34rem .7rem;background:var(--card)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--faint)}
+.status[data-state="live"]{color:var(--clear);border-color:rgba(13,110,92,.35)}
+.status[data-state="live"] .dot{background:var(--clear);box-shadow:0 0 0 0 rgba(13,110,92,.5);animation:pulse 2.2s infinite}
+.status[data-state="await"]{color:var(--watch);border-color:rgba(176,125,63,.35)}
+.status[data-state="await"] .dot{background:var(--watch)}
+.status[data-state="sample"]{color:var(--accent);border-color:rgba(140,58,31,.35)}
+.status[data-state="sample"] .dot{background:var(--accent)}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(13,110,92,.5)}70%{box-shadow:0 0 0 7px rgba(13,110,92,0)}100%{box-shadow:0 0 0 0 rgba(13,110,92,0)}}
+
+/* sample banner */
+.sample-banner{display:none;background:#FBEFE9;border-bottom:1px solid rgba(140,58,31,.25);
+  color:var(--accent);font-size:.8rem;font-weight:500;letter-spacing:.02em;text-align:center;padding:.5rem var(--gutter)}
+body[data-mode="sample"] .sample-banner{display:block}
+
+/* ---- hero ---- */
+.hero{padding:clamp(2.2rem,5vw,3.4rem) 0 clamp(1.4rem,3vw,2rem)}
+.eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--accent)}
+.hero h1{font-family:var(--serif);font-weight:340;font-size:clamp(1.5rem,3vw,2.1rem);line-height:1.1;
+  letter-spacing:-.01em;font-variation-settings:"opsz" 110,"SOFT" 40;margin:.5rem 0 .2rem;max-width:24ch}
+.hero .sub{color:var(--soft);font-size:.96rem;max-width:60ch}
+.hero-figure{margin-top:clamp(1.2rem,3vw,1.8rem);display:flex;align-items:flex-end;gap:1.1rem;flex-wrap:wrap}
+.flow{font-family:var(--serif);font-weight:330;font-size:clamp(2.6rem,8vw,5rem);line-height:.92;letter-spacing:-.02em;
+  font-variation-settings:"opsz" 144,"SOFT" 30}
+.flow-label{font-size:.78rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);
+  margin-bottom:.55rem}
+.flow-meta{font-family:var(--mono);font-size:.74rem;color:var(--faint);letter-spacing:.02em;margin-bottom:.7rem}
+
+/* ---- split bar (signature) ---- */
+.split{margin-top:clamp(1.4rem,3vw,2rem)}
+.split-bar{height:54px;border-radius:10px;overflow:hidden;display:flex;border:1px solid var(--rule);background:var(--cream)}
+.seg{height:100%;width:0;transition:width 1.1s var(--ease);display:flex;align-items:center;padding:0 .8rem;
+  color:#fff;font-family:var(--sans);overflow:hidden;white-space:nowrap}
+.seg .seg-pct{font-weight:600;font-size:.92rem;letter-spacing:.01em}
+.seg .seg-name{font-size:.74rem;opacity:.86;margin-left:.5rem}
+.seg-citizens{background:var(--citizens)} .seg-planet{background:var(--planet)}
+.seg-operating{background:var(--operating)} .seg-founder{background:var(--founder)}
+.split-legend{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:.8rem;font-size:.82rem;color:var(--soft)}
+.split-legend b{color:var(--ink)}
+.swatch{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:.45rem;vertical-align:middle}
+
+/* conservation strip */
+.cons-strip{display:flex;align-items:center;gap:.6rem;margin-top:1rem;font-family:var(--mono);font-size:.8rem;
+  color:var(--soft);flex-wrap:wrap}
+.cons-tag{display:inline-flex;align-items:center;gap:.4rem;border:1px solid var(--rule);border-radius:6px;
+  padding:.3rem .6rem;background:var(--card)}
+.cons-tag.pass{color:var(--clear);border-color:rgba(13,110,92,.3)}
+.cons-tag.fail{color:var(--attn);border-color:rgba(155,44,30,.35);background:#FBEFE9}
+.check{font-weight:700}
+
+/* ---- grids ---- */
+section.block{padding:clamp(1.6rem,3.5vw,2.6rem) 0;border-top:1px solid var(--rule-2)}
+.block-h{font-family:var(--sans);font-size:.74rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--soft);margin-bottom:1.1rem}
+.cards{display:grid;gap:.9rem}
+.cards.c4{grid-template-columns:repeat(4,1fr)}
+.cards.c3{grid-template-columns:repeat(3,1fr)}
+@media(max-width:820px){.cards.c4{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.cards.c4,.cards.c3{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1.1rem 1.15rem;
+  display:flex;flex-direction:column;gap:.5rem;min-height:128px}
+.card .k-top{display:flex;align-items:center;justify-content:space-between;gap:.5rem}
+.card .k-label{font-size:.78rem;font-weight:600;color:var(--soft);letter-spacing:.02em}
+.card .k-share{font-family:var(--mono);font-size:.72rem;color:#fff;border-radius:5px;padding:.12rem .42rem}
+.k-share.citizens{background:var(--citizens)} .k-share.planet{background:var(--planet)}
+.k-share.operating{background:var(--operating)} .k-share.founder{background:var(--founder)}
+.card .k-val{font-family:var(--serif);font-weight:340;font-size:clamp(1.45rem,2.4vw,1.9rem);line-height:1;
+  letter-spacing:-.01em;font-variation-settings:"opsz" 90,"SOFT" 30}
+.card .k-foot{display:flex;align-items:center;justify-content:space-between;gap:.5rem;margin-top:auto}
+.spark{display:block}
+.trend{font-family:var(--mono);font-size:.72rem;font-weight:500;display:inline-flex;align-items:center;gap:.25rem}
+.trend.up{color:var(--clear)} .trend.down{color:var(--attn)} .trend.flat{color:var(--faint)}
+.k-state{font-family:var(--mono);font-size:.72rem;font-weight:600;letter-spacing:.04em}
+.k-state.pass{color:var(--clear)} .k-state.fail{color:var(--attn)} .k-state.pend{color:var(--faint)}
+
+/* cumulative chart */
+.chart-card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1.2rem 1.25rem}
+.chart-top{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin-bottom:.8rem;flex-wrap:wrap}
+.chart-title{font-size:.82rem;font-weight:600;color:var(--soft);letter-spacing:.02em}
+.chart-axis{font-family:var(--mono);font-size:.68rem;fill:var(--faint)}
+.chart-grid{stroke:var(--rule-2);stroke-width:1}
+.empty-note{font-size:.82rem;color:var(--faint);font-style:italic}
+
+/* conservation laws */
+.laws{display:grid;grid-template-columns:repeat(4,1fr);gap:.9rem}
+@media(max-width:820px){.laws{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.laws{grid-template-columns:1fr}}
+.law{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1rem 1.05rem}
+.law .law-name{font-family:var(--serif);font-weight:400;font-size:1.12rem;letter-spacing:-.01em;
+  font-variation-settings:"opsz" 60,"SOFT" 40;margin-bottom:.2rem}
+.law .law-desc{font-size:.78rem;color:var(--soft);line-height:1.4;margin-bottom:.7rem}
+.law .law-state{font-family:var(--mono);font-size:.74rem;font-weight:600;display:inline-flex;align-items:center;gap:.4rem}
+.law-state.pass{color:var(--clear)} .law-state.pend{color:var(--faint)} .law-state.fail{color:var(--attn)}
+
+/* controls / footer */
+.controls{display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap;margin-top:1.4rem;
+  font-size:.82rem;color:var(--soft)}
+.toggle{display:inline-flex;align-items:center;gap:.5rem;cursor:pointer;user-select:none}
+.toggle input{appearance:none;width:34px;height:19px;border-radius:999px;background:var(--rule);position:relative;
+  transition:background .2s var(--ease);cursor:pointer;outline:none}
+.toggle input:checked{background:var(--accent)}
+.toggle input::after{content:'';position:absolute;top:2px;left:2px;width:15px;height:15px;border-radius:50%;
+  background:#fff;transition:transform .2s var(--ease)}
+.toggle input:checked::after{transform:translateX(15px)}
+.btn{font-family:var(--sans);font-size:.82rem;font-weight:600;color:var(--accent);border:1px solid var(--accent);
+  border-radius:8px;padding:.45rem .8rem;background:transparent;cursor:pointer;transition:background .2s,color .2s}
+.btn:hover{background:var(--accent);color:#fff}
+footer.foot{border-top:1px solid var(--rule);background:var(--ink);color:var(--cream);
+  padding:clamp(2rem,4vw,3rem) 0;margin-top:1.5rem}
+.foot .line{font-family:var(--serif);font-weight:300;font-size:clamp(1.1rem,2.2vw,1.5rem);line-height:1.25;
+  font-variation-settings:"opsz" 100,"SOFT" 50;max-width:40ch;margin-bottom:.9rem}
+.foot .meta{font-size:.76rem;color:rgba(245,240,229,.55);letter-spacing:.02em;line-height:1.7}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.reveal{opacity:0;transform:translateY(14px);transition:opacity .8s var(--ease),transform .8s var(--ease)}
+.reveal.in{opacity:1;transform:none}
+
+/* --- allocation focus additions --- */
+.seg.dim{opacity:.30}
+.held{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:1.2rem 1.3rem;margin-top:0}
+.held .h-k{font-size:.74rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);margin-bottom:.5rem}
+.held .h-held{font-family:var(--serif);font-weight:380;font-size:1.15rem;font-variation-settings:"opsz" 70,"SOFT" 40;margin-bottom:.5rem}
+.held .h-text{font-size:.92rem;color:var(--soft);line-height:1.55;max-width:62ch}
+
+/* photo hero — same pattern as the homepage */
+.hero{position:relative;width:100%;min-height:60vh;min-height:60svh;display:flex;align-items:flex-end;overflow:hidden;background:#1B1A17;padding:0;border:0}
+.hero-photo{position:absolute;inset:0;z-index:1;overflow:hidden}
+.hero-photo::after{content:'';position:absolute;inset:0;z-index:2;background:linear-gradient(180deg,rgba(27,26,23,.34) 0%,rgba(27,26,23,0) 30%,rgba(27,26,23,0) 46%,rgba(27,26,23,.80) 100%)}
+.hero-photo img{width:100%;height:100%;object-fit:cover;filter:saturate(.95) contrast(1.02)}
+.hero-content{position:relative;z-index:3;width:100%;padding:0 var(--gutter) clamp(2rem,6vh,3.6rem);color:#F5F0E5}
+.hero-content .inner{max-width:var(--maxw);margin:0 auto}
+.hero .eyebrow{color:#E6A877 !important;margin-bottom:.7rem}
+.hero h1{font-family:var(--serif);font-weight:300;font-size:clamp(2rem,4.6vw,3.6rem);line-height:1.04;letter-spacing:-.025em;font-variation-settings:"opsz" 144,"SOFT" 60,"WONK" 1;max-width:24ch;margin:0 0 1rem;color:#F5F0E5}
+.hero .sub,.hero .lead{color:rgba(245,240,229,.88) !important;max-width:56ch}
+</style>
+</head>
+<body data-mode="live">
+
+<header class="bar">
+  <div class="bar-in">
+    <a class="brand" href="/" aria-label="BRASA home">
+      <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" alt="BRASA">
+      <span class="wm">Open Ledger</span>
+    </a>
+    <div class="head-right">
+      <a class="back" href="open-ledger.html">← Open Ledger</a>
+      <span class="status" id="status" data-state="await" role="status" aria-live="polite">
+        <span class="dot"></span><span id="statusText">Awaiting feed</span>
+      </span>
+    </div>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+
+  <section class="hero reveal">
+    <div class="hero-photo"><img src="https://images.brasa.world/Photos/vecteezy_hand-giving-charity-philanthropy_36671460.jpg?w=2400&q=85" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=2400&q=85&auto=format&fit=crop'" alt="Founder — 1%" loading="eager" fetchpriority="high" width="2400" height="1350"></div>
+    <div class="hero-content"><div class="inner">
+    <p class="eyebrow">Public Open Ledger · 1%</p>
+    <h1>What flows to Founder.</h1>
+    <p class="sub">One percent is the Founders Fund — held in Switzerland for founder philanthropy related to BRASA, and not governed by the BRASA constitution.</p>
+
+    </div></div></section>
+  <section class="block reveal">
+    <div class="hero-figure">
+      <div>
+        <div class="flow-label">Founder · 1% of flow · <span id="periodLabel">all time</span></div>
+        <div class="flow tnum" id="allocFlow">—</div>
+      </div>
+      <div class="flow-meta" id="updatedMeta">read live from the monitor · no simulation</div>
+    </div>
+
+    <div class="split">
+      <div class="split-bar" id="splitBar" role="img" aria-label="The 80/16/3/1 split, Founder emphasized">
+        <div class="seg seg-citizens"  data-k="citizens"><span class="seg-pct">80%</span><span class="seg-name">Citizens</span></div>
+        <div class="seg seg-planet"    data-k="planet"><span class="seg-pct">16%</span><span class="seg-name">Planet</span></div>
+        <div class="seg seg-operating" data-k="operating"><span class="seg-pct">3%</span></div>
+        <div class="seg seg-founder"   data-k="founder"><span class="seg-pct">1%</span></div>
+      </div>
+      <div class="split-legend">
+        <span><span class="swatch" style="background:var(--founder)"></span><b id="lgAmt">—</b> · Founder 1% of total flow</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="block-h">Where it is held</div>
+    <div class="held reveal">
+      <div class="h-k">Custody</div>
+      <div class="h-held">Held in Switzerland for founder philanthropy related to BRASA.</div>
+      <div class="h-text">One percent is the Founders Fund — held in Switzerland for founder philanthropy related to BRASA, and not governed by the BRASA constitution. BRASA records the payment and issues the Hacienda tiquete; it never holds the money.</div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="block-h">How this share accumulated</div>
+    <div class="chart-card reveal">
+      <div class="chart-top">
+        <span class="chart-title">Cumulative recorded flow — Founder</span>
+        <span class="chart-title tnum" id="chartScale"></span>
+      </div>
+      <div id="chartHost" aria-label="Cumulative recorded flow for Founder"></div>
+    </div>
+    <div class="controls">
+      <button class="btn" id="refreshBtn" type="button">Refresh</button>
+      <label class="toggle"><input type="checkbox" id="sampleToggle" aria-label="Preview with sample data"> Preview with sample data</label>
+      <span class="empty-note" id="modeNote"></span>
+    </div>
+  </section>
+
+</div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p class="line">BRASA never handles, holds, or settles money. It holds the record — and shows it, live.</p>
+    <p class="meta">
+      The rail is SINPE, operated by the BCCR; BRASA records the payment and issues the Hacienda tiquete (v4.4).
+      This ledger shows real recorded flow only — no simulation.<br>
+      BRASA CR · The First Free World School · Owned by the citizens of the world.
+    </p>
+  </div>
+</footer>
+
+<script>
+/* one semantic layer — the split is defined once, the same everywhere */
+const SPLIT={citizens:0.80,planet:0.16,operating:0.03,founder:0.01};
+const SCOPE='founder';
+const SHARE=SPLIT[SCOPE];
+const MONITOR_URL='https://brasa-ledger.richard-bad.workers.dev/ledger';
+const LOCALE='en-US', CUR='\u20A1';
+const fmtMoney=v=>CUR+new Intl.NumberFormat(LOCALE,{maximumFractionDigits:0}).format(Math.round(v));
+let MODE='live';
+function emptyData(){return{total:0,period:'all time',updated:null,series:[]};}
+function sampleData(){const days=30,base=38000,out=[];let cum=0;
+  for(let i=0;i<days;i++){cum+=base*(0.6+Math.random()*0.9);out.push({t:i,v:Math.round(cum)});}
+  return{total:out[out.length-1].v,period:'last 30 days (sample)',updated:new Date().toISOString(),series:out};}
+function setStatus(state,text){const el=document.getElementById('status');el.dataset.state=state;
+  document.getElementById('statusText').textContent=text;}
+function drawChart(series){
+  const host=document.getElementById('chartHost'),scaleEl=document.getElementById('chartScale');
+  const s=(series||[]).map(d=>({t:d.t,v:d.v*SHARE}));
+  if(s.length<2){host.innerHTML='<p class="empty-note">No recorded flow yet. When the monitor emits events, the curve appears here — live.</p>';scaleEl.textContent='';return;}
+  const W=900,H=240,L=58,R=14,T=14,B=26,ys=s.map(d=>d.v),mx=Math.max(...ys),n=s.length;
+  const X=i=>L+(i/(n-1))*(W-L-R),Y=v=>T+(1-(v/(mx||1)))*(H-T-B);
+  let grid='';for(let k=0;k<=4;k++){const val=mx*k/4,y=Y(val);
+    grid+=`<line class="chart-grid" x1="${L}" y1="${y.toFixed(1)}" x2="${W-R}" y2="${y.toFixed(1)}"/>`;
+    grid+=`<text class="chart-axis" x="${L-8}" y="${(y+3).toFixed(1)}" text-anchor="end">${fmtMoney(val)}</text>`;}
+  const line=s.map((d,i)=>(i?'L':'M')+X(i).toFixed(1)+' '+Y(d.v).toFixed(1)).join(' ');
+  const area=line+` L ${X(n-1).toFixed(1)} ${(H-B).toFixed(1)} L ${X(0).toFixed(1)} ${(H-B).toFixed(1)} Z`;
+  const col=getComputedStyle(document.documentElement).getPropertyValue('--founder').trim()||'#0D6E5C';
+  host.innerHTML=`<svg width="100%" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet" role="img">
+    <defs><linearGradient id="ar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="${col}" stop-opacity="0.18"/><stop offset="100%" stop-color="${col}" stop-opacity="0"/>
+    </linearGradient></defs>${grid}
+    <path d="${area}" fill="url(#ar)"/>
+    <path d="${line}" fill="none" stroke="${col}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+  scaleEl.textContent='peak '+fmtMoney(mx);
+}
+function render(data){
+  const total=data.total||0, amt=total*SHARE;
+  document.getElementById('allocFlow').textContent = amt>0?fmtMoney(amt):'\u2014';
+  document.getElementById('periodLabel').textContent = data.period||'all time';
+  document.getElementById('updatedMeta').textContent = data.updated
+    ? 'updated '+new Date(data.updated).toLocaleString(LOCALE)+(MODE==='sample'?' · sample':' · live')
+    : 'read live from the monitor · no simulation';
+  document.querySelectorAll('#splitBar .seg').forEach(seg=>{const k=seg.dataset.k;
+    seg.style.width=(SPLIT[k]*100)+'%'; seg.classList.toggle('dim', k!==SCOPE);});
+  document.getElementById('lgAmt').textContent = amt>0?fmtMoney(amt):'\u2014';
+  drawChart(data.series);
+}
+async function load(){
+  if(MODE==='sample'){render(sampleData());return;}
+  setStatus('await','Connecting…');
+  try{const ctrl=new AbortController();const to=setTimeout(()=>ctrl.abort(),6000);
+    const res=await fetch(MONITOR_URL,{signal:ctrl.signal,cache:'no-store'});clearTimeout(to);
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    const json=await res.json();MODE='live';setStatus('live','Live');
+    document.getElementById('modeNote').textContent='';
+    render(Object.assign(emptyData(),json));
+  }catch(e){MODE='await';setStatus('await','Awaiting feed');
+    document.getElementById('modeNote').textContent='Monitor feed unavailable — showing the empty ledger. The Open Ledger never displays simulated numbers.';
+    render(emptyData());}
+}
+document.getElementById('refreshBtn').addEventListener('click',load);
+document.getElementById('sampleToggle').addEventListener('change',(e)=>{
+  if(e.target.checked){MODE='sample';document.body.dataset.mode='sample';setStatus('sample','Sample data');
+    document.getElementById('modeNote').textContent='Preview only — these numbers are not real.';render(sampleData());}
+  else{document.body.dataset.mode='live';load();}});
+const io=new IntersectionObserver((es)=>es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);}}),
+  {threshold:0,rootMargin:'0px 0px -6% 0px'});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+load();
+</script>
+</body>
+</html>
