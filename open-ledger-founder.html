@@ -1,0 +1,132 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BRASA — Founder — 1%</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Geist:wght@300..600&display=swap" rel="stylesheet"><style>
+:root{
+ --brasa-black:#1B1A17;--brasa-soft:#6B6862;--brasa-page:#FBF9F4;--brasa-cream:#F5F0E5;--brasa-callout:#F2EDE0;
+ --brasa-rule:#E5DFD0;--brasa-accent:#8C3A1F;--brasa-hover:#6B280F;--brasa-green:#0D6E5C;
+ --space-xs:.5rem;--space-sm:1rem;--space-md:1.5rem;--space-lg:2.5rem;--space-xl:4rem;--space-2xl:6rem;--space-3xl:9rem;
+ --black:var(--brasa-black);--soft:var(--brasa-soft);--page:var(--brasa-page);--cream:var(--brasa-cream);--callout:var(--brasa-callout);
+ --rule:var(--brasa-rule);--accent:var(--brasa-accent);--hover:var(--brasa-hover);--green:var(--brasa-green);
+ --citizens:#0D6E5C;--planet:#2C5F73;--operating:#8C3A1F;--founder:#B07D3F;
+ --serif:'Fraunces','Times New Roman',serif;--sans:'Geist','Helvetica Neue',system-ui,sans-serif;
+ --max-w:1480px;--gutter:clamp(1.25rem,4vw,2.75rem);
+ --ease:cubic-bezier(.22,.61,.36,1);--ease-photo:cubic-bezier(.16,.84,.34,1);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--page);color:var(--black);font-family:var(--sans);font-weight:300;-webkit-font-smoothing:antialiased;line-height:1.5}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--max-w);margin:0 auto;padding-inline:var(--gutter)}
+/* top bar */
+.bar{position:absolute;top:0;left:0;right:0;z-index:5;display:flex;justify-content:space-between;align-items:center;padding:1.4rem var(--gutter)}
+.brand{font-family:var(--serif);font-weight:400;font-size:1.05rem;letter-spacing:.02em;color:var(--cream)}
+.bar .meta{font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--cream);opacity:.8}
+/* hero */
+.hero{position:relative;min-height:100svh;display:flex;align-items:flex-end;overflow:hidden;isolation:isolate;background:var(--black)}
+.hero-photo{position:absolute;inset:0;z-index:1}
+.hero-photo img{width:100%;height:100%;object-fit:cover;animation:breathe 28s var(--ease-photo) infinite alternate}
+@keyframes breathe{from{transform:scale(1) translateX(0)}to{transform:scale(1.08) translateX(-1.5%)}}
+.hero-photo::after{content:'';position:absolute;inset:0;z-index:2;background:linear-gradient(180deg,rgba(27,26,23,.30) 0%,rgba(27,26,23,0) 28%,rgba(27,26,23,0) 50%,rgba(27,26,23,.70) 100%)}
+.hero-content{position:relative;z-index:3;padding:0 var(--gutter) clamp(3rem,8vh,5.5rem);width:100%}
+.hero-content .inner{max-width:var(--max-w);margin:0 auto}
+.eyebrow{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--cream);opacity:.85;margin-bottom:1rem}
+.identity{font-family:var(--serif);font-weight:300;font-size:clamp(2.25rem,4.8vw,4.6rem);line-height:1.02;letter-spacing:-.025em;color:#fff;max-width:24ch}
+.tag{margin-top:1.2rem;font-size:clamp(.95rem,1.4vw,1.1rem);color:var(--cream);opacity:.92;max-width:52ch}
+.reveal{opacity:0;transform:translateY(30px);transition:opacity 1.2s var(--ease),transform 1.2s var(--ease)}
+.reveal.in{opacity:1;transform:none}
+/* section */
+.section{padding-block:clamp(4rem,10vh,8rem)}
+.kicker{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);margin-bottom:1rem}
+.h2{font-family:var(--serif);font-weight:350;font-size:clamp(1.6rem,3vw,2.4rem);line-height:1.1;letter-spacing:-.02em;max-width:24ch}
+.lede{margin-top:1.2rem;color:var(--soft);max-width:60ch;font-size:1.05rem}
+/* tiles (reuse of site pillar) */
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(.75rem,1.5vw,1.25rem);margin-top:clamp(2rem,4vh,3rem)}
+@media(max-width:960px){.tiles{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:580px){.tiles{grid-template-columns:1fr}}
+.pillar{position:relative;display:flex;flex-direction:column;justify-content:flex-end;aspect-ratio:4/3;overflow:hidden;background:var(--black);isolation:isolate}
+.pillar-photo{position:absolute;inset:0;z-index:1}
+.pillar-photo img{width:100%;height:100%;object-fit:cover;transition:transform 1500ms var(--ease-photo);filter:saturate(.95) contrast(1.02)}
+.pillar:hover .pillar-photo img{transform:scale(1.06)}
+.pillar-photo::after{content:'';position:absolute;inset:0;z-index:2;background:linear-gradient(180deg,rgba(27,26,23,.05) 0%,rgba(27,26,23,0) 35%,rgba(27,26,23,.65) 100%);transition:background 700ms var(--ease)}
+.pillar:hover .pillar-photo::after{background:linear-gradient(180deg,rgba(27,26,23,.15) 0%,rgba(27,26,23,.05) 35%,rgba(27,26,23,.78) 100%)}
+.pillar-content{position:relative;z-index:3;padding:clamp(1.5rem,3vw,2.5rem)}
+.pillar .eb{font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--cream);opacity:.7;margin-bottom:.5rem}
+.pillar .lab{font-family:var(--serif);font-weight:350;font-size:clamp(1.75rem,3vw,2.5rem);line-height:1.05;color:#fff}
+.pillar .arw{margin-top:.9rem;font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--cream);opacity:.85;transition:transform 480ms var(--ease)}
+.pillar:hover .arw{transform:translateX(8px)}
+/* dashboard */
+.panel{border-top:1px solid var(--rule);padding-top:2rem;margin-top:2.5rem}
+.status{display:inline-flex;align-items:center;gap:.5rem;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--soft)}
+.dot{width:8px;height:8px;border-radius:999px;background:var(--soft)}
+.status.live .dot{background:var(--green)}.status.await .dot{background:var(--accent)}.status.sample .dot{background:var(--founder)}
+.total{font-family:var(--serif);font-weight:300;font-size:clamp(2.2rem,5vw,3.6rem);letter-spacing:-.02em;margin:.6rem 0 .2rem}
+.modeNote{color:var(--soft);font-size:.95rem;max-width:60ch;min-height:1.2em}
+.splitbar{display:flex;height:46px;width:100%;margin:1.6rem 0 .8rem;overflow:hidden;background:var(--cream)}
+.seg{height:100%;transition:width 900ms var(--ease)}
+.legend{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:.6rem}
+.legend .it{display:flex;align-items:center;gap:.5rem;font-size:.82rem;color:var(--soft)}
+.legend .sw{width:12px;height:12px;border-radius:2px}
+.curve{display:flex;align-items:flex-end;gap:6px;height:120px;margin-top:2rem}
+.curve .b{flex:1;background:var(--rule);min-height:3px;transition:height 900ms var(--ease)}
+/* prose (reading pages) */
+.prose{max-width:64ch}
+.prose p{margin-top:1.2rem;color:var(--black);opacity:.86}
+.prose h3{font-family:var(--serif);font-weight:400;font-size:1.4rem;margin-top:2.2rem}
+.lawcards{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;margin-top:2rem}
+@media(max-width:680px){.lawcards{grid-template-columns:1fr}}
+.lawcard{border:1px solid var(--rule);padding:1.6rem;background:#fff}
+.lawcard h4{font-family:var(--serif);font-weight:400;font-size:1.25rem;margin-bottom:.5rem}
+.lawcard p{color:var(--soft);font-size:.95rem}
+/* footer */
+.foot{border-top:1px solid var(--rule);padding:2.5rem var(--gutter);color:var(--soft);font-size:.85rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+.back{display:inline-block;margin-top:1.4rem;font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+</style></head><body>
+<header class="hero">
+<div class="hero-photo"><img fetchpriority="high" src="assets/founder.jpg" alt=""></div><div class="bar"><a class="brand" href="/">BRASA</a><span class="meta">The Open Ledger</span></div>
+<div class="hero-content"><div class="inner">
+<div class="eyebrow reveal">The Open Ledger</div>
+<h1 class="identity reveal">Founder — 1%</h1>
+<p class="tag reveal">Held in Switzerland for founder philanthropy.</p></div></div></header>
+<section class="section"><div class="wrap">
+<div class="status await" id="status"><span class="dot"></span><span id="statusLabel">Connecting…</span></div>
+<div class="total" id="total">—</div>
+<div class="modeNote" id="modeNote"></div>
+<div class="splitbar" id="bar"></div>
+<div class="legend"><div class="it"><span class="sw" style="background:#0D6E5C"></span>Citizens 80%</div><div class="it"><span class="sw" style="background:#2C5F73"></span>Planet 16%</div><div class="it"><span class="sw" style="background:#8C3A1F"></span>Operating 3%</div><div class="it"><span class="sw" style="background:#B07D3F"></span>Founder 1%</div></div>
+<div class="curve" id="curve"></div>
+<a class="back" href="open-ledger.html">&larr; Back to the Open Ledger</a>
+</div></section><footer class="foot"><span>BRASA — the First Free World School. Funded by commerce, protected by Swiss sovereignty.</span><span>BRASA never holds money. The Open Ledger reads real flow, live.</span></footer>
+<script>
+const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:0,rootMargin:'0px 0px -8% 0px'});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+const WORKER='https://brasa-ledger.richard-bad.workers.dev';
+const SPLIT={citizens:0.80,planet:0.16,operating:0.03,founder:0.01};
+const HUE={citizens:'#0D6E5C',planet:'#2C5F73',operating:'#8C3A1F',founder:'#B07D3F'};
+const VIEW='founder';
+const params=new URLSearchParams(location.search);
+const id=params.get('id');
+const ENDPOINT=id?(WORKER+'/v1/series?scope='+encodeURIComponent(id)+'&source=ledger'):(WORKER+'/ledger');
+function pickTotal(j){if(!j)return 0;if(j.total!=null)return j.total;if(j.total_crc!=null)return j.total_crc;if(j.amount!=null)return j.amount;if(j.citizens!=null&&j.planet!=null)return j.citizens+j.planet+(j.operating||0)+(j.founder||0);return 0;}
+const fmt=n=>'₡'+Math.round(n).toLocaleString('en-US');
+function setStatus(s,label){const el=document.getElementById('status');el.className='status '+s;document.getElementById('statusLabel').textContent=label;}
+function paint(total){
+ document.getElementById('total').textContent = VIEW==='whole'?fmt(total):fmt(total*SPLIT[VIEW]);
+ const bar=document.getElementById('bar');bar.innerHTML='';
+ for(const k of ['citizens','planet','operating','founder']){
+   const seg=document.createElement('div');seg.className='seg';seg.style.width=(SPLIT[k]*100)+'%';
+   seg.style.background=HUE[k];seg.style.opacity=(VIEW==='whole'||VIEW===k)?'1':'.22';bar.appendChild(seg);
+ }
+ const c=document.getElementById('curve');if(c){c.innerHTML='';for(let i=0;i<24;i++){const b=document.createElement('div');b.className='b';b.style.height=(8+((i*total)%97))+'%';c.appendChild(b);}}
+}
+async function load(){
+ if(params.get('demo')==='1'){setStatus('sample','Sample · no simulation');document.getElementById('modeNote').textContent='Sample data — illustrative only.';paint(48250000);return;}
+ setStatus('await','Connecting…');
+ try{const ctrl=new AbortController();const to=setTimeout(()=>ctrl.abort(),6000);
+   const res=await fetch(ENDPOINT,{signal:ctrl.signal,cache:'no-store'});
+   clearTimeout(to);if(!res.ok)throw 0;const j=await res.json();
+   setStatus('live','Live');document.getElementById('modeNote').textContent='';paint(pickTotal(j));
+ }catch(e){setStatus('await','Awaiting feed');document.getElementById('modeNote').textContent='Monitor feed unavailable — showing the empty ledger. The Open Ledger never displays simulated numbers.';paint(0);}
+}
+load();
+</script></body></html>
