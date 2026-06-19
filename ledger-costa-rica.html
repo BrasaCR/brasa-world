@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="BRASA Open Ledger — Costa Rica. The whole ledger in nine views.">
+<meta name="theme-color" content="#1B1A17">
+<title>BRASA — Open Ledger · Costa Rica</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&family=Geist+Mono:wght@300..500&display=swap" rel="stylesheet">
+<style>
+:root{
+ --brasa-black:#1B1A17;--brasa-soft:#6B6862;--brasa-page:#FBF9F4;--brasa-cream:#F5F0E5;--brasa-callout:#F2EDE0;
+ --brasa-rule:#E5DFD0;--brasa-accent:#8C3A1F;--brasa-hover:#6B280F;--brasa-green:#0D6E5C;
+ --citizens:#0D6E5C;--planet:#2C5F73;--operating:#C2693B;--founder:#B07D3F;
+ --space-xs:.5rem;--space-sm:1rem;--space-md:1.5rem;--space-lg:2.5rem;--space-xl:4rem;--space-2xl:6rem;--space-3xl:9rem;
+ --serif:'Fraunces','Times New Roman',serif;--sans:'Geist','Helvetica Neue',system-ui,sans-serif;--mono:'Geist Mono',ui-monospace,monospace;
+ --max-w:1480px;--gutter:clamp(1.25rem,4vw,2.75rem);
+ --ease:cubic-bezier(.22,.61,.36,1);--ease-photo:cubic-bezier(.16,.84,.34,1);
+ --tile:#1F1D19;--tile-line:rgba(245,240,229,.14);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--brasa-page);color:var(--brasa-black);font-family:var(--sans);font-weight:400;-webkit-font-smoothing:antialiased;line-height:1.5;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%}
+.wrap{max-width:var(--max-w);margin:0 auto;padding-inline:var(--gutter)}
+
+/* ── header bar ── */
+.bar{position:absolute;top:0;left:0;right:0;z-index:6;display:flex;justify-content:space-between;align-items:center;padding:1.4rem var(--gutter)}
+.brand{font-family:var(--serif);font-weight:400;font-size:1.1rem;letter-spacing:.01em;color:var(--brasa-cream)}
+.bar .meta{font-family:var(--sans);font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;color:var(--brasa-cream);opacity:.78}
+
+/* ── hero ── */
+.hero{position:relative;min-height:78svh;display:flex;align-items:center;overflow:hidden;isolation:isolate;background:var(--brasa-black)}
+.hero-field{position:absolute;inset:0;z-index:1;
+ background:
+  radial-gradient(120% 90% at 78% 18%, rgba(140,58,31,.42), transparent 55%),
+  radial-gradient(120% 120% at 20% 95%, rgba(13,110,92,.30), transparent 55%),
+  radial-gradient(90% 80% at 60% 60%, rgba(44,95,115,.28), transparent 60%),
+  linear-gradient(160deg,#211F1A 0%,#15140F 60%,#100F0B 100%)}
+.hero-field::after{content:'';position:absolute;inset:0;
+ background:linear-gradient(180deg,rgba(27,26,23,.30) 0%,rgba(27,26,23,0) 30%,rgba(27,26,23,0) 52%,rgba(27,26,23,.55) 100%)}
+.hero-grain{position:absolute;inset:0;z-index:1;opacity:.06;mix-blend-mode:screen;
+ background-image:radial-gradient(rgba(245,240,229,.9) .5px,transparent .5px);background-size:3px 3px}
+.hero-wm{position:absolute;inset:0;z-index:1;display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-weight:600;font-size:clamp(4rem,13vw,10rem);color:rgba(245,240,229,.04);letter-spacing:.1em;transform:rotate(-8deg);pointer-events:none;white-space:nowrap}
+.hero-content{position:relative;z-index:3;width:100%;padding:0 var(--gutter) clamp(3rem,8vh,5.5rem);text-align:right}
+.hero-inner{max-width:var(--max-w);margin:0 auto}
+.hero-eyebrow{font-size:.72rem;letter-spacing:.24em;text-transform:uppercase;color:var(--brasa-cream);opacity:.85;margin-bottom:1.1rem}
+.hero-h1{font-family:var(--serif);font-weight:300;font-size:clamp(2.25rem,4.8vw,4.6rem);line-height:1.02;letter-spacing:-.025em;color:#fff;max-width:20ch;margin-left:auto;font-variation-settings:"opsz" 144,"SOFT" 40,"WONK" 0}
+.hero-tag{margin-top:1.3rem;font-size:clamp(.95rem,1.4vw,1.1rem);color:var(--brasa-cream);opacity:.9;max-width:54ch;margin-left:auto}
+.hero-scroll{position:absolute;bottom:1.5rem;left:50%;transform:translateX(-50%);z-index:3;font-family:var(--sans);font-size:.7rem;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:rgba(245,240,229,.6);display:flex;flex-direction:column;align-items:center;gap:.5rem}
+.hero-scroll::after{content:'';width:1px;height:36px;background:linear-gradient(to bottom,rgba(245,240,229,.7),rgba(245,240,229,0));animation:pulse 2.4s var(--ease) infinite}
+@keyframes pulse{0%{transform:scaleY(0);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}51%{transform:scaleY(1);transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+
+/* ── ledger section ── */
+.ledger{padding-block:clamp(3rem,7vh,6rem)}
+.ledger-head{display:flex;justify-content:space-between;align-items:flex-end;gap:2rem;flex-wrap:wrap}
+.ledger-intro{max-width:46ch}
+.kicker{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--brasa-accent);margin-bottom:1rem}
+.ledger-h2{font-family:var(--serif);font-weight:350;font-size:clamp(1.7rem,3vw,2.5rem);line-height:1.08;letter-spacing:-.02em;max-width:20ch}
+.ledger-lede{margin-top:1.1rem;color:var(--brasa-soft);max-width:54ch;font-size:1.02rem}
+
+/* ── the simulation console ── */
+.simctl{margin-top:1.8rem;border:1px solid var(--brasa-rule);background:#fff;padding:1.1rem 1.2rem}
+.simrow{display:flex;justify-content:space-between;align-items:flex-end;gap:1.2rem;flex-wrap:wrap}
+.clock .day{font-family:var(--serif);font-weight:300;font-size:clamp(1.5rem,3vw,2rem);line-height:1;color:var(--brasa-black)}
+.clock .hm{font-family:var(--mono);font-size:.78rem;color:var(--brasa-soft);margin-top:.2rem}
+.install{font-family:var(--mono);font-size:.8rem;color:var(--brasa-soft)}.install b{color:var(--brasa-green)}
+.phase{text-align:right}.phase .nm{font-family:var(--serif);font-size:1.1rem;color:var(--brasa-black)}.phase .ds{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--brasa-soft);margin-top:.15rem}
+.btnrow{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;margin-top:1rem;border-top:1px solid var(--brasa-rule);padding-top:1rem}
+.btn{font-family:var(--sans);font-size:.78rem;padding:.55rem .9rem;border:1px solid var(--brasa-rule);background:#fff;color:var(--brasa-black);cursor:pointer}
+.btn.primary{background:var(--brasa-black);color:var(--brasa-cream);border-color:var(--brasa-black)}
+.speeds{display:flex;gap:.35rem;flex-wrap:wrap;margin-left:.2rem}
+.sp{font-family:var(--mono);font-size:.62rem;padding:.4rem .55rem;border:1px solid var(--brasa-rule);background:#fff;color:var(--brasa-soft);cursor:pointer}
+.sp[aria-pressed="true"]{background:var(--brasa-accent);border-color:var(--brasa-accent);color:#fff}
+.scrub{display:flex;align-items:center;gap:.8rem;margin-top:.9rem}.scrub input[type=range]{flex:1;accent-color:var(--brasa-accent);height:4px}
+.scrub span{font-family:var(--mono);font-size:.68rem;color:var(--brasa-soft)}
+.simnote{font-family:var(--mono);font-size:.7rem;color:var(--brasa-soft);margin-top:.8rem}.simnote b{color:var(--brasa-black)}
+
+.simbanner{display:flex;align-items:center;gap:.6rem;margin-top:1.5rem;padding:.7rem 1rem;background:rgba(176,125,63,.12);border-left:3px solid var(--founder);font-size:.85rem;color:#7a5a2e}
+
+/* ── the live-dashboard tile grid ── */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(.75rem,1.5vw,1.25rem);margin-top:clamp(1.4rem,3vh,2.2rem)}
+@media(max-width:980px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.grid{grid-template-columns:1fr}}
+
+.dtile{position:relative;display:flex;flex-direction:column;min-height:230px;padding:clamp(1.3rem,2.2vw,1.7rem);background:var(--tile);color:var(--brasa-cream);overflow:hidden;isolation:isolate;border-top:2px solid var(--hue,var(--brasa-rule));transition:transform .5s var(--ease),background .5s var(--ease)}
+.dtile::after{content:'';position:absolute;inset:0;z-index:0;background:radial-gradient(120% 100% at 100% 0%,color-mix(in srgb,var(--hue,#888) 16%,transparent),transparent 60%);opacity:.9;pointer-events:none}
+.dtile:hover{transform:translateY(-3px);background:#23211C}
+.dtile>*{position:relative;z-index:1}
+.dtile-eyebrow{font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--hue,var(--brasa-cream));opacity:.95;font-weight:500}
+.dtile-label{font-family:var(--serif);font-weight:350;font-size:clamp(1.7rem,2.6vw,2.3rem);line-height:1;color:#fff;margin-top:.5rem;font-variation-settings:"opsz" 120,"SOFT" 30}
+.dtile-readout{flex:1;display:flex;flex-direction:column;justify-content:center;margin:1rem 0 .8rem}
+
+.amount{font-family:var(--mono);font-weight:400;font-size:clamp(1.25rem,2vw,1.6rem);letter-spacing:-.01em;color:#fff;font-variant-numeric:tabular-nums}
+.amount .cur{color:var(--brasa-soft);font-size:.7em;margin-right:.25em}
+.subamt{font-family:var(--mono);font-size:.78rem;color:rgba(245,240,229,.6);margin-top:.35rem;font-variant-numeric:tabular-nums}
+
+.sbar{display:flex;height:14px;width:100%;background:rgba(245,240,229,.08);overflow:hidden;margin-bottom:.7rem}
+.sbar i{height:100%;display:block;opacity:.92}
+.sbar-keys{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.66rem;color:rgba(245,240,229,.55);letter-spacing:.04em}
+
+.spark{width:100%;height:38px;display:block}
+.spark path{fill:none;stroke:var(--hue,#888);stroke-width:1.5;opacity:.9}
+
+.count{display:flex;align-items:baseline;gap:.6rem}
+.count .big{font-family:var(--serif);font-weight:300;font-size:clamp(2rem,3.4vw,2.8rem);color:#fff;font-variant-numeric:tabular-nums}
+
+.dtile-foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto}
+.status{display:inline-flex;align-items:center;gap:.45rem;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(245,240,229,.7)}
+.dot{width:7px;height:7px;border-radius:999px;background:var(--founder);box-shadow:0 0 0 0 rgba(176,125,63,.6);animation:beat 2s infinite}
+@keyframes beat{0%{box-shadow:0 0 0 0 rgba(176,125,63,.5)}70%{box-shadow:0 0 0 6px rgba(176,125,63,0)}100%{box-shadow:0 0 0 0 rgba(176,125,63,0)}}
+.arrow{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(245,240,229,.8);transition:transform .4s var(--ease)}
+.dtile:hover .arrow{transform:translateX(6px)}
+.wm{position:absolute;top:.9rem;right:.9rem;z-index:2;font-size:.58rem;letter-spacing:.16em;text-transform:uppercase;color:var(--founder);border:1px solid color-mix(in srgb,var(--founder) 55%,transparent);padding:.18rem .4rem}
+
+.foot{border-top:1px solid var(--brasa-rule);padding:2.5rem var(--gutter);color:var(--brasa-soft);font-size:.85rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+ <div class="hero-field"></div><div class="hero-grain"></div>
+ <div class="bar"><a class="brand" href="/">BRASA</a><span class="meta">Open Ledger · Costa Rica</span></div>
+ <div class="hero-content"><div class="hero-inner">
+  <p class="hero-tag">Nine views — the whole, each share, and the flows beneath.</p>
+ </div></div>
+ <a href="#ledger" class="hero-scroll" aria-label="Scroll to the ledger">Explore</a>
+</header>
+
+<section class="ledger" id="ledger"><div class="wrap">
+ <div class="ledger-head">
+  <div class="ledger-intro">
+   <div class="kicker">Public · Costa Rica · the whole ledger</div>
+   <h2 class="ledger-h2">The whole ledger, in nine views.</h2>
+   <p class="ledger-lede">Costa Rica on real 2025 inputs — 5.2M citizens, 31,641 businesses, ₡434.2T processed. Each tile fills from the same engine; the 80/16/3/1 split is constitutional.</p>
+  </div>
+  <div class="simctl">
+   <div class="simrow">
+    <div class="clock"><div class="day" id="day">Day 0 / 365</div><div class="hm" id="hm">pre-launch</div></div>
+    <div class="install" id="install">Install: <b>0%</b> · by day 90</div>
+    <div class="phase"><div class="nm" id="phaseNm">Pre-launch</div><div class="ds" id="phaseDs">Day 1 begins the install</div></div>
+   </div>
+   <div class="btnrow"><button class="btn primary" id="play">► Play</button><button class="btn" id="reset">↺ Reset</button><div class="speeds" id="speeds" role="group" aria-label="Speed"></div></div>
+   <div class="scrub"><span>Day 0</span><input type="range" id="scrub" min="0" max="8759" value="0" step="1"><span>365</span></div>
+   <div class="simnote" id="simnote"></div>
+  </div>
+ </div>
+ 
+ <div class="grid" id="grid"></div>
+</div></section>
+
+<footer class="foot">
+ <span>BRASA — the First Free World School. Funded by commerce, protected by Swiss sovereignty.</span>
+ <span>BRASA never holds money. The Open Ledger reads real flow.</span>
+</footer>
+
+<script>
+"use strict";
+/* ───────── the nine tiles (the model's grammar) ───────── */
+const TILES = [
+ {id:'whole',        type:'split', eyebrow:'The Whole',     label:'80 / 16 / 3 / 1', href:'open-ledger-dashboard.html'},
+ {id:'citizens',     type:'alloc', eyebrow:'Citizens',      label:'80', pct:80, hue:'--citizens',  href:'open-ledger-citizens.html'},
+ {id:'planet',       type:'alloc', eyebrow:'Planet',        label:'16', pct:16, hue:'--planet',    href:'open-ledger-planet.html'},
+ {id:'operating',    type:'alloc', eyebrow:'Operating',     label:'3',  pct:3,  hue:'--operating', href:'open-ledger-operating.html'},
+ {id:'founder',      type:'alloc', eyebrow:'Founder',       label:'1',  pct:1,  hue:'--founder',   href:'open-ledger-founder.html'},
+ {id:'education',    type:'flow',  eyebrow:'Flow · Rail 1', label:'Education',     hue:'--citizens', sub:'government enrolls citizens · ₡52,000 each', href:'open-ledger-education.html'},
+ {id:'business',     type:'flow',  eyebrow:'Flow · Rail 2', label:'Business',      hue:'--operating', sub:'businesses sign up · ₡52,000 each', href:'open-ledger-business.html'},
+ {id:'philanthropy', type:'flow',  eyebrow:'Giving · Rail 3', label:'Philanthropy', hue:'--planet', sub:'commerce gives 0.99% of every movement', href:'open-ledger-philanthropy.html'},
+ {id:'registrations',type:'count', eyebrow:'Live',          label:'New Registrations', href:'open-ledger-registrations.html'},
+];
+const SPLIT=[{k:'80',hue:'--citizens',w:80},{k:'16',hue:'--planet',w:16},{k:'3',hue:'--operating',w:3},{k:'1',hue:'--founder',w:1}];
+
+/* ───────── the bank-facts year engine ───────── */
+const N=5200000, B_MAX=31641, YEAR_H=8760, INSTALL_D=90;
+const PROCESSING=434200000000000;      // ₡434.2T total bank processing at full install
+const TXN_PER_CIT_YR=PROCESSING/N;          // processed per citizen-account per year
+const CUT=0.0099, CIT_FEE=52000, BIZ_FEE=52000;   // ₡52,000 ≈ $99 sign-up
+const P=0.008,Q=0.090,PB=0.006,QB=0.085;
+const rnd=i=>{let x=Math.sin(i*12.9898)*43758.5453;return x-Math.floor(x);};
+const bass=(t,p,q)=>{const e=Math.exp(-(p+q)*t);return (1-e)/(1+(q/p)*e);};
+const b90=bass(INSTALL_D,P,Q),bb90=bass(INSTALL_D,PB,QB);
+const adoptC=d=>d<=0?0:d>=INSTALL_D?1:Math.min(1,bass(d,P,Q)/b90);
+const adoptB=d=>d<=0?0:d>=INSTALL_D?1:Math.min(1,bass(d,PB,QB)/bb90);
+
+function f(){return new Float64Array(YEAR_H);}
+const H={total:f(),cit:f(),pla:f(),op:f(),fou:f(),edu:f(),biz:f(),phil:f()};
+const Dreg=new Float64Array(366);                 // citizen accounts registered, by day
+const dayEdu=new Float64Array(365),dayBiz=new Float64Array(365),dayPhil=new Float64Array(365);
+let T=0,C=0,Pl=0,O=0,Fo=0,E=0,B=0,Ph=0;
+for(let h=0;h<YEAR_H;h++){
+ const day=Math.floor(h/24),hod=h%24,reg=N*adoptC(day),bn=B_MAX*adoptB(day);
+ const diur=1+0.45*Math.sin((hod/24)*2*Math.PI-Math.PI/2),seas=1+0.12*Math.sin((day/365)*2*Math.PI),noise=0.94+0.12*rnd(h);
+ const V=reg*(TXN_PER_CIT_YR/8760)*diur*seas*noise;     // processed this hour
+ const rPhil=V*CUT;                                      // Rail 3 · 0.99% of every movement (commerce giving)
+ const rEdu=reg*CIT_FEE/8760;                            // Rail 1 · government enrolls citizens (the school)
+ const rBiz=bn*BIZ_FEE/8760;                             // Rail 2 · businesses sign up
+ const tot=rPhil+rEdu+rBiz;
+ const pla=tot*.16,op=tot*.03,fo=tot*.01,cit=tot-pla-op-fo;
+ T+=tot;C+=cit;Pl+=pla;O+=op;Fo+=fo;E+=rEdu;B+=rBiz;Ph+=rPhil;
+ H.total[h]=T;H.cit[h]=C;H.pla[h]=Pl;H.op[h]=O;H.fou[h]=Fo;H.edu[h]=E;H.biz[h]=B;H.phil[h]=Ph;
+ dayEdu[day]+=rEdu;dayBiz[day]+=rBiz;dayPhil[day]+=rPhil;
+ if(hod===23||h===YEAR_H-1)Dreg[day]=Math.round(reg);
+}
+
+/* ───────── render helpers (the model's readouts) ───────── */
+const fmt=n=>Math.round(n).toLocaleString('en-US');
+const sparkPath=s=>{if(s.length<2)return'M0 30 L100 30';const w=100,h=34,mx=Math.max(...s),mn=Math.min(...s);
+ return s.map((v,i)=>{const x=(i/(s.length-1))*w,y=h-((v-mn)/((mx-mn)||1))*(h-4)-2;return (i?'L':'M')+x.toFixed(1)+' '+y.toFixed(1)}).join(' ');};
+const flowSeries={edu:dayEdu,biz:dayBiz,phil:dayPhil};
+
+function readout(tile,h,day){
+ if(tile.type==='split'){
+  const bars=SPLIT.map(s=>`<i style="width:${s.w}%;background:var(${s.hue})"></i>`).join('');
+  const keys=SPLIT.map(s=>`<span>${s.k}</span>`).join('');
+  return `<div class="sbar">${bars}</div><div class="sbar-keys">${keys}</div>`
+        +`<div style="margin-top:.7rem"><div class="amount"><span class="cur">₡</span>${fmt(H.total[h])}</div><div class="subamt">total routed · day ${day}</div></div>`;
+ }
+ if(tile.type==='alloc'){
+  const KEY={citizens:'cit',planet:'pla',operating:'op',founder:'fou'};
+  const v=H[KEY[tile.id]][h];
+  return `<div class="sbar" style="margin-bottom:.7rem"><i style="width:100%;background:var(${tile.hue})"></i></div>`
+        +`<div class="amount"><span class="cur">₡</span>${fmt(v)}</div><div class="subamt">${tile.pct}% of the whole</div>`;
+ }
+ if(tile.type==='flow'){
+  const cum=H[tile.id==='education'?'edu':tile.id==='business'?'biz':'phil'][h];
+  const ser=flowSeries[tile.id==='education'?'edu':tile.id==='business'?'biz':'phil'];
+  const p=sparkPath(Array.from(ser.slice(0,Math.max(2,day+1))));
+  return `<svg class="spark" viewBox="0 0 100 34" preserveAspectRatio="none"><path d="${p}"/></svg>`
+        +`<div class="amount"><span class="cur">₡</span>${fmt(cum)}</div><div class="subamt">${tile.sub}</div>`;
+ }
+ const today=Math.round(Dreg[day]-(day>0?Dreg[day-1]:0));
+ return `<div class="count"><span class="big">${Math.max(0,today).toLocaleString()}</span><span class="subamt">today</span></div>`
+       +`<div class="subamt" style="margin-top:.5rem">${Math.round(Dreg[day]).toLocaleString()} total citizens registered</div>`;
+}
+function tileHTML(tile,h,day){
+ const hue=tile.hue?`--hue:var(${tile.hue})`:'--hue:var(--brasa-rule)';
+ return `<a class="dtile" style="${hue}" href="${tile.href}">
+   <div class="dtile-eyebrow">${tile.eyebrow}</div>
+   <div class="dtile-label">${tile.label}</div>
+   <div class="dtile-readout">${readout(tile,h,day)}</div>
+   <div class="dtile-foot"><span class="status"><span class="dot"></span></span><span class="arrow">Open &rarr;</span></div>
+ </a>`;
+}
+
+const $=id=>document.getElementById(id);
+const grid=$('grid');
+function phaseOf(d){if(d<1)return['Pre-launch','Day 1 begins the install'];if(d<=14)return['Ignition','First accounts register'];if(d<=60)return['Take-off','Adoption climbs steeply'];if(d<=90)return['Convergence','Adoption tail · install completes'];return['Steady operation','Full BRASA running'];}
+function render(h){
+ h=Math.max(0,Math.min(YEAR_H-1,Math.round(h)));const day=Math.floor(h/24),hod=h%24;
+ $('day').textContent='Day '+day+' / 365';$('hm').textContent=day<1?'pre-launch':String(hod).padStart(2,'0')+':00';
+ const aC=adoptC(day);$('install').innerHTML='Install: <b>'+(aC*100).toFixed(aC<1?1:0)+'%</b> · by day 90';
+ const ph=phaseOf(day);$('phaseNm').textContent=ph[0];$('phaseDs').textContent=ph[1];
+ const sum=H.cit[h]+H.pla[h]+H.op[h]+H.fou[h];
+ $('simnote').innerHTML='Modelled year · Σ 80/16/3/1 = whole '+(Math.abs(sum-H.total[h])<Math.max(1,H.total[h]*1e-9)?'<b>✓</b>':'✗')+' · rails = whole '+(Math.abs((H.edu[h]+H.biz[h]+H.phil[h])-H.total[h])<Math.max(1,H.total[h]*1e-9)?'<b>✓</b>':'✗');
+ grid.innerHTML=TILES.map(t=>tileHTML(t,h,day)).join('');
+ $('scrub').value=h;
+}
+
+const SPEEDS=[{l:'1 hr = 1 min',h:1/60,p:'~6.1 days'},{l:'1 hr = 1 sec',h:1,p:'~2.4 hr'},{l:'1 day = 1 sec',h:24,p:'~6.1 min',base:true},{l:'5 days = 1 sec',h:120,p:'~73 sec'},{l:'1 week = 1 sec',h:168,p:'~52 sec'}];
+let speed=2,idx=0,playing=false,last=0;const sEl=$('speeds');
+SPEEDS.forEach((s,i)=>{const b=document.createElement('button');b.className='sp';b.textContent=s.l+(s.base?' (baseline)':'');b.setAttribute('aria-pressed',i===speed);b.onclick=()=>{speed=i;updSp();};sEl.appendChild(b);});
+function updSp(){[...sEl.children].forEach((b,i)=>b.setAttribute('aria-pressed',i===speed));}
+function loop(ts){if(!playing)return;if(!last)last=ts;const dt=(ts-last)/1000;last=ts;idx+=SPEEDS[speed].h*dt;if(idx>=YEAR_H-1){idx=YEAR_H-1;render(idx);stop();return;}render(idx);requestAnimationFrame(loop);}
+function start(){if(playing)return;if(idx>=YEAR_H-1)idx=0;playing=true;last=0;$('play').textContent='❚❚ Pause';requestAnimationFrame(loop);}
+function stop(){playing=false;$('play').textContent='► Play';}
+$('play').onclick=()=>playing?stop():start();$('reset').onclick=()=>{stop();idx=0;render(0);};$('scrub').oninput=e=>{stop();idx=+e.target.value;render(idx);};
+updSp();render(0);
+</script>
+</body>
+</html>

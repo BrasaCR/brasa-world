@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>BRASA — Open Ledger Simulator (V1)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&family=Geist+Mono:wght@300..500&display=swap" rel="stylesheet">
+<style>
+:root{
+ --black:#1B1A17;--soft:#6B6862;--page:#FBF9F4;--cream:#F5F0E5;--rule:#E5DFD0;
+ --accent:#8C3A1F;--green:#0D6E5C;
+ --citizens:#0D6E5C;--planet:#2C5F73;--operating:#C2693B;--founder:#B07D3F;
+ --panel:#1B1A17;--panel2:#23211C;--line:rgba(245,240,229,.14);
+ --serif:'Fraunces','Times New Roman',serif;--sans:'Geist','Helvetica Neue',system-ui,sans-serif;--mono:'Geist Mono',ui-monospace,monospace;
+ --ease:cubic-bezier(.22,.61,.36,1);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--page);color:var(--black);font-family:var(--sans);font-weight:400;-webkit-font-smoothing:antialiased;line-height:1.5}
+.wrap{max-width:1280px;margin:0 auto;padding:1.5rem clamp(1rem,3vw,2rem) 3rem}
+/* top */
+.top{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;margin-bottom:1.2rem}
+.brand{font-family:var(--serif);font-weight:400;font-size:1.15rem}
+.brand b{font-weight:600}
+.simbadge{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--founder);border:1px solid color-mix(in srgb,var(--founder) 55%,transparent);padding:.4rem .7rem}
+.simbadge .pip{width:8px;height:8px;border-radius:999px;background:var(--founder);animation:pip 1.6s infinite}
+@keyframes pip{0%,100%{opacity:1}50%{opacity:.3}}
+.lead{color:var(--soft);font-size:.95rem;max-width:80ch;margin-bottom:1.2rem}
+.lead b{color:var(--accent)}
+/* console */
+.console{background:var(--panel);color:var(--cream);padding:clamp(1.2rem,2.5vw,2rem);position:relative;overflow:hidden;isolation:isolate}
+.console::before{content:'SIMULATION';position:absolute;inset:0;z-index:0;display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-weight:600;font-size:clamp(4rem,14vw,11rem);color:rgba(245,240,229,.035);letter-spacing:.1em;transform:rotate(-8deg);pointer-events:none;white-space:nowrap}
+.console>*{position:relative;z-index:1}
+/* clock row */
+.clockrow{display:flex;justify-content:space-between;align-items:flex-end;gap:1.5rem;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:1.1rem;margin-bottom:1.4rem}
+.clock .day{font-family:var(--serif);font-weight:300;font-size:clamp(1.8rem,4vw,2.8rem);line-height:1}
+.clock .hm{font-family:var(--mono);color:rgba(245,240,229,.6);font-size:.9rem;margin-top:.3rem}
+.phase{text-align:right}
+.phase .nm{font-family:var(--serif);font-size:1.3rem;color:#fff}
+.phase .ds{font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:rgba(245,240,229,.55);margin-top:.2rem}
+.install{font-family:var(--mono);font-size:.82rem;color:rgba(245,240,229,.7)}
+.install b{color:var(--green)}
+/* grid */
+.grid{display:grid;grid-template-columns:1.15fr 1fr;gap:clamp(1rem,2.5vw,2rem)}
+@media(max-width:840px){.grid{grid-template-columns:1fr}}
+.k{font-size:.66rem;letter-spacing:.18em;text-transform:uppercase;color:rgba(245,240,229,.5);margin-bottom:.5rem}
+.total{font-family:var(--serif);font-weight:300;font-size:clamp(2.2rem,5.5vw,3.6rem);letter-spacing:-.02em;color:#fff;font-variant-numeric:tabular-nums}
+.total .cur{color:rgba(245,240,229,.5);font-size:.45em;margin-right:.2em}
+.sub{font-family:var(--mono);font-size:.8rem;color:rgba(245,240,229,.55);margin-top:.3rem}
+.sbar{display:flex;height:30px;width:100%;margin:1.4rem 0 .5rem;background:rgba(245,240,229,.07);overflow:hidden}
+.sbar i{height:100%}
+.sbar-keys{display:flex;font-family:var(--mono);font-size:.66rem;color:rgba(245,240,229,.5)}
+.allocs{display:grid;grid-template-columns:repeat(4,1fr);gap:.8rem;margin-top:1.5rem}
+.alloc{border-top:2px solid var(--hue);padding-top:.6rem}
+.alloc .nm{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--hue);font-weight:500}
+.alloc .am{font-family:var(--mono);font-size:.82rem;color:#fff;margin-top:.3rem;font-variant-numeric:tabular-nums}
+.alloc .pc{font-family:var(--mono);font-size:.64rem;color:rgba(245,240,229,.45)}
+/* charts */
+.chart{margin-top:.2rem}
+.chart svg{width:100%;display:block}
+.axis{font-family:var(--mono);font-size:9px;fill:rgba(245,240,229,.4)}
+.reg{display:flex;gap:1.6rem;flex-wrap:wrap;margin-top:1.4rem;border-top:1px solid var(--line);padding-top:1.1rem}
+.reg .v{font-family:var(--mono);font-size:1.1rem;color:#fff;font-variant-numeric:tabular-nums}
+/* controls */
+.controls{margin-top:1.6rem;border-top:1px solid var(--line);padding-top:1.3rem}
+.btnrow{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+.btn{font-family:var(--sans);font-size:.78rem;letter-spacing:.04em;padding:.55rem .9rem;border:1px solid var(--line);background:transparent;color:var(--cream);cursor:pointer;transition:all .2s var(--ease)}
+.btn:hover{background:rgba(245,240,229,.08)}
+.btn.primary{background:var(--cream);color:var(--black);border-color:var(--cream);font-weight:600}
+.speeds{display:flex;gap:.35rem;flex-wrap:wrap;margin-left:.4rem}
+.sp{font-family:var(--mono);font-size:.68rem;padding:.4rem .6rem;border:1px solid var(--line);background:transparent;color:rgba(245,240,229,.7);cursor:pointer}
+.sp[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.scrub{display:flex;align-items:center;gap:.8rem;margin-top:1.1rem}
+.scrub input[type=range]{flex:1;accent-color:var(--accent);height:4px}
+.playsin{font-family:var(--mono);font-size:.72rem;color:rgba(245,240,229,.6);margin-top:.7rem}
+.playsin b{color:var(--cream)}
+.foot{margin-top:1.2rem;color:var(--soft);font-size:.78rem;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="top">
+  <div class="brand">BRASA · <b>Open Ledger Simulator</b></div>
+  <div class="simbadge"><span class="pip"></span>Simulation — V1</div>
+ </div>
+ <p class="lead">A simulated year of BRASA running in one country — a mandatory 90-day install (Bass adoption curve) then operation to day 365. <b>All figures are simulated</b> and feed the Open Ledger's sample state only — never the live ledger. The 80/16/3/1 split is conserved to the colón at every step.</p>
+
+ <div class="console">
+  <div class="clockrow">
+   <div class="clock"><div class="day" id="day">Day 0 / 365</div><div class="hm" id="hm">00:00 · pre-launch</div></div>
+   <div class="install" id="install">Install: <b>0%</b> · 0 / 5,000,000 registered</div>
+   <div class="phase"><div class="nm" id="phaseNm">Pre-launch</div><div class="ds" id="phaseDs">Day 1 begins the install</div></div>
+  </div>
+
+  <div class="grid">
+   <!-- left: ledger -->
+   <div>
+    <div class="k">Total routed · simulated</div>
+    <div class="total"><span class="cur">₡</span><span id="total">0</span></div>
+    <div class="sub" id="rate">— per hour</div>
+    <div class="sbar" id="sbar">
+     <i style="width:80%;background:var(--citizens)"></i><i style="width:16%;background:var(--planet)"></i><i style="width:3%;background:var(--operating)"></i><i style="width:1%;background:var(--founder)"></i>
+    </div>
+    <div class="sbar-keys"><span style="width:80%">80 · citizens</span><span style="width:16%">16 · planet</span><span style="width:3%">3</span><span style="width:1%">1</span></div>
+    <div class="allocs">
+     <div class="alloc" style="--hue:var(--citizens)"><div class="nm">Citizens</div><div class="am" id="aCit">₡ 0</div><div class="pc">80%</div></div>
+     <div class="alloc" style="--hue:var(--planet)"><div class="nm">Planet</div><div class="am" id="aPla">₡ 0</div><div class="pc">16%</div></div>
+     <div class="alloc" style="--hue:var(--operating)"><div class="nm">Operating</div><div class="am" id="aOp">₡ 0</div><div class="pc">3%</div></div>
+     <div class="alloc" style="--hue:var(--founder)"><div class="nm">Founder</div><div class="am" id="aFou">₡ 0</div><div class="pc">1%</div></div>
+    </div>
+    <div class="reg">
+     <div><div class="k">Registered citizens</div><div class="v" id="regCum">0</div></div>
+     <div><div class="k">New today</div><div class="v" id="regDay">0</div></div>
+     <div><div class="k">Active now</div><div class="v" id="active">0</div></div>
+    </div>
+   </div>
+   <!-- right: charts -->
+   <div>
+    <div class="k">The spread · daily flow across the year</div>
+    <div class="chart"><svg id="spread" viewBox="0 0 1000 300" preserveAspectRatio="none" aria-label="Daily flow across the year"></svg></div>
+    <div class="k" style="margin-top:1.3rem">The 90-day install · adoption curve</div>
+    <div class="chart"><svg id="adopt" viewBox="0 0 1000 200" preserveAspectRatio="none" aria-label="Adoption S-curve"></svg></div>
+   </div>
+  </div>
+
+  <div class="controls">
+   <div class="btnrow">
+    <button class="btn primary" id="play">► Play</button>
+    <button class="btn" id="reset">↺ Reset</button>
+    <div class="speeds" id="speeds" role="group" aria-label="Playback speed"></div>
+   </div>
+   <div class="scrub">
+    <span style="font-family:var(--mono);font-size:.7rem;color:rgba(245,240,229,.5)">Day 0</span>
+    <input type="range" id="scrub" min="0" max="8759" value="0" step="1" aria-label="Scrub through the year">
+    <span style="font-family:var(--mono);font-size:.7rem;color:rgba(245,240,229,.5)">365</span>
+   </div>
+   <div class="playsin" id="playsin">At <b>1 day = 1 sec</b>, the full year plays in <b>~6.1 min</b> · the 90-day install in <b>~90 sec</b>.</div>
+  </div>
+ </div>
+
+ <div class="foot">
+  <span>BRASA — Open Ledger Simulator V1 · system-dynamics ledger + Bass install. Simulated data only.</span>
+  <span>Σ shares = total, to the colón. Never shown as the live ledger.</span>
+ </div>
+</div>
+
+<script>
+"use strict";
+/* ───────── parameters ───────── */
+const N = 5_000_000;            // synthetic country population
+const YEAR_H = 8760;            // hours in the year
+const INSTALL_D = 90;           // mandatory complete install by day 90
+const P_INNOV = 0.008, Q_IMIT = 0.090;   // Bass coefficients
+const PER_CAP_H = 0.04;         // simulated ₡ routed per active citizen per hour
+
+/* deterministic noise */
+function rnd(i){ let x=Math.sin(i*12.9898)*43758.5453; return x-Math.floor(x); }
+
+/* ───────── Bass install (normalised to 100% at day 90) ───────── */
+function bassRaw(t){ const e=Math.exp(-(P_INNOV+Q_IMIT)*t); return (1-e)/(1+(Q_IMIT/P_INNOV)*e); }
+const bass90 = bassRaw(INSTALL_D);
+function adoption(day){ if(day<=0) return 0; if(day>=INSTALL_D) return 1; return Math.min(1, bassRaw(day)/bass90); }
+
+/* ───────── precompute the year ───────── */
+const cumTotal=new Float64Array(YEAR_H), cumCit=new Float64Array(YEAR_H), cumPla=new Float64Array(YEAR_H),
+      cumOp=new Float64Array(YEAR_H), cumFou=new Float64Array(YEAR_H), hourFlow=new Float64Array(YEAR_H),
+      activeAt=new Float64Array(YEAR_H);
+const dayFlow=new Float64Array(365), adoptDay=new Float64Array(366), regCumDay=new Float64Array(366), regNewDay=new Float64Array(366);
+let T=0,C=0,Pl=0,O=0,F=0;
+for(let d=0;d<=365;d++){ adoptDay[d]=adoption(d); regCumDay[d]=Math.round(N*adoptDay[d]); regNewDay[d]=d?regCumDay[d]-regCumDay[d-1]:regCumDay[0]; }
+for(let h=0;h<YEAR_H;h++){
+  const day=Math.floor(h/24), hod=h%24;
+  const act=N*adoption(day);
+  const diurnal=1+0.45*Math.sin((hod/24)*2*Math.PI - Math.PI/2);   // low at night, peak midday
+  const seasonal=1+0.12*Math.sin((day/365)*2*Math.PI);
+  const noise=0.94+0.12*rnd(h);
+  const inflow=act*PER_CAP_H*diurnal*seasonal*noise;
+  // conservation: split and force Σ = inflow to the colón (citizens absorbs remainder)
+  let pla=Math.round(inflow*0.16), op=Math.round(inflow*0.03), fo=Math.round(inflow*0.01);
+  let cit=Math.round(inflow)-pla-op-fo;
+  T+=Math.round(inflow); C+=cit; Pl+=pla; O+=op; F+=fo;
+  cumTotal[h]=T;cumCit[h]=C;cumPla[h]=Pl;cumOp[h]=O;cumFou[h]=F;hourFlow[h]=Math.round(inflow);activeAt[h]=act;
+  dayFlow[day]+=Math.round(inflow);
+}
+const GRAND=T;
+
+/* ───────── formatting ───────── */
+const fmt=n=>Math.round(n).toLocaleString('en-US');
+const HUES={cit:'#0D6E5C',pla:'#2C5F73',op:'#C2693B',fou:'#B07D3F'};
+
+/* ───────── draw static spread chart ───────── */
+const NS='http://www.w3.org/2000/svg';
+const maxDF=Math.max(...dayFlow);
+function x(day){return day/364*1000;} function y(v){return 290-(v/maxDF)*270;}
+(function drawSpread(){
+  const svg=document.getElementById('spread');
+  // install band
+  const band=document.createElementNS(NS,'rect');
+  band.setAttribute('x',0);band.setAttribute('y',0);band.setAttribute('width',x(90));band.setAttribute('height',300);
+  band.setAttribute('fill','rgba(140,58,31,.12)');svg.appendChild(band);
+  // full (dim) area
+  let d='M0 300 ';for(let day=0;day<365;day++)d+='L'+x(day).toFixed(1)+' '+y(dayFlow[day]).toFixed(1)+' ';d+='L1000 300 Z';
+  const base=document.createElementNS(NS,'path');base.setAttribute('d',d);base.setAttribute('fill','rgba(245,240,229,.10)');svg.appendChild(base);
+  // progress area (updated)
+  const prog=document.createElementNS(NS,'path');prog.setAttribute('id','prog');prog.setAttribute('fill','rgba(13,110,92,.55)');svg.appendChild(prog);
+  // playhead
+  const ph=document.createElementNS(NS,'line');ph.setAttribute('id','ph');ph.setAttribute('y1',0);ph.setAttribute('y2',300);ph.setAttribute('stroke','#F5F0E5');ph.setAttribute('stroke-width','1.5');svg.appendChild(ph);
+  // phase markers
+  [[90,'install ends']].forEach(([dd,lab])=>{const l=document.createElementNS(NS,'line');l.setAttribute('x1',x(dd));l.setAttribute('x2',x(dd));l.setAttribute('y1',0);l.setAttribute('y2',300);l.setAttribute('stroke','rgba(245,240,229,.3)');l.setAttribute('stroke-dasharray','3 3');svg.appendChild(l);
+   const tx=document.createElementNS(NS,'text');tx.setAttribute('x',x(dd)+4);tx.setAttribute('y',14);tx.setAttribute('class','axis');tx.textContent='day 90 · install ends';svg.appendChild(tx);});
+})();
+(function drawAdopt(){
+  const svg=document.getElementById('adopt');
+  let d='M0 190 ';for(let day=0;day<=120&&day<=365;day++){const ax=day/120*1000, ay=190-adoptDay[Math.min(day,365)]*180;d+='L'+ax.toFixed(1)+' '+ay.toFixed(1)+' ';}
+  const line=document.createElementNS(NS,'path');line.setAttribute('d',d.replace('M0 190 ','M0 190 ').replace(/^M0 190 L/,'M'));
+  // build a clean stroke path
+  let s='';for(let day=0;day<=120;day++){const ax=day/120*1000, ay=190-adoptDay[Math.min(day,365)]*180;s+=(day?'L':'M')+ax.toFixed(1)+' '+ay.toFixed(1)+' ';}
+  const p=document.createElementNS(NS,'path');p.setAttribute('d',s);p.setAttribute('fill','none');p.setAttribute('stroke',HUES.cit);p.setAttribute('stroke-width','2');svg.appendChild(p);
+  const g90=document.createElementNS(NS,'line');g90.setAttribute('x1',90/120*1000);g90.setAttribute('x2',90/120*1000);g90.setAttribute('y1',0);g90.setAttribute('y2',190);g90.setAttribute('stroke','rgba(245,240,229,.3)');g90.setAttribute('stroke-dasharray','3 3');svg.appendChild(g90);
+  const t90=document.createElementNS(NS,'text');t90.setAttribute('x',90/120*1000-70);t90.setAttribute('y',14);t90.setAttribute('class','axis');t90.textContent='day 90 · 100%';svg.appendChild(t90);
+  const dot=document.createElementNS(NS,'circle');dot.setAttribute('id','adot');dot.setAttribute('r','4');dot.setAttribute('fill','#fff');svg.appendChild(dot);
+})();
+
+/* ───────── live render ───────── */
+const $=id=>document.getElementById(id);
+function phaseOf(day){ if(day<1)return['Pre-launch','Day 1 begins the install'];
+  if(day<=14)return['Ignition','Innovators register · install begins'];
+  if(day<=60)return['Take-off','Imitation drives steep adoption'];
+  if(day<=90)return['Convergence','Adoption tail · install completes'];
+  return['Steady operation','Full BRASA running'];}
+function render(h){
+  h=Math.max(0,Math.min(YEAR_H-1,Math.round(h)));
+  const day=Math.floor(h/24), hod=h%24;
+  $('day').textContent='Day '+day+' / 365';
+  $('hm').textContent=String(hod).padStart(2,'0')+':00'+(day<1?' · pre-launch':'');
+  $('total').textContent=fmt(cumTotal[h]);
+  $('rate').textContent='₡ '+fmt(hourFlow[h])+' routed this hour';
+  $('aCit').textContent='₡ '+fmt(cumCit[h]); $('aPla').textContent='₡ '+fmt(cumPla[h]);
+  $('aOp').textContent='₡ '+fmt(cumOp[h]); $('aFou').textContent='₡ '+fmt(cumFou[h]);
+  const ad=adoptDay[Math.min(day,365)];
+  $('install').innerHTML='Install: <b>'+(ad*100).toFixed(ad<1?1:0)+'%</b> · '+fmt(regCumDay[Math.min(day,365)])+' / '+fmt(N)+' registered';
+  const ph=phaseOf(day); $('phaseNm').textContent=ph[0]; $('phaseDs').textContent=ph[1];
+  $('regCum').textContent=fmt(regCumDay[Math.min(day,365)]);
+  $('regDay').textContent=fmt(regNewDay[Math.min(day,365)]);
+  $('active').textContent=fmt(activeAt[h]);
+  // spread progress
+  let d='M0 300 ';for(let dd=0;dd<=day&&dd<365;dd++)d+='L'+x(dd).toFixed(1)+' '+y(dayFlow[dd]).toFixed(1)+' ';d+='L'+x(Math.min(day,364)).toFixed(1)+' 300 Z';
+  $('prog').setAttribute('d',d);
+  const phx=x(Math.min(day,364)); $('ph').setAttribute('x1',phx);$('ph').setAttribute('x2',phx);
+  const adx=Math.min(day,120)/120*1000, ady=190-ad*180; $('adot').setAttribute('cx',adx);$('adot').setAttribute('cy',ady);
+  $('scrub').value=h;
+}
+
+/* ───────── playback ───────── */
+const SPEEDS=[
+ {lab:'1 hr = 1 min',hps:1/60,plays:'~6.1 days',inst:'~36 hr',base:true},
+ {lab:'1 hr = 1 sec',hps:1,plays:'~2.4 hr',inst:'~36 min'},
+ {lab:'1 day = 1 sec',hps:24,plays:'~6.1 min',inst:'~90 sec'},
+ {lab:'5 days = 1 sec',hps:120,plays:'~73 sec',inst:'~18 sec'},
+ {lab:'1 week = 1 sec',hps:168,plays:'~52 sec',inst:'~13 sec'},
+];
+let speed=2, idx=0, playing=false, last=0;
+const speedsEl=$('speeds');
+SPEEDS.forEach((s,i)=>{const b=document.createElement('button');b.className='sp';b.textContent=s.lab+(s.base?' (baseline)':'');b.setAttribute('aria-pressed',i===speed);b.onclick=()=>{speed=i;updSpeeds();};speedsEl.appendChild(b);});
+function updSpeeds(){[...speedsEl.children].forEach((b,i)=>b.setAttribute('aria-pressed',i===speed));
+ const s=SPEEDS[speed];$('playsin').innerHTML='At <b>'+s.lab+'</b>, the full year plays in <b>'+s.plays+'</b> · the 90-day install in <b>'+s.inst+'</b>.';}
+function loop(ts){ if(!playing)return; if(!last)last=ts; const dt=(ts-last)/1000; last=ts;
+ idx+=SPEEDS[speed].hps*dt; if(idx>=YEAR_H-1){idx=YEAR_H-1;render(idx);stop();return;} render(idx); requestAnimationFrame(loop); }
+function start(){ if(playing)return; if(idx>=YEAR_H-1)idx=0; playing=true;last=0;$('play').textContent='❚❚ Pause';requestAnimationFrame(loop); }
+function stop(){ playing=false;$('play').textContent='► Play'; }
+$('play').onclick=()=>playing?stop():start();
+$('reset').onclick=()=>{stop();idx=0;render(0);};
+$('scrub').oninput=e=>{stop();idx=+e.target.value;render(idx);};
+updSpeeds();render(0);
+</script>
+</body>
+</html>
