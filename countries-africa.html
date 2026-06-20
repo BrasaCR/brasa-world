@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="BRASA · Education, World Wide · Owned by the citizens of the world">
+<meta name="theme-color" content="#1B1A17">
+
+<title>Africa — The Federation — BRASA</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.brasa.world">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&display=swap">
+
+<style>
+:root {
+  --brasa-black:#1B1A17; --brasa-soft:#6B6862; --brasa-accent:#8C3A1F; --brasa-green:#0D6E5C;
+  --brasa-callout:#F2EDE0; --brasa-page:#FBF9F4; --brasa-cream:#F5F0E5; --brasa-rule:#E5DFD0;
+  --serif:'Fraunces','Times New Roman',serif; --sans:'Geist','Helvetica Neue',system-ui,sans-serif;
+  --max-w:1480px; --gutter:clamp(1.25rem,4vw,2.75rem);
+  --ease:cubic-bezier(0.22,0.61,0.36,1); --ease-photo:cubic-bezier(0.16,0.84,0.34,1);
+}
+* { box-sizing:border-box; margin:0; padding:0; }
+html { scroll-behavior:smooth; -webkit-text-size-adjust:100%; }
+body { background:var(--brasa-page); color:var(--brasa-black); font-family:var(--sans); font-weight:400; line-height:1.5; font-feature-settings:"ss01","ss02"; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; overflow-x:hidden; }
+a { color:inherit; text-decoration:none; -webkit-tap-highlight-color:transparent; }
+img { display:block; max-width:100%; height:auto; }
+.container { width:100%; max-width:var(--max-w); margin:0 auto; padding-left:var(--gutter); padding-right:var(--gutter); }
+.eyebrow { font-family:var(--sans); font-size:0.75rem; font-weight:500; letter-spacing:0.18em; text-transform:uppercase; color:var(--brasa-accent); margin-bottom:1rem; }
+.section-h { font-family:var(--serif); font-weight:350; font-size:clamp(2rem,4vw,3rem); line-height:1.05; letter-spacing:-0.015em; font-variation-settings:"opsz" 144,"SOFT" 50,"WONK" 0; margin-bottom:1.5rem; max-width:28ch; }
+.site-header { position:fixed; top:0; left:0; right:0; z-index:100; padding:1.25rem var(--gutter); display:flex; align-items:center; justify-content:space-between; pointer-events:none; transition:padding 380ms var(--ease); }
+.site-header > * { pointer-events:auto; }
+.site-header.scrolled { padding-top:0.9rem; padding-bottom:0.9rem; }
+.wordmark { display:flex; align-items:center; }
+.wordmark-img { height:140px; width:auto; display:block; }
+.hero { position:relative; width:100%; min-height:64vh; min-height:64svh; display:flex; align-items:flex-end; overflow:hidden; background:var(--brasa-black); }
+.hero-photo { position:absolute; inset:0; z-index:1; overflow:hidden; }
+.hero-photo::after { content:''; position:absolute; inset:0; background:linear-gradient(180deg, rgba(27,26,23,0.35) 0%, rgba(27,26,23,0.15) 35%, rgba(27,26,23,0.30) 60%, rgba(27,26,23,0.78) 100%); z-index:2; }
+.hero-photo img { width:100%; height:100%; object-fit:cover; animation:heroBreathe 28s var(--ease-photo) infinite alternate; filter:saturate(0.95) contrast(1.02); }
+@keyframes heroBreathe { 0%{transform:scale(1.0) translateX(0);} 100%{transform:scale(1.08) translateX(-1.5%);} }
+.hero-content { position:relative; z-index:3; width:100%; padding:0 var(--gutter) clamp(3rem,8vh,5.5rem); color:var(--brasa-cream); }
+.hero-eyebrow { font-family:var(--sans); font-size:0.75rem; font-weight:500; letter-spacing:0.22em; text-transform:uppercase; color:rgba(245,240,229,0.78); margin-bottom:1rem; opacity:0; transform:translateY(20px); animation:heroReveal 1.4s 0.25s var(--ease) forwards; }
+.hero-identity { font-family:var(--serif); font-weight:300; font-size:clamp(2.6rem,7vw,5.6rem); line-height:0.98; letter-spacing:-0.03em; font-variation-settings:"opsz" 144,"SOFT" 60,"WONK" 1; margin-bottom:1.25rem; opacity:0; transform:translateY(28px); animation:heroReveal 1.6s 0.4s var(--ease) forwards; }
+.hero-tag { font-family:var(--sans); font-weight:400; font-size:clamp(1rem,1.5vw,1.2rem); letter-spacing:0.01em; line-height:1.5; color:rgba(245,240,229,0.86); max-width:46ch; opacity:0; transform:translateY(20px); animation:heroReveal 1.6s 0.85s var(--ease) forwards; }
+@keyframes heroReveal { to { opacity:1; transform:translateY(0); } }
+.section { padding-top:clamp(3.5rem,8vh,6.5rem); padding-bottom:clamp(4rem,10vh,8rem); }
+.reveal { opacity:0; transform:translateY(30px); transition:opacity 1.2s var(--ease), transform 1.2s var(--ease); }
+.reveal.is-visible { opacity:1; transform:translateY(0); }
+@media (prefers-reduced-motion:reduce){ .reveal,.hero-identity,.hero-tag,.hero-eyebrow{opacity:1;transform:none;animation:none;} .hero-photo img{animation:none;} *{transition-duration:0.001ms !important;} }
+.rights-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.1rem; }
+@media (max-width:760px){ .rights-grid{ grid-template-columns:repeat(2,1fr); gap:0.85rem; } }
+@media (max-width:480px){ .rights-grid{ grid-template-columns:1fr; } }
+.right-tile { position:relative; display:block; aspect-ratio:4/3; overflow:hidden; background:var(--brasa-callout); isolation:isolate; }
+.right-tile-primary { position:absolute; inset:0; z-index:1; display:block; cursor:pointer; }
+.right-photo { position:absolute; inset:0; z-index:1; }
+.right-photo::after { content:''; position:absolute; inset:0; background:linear-gradient(180deg, rgba(27,26,23,0) 50%, rgba(27,26,23,0.7) 100%); z-index:2; }
+.right-photo img { width:100%; height:100%; object-fit:cover; transition:transform 1500ms var(--ease-photo); filter:saturate(0.92) contrast(1.03); }
+.right-tile:hover .right-photo img { transform:scale(1.07); }
+.right-label { position:absolute; bottom:0; left:0; right:0; z-index:3; padding:1.25rem 1.35rem; color:var(--brasa-cream); font-family:var(--serif); font-weight:400; font-size:1.4rem; letter-spacing:-0.005em; line-height:1.1; font-variation-settings:"opsz" 48,"SOFT" 40; }
+.backlink { display:inline-flex; align-items:center; gap:0.5rem; margin-top:0.4rem; font-family:var(--sans); font-size:0.78rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:var(--brasa-accent); }
+.backlink svg { transition:transform 320ms var(--ease); }
+.backlink:hover svg { transform:translateX(-4px); }
+.site-footer { background:var(--brasa-black); color:var(--brasa-cream); padding:clamp(3rem,7vh,5rem) var(--gutter) 2rem; }
+.footer-inner { max-width:var(--max-w); margin:0 auto; display:grid; grid-template-columns:1fr auto; gap:2.5rem; align-items:end; }
+@media (max-width:720px){ .footer-inner{ grid-template-columns:1fr; } }
+.footer-mark-img { height:220px; width:auto; display:block; margin-bottom:0.75rem; }
+.footer-tagline { font-family:var(--sans); font-size:0.82rem; font-weight:400; letter-spacing:0.04em; color:rgba(245,240,229,0.65); max-width:48ch; line-height:1.6; }
+.footer-links { display:flex; flex-direction:column; gap:0.65rem; font-family:var(--sans); font-size:0.82rem; font-weight:500; letter-spacing:0.04em; text-align:right; }
+@media (max-width:720px){ .footer-links{ text-align:left; flex-direction:row; flex-wrap:wrap; gap:1rem 1.5rem; } }
+.footer-links a { color:rgba(245,240,229,0.78); transition:color 280ms var(--ease); }
+.footer-links a:hover { color:var(--brasa-cream); }
+.footer-bottom { max-width:var(--max-w); margin:3rem auto 0; padding-top:1.5rem; border-top:1px solid rgba(245,240,229,0.12); display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem; font-family:var(--sans); font-size:0.72rem; letter-spacing:0.06em; color:rgba(245,240,229,0.4); }
+:focus-visible { outline:2px solid var(--brasa-accent); outline-offset:3px; }
+.right-tile-primary:focus-visible { outline-offset:-3px; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header" id="header">
+  <a href="index.html" class="wordmark" aria-label="BRASA — Home">
+    <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="wordmark-img" alt="BRASA">
+  </a>
+</header>
+
+<!-- HERO -->
+<section class="hero" aria-labelledby="hero-identity">
+  <div class="hero-photo">
+    <img src="https://assets.brasa.world/Photos/vecteezy_magnifying-glass-on-a-table-with-a-world-map_29093864.jpg" alt="Africa — the citizens of the world" loading="eager" fetchpriority="high" width="2000" height="1125">
+  </div>
+  <div class="hero-content container">
+    <p class="hero-eyebrow">The Federation</p>
+    <h1 class="hero-identity" id="hero-identity">Africa</h1>
+    <p class="hero-tag">The nations of the African continent.</p>
+  </div>
+</section>
+
+<!-- COUNTRIES -->
+<section class="section" id="countries" aria-labelledby="countries-h">
+  <div class="container">
+    <div class="reveal">
+      <p class="eyebrow">Countries of the World</p>
+      <h2 class="section-h" id="countries-h">54 nations.</h2>
+      <a href="index.html#federation" class="backlink"><svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M13 8H3M7 4L3 8l4 4"/></svg> All regions</a>
+    </div>
+    <div class="reveal">
+      <div class="rights-grid">
+        <div class="right-tile">
+          <a href="ledger-rwanda.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_rwanda-national-flag-waving-under-blue-sky_66245085.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Rwanda</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-kenya.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_kenya-flag-realistic-waving-fabric-flag_9404165.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Kenya</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-tanzania.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_tanzania-waving-flag-illustration-on-grey-background_4883857.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Tanzania</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-uganda.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_uganda-flag-waving-against-clear-blue-sky_51811201.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Uganda</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-burundi.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_burundi-national-flag-featuring-green-white-and-red-cross_66245052.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Burundi</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-south-sudan.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_south-sudan-waving-flag-illustration-on-grey-background_4883846.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">South Sudan</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-dr-congo.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-democratic-republic-of-the-congo-flag-realistic-waving_74606053.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">DR Congo</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-ethiopia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_ethiopia-flag-waving-against-clear-blue-sky_51811315.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Ethiopia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-somalia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-somalia-flag-realistic-waving_74606143.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Somalia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-djibouti.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-djibouti-flag-realistic-waving-fabric-flag_74606015.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Djibouti</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-eritrea.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_eritrea-waving-flag_4883829.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Eritrea</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-nigeria.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_nigeria-flag-is-waving-in-front-of-a-blue-sky-with-blurred_45696900.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Nigeria</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-ghana.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_ghana-flag-waving-against-clear-blue-sky_51811143.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Ghana</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-senegal.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-senegal-flag-realistic-waving_74606022.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Senegal</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-cote-divoire.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_ivory-coast-flag-waving-against-clear-blue-sky_51811274.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Côte d'Ivoire</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-cameroon.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-cameroon-flag-realistic-waving-fabric-flag_74606159.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Cameroon</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-south-africa.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_south-africa-flag-waving-against-clear-blue-sky_51811179.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">South Africa</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-zambia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_zambia-flag-waving-against-clear-blue-sky_51811175.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Zambia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-mozambique.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_flag-of-mozambique-waving-with-national-emblem-and-symbolic_66244925.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Mozambique</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-egypt.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-egypt-flag-realistic-waving-fabric-flag_74606020.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Egypt</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-morocco.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_morocco-flag-realistic-waving-fabric-flag_9401771.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Morocco</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-algeria.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-algeria-flag-realistic-waving-fabric-flag_74606106.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Algeria</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-angola.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_angola-flag-realistic-waving-fabric-flag_9400468.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Angola</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-benin.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-benin-flag-realistic-waving-fabric-flag_74606057.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Benin</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-botswana.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-botswana-flag-realistic-waving-fabric-flag_74606123.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Botswana</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-burkina-faso.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/BF%20pic.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Burkina Faso</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-cabo-verde.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_cabo-verde-flag-isolated-on-white-background-3d-illustration_7325747.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Cabo Verde</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-central-african-republic.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_central-african-republic-national-flag-waving-on-gray_28759321.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Central African Republic</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-chad.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-chad-flag-realistic-waving-fabric_74606175.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Chad</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-comoros.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_comoros-flag-wind-waving-with-pole_53081153.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Comoros</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-congo.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-republic-of-the-congo-flag-realistic-waving-fabric-flag_74606180.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Congo</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-equatorial-guinea.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-equatorial-guinea-flag-realistic-waving-fabric-flag_74606033.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Equatorial Guinea</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-eswatini.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_eswatini-flag-waving-against-clear-blue-sky_51811268.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Eswatini</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-gabon.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-gabon-flag-realistic-waving-fabric-flag_74606125.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Gabon</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-gambia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_gambia-flag-realistic-waving-fabric-flag_9399602.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Gambia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-guinea.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_close-up-waving-flag-of-guinea_7134964.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Guinea</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-guinea-bissau.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/GB%20flag.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Guinea-Bissau</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-lesotho.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_lesotho-flag-flying-high-in-the-isolated-background-lesotho_4695069.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Lesotho</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-liberia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_liberia-flag-is-waving-in-front-of-a-blue-sky-with-blurred_45696847.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Liberia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-libya.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_libya-flag-realistic-waving-fabric-flag_9233238.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Libya</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-madagascar.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_madagascar-flag-on-pole_8417161.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Madagascar</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-malawi.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_malawi-flag-is-waving-in-front-of-a-blue-sky-with-blurred_45696917.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Malawi</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-mali.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-mali-flag-realistic-waving-fabric-flag_74605979.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Mali</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-mauritania.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_file-mauritania-flag-on-a-white-background-image_31729716.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Mauritania</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-mauritius.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_mauritius-3d-rendering-flag-waving-isolated-sky-and-cloud_31729683.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Mauritius</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-namibia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-namibia-flag-realistic-waving-fabric-flag_74606209.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Namibia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-niger.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-niger-flag-realistic-waving-fabric-flag_74605998.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Niger</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-sao-tome-and-principe.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-sao-tome-and-principe-flag_74606208.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">São Tomé and Príncipe</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-seychelles.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-seychelles-flag-realistic-waving-fabric-flag_74606007.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Seychelles</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-sierra-leone.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-sierra-leone-flag-realistic-waving_74606196.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Sierra Leone</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-sudan.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_sudan-flag-realistic-waving-fabric-flag_9422969.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Sudan</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-togo.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-3d-illustration-of-a-togo-flag-realistic-waving-fabric_74605975.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Togo</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-tunisia.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_tunisia-flag-waving-against-clear-blue-sky_51811192.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Tunisia</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="ledger-zimbabwe.html" class="right-tile-primary">
+            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_zimbabwe-flag-waving-against-clear-blue-sky_51811304.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Zimbabwe</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="footer-mark-img" alt="BRASA">
+      <p class="footer-tagline">Education, World Wide. Free education for the citizens of the world. Every school, every level, every learner — funded by commerce, protected by Swiss sovereignty.</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="index.html#subjects">Subjects</a>
+      <a href="index.html#full-catalog">Catalog</a>
+      <a href="how-to-begin.html#join">Become a citizen</a>
+      <a href="https://brasa.world">brasa.world</a>
+    </nav>
+  </div>
+  <div class="footer-bottom">
+    <span>© BRASA CR · 2026 · Education, World Wide</span>
+    <span>Made with care in Costa Rica</span>
+  </div>
+</footer>
+
+<script>
+const header = document.getElementById('header');
+const onScroll = () => { if (window.scrollY > 40) header.classList.add('scrolled'); else header.classList.remove('scrolled'); };
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); } });
+}, { threshold: 0, rootMargin: '0px 0px -10% 0px' });
+document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
+</script>
+
+</body>
+</html>
