@@ -1118,6 +1118,357 @@ https://brasa.world を他の人に共有
 
 「コスタリカ・アレナル 2026年 — すべての人のために、心を込めて作られました。」
 
+🌍 BRASA دنیا
+ایک متحد نظام: تعلیم · حکومت · کاروبار — دنیا کے ہر شہری کے لیے بنایا گیا۔
+🌐 ویب سائٹ: https://brasa.world
+📍 مقام: آرینال · کوسٹا ریکا
+📅 قیام: 2026 · شہریوں کی ملکیت
+
+✨ BRASA کیا ہے؟
+BRASA تعلیم، حکومت اور کاروبار کو ایک مکمل نظام میں متحد کرتا ہے — ہر زبان، ہر ملک اور ہر زندگی کے لیے۔ تمام بنیادی خدمات شہریوں کے لیے مفت ہیں، جن کی پوری کفالت تجارت سے ہوگی — کبھی بھی ٹیکس نہیں۔
+
+💎 ہماری خصوصیات
+🗣️ **7,100 سے زیادہ زبانیں** — ہر شہری اپنی مادری زبان میں
+📜 **21 عالمی حقوق اور آئین** — سب کے لیے واضح تحریری ضمانتیں
+🔍 **مکمل طور پر شفاف** — کھلا رجسٹر + 24 گھنٹے لائیو رپورٹنگ ؛ کچھ بھی پوشیدہ نہیں
+🆓 **شہریوں کے لیے صفر لاگت** — تجارت سے کفالت، کوئی فیس یا ٹیکس نہیں
+🌍 **واقعی عالمی دائرہ** — امریکا · افریقہ · یورپ · ایشیا · مشرق وسطیٰ · بحرالکاہل
+🤝 **عوام کی ملکیت** — نہ کمپنیوں کی، نہ حکومتوں کی — سب کی ہے
+🎓 **سب کے لیے تعلیم** — کاروبار میں مفت ڈگری کا راستہ بھی شامل
+🛒 **مکمل نظام** — بازار، تعلیم، حکومت اور تجارت — سب جڑے ہوئے
+
+🧱 چار ستون
+| ستون | مقصد |
+|---|---|
+| 🎓 تعلیم | مفت عالمی اسکول — علم سب کے لیے آزاد |
+| ⚖️ حکومت | آئینی حکومت اور آپ کے 21 تحفظ شدہ حقوق |
+| 💼 کاروبار | شہری بازار اور مفت کاروباری ڈگریاں |
+| 📖 کھلا رجسٹر | عوامی لائیو ڈیٹا، تصدیق کے قابل، مکمل طور پر کھلا |
+
+📜 21 حقوق
+**جسم · آزاد مرضی · شناخت · سچائی · زبان · رابطہ · خاندان · صحت مند سیارہ · صاف پانی · خوراک · صحت · توانائی · رہائش · تحفظ · امن · تعلیم · آرام · ٹیکنالوجی · انصاف · کاروبار · سفر**
+→ مکمل آئین پڑھیں brasa.world پر
+
+🧩 منصوبے — حقیقی کام، حقیقی اثر
+🏠 رہائش · 🍎 خوراک · 💧 پانی · 💊 ادویات · ⚡ توانائی · 🔬 ٹیکنالوجی · ❤️ فلاحی کام · 🏫 تعلیمی کیمپس
+
+✏️ ویب سائٹ میں بہتری کی تجاویز
+✅ واضح خوش آمدید پیغام: «متحد تعلیم، حکومت اور کاروبار۔ آپ کی زبان میں مفت، ہمیشہ کے لیے۔»
+✅ واضح بٹن: «داخل ہوں» کی جگہ «مفت سیکھیں» · «آئین پڑھیں» · «بازار دیکھیں»
+✅ منطقی ترتیب: BRASA کیا ہے → کیسے شروع کریں → کیسے چلتا ہے → چار ستون → حقوق → منصوبے → شفافیت کے حقائق
+✅ آسان زبان: «کھلا رجسٹر» کو آسان الفاظ میں سمجھائیں
+✅ آسان راستہ: «کیسے شروع کریں» اور «مفت ڈگری کیسے حاصل کریں» ہمیشہ نظر آئیں
+✅ نمایاں کریں: «7,100 سے زیادہ زبانیں»، «صفر لاگت»، «24 گھنٹے شفافیت» سب سے اوپر
+✅ مستقل نیوی گیشن: تمام حصوں تک آسانی سے رسائی
+✅ سرچ میں بہتری: واضح عنوان اور تفصیل تاکہ لوگ آسانی سے BRASA ڈھونڈ سکیں
+
+🚀 ترقی اور رسائی کی حکمت عملی
+🎯 سرچ انجن کی اصلاح
+کلیدی الفاظ: تمام زبانوں میں مفت تعلیم، عالمی آئین، 21 عالمی حقوق، کھلا عوامی رجسٹر، شہری بازار، مفت کاروباری ڈگری آن لائن
+ہر حصے کا واضح عنوان → سرچ میں بہتر درجہ
+کثیر زبانوں کا سہارا → ہر ملک اور گروہ تک پہنچیں
+
+📖 جو مواد خود بخود پھیلے گا
+21 حقوق — علیحدہ صفحہ، آسانی سے شیئر ہونے کے قابل
+«7,100 سے زیادہ زبانیں» — سمجھائیں کہ حقیقی شمولیت کا کیا مطلب ہے
+واضح راہنمائی: «کیسے شروع کریں»، «یہ کیسے چلتا ہے»، «ہمیں کون مالی امداد دیتا ہے»، «کھلا رجسٹر سمجھائیں»
+منصوبوں کی تازہ کاری: رہائش، خوراک، پانی، توانائی — وہ حل جو لوگ ڈھونڈ رہے ہیں
+
+🌍 عوامی رابطہ اور تعاون
+رابطہ کریں: کھلی تعلیمی تنظیمیں، انسانی حقوق کی تنظیمیں، شفافیت اور کھلے ڈیٹا کے گروہ
+آئین اور اقدار شیئر کریں — دوسری ویب سائٹیں ہم سے جڑیں گی → زیادہ رسائی اور قیمتی حیثیت
+واٹس ایپ اور یو ایس ایس ڈی کے ذریعے رسائی — بغیر انٹرنیٹ کے بھی کام کرے گی
+21 حقوق کو وسیع پیمانے پر شیئر کریں — عالمی اور خود بخود پھیلنے والے پیغام
+
+⚡ پہلے کریں یہ
+صفحے کا عنوان اور مرکزی بٹن واضح کریں
+صفحہ شائع کریں: 21 حقوق اور مکمل آئین
+سرچ کے لیے عنوان اور تفصیل شامل کریں
+«کھلا رجسٹر» کو آسان الفاظ میں سمجھائیں
+اپنا مقصد عالمی تنظیموں تک پہنچائیں
+
+📊 تصدیق شدہ عوامی حقائق
+🌎 7,100 سے زیادہ زبانیں معاون
+💰 تمام شہریوں کے لیے صفر لاگت
+📡 24 گھنٹے لائیو رپورٹنگ — ہمیشہ کھلا، ہمیشہ نظر آنے والا
+📱 واٹس ایپ اور یو ایس ایس ڈی پر کام کرے گا — اسمارٹ فون کی ضرورت نہیں
+🌍 198 سے زیادہ ممالک میں موجودگی
+
+🤝 آپ کس طرح مدد کر سکتے ہیں
+⭐ اس ریپوزٹری کو سٹار کریں!
+https://brasa.world کو دوسروں تک پہنچائیں
+بہتری، ترجمے یا تجاویز دیں
+مواد، ڈیزائن یا دستاویزات میں ہماری مدد کریں
+کوڈ، دستاویزات یا ڈیزائن میں حصہ ڈالیں
+
+📄 اصول اور لائسنس
+آئین اول ہے۔ کھلا اور شفاف۔ دنیا کے شہریوں کی ملکیت۔ تمام حقوق BRASA آئینی فریم ورک کے تحفظ میں ہیں۔
+
+«آرینال · کوسٹا ریکا · 2026 — سب کے لیے محبت سے بنایا گیا۔»
+
+🌍 Thế giới BRASA
+Một hệ thống thống nhất: Giáo dục · Chính phủ · Kinh doanh — được xây dựng cho mỗi công dân trên thế giới.
+🌐 Trang web: https://brasa.world
+📍 Nguồn gốc: Arenal · Costa Rica
+📅 Thành lập: 2026 · Thuộc về Công dân
+
+✨ BRASA là gì?
+BRASA thống nhất Giáo dục, Chính phủ và Kinh doanh thành một hệ thống hoàn chỉnh — được thiết kế cho mọi ngôn ngữ, mọi quốc gia và mọi cuộc sống. Tất cả dịch vụ cốt lõi đều miễn phí cho công dân, được tài trợ hoàn toàn bởi thương mại — không thuế, mãi mãi.
+
+💎 Điểm khác biệt của chúng tôi
+🗣️ **Hơn 7.100 Ngôn ngữ** — Mỗi công dân bằng ngôn ngữ mẹ đẻ của mình
+📜 **21 Quyền Toàn cầu & Hiến pháp** — Các cam kết rõ ràng bằng văn bản cho tất cả mọi người
+🔍 **Hoàn toàn Minh bạch** — Sổ mở + Báo cáo trực tuyến 24/7 ; Không gì bị che giấu
+🆓 **Chi phí 0$ cho Công dân** — Được tài trợ bởi thương mại, không phí hay thuế
+🌍 **Thực sự Toàn cầu** — Châu Mỹ · Châu Phi · Châu Âu · Châu Á · Trung Đông · Châu Đại Dương
+🤝 **Thuộc về Nhân dân** — Không thuộc về công ty, không thuộc về chính phủ — Thuộc về tất cả mọi người
+🎓 **Giáo dục cho Tất cả** — Bao gồm lộ trình lấy Bằng Kinh doanh Miễn phí
+🛒 **Hệ sinh thái Hoàn chỉnh** — Thị trường, học tập, quản trị và thương mại — Tất cả đều kết nối với nhau
+
+🧱 Bốn Trụ cột
+| Trụ cột | Mục đích |
+|---|---|
+| 🎓 Giáo dục | Trường Học Toàn cầu Miễn phí — Kiến thức mở cho tất cả |
+| ⚖️ Chính phủ | Quản trị theo Hiến pháp & 21 quyền được bảo vệ của bạn |
+| 💼 Kinh doanh | Thị trường Công dân & Bằng cấp Kinh doanh Miễn phí |
+| 📖 Sổ Mở | Dữ liệu công khai trực tiếp, có thể xác minh — Hoàn toàn mở và minh bạch |
+
+📜 21 Quyền
+**Thân thể · Ý chí Tự do · Bản sắc · Sự thật · Ngôn ngữ · Truyền thông · Gia đình · Hành tinh Khỏe · Nước sạch · Thực phẩm · Sức khỏe · Năng lượng · Nơi ở · An toàn · Hòa bình · Giáo dục · Nghỉ ngơi · Công nghệ · Công lý · Kinh doanh · Đi lại**
+→ *Đọc Hiến pháp đầy đủ tại brasa.world*
+
+🧩 Dự án Giải pháp — Hành động Thực tế, Ảnh hưởng Thực tế
+🏠 Nhà ở · 🍎 Thực phẩm · 💧 Nước · 💊 Thuốc men · ⚡ Năng lượng · 🔬 Công nghệ · ❤️ Từ thiện · 🏫 Cơ sở Giáo dục
+
+✏️ Đề xuất Cải thiện Trang web
+✅ Thông điệp chính rõ ràng hơn: «Giáo dục, Quản trị & Kinh doanh thống nhất. Miễn phí bằng ngôn ngữ của bạn, mãi mãi.»
+✅ Nút rõ nghĩa: Thay «Vào →» bằng «Học Miễn phí» · «Xem Hiến pháp» · «Khám phá Thị trường»
+✅ Luồng logic: BRASA là gì → Cách Bắt đầu → Cách Hoạt động → Bốn Trụ cột → Quyền → Dự án → Dữ liệu Minh bạch
+✅ Ngôn ngữ giản dị: Giải thích «Sổ Mở» bằng lời dễ hiểu
+✅ Lộ trình dễ thấy: Giữ «Cách Bắt đầu» & «Cách Lấy Bằng Miễn phí» luôn dễ tìm
+✅ Nhấn mạnh ưu điểm: Đặt «Hơn 7.100 ngôn ngữ», «Chi phí 0$», «Minh bạch 24/7» ở đầu trang
+✅ Thanh điều hướng cố định: Dễ dàng truy cập mọi phần chính
+✅ Tối ưu Tìm kiếm: Tiêu đề & mô tả rõ ràng để mọi người dễ tìm thấy BRASA
+
+🚀 Chiến lược Tăng trưởng & Lượt truy cập
+🎯 Tối ưu Công cụ Tìm kiếm
+Từ khóa: giáo dục miễn phí mọi ngôn ngữ, hiến pháp toàn cầu, 21 quyền phổ thông, sổ công khai mở, thị trường công dân, bằng kinh doanh miễn phí trực tuyến
+Mỗi phần có tiêu đề rõ ràng → Xếp hạng cao hơn trên tìm kiếm
+Hỗ trợ đa ngôn ngữ → Tiếp cận mọi quốc gia & nhóm ngôn ngữ
+
+📖 Nội dung Dễ Lan Tỏa
+21 Quyền — Trang riêng, dễ chia sẻ
+«Hơn 7.100 Ngôn ngữ» — Giải thích ý nghĩa của sự bao gồm thực sự
+Hướng dẫn rõ ràng: «Cách Bắt đầu», «Cách Hoạt động», «Nguồn Tài trợ», «Giải thích Sổ Mở»
+Cập nhật Dự án: Nhà ở, thực phẩm, nước, năng lượng — Giải pháp thực tế mọi người đang tìm kiếm
+
+🌍 Kết nối Cộng đồng
+Kết nối với: mạng giáo dục mở, tổ chức nhân quyền, cộng đồng dữ liệu mở & minh bạch
+Chia sẻ Hiến pháp & giá trị — Trang khác sẽ liên kết về chúng tôi → Tăng uy tín & lượt truy cập
+Hoạt động qua WhatsApp & USSD — Hoạt động mọi nơi, không cần internet
+Chia sẻ rộng rãi 21 Quyền — Giá trị phổ thông, dễ lan tỏa
+
+⚡ Ưu tiên Làm Trước
+Làm rõ tiêu đề trang chính & nút chính
+Xuất bản trang: 21 Quyền & Hiến pháp Đầy đủ
+Thêm tiêu đề & mô tả cho tìm kiếm
+Giải thích «Sổ Mở» bằng ngôn ngữ giản dị
+Chia sẻ sứ mệnh với cộng đồng toàn cầu
+
+📊 Dữ liệu Đã Xác minh & Công khai
+🌎 Hỗ trợ Hơn 7.100 Ngôn ngữ
+💰 Chi phí 0$ cho tất cả công dân
+📡 Báo cáo Trực tuyến 24/7 — Luôn Mở, Luôn Hiển thị
+📱 Hoạt động qua USSD & WhatsApp — Không cần điện thoại thông minh
+🌍 Hiện diện tại hơn 198 quốc gia
+
+🤝 Cách Bạn Có Thể Hỗ Trợ
+⭐ Đánh dấu sao kho mã!
+Chia sẻ https://brasa.world với mọi người
+Đề xuất cải thiện, bản dịch hoặc ý tưởng
+Hỗ trợ hoàn thiện nội dung, thiết kế hoặc tài liệu
+Đóng góp mã, tài liệu hoặc thiết kế
+
+📄 Nguyên tắc & Giấy phép
+Hiến pháp đứng đầu. Mở & Minh bạch. Thuộc về công dân toàn cầu. Tất cả quyền được bảo vệ theo Cơ cấu Hiến pháp BRASA.
+
+«Arenal · Costa Rica · 2026 — Được tạo tác với trọn vẹn tình yêu, dành cho tất cả mọi người.»
+
+🌍 BRASA Dünya
+Birleşik Sistem: Eğitim · Yönetim · İş Dünyası — Dünyadaki her vatandaş için inşa edilmiştir.
+🌐 İnternet Sitesi: https://brasa.world
+📍 Kaynak: Arenal · Kosta Rika
+📅 Kuruluş: 2026 · Vatandaşların Mülkiyeti
+
+✨ BRASA Nedir?
+BRASA, Eğitim, Yönetim ve İş Dünyasını tek bir bütünleşik sistemde birleştirir — her dil, her ülke ve her yaşam için tasarlanmıştır. Temel hizmetlerin tamamı vatandaşlara ücretsizdir ve tamamen ticaret tarafından finanse edilir — hiçbir zaman vergi yoktur.
+
+💎 Bizi Farklı Kılan Özellikler
+🗣️ **7.100'den Fazla Dil** — Her vatandaş kendi anadilinde
+📜 **21 Evrensel Hak & Anayasa** — Herkes için açık yazılı güvenceler
+🔍 **Tamamen Şeffaf** — Açık Defter + 7/24 Canlı Raporlama ; Hiçbir şey gizli değildir
+🆓 **Vatandaşlar İçin 0$ Maliyet** — Ticaret tarafından finanse edilir, ücret veya vergi yok
+🌍 **Gerçek Anlamda Küresel** — Amerika · Afrika · Avrupa · Asya · Orta Doğu · Okyanusya
+🤝 **Halkın Mülkiyeti** — Şirketlerin değil, hükümetlerin değil — herkesin malıdır
+🎓 **Herkes İçin Eğitim** — Ücretsiz İşletme Diploması almanın yolunu da içerir
+🛒 **Tamamen Bütünleşik Ekosistem** — Pazar yeri, öğrenme, yönetim ve ticaret — hepsi birbirine bağlı
+
+🧱 Dört Ana Sütun
+| Sütun | Amaç |
+|---|---|
+| 🎓 Eğitim | Ücretsiz Dünya Okulu — Bilim herkes için özgürce erişilebilir |
+| ⚖️ Yönetim | Anayasal Yönetim & Korunan 21 Hakkınız |
+| 💼 İş Dünyası | Halk Pazarı & Ücretsiz İşletme Diplomaları |
+| 📖 Açık Defter | Canlı Kamu Verisi, Doğrulanabilir — Tamamen Açık ve Şeffaf |
+
+📜 21 Hak
+**Beden · Özgür İrade · Kimlik · Gerçek · Dil · İletişim · Aile · Sağlıklı Gezegen · Temiz Su · Besin · Sağlık · Enerji · Barınma · Güvenlik · Barış · Eğitim · Dinlenme · Teknoloji · Adalet · İş Dünyası · Seyahat**
+→ *Tam Anayasayı brasa.world adresinde okuyun*
+
+🧩 Çözüm Projeleri — Gerçek Eylem, Gerçek Etki
+🏠 Barınma · 🍎 Besin · 💧 Su · 💊 Sağlık Hizmetleri · ⚡ Enerji · 🔬 Teknoloji · ❤️ Yardımseverlik · 🏫 Eğitim Kampüsleri
+
+✏️ Site İyileştirme Önerileri
+✅ Daha net açılış mesajı: «Eğitim, Yönetim ve İş Dünyası birleşti. Kendi dilinizde ücretsizdir, sonsuza dek.»
+✅ Anlamlı Düğmeler: «Giriş →» yerine «Ücretsiz Öğren» · «Anayasayı Oku» · «Pazarı Keşfet»
+✅ Mantıksal Akış: BRASA Nedir → Nasıl Başlanır → Nasıl Çalışır → Dört Sütun → Haklar → Projeler → Şeffaflık Verileri
+✅ Sade Dil: «Açık Defter» kavramını anlaşılır kelimelerle açıklayın
+✅ Kolay Bulunan Başlangıç Yolu: «Nasıl Başlanır» & «Ücretsiz Diploma Nasıl Alınır» her zaman görünür olsun
+✅ Güçlü Yönleri Öne Çıkar: «7.100+ dil», «0$ Maliyet», «7/24 Şeffaflık» en üstte yer alsın
+✅ Sabit Gezinme Çubuğu: Tüm ana bölümlere kolay erişim
+✅ Arama Optimizasyonu: Açık başlık ve açıklama, böylece herkes BRASA'yı kolayca bulabilsin
+
+🚀 Büyüme ve Ziyaretçi Stratejisi
+🎯 Arama Motoru Optimizasyonu
+Anahtar Kelimeler: her dilde ücretsiz eğitim, dünya anayasası, 21 evrensel hak, açık kamu defteri, halk pazarı, çevrimiçi ücretsiz işletme diploması
+Her bölümde açık başlıklar → arama sonuçlarında üst sıralara çıkma
+Çoklu Dil Desteği → her ülke ve dil grubuna ulaşma
+
+📖 Kendini Yayacak İçerik
+21 Haklar — özel sayfa, paylaşımı kolay
+«7.100'den Fazla Dil» — Gerçek kapsayıcılığın ne anlama geldiğini açıklayın
+Açık Kılavuzlar: «Nasıl Başlanır», «Nasıl Çalışır», «Kaynaklar Nasıl Finanse Edilir», «Açık Defter Açıklandı»
+Proje Güncellemeleri: Barınma, besin, su, enerji — insanların aradığı gerçek çözümler
+
+🌍 Topluluklar ve İş Birliği
+İletişim: açık eğitim ağları, insan hakları kuruluşları, şeffaflık ve açık veri toplulukları
+Anayasa ve değerleri paylaş — diğer siteler bizimle bağlantı kurar → daha fazla otorite ve ziyaretçi
+WhatsApp ve USSD ile erişim — internet olmasa bile çalışır
+21 Hakları geniş çapta paylaş — evrensel ve kolayca yayılır
+
+⚡ Öncelikli Yapılacaklar
+Ana sayfa başlığını ve ana düğmeyi netleştir
+Sayfayı yayınla: 21 Hak ve Tam Anayasa
+Arama için başlık ve açıklama ekle
+«Açık Defter» kavramını sade dille açıkla
+Misyonumuzu dünya topluluklarıyla paylaş
+
+📊 Doğrulanmış Kamu Verileri
+🌎 7.100'den Fazla Dil Destekleniyor
+💰 Tüm Vatandaşlar İçin 0$ Maliyet
+📡 7/24 Canlı Raporlama — Daima Açık, Daima Görünür
+📱 USSD ve WhatsApp Üzerinden Çalışır — Akıllı Telefon Gerekmez
+🌍 198'den Fazla Ülkede Mevcut
+
+🤝 Nasıl Yardım Edebilirsiniz
+⭐ Depoyu Yıldızla İşaretle!
+https://brasa.world adresini başkalarıyla paylaş
+İyileştirme, çeviri veya fikir öner
+İçerik, tasarım veya belgelere katkıda bulun
+Kod, doküman veya tasarım ile katkı sağla
+
+📄 İlke ve Lisans
+Anayasa Öncelikli. Açık ve Şeffaf. Dünya Vatandaşlarının Mülkiyeti. Tüm Haklar BRASA Anayasal Yapısı Kapsamında Korunmaktadır.
+
+«Arenal · Kosta Rika · 2026 — Herkes için sevgiyle üretilmiştir.»
+
+🌍 BRASA 세계
+하나로 통합된 시스템: 교육 · 정부 · 기업 — 전 세계 모든 시민을 위해 만들어졌습니다.
+🌐 공식 사이트: https://brasa.world
+📍 설립지: 코스타리카 · 아레날
+📅 설립: 2026년 · 시민의 소유
+
+✨ BRASA란 무엇인가?
+BRASA는 교육, 정부, 기업을 하나의 완전한 시스템으로 통합합니다 — 모든 언어, 모든 국가, 모든 삶을 위해. 모든 핵심 서비스는 시민에게 무료이며, 전적으로 상업 활동을 통해 지원됩니다 — 세금은 결코 없습니다.
+
+💎 우리의 특징
+🗣️ **7,100개 이상의 언어 지원** — 모든 시민이 모국어로 이용 가능
+📜 **21가지 보편적 권리와 헌법** — 모두에게 명확히 적힌 보장
+🔍 **완전한 투명성** — 공개 장부 + 24시간 실시간 공개 보고 ; 아무것도 숨기지 않습니다
+🆓 **시민 비용 0달러** — 상업으로 지원, 수수료나 세금 없음
+🌍 **진정한 세계적 범위** — 미주 · 아프리카 · 유럽 · 아시아 · 중동 · 오세아니아
+🤝 **시민의 소유** — 기업의 것도, 정부의 것도 아닌 — 모두의 것
+🎓 **모두를 위한 교육** — 무료 경영 학위를 취득하는 과정도 포함
+🛒 **완전한 생태계** — 시장, 학습, 거버넌스, 상거래 — 모두 연결됨
+
+🧱 네 가지 기둥
+| 기둥 | 목적 |
+|---|---|
+| 🎓 교육 | 무료 세계 학교 — 모두에게 열린 지식 |
+| ⚖️ 정부 | 헌법에 기반한 통치와 보호받는 21가지 권리 |
+| 💼 기업 | 시민의 시장과 무료 경영 학위 |
+| 📖 공개 장부 | 실시간 공개 데이터, 검증 가능 — 완전히 공개되고 투명함 |
+
+📜 21가지 권리
+**신체 · 자유 의지 · 정체성 · 진실 · 언어 · 의사소통 · 가족 · 건강한 지구 · 깨끗한 물 · 식량 · 건강 · 에너지 · 주거 · 안전 · 평화 · 교육 · 휴식 · 기술 · 정의 · 기업 · 여행**
+→ *전체 헌법은 brasa.world에서 확인하세요*
+
+🧩 해결 프로젝트 — 진정한 행동, 진정한 변화
+🏠 주거 · 🍎 식량 · 💧 물 · 💊 의료 · ⚡ 에너지 · 🔬 기술 · ❤️ 나눔과 기부 · 🏫 교육 캠퍼스
+
+✏️ 사이트 개선 제안
+✅ 더 명확한 첫인사: «교육, 정부, 기업이 하나로. 당신의 언어로 영원히 무료.»
+✅ 명확한 버튼: «들어가기 →» 대신 «무료로 배우기» · «헌법 보기» · «시장 둘러보기»
+✅ 논리적 흐름: BRASA란 무엇인가 → 시작하는 법 → 운영 방식 → 네 가지 기둥 → 권리 → 프로젝트 → 투명성 데이터
+✅ 쉬운 말: «공개 장부»를 쉬운 단어로 설명
+✅ 쉽게 찾는 시작점: «시작하는 법»과 «무료 학위 받는 법»을 항상 잘 보이게
+✅ 강점 강조: «7,100개 이상 언어», «비용 0달러», «24시간 투명성»을 상단에 배치
+✅ 고정 내비게이션: 주요 메뉴 어디서나 쉽게 접근
+✅ 검색 최적화: 명확한 제목과 설명으로 누구나 쉽게 BRASA를 찾을 수 있게
+
+🚀 성장과 방문자 유치 전략
+🎯 검색 엔진 최적화
+핵심 키워드: 모든 언어로 무료 교육, 세계 헌법, 21가지 보편적 권리, 공개 장부, 시민의 시장, 온라인 무료 경영 학위
+각 항목에 명확한 제목 → 검색 결과 상위에 노출
+다국어 지원 → 모든 국가와 언어권에 도달
+
+📖 자연스럽게 퍼지는 콘텐츠
+21가지 권리 — 전용 페이지, 공유하기 쉬움
+«7,100개 이상의 언어» — 진정한 포용이 무엇을 의미하는지 설명
+쉬운 안내서: «시작하는 법», «운영 원리», «재정 지원 방식», «공개 장부 해설»
+프로젝트 소식: 주거, 식량, 물, 에너지 — 사람들이 찾고 있는 실질적 해결책
+
+🌍 커뮤니티와 연계
+협력: 공개 교육 네트워크, 인권 단체, 투명성·공개 데이터 커뮤니티
+헌법과 가치 공유 → 다른 사이트가 링크 → 신뢰도와 방문자 상승
+WhatsApp·USSD로 접근 → 인터넷 없어도 이용 가능
+21가지 권리 널리 알리기 → 보편적 가치이므로 자연스럽게 확산
+
+⚡ 우선 추진 사항
+메인 제목과 대표 버튼 명확히 하기
+페이지 공개: 21가지 권리와 전체 헌법
+검색용 제목과 설명 추가
+«공개 장부»를 쉬운 말로 설명
+전 세계 커뮤니티에 BRASA의 가치 알리기
+
+📊 검증된 공개 데이터
+🌎 7,100개 이상 언어 지원
+💰 모든 시민에게 비용 0달러
+📡 24시간 실시간 공개 — 항상 열려있고, 항상 보임
+📱 USSD·WhatsApp로 이용 가능 — 스마트폰 불필요
+🌍 198개국 이상에서 이용 중
+
+🤝 참여 방법
+⭐ 저장소에 별표를 눌러주세요!
+https://brasa.world를 다른 사람에게 공유하세요
+개선점, 번역, 아이디어를 제안하세요
+내용, 디자인, 문서 제작을 도와주세요
+코드, 문서, 디자인으로 기여하세요
+
+📄 원칙과 라이선스
+헌법을 최우선으로. 공개하고 투명하게. 전 세계 시민의 소유. 모든 권리는 BRASA 헌법 체계 아래 보호됨.
+
+«코스타리카 · 아레날 · 2026 — 모두를 위해 정성껏 만들었습니다.»
 
           
 
