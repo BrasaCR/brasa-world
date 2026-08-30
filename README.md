@@ -1470,6 +1470,355 @@ https://brasa.world를 다른 사람에게 공유하세요
 
 «코스타리카 · 아레날 · 2026 — 모두를 위해 정성껏 만들었습니다.»
 
-          
+🌍 BRASA विश्व
+एक संयुक्त प्रणाली: शिक्षण · सरकार · व्यवसाय — जगातील प्रत्येक नागरिकासाठी तयार केले.
+🌐 वेबसाइट: https://brasa.world
+📍 स्थान: आरेनाल · कोस्टा रिका
+📅 स्थापना: २०२६ · नागरिकांच्या मालकीचे
+
+✨ BRASA म्हणजे काय?
+BRASA शिक्षण, सरकार आणि व्यवसाय यांना एका संपूर्ण प्रणालीमध्ये एकत्र आणते — प्रत्येक भाषेसाठी, प्रत्येक देशासाठी आणि प्रत्येक जीवनासाठी. सर्व मुख्य सेवा नागरिकांसाठी विनामूल्य आहेत, त्यांचा संपूर्ण खर्च व्यापाराद्वारे भागवला जाईल — कधीही कर लावला जाणार नाही.
+
+💎 आमची वैशिष्ट्ये
+🗣️ **७,१०० हून अधिक भाषा** — प्रत्येक नागरिकाला स्वतःच्या मातृभाषेत
+📜 **२१ वैश्विक हक्क आणि संविधान** — सर्वांसाठी स्पष्ट लिखित हमी
+🔍 **पूर्णपणे पारदर्शक** — खुली नोंदणी + २४ तास थेट अहवाल ; काहीही लपवले जाणार नाही
+🆓 **नागरिकांसाठी विनामूल्य** — व्यापाराद्वारे खर्च भागवला जातो, तुमच्याकडून काहीही घेतले जाणार नाही
+🌍 **खरोखर वैश्विक व्याप्ती** — अमेरिका · आफ्रिका · युरोप · आशिया · मध्यपूर्व · महासागरीय प्रदेश
+🤝 **लोकांच्या मालकीचे** — कोणत्याही कंपनीचे नाही, कोणत्याही सरकारचे नाही — सर्वांचे आहे
+🎓 **सर्वांसाठी शिक्षण** — व्यवसायात विनामूल्य पदवी मिळवण्याचा मार्ग देखील समाविष्ट
+🛒 **संपूर्ण प्रणाली** — बाजारपेठ, शिक्षण, सरकार आणि व्यापार — सर्व जोडलेले
+
+🧱 चार स्तंभ
+| स्तंभ | उद्देश |
+|---|---|
+| 🎓 शिक्षण | विनामूल्य विश्वविद्यालय — ज्ञान सर्वांसाठी मुक्त |
+| ⚖️ सरकार | संविधानानुसार चालणारी सरकार आणि तुमचे २१ संरक्षित हक्क |
+| 💼 व्यवसाय | नागरिकांची बाजारपेठ आणि विनामूल्य व्यावसायिक पदव्या |
+| 📖 खुली नोंदणी | थेट सार्वजनिक माहिती, पडताळणीयोग्य — पूर्णपणे खुली आणि पारदर्शक |
+
+📜 २१ हक्क
+**शरीर · स्वतंत्र इच्छा · ओळख · सत्य · भाषा · संपर्क · कुटुंब · निरोगी ग्रह · शुद्ध पाणी · अन्न · आरोग्य · ऊर्जा · निवारा · सुरक्षा · शांतता · शिक्षण · विश्रांती · तंत्रज्ञान · न्याय · व्यवसाय · प्रवास**
+→ *संपूर्ण संविधान brasa.world वर वाचा*
+
+🧩 प्रकल्प — खरे कार्य, खरा परिणाम
+🏠 निवारा · 🍎 अन्न · 💧 पाणी · 💊 औषधे · ⚡ ऊर्जा · 🔬 तंत्रज्ञान · ❤️ समाजसेवा · 🏫 शैक्षणिक केंद्रे
+
+✏️ वेबसाइट सुधारण्याच्या सूचना
+✅ स्पष्ट स्वागत संदेश: «शिक्षण, सरकार आणि व्यवसाय एकत्र. तुमच्या भाषेत विनामूल्य, कायमचे.»
+✅ स्पष्ट बटणे: «प्रवेश करा» ऐवजी «विनामूल्य शिका» · «संविधान वाचा» · «बाजारपेठ पहा»
+✅ तर्कसंगत क्रम: BRASA म्हणजे काय → कसे सुरू करावे → कसे चालते → चार स्तंभ → हक्क → प्रकल्प → पारदर्शकता
+✅ सोपी भाषा: «खुली नोंदणी» सोप्या शब्दांत समजावून सांगा
+✅ सुलभ मार्ग: «कसे सुरू करावे» आणि «विनामूल्य पदवी कशी मिळवावी» हे नेहमी दिसू द्या
+✅ ठळक करा: «७,१०० हून अधिक भाषा», «विनामूल्य», «२४ तास पारदर्शक» — हे सर्वांच्या लक्षात येईल
+✅ स्थिर नेव्हिगेशन: सर्व विभागांमध्ये सहज प्रवेश
+✅ शोध सुधारा: स्पष्ट शीर्षक आणि माहिती जेणेकरून सर्वांना BRASA सहज सापडेल
+
+🚀 वाढ आणि प्रगतीची रणनीती
+🎯 शोध सुधारणे
+मुख्य शब्द: सर्व भाषांमध्ये विनामूल्य शिक्षण, वैश्विक संविधान, २१ वैश्विक हक्क, खुली सार्वजनिक नोंदणी, नागरिकांची बाजारपेठ, विनामूल्य व्यावसायिक पदवी
+प्रत्येक विभागाचे स्पष्ट शीर्षक → शोधात उच्च स्थान
+अनेक भाषांचे समर्थन → प्रत्येक देशापर्यंत पोहोचा
+
+📖 जी माहिती स्वतःच पसरेल
+२१ हक्क — स्वतंत्र पृष्ठ, सहज सामायिक करता येईल
+«७,१०० हून अधिक भाषा» — खरोखर सर्वांचा समावेश म्हणजे काय ते समजावून सांगा
+स्पष्ट मार्गदर्शन: «कसे सुरू करावे», «हे कसे चालते», «निधी कोठून येतो», «खुली नोंदणी समजावून सांगा»
+प्रकल्पांची माहिती: निवारा, अन्न, पाणी, ऊर्जा — लोकांना हव्या असलेल्या सोयी
+
+🌍 संपर्क आणि सहकार्य
+संपर्क: मुक्त शैक्षणिक संस्था, मानवी हक्क संघटना, पारदर्शकता आणि मुक्त माहिती गट
+संविधान आणि मूल्ये सामायिक करा — इतर संकेतस्थळे आमच्याशी जोडली जातील → अधिक लोकांपर्यंत पोहोचणार
+WhatsApp आणि USSD द्वारे प्रवेश — इंटरनेट नसतानाही चालेल
+२१ हक्क सर्वांपर्यंत पोहोचवा — हा सार्वत्रिक संदेश स्वतःच पसरेल
+
+⚡ प्रथम हे करा
+पृष्ठाचे शीर्षक आणि मुख्य बटण स्पष्ट करा
+पृष्ठ प्रकाशित करा: २१ हक्क आणि संपूर्ण संविधान
+शोधासाठी शीर्षक आणि माहिती समाविष्ट करा
+«खुली नोंदणी» सोप्या भाषेत समजावून सांगा
+आमचा हेतू जागतिक संस्थांना सांगा
+
+📊 पडताळणी केलेली सार्वजनिक माहिती
+🌎 ७,१०० हून अधिक भाषा समर्थित
+💰 सर्व नागरिकांसाठी पूर्णपणे विनामूल्य
+📡 २४ तास थेट अहवाल — नेहमी खुले, नेहमी दृश्यमान
+📱 WhatsApp आणि USSD वर चालेल — स्मार्टफोनची गरज नाही
+🌍 १९८ पेक्षा अधिक देशांमध्ये उपलब्ध
+🤝 तुम्ही कशी मदत करू शकता
+⭐ या भांडाराला तारांकन करा!
+https://brasa.world हे इतरांना सांगा
+सुधारणा, भाषांतर किंवा सूचना द्या
+मजकूर, रचना किंवा कागदपत्रे तयार करण्यात मदत करा
+सांकेतिक भाषा, कागदपत्रे किंवा रचना तयार करा
+
+📤 तत्त्वे आणि परवाना
+संविधान प्रथम. खुले आणि पारदर्शक. जगातील नागरिकांच्या मालकीचे. सर्व हक्क BRASA संविधानानुसार संरक्षित.
+
+«आरेनाल · कोस्टा रिका · २०२६ — सर्वांसाठी प्रेमाने तयार केले.»
+
+ 🌍 BRASA Ulimwengu
+Mfumo Mmoja wa Ushirikiano: Elimu · Serikali · Biashara — Imeundwa kwa kila raia duniani.
+🌐 Tovuti: https://brasa.world
+📍 Mahali: Arenal · Kosta Rika
+📌 Ilianzishwa: 2026 · Inamilikiwa na Raia
+
+✨ BRASA ni nini?
+BRASA inaunganisha Elimu, Serikali na Biashara katika mfumo mzima — kwa kila lugha, kila nchi, na kila maisha. Huduma zote za msingi ni BILA MALIPO kwa kila raia, na zinafadhiliwa na biashara kabisa — HAKUNA KODI kamwe.
+
+💎 Sifa Zetu
+🗣️ **Zaidi ya Lugha 7,100** — Kila raia kwa lugha yake ya asili
+📜 **Haki 21 za Kila Mtu Katika Ulimwengu & Kanuni ya Msingi** — Ahadi zilizoandikwa wazi kwa kila mtu
+🔍 **Uwazi Kabisa** — Rejesta ya Wazi + Ripoti ya Wakati Wote 24/7 ; Hakuna kilichofichwa
+🆓 **BILA MALIPO kwa Kila Raia** — Inafadhiliwa na biashara, sio kwa kutoa kwako
+🌍 **Inaenea Ulimwenguni Kabisa** — Amerika · Afrika · Ulaya · Asia · Mashariki ya Kati · Visiwa vya Bahari Kuu
+🤝 **Inamilikiwa na Watu** — Sio ya Kampuni, sio ya Serikali — ni ya kila mtu
+🎓 **Elimu kwa Kila Mtu** — Inajumuisha Njia ya Kupata Stashahada ya Biashara BILA MALIPO
+🛒 **Mfumo Kamili** — Soko, Elimu, Utawala na Biashara — Vimeunganishwa vyote
+
+🧱 Nguzo Nne
+| Nguzo | Madhumuni |
+|---|---|
+| 🎓 Elimu | Shule ya Ulimwengu BILA MALIPO — Maarifa ya wazi kwa kila mtu |
+| ⚖️ Serikali | Utawala wa Kisheria na Haki zako 21 zilizolindwa |
+| 💼 Biashara | Soko la Raia na Stashahada za Biashara BILA MALIPO |
+| 📖 Rejesta ya Wazi | Taarifa za Umma za Wakati Wote, zinazoweza kuchunguzwa — ziko wazi kabisa na zinaweza kuonekana |
+
+📜 Haki 21
+**Mwili · Hiari · Utambulisho · Ukweli · Lugha · Mawasiliano · Familia · Sayari yenye Afya · Maji Safi · Chakula · Afya · Nishati · Makazi · Usalama · Amani · Elimu · Kupumzika · Teknolojia · Haki · Biashara · Kusafiri**
+→ *Soma Kanuni Kamili kwenye brasa.world*
+
+🧱 Miradi Yetu — Kazi Halisi, Mabadiliko Halisi
+🏠 Makazi · 🍎 Chakula · 💧 Maji · 💊 Dawa · ⚡ Nishati · 🔬 Teknolojia · ❤️ Kutoa Msaada · 🏫 Vituo vya Elimu
+
+✏️ Mapendekezo ya Kuboresha Tovuti
+✅ Ujumbe wa wazi: «Elimu, Serikali na Biashara vimeunganishwa. BILA MALIPO kwa lugha yako, Milele.»
+✅ Vitufe vilivyo wazi: Badala ya «Ingia» tumia «Jifunze BILA MALIPO» · «Soma Kanuni» · «Tazama Soko»
+✅ Mpangilio wa kimantiki: BRASA ni nini → Jinsi ya Kuanza → Jinsi Inavyotumika → Nguzo Nne → Haki → Miradi → Uwazi
+✅ Lugha Rahisi: Eleza «Rejesta ya Wazi» kwa maneno rahisi
+✅ Njia rahisi ya kuanza: Weka «Jinsi ya Kuanza» na «Jinsi ya Kupata Stashahada BILA MALIPO» zionekane wazi
+✅ Kaza umakini: «Zaidi ya Lugha 7,100», «BILA MALIPO», «Uwazi wa Saa 24» viwe juu
+✅ Menyu inayopatikana kila wakati: Uweze kufikia sehemu zote kwa urahisi
+✅ Kuboresha Utafutaji: Andika kichwa na maelezo wazi ili kila mtu aweze kupata BRASA kwa urahisi
+
+🚀 Mkakati wa Kukuza na Kufikia Watu Wengi
+🎯 Kuboresha Utafutaji wa Mtandaoni
+Maneno muhimu: elimu bila malipo kwa lugha zote, kanuni ya msingi ya ulimwengu, haki 21 za kila mtu, rejesta ya umma ya wazi, soko la raia, stashahada ya biashara bila malipo mtandaoni
+Kila sehemu iwe na kichwa wazi → itoke juu katika utafutaji
+Inayotumia lugha nyingi → ifikie kila nchi na kila jamii ya lugha
+
+📄 Taarifa Itakayojulikana Kwa Watu Wote
+Haki 21 — Kwenye ukurasa wake, inayoweza kushirikwa kwa urahisi
+«Zaidi ya Lugha 7,100» — Eleza maana ya kujumuisha kila mtu kwa usawa
+Mwongozo wazi: «Jinsi ya Kuanza», «Jinsi Inavyotumika», «Inafadhiliwa Nani», «Eleza Rejesta ya Wazi»
+Taarifa za Miradi: Makazi, Chakula, Maji, Nishati — Suluhu za kila siku zinazotafutwa na watu
+
+🌍 Kuungana na Kutoa Msaada
+Ungana na: Mitandao ya Elimu, Mashirika ya Haki za Binadamu, Vikundi vya Uwazi na Taarifa za Wazi
+Shiriki Kanuni na Maadili — Tovuti zingine zitaunganishwa nasi → Tutafahamika na watu wengi zaidi
+Inapatikana kwa WhatsApp na USSD — Hata kama huna mtandao wa intaneti, inaweza kufanya kazi
+Sambaza Haki 21 kwa kila mtu — Ni ujumbe wa kila mtu duniani, utajulikana kwa kila mwenyewe
+
+⚡ Fanya Hivi Kwanza
+Weka kichwa cha ukurasa na kitufe kikuu wazi
+Chapisha ukurasa: Haki 21 na Kanuni Kamili
+Ongeza kichwa na maelezo kwa ajili ya utafutaji
+Eleza «Rejesta ya Wazi» kwa maneno rahisi
+Eleza madhumuni yetu kwa mashirika ya kimataifa
+
+📊 Taarifa za Umma Zilizothibitishwa
+🌎 Inatumia Zaidi ya Lugha 7,100
+💰 BILA MALIPO kwa kila raia
+📡 Ripoti ya Wakati Wote 24/7 — Inaonekana wazi kila wakati
+📱 Inafanya kazi kwa WhatsApp na USSD — Haina haja ya simu ya hali ya juu
+🌍 Inapatikana katika Nchi Zaidi ya 198
+🤝 Jinsi Unavyoweza Kutoa Msaada
+⭐ Ipe nyota hifadhi hii!
+Sambaza https://brasa.world kwa rafiki zako na watu wote
+Toa mapendekezo ya kuboresha, tafsiri au mawazo
+Saidia kuandika maandishi, michoro na nyaraka
+Toa msaada kwa kuandika msimbo, nyaraka au muundo
+
+📄 Kanuni na Haki ya Matumizi
+Kanuni ya Msingi Inakuja Kwanza. Iko Wazi na Ina Uwazi. Inamilikiwa na Raia wa Ulimwengu. Haki zote zinalindwa na Kanuni ya BRASA.
+
+«Arenal · Kosta Rika · 2026 — Imeundwa kwa Upendo kwa Kila Mtu.»
+
+🌍 BRASA Duniya
+Tsari ɗaya: Ilimi · Mulki · Kasuwanci — Anyiwa don kowane ɗan ƙasa a duniya.
+🌐 Shafin Yanar Gizo: https://brasa.world
+📍 Wuri: Arenal · Costa Rica
+📌 Kafa: 2026 · Na na Mallakar ɗan ƙasa
+
+✨ Menene BRASA?
+BRASA tana haɗa Ilimi, Mulki da Kasuwanci zuwa tsari ɗaya — don kowane yare, kowane ƙasa, da kowane rayuwa. Duk ayyukan gine-gine suna KYAU GA BA SUDA, kuma kuɗin da ake kashewa yana fitowa daga kasuwanci — BA ZA A BIYA HARAJ BA KO.
+
+💎 Halayenmu
+🗣️ **Fiye da Yare 7,100** — Kowane ɗan ƙasa a yaren mahaifinsa
+📜 **Haƙƙoƙi 21 na Duniya da Kundin Tsari** — Alkawali da aka rubuta a fili ga kowa
+🔍 **Gaba ɗaya a Filaye** — Rijista a Buɗe + Rahoto na Kowane Lokaci 24/7 — Babu abin da ake ɓoyewa
+🆓 **Kyau ga Ba Suwa** — Ana biyan kuɗi daga kasuwanci, ba daga wurinka ba
+🌍 **Ya Wuni Gaba ɗaya Duniya** — Amurka · Afirka · Turai · Asiya · Gabas Tsakiya · Tsibiran Teku
+🤝 **Na Jama'a** — Ba na kamfani ba, ba na mulki ba — Na kowa ne
+🎓 **Ilimi ga Kowa** — Ya haɗa da Hanyar Samun Takardar Ilimi ta Kasuwanci Kyau
+🛒 **Tsari Gaba ɗaya** — Kasuwa, Ilimi, Mulki da Kasuwanci — An haɗa su gaba ɗaya
+
+� ginshiƙai Huɗu
+| Ginshiƙi | Manufa |
+|---|---|
+| 🎓 Ilimi | Makarantar Duniya Kyau — Ilimi a buɗe ga kowa |
+| ⚖️ Mulki | Mulki bisa Kundin Tsari da Haƙƙoƙinka 21 da ake kiyayewa |
+| 💼 Kasuwanci | Kasuwar Jama'a da Takardun Ilimi na Kasuwanci Kyau |
+| 📖 Rijista a Buɗe | Bayanai na Jama'a a Lokaci na Gaskiya, ana iya tantancewa — Buɗe gaba ɗaya |
+
+📜 Haƙƙoƙi 21
+**Jiki · Iri Nufi · Ganewa · Gaskiya · Yare · Sadarwa · Iyali · Duniya Lafiyari · Ruwa Tsabtataccen · Abinci · Lafiya · Ƙarfi · Mazauni · Tsaro · Aminci · Ilimi · Hutawa · Fasaha · Adalci · Kasuwanci · Tafiya**
+→ *Karanta Kundin Tsari a cikakke a shafin yanar gizon brasa.world*
+
+� Ayyukanmu — Aiki na Gaskiya, Canji na Gaskiya
+🏠 Mazauni · 🍎 Abinci · 💧 Ruwa · 💊 Magani · ⚡ Ƙarfi · 🔬 Fasaha · ❤️ Taimako · 🏫 Cibiyoyin Ilimi
+
+✏️ Shawarwari na Inganta Shafin Yanar Gizo
+✅ Saƙon Maraba da Sane: «Ilimi, Mulki da Kasuwanci sun haɗu. Kyau a yarenka, har abada.»
+✅ Maɓallai a Filaye: Maɓadin «Shiga» maye gurbin «Koya Kyau» · «Karanta Kundin Tsari» · «Duba Kasuwa»
+✅ Tsari Mai Ma'ana: Menene BRASA → Yadda Za a Fara → Yadda Take Aiki → Ginshiƙai Huɗu → Haƙƙoƙi → Ayyuka → Buɗe Gaba ɗaya
+✅ Yare Mai Sauƙi: Bayyana «Rijista a Buɗe» da kalmomi masu sauƙi
+✅ Hanyar Fara Mai Sauƙi: Sanya «Yadda Za a Fara» da «Yadda Za a Samu Takarda Kyau» a wuri mai sauƙin gani
+✅ Kawo Hannu: «Fiye da Yare 7,100», «Kyau», «Buɗe A Kowane Lokaci» a saman shafin
+✅ Hanyar Gudana Akai: Za a iya zuwa kowane sashe cikin sauƙi
+✅ Inganta Bincike: Sanya taken da bayani a fili domin kowa ya sami BRASA cikin sauƙi
+
+🚀 Dabarun Ci Gaba da Isowa Mutane
+🎯 Inganta Bincike a Yanar Gizo
+Kalmomin Mahimmanci: ilimi kyau a kowane yare, kundin tsari na duniya, haƙƙoƙi 21 na duniya, rijista na jama'a a buɗe, kasuwar ɗan ƙasa, takarda ta kasuwanci kyau a yanar gizo
+Kowane sashe ya kasance da taken a fili → Ya fito a saman bincike
+Taimakon Yare Masu Yawa → Isowa kowane ƙasa da kowane rukunin yare
+
+📄 Bayani Da Zasu Yadu A Duniya
+Haƙƙoƙi 21 — A shafi na musamman, ana iya raba su cikin sauƙi
+«Fiye da Yare 7,100» — Bayyana ma'anar haɗa kowa daidai
+Jagora a fili: «Yadda Za a Fara», «Yadda Take Aiki», «Wanda Yake Tallafa», «Bayyana Rijista a Buɗe»
+Bayanin Ayyuka: Mazauni, Abinci, Ruwa, Ƙarfi — Hanyoyin da mutane suke nema
+
+🌍 Haɗuwa da Taimako
+Haɗuwa da: Cibiyoyin Ilimi, Ƙungiyoyin Haƙƙin Bil'adama, Rukunin Buɗe da Bayani a Buɗe
+Raba Kundin Tsari da Dabi'un — Sauran shafuka zasu haɗu da mu → Mutane da yawa zasu san mu
+Ana iya shiga ta WhatsApp da USSD — Ko babu intanit za ta yi aiki
+Isar da Haƙƙoƙi 21 ga kowa — Saƙon duniya ne, zai yaɗu kansa
+
+⚡ Fara Da Wannan
+Bayyana taken shafin da maɓalli na farko
+Bugawa shafin: Haƙƙoƙi 21 da Kundin Tsari Gaba ɗaya
+Ƙara taken da bayani domin bincike
+Bayyana «Rijista a Buɗe» da yare mai sauƙi
+Faɗa manufarmu ga ƙungiyoyin duniya
+
+📊 Bayani na Jama'a da Aka Tantance
+🌎 Taimakon Fiye da Yare 7,100
+💰 Kyau ga Kowane ɗan ƙasa
+📡 Rahoto a Kowane Lokaci 24/7 — A Buɗe Kowane Lokaci
+📱 Tana Aiki Ta WhatsApp da USSD — Ba ta buƙatar waya mai tsada ba
+🌍 A Samu A Ƙasashe Fiye Da 198
+🤝 Yadda Za Ka Taimaka
+⭐ Yi wa wannan ajiya tauraro!
+Raba https://brasa.world ga wasu
+Bayar da shawarwarin ingantawa, fassara ko tunani
+Taimaka da rubutu, zane ko takardu
+Taimaka da lambobi, takardu ko zane
+
+📤 Ka'idoji da Izini
+Kundin Tsari Ya Fara. Buɗe kuma A Filaye. Na na Mallakar ɗan ƙasa na duniya. Duk Haƙƙoƙi suna ƙarƙashin Tsarin BRASA.
+
+«Arenal · Costa Rica · 2026 — An yiwa Kowa Da Ƙauna.»
+
+🌍 BRASA جهان
+یک سیستم یکپارچه: آموزش · حکومت · کسب‌وکار — ساخته شده برای همه مردم جهان.
+🌐 وب‌سایت: https://brasa.world
+📍 مکان: آرنال · کاستاریکا
+📅 بنیان‌گذاری: ۲۰۲۶ · متعلق به شهروندان
+
+✨ BRASA چیست؟
+BRASA آموزش، حکومت و کسب‌وکار را در یک سیستم کامل متحد می‌کند — برای هر زبان، برای هر کشور و برای هر زندگی. تمام خدمات اصلی برای همگان رایگان است و هزینه آن کاملاً از طریق تجارت تأمین می‌شود — هرگز مالیات نمی‌گیریم.
+
+💎 ویژگی‌های ما
+🗣️ **بیش از ۷٬۱۰۰ زبان** — هر شهروند به زبان مادری خود
+📜 **۲۱ حق جهانی و قانون اساسی** — تعهدات نوشته شده واضح برای همه
+🔍 **کاملاً شفاف** — دفتر کل باز + گزارش زنده ۲۴ ساعته ؛ هیچ چیز پنهان نیست
+🆓 **رایگان برای همگان** — هزینه از تجارت است، نه از شما
+🌍 **واقعاً جهانی** — آمریکا · آفریقا · اروپا · آسیا · خاورمیانه · اقیانوسیه
+🤝 **متعلق به مردم** — نه متعلق به شرکت‌ها، نه متعلق به دولت‌ها — متعلق به همه است
+🎓 **آموزش برای همه** — شامل راه گرفتن مدرک کسب‌وکار رایگان
+🛒 **سیستم یکپارچه** — بازار، آموزش، حکومت و تجارت — همه به هم پیوسته
+
+🧱 چهار ستون
+| ستون | هدف |
+|---|---|
+| 🎓 آموزش | مدرسه جهانی رایگان — دانش برای همه آزاد است |
+| ⚖️ حکومت | حکومت بر پایه قانون اساسی و ۲۱ حق شما که محفوظ است |
+| 💼 کسب‌وکار | بازار مردمی و مدارک کسب‌وکار رایگان |
+| 📖 دفتر کل باز | داده‌های عمومی زنده، قابل بررسی — کاملاً باز و شفاف |
+
+📜 ۲۱ حق
+**بدن · اراده آزاد · هویت · حقیقت · زبان · ارتباط · خانواده · سیاره سالم · آب پاکیزه · غذا · سلامت · انرژی · مسکن · امنیت · صلح · آموزش · استراحت · فناوری · عدالت · کسب‌وکار · سفر**
+→ *قانون کامل را در brasa.world بخوانید*
+
+🧩 پروژه‌ها — کار واقعی، تأثیر واقعی
+🏠 مسکن · 🍎 غذا · 💧 آب · 💊 دارو · ⚡ انرژی · 🔬 فناوری · ❤️ نیکوکاری · 🏫 مرکز آموزشی
+
+✏️ پیشنهادهای بهبود وب‌سایت
+✅ پیام خوش‌آمدگویی واضح: «آموزش، حکومت و کسب‌وکار یکپارچه. رایگان به زبان شما، برای همیشه.»
+✅ دکمه‌های واضح: به جای «ورود» بنویسید «آموزش رایگان» · «خواندن قانون اساسی» · «دیدن بازار»
+✅ ترتیب منطقی: BRASA چیست → چگونه شروع کنیم → چگونه کار می‌کند → چهار ستون → حقوق → پروژه‌ها → شفافیت
+✅ زبان ساده: «دفتر کل باز» را با کلمات ساده توضیح دهید
+✅ راه آسان شروع: «چگونه شروع کنیم» و «چگونه مدرک رایگان بگیریم» را همیشه قابل دیدن قرار دهید
+✅ برجسته کنید: «بیش از ۷٬۱۰۰ زبان»، «رایگان»، «شفافیت ۲۴ ساعته» در بالای صفحه
+✅ منوی ثابت: دسترسی آسان به همه بخش‌ها
+✅ بهبود جستجو: عنوان و توضیح واضح تا همه بتوانند BRASA را بیابند
+
+🚀 استراتژی رشد و دسترسی به مردم
+🎯 بهبود جستجو در اینترنت
+کلمات کلیدی: آموزش رایگان به همه زبان‌ها، قانون اساسی جهانی، ۲۱ حق جهانی، دفتر کل باز عمومی، بازار مردمی، مدرک کسب‌وکار رایگان اینترنتی
+هر بخش دارای عنوان واضح → نمایش در بالای نتایج جستجو
+پشتیبانی از زبان‌های متعدد → دسترسی به همه کشورها
+
+📄 محتوایی که خود پخش می‌شود
+۲۱ حقوق — صفحه جداگانه، قابل اشتراک‌گذاری
+«بیش از ۷٬۱۰۰ زبان» — توضیح دهید که برابری واقعی یعنی چه
+راهنمای واضح: «چگونه شروع کنیم»، «چگونه کار می‌کند»، «هزینه از کجا می‌آید»، «توضیح دفتر کل باز»
+اخبار پروژه: مسکن، غذا، آب، انرژی — راه‌حل‌هایی که مردم به دنبال آن هستند
+
+🌍 ارتباط و همکاری
+ارتباط با: سازمان‌های آموزشی باز، سازمان‌های حقوق بشر، گروه‌های شفافیت و داده‌های باز
+قانون و ارزش‌ها را به اشتراک بگذارید — سایت‌های دیگر به ما پیوند می‌دهند → دسترسی بیشتر
+دسترسی از طریق واتس‌اپ و کد USSD — بدون اینترنت هم کار می‌کند
+۲۱ حقوق را به همه برسانید — پیامی جهانی که خود پخش می‌شود
+
+⚡ اول با این‌ها شروع کنید
+عنوان صفحه و دکمه اصلی را واضح کنید
+انتشار صفحه: ۲۱ حقوق و قانون کامل
+افزودن عنوان و توضیح برای جستجو
+«دفتر کل باز» را با زبان ساده توضیح دهید
+هدف ما را به سازمان‌های جهانی اعلام کنید
+
+📊 داده‌های عمومی تأیید شده
+🌎 پشتیبانی بیش از ۷٬۱۰۰ زبان
+💰 رایگان برای همه شهروندان
+📡 گزارش زنده ۲۴ ساعته — همیشه باز، همیشه قابل دیدن
+📱 از طریق واتس‌اپ و کد USSD کار می‌کند — نیاز به گوشی هوشمند ندارد
+🌍 در بیش از ۱۹۸ کشور در دسترس
+
+🤝 چگونه می‌توانید کمک کنید
+⭐ به این مخزن ستاره بدهید!
+https://brasa.world را به دیگران بفرستید
+پیشنهاد بهبود، ترجمه یا ایده بدهید
+در تهیه متن، طرح و اسناد کمک کنید
+در نوشتن کد، اسناد و طرح مشارکت کنید
+
+📤 اصول و مجوز
+قانون اساسی در اولویت است. باز و شفاف. متعلق به شهروندان جهان. تمام حقوق محفوظ است طبق قانون BRASA.
+
+«آرنال · کاستاریکا · ۲۰۲۶ — ساخته شده با محبت برای همه.»
+
+         
 
 
