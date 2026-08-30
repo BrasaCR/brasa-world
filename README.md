@@ -241,6 +241,22 @@ Un système unifié : Éducation · Gouvernement · Entreprise — construit pou
  🌐 Site web : https://brasa.world
  📍 Origine : Arenal · Costa Rica
  📅 Établi : 2026 · Propriété des citoyens
+🤝 Cómo puedes ayudar
+⭐ ¡Dale una estrella al repositorio!
+Comparte https://brasa.world con más personas
+Sugiere mejoras, traducciones o ideas
+Ayuda a traducir a más idiomas
+Contribuye con código, documentos o diseño
+
+📄 Principios y licencia
+Constitución primero. Abierto y transparente. Propiedad de los ciudadanos del mundo. Todos los derechos protegidos bajo la Arquitectura Constitucional de BRASA.
+«Arenal · Costa Rica · 2026 — Hecho con cariño, para todos.»
+
+🌍 BRASA Mundo
+Um sistema unificado: Educação · Governo · Negócios — construído precisamente para cada cidadão do mundo.
+🌐 Site: https://brasa.world
+📍 Origem: Arenal · Costa Rica
+📅 Fundado: 2026 · Pertencente aos Cidadãos
 
 ✨ Qu'est-ce que BRASA ?
 BRASA réunit Éducation, Gouvernement et Entreprise en un système complet — conçu pour chaque langue, chaque nation et chaque vie. Tous les services essentiels sont gratuits pour les citoyens, entièrement financés par le commerce — aucune taxe, à jamais.
@@ -411,24 +427,6 @@ Mit Code, Dokumenten oder Design mitwirken
 📄 Grundsätze & Lizenz
 Verfassung an erster Stelle. Offen und transparent. Eigentum der Bürger der Welt. Alle Rechte geschützt unter der Verfassungsarchitektur von BRASA.
 „Arenal · Costa Rica · 2026 — Sorgfältig erstellt, für alle.“
-
-
-🤝 Cómo puedes ayudar
-⭐ ¡Dale una estrella al repositorio!
-Comparte https://brasa.world con más personas
-Sugiere mejoras, traducciones o ideas
-Ayuda a traducir a más idiomas
-Contribuye con código, documentos o diseño
-
-📄 Principios y licencia
-Constitución primero. Abierto y transparente. Propiedad de los ciudadanos del mundo. Todos los derechos protegidos bajo la Arquitectura Constitucional de BRASA.
-«Arenal · Costa Rica · 2026 — Hecho con cariño, para todos.»
-
-🌍 BRASA Mundo
-Um sistema unificado: Educação · Governo · Negócios — construído precisamente para cada cidadão do mundo.
-🌐 Site: https://brasa.world
-📍 Origem: Arenal · Costa Rica
-📅 Fundado: 2026 · Pertencente aos Cidadãos
 
 ✨ O que é BRASA?
 BRASA unifica Educação, Governo e Negócios em um sistema completo — projetado para cada idioma, cada nação e cada vida. Todos os serviços essenciais são gratuitos para os cidadãos, financiados totalmente pelo comércio — sem impostos, nunca.
