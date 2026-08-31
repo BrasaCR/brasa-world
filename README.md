@@ -2641,3 +2641,117 @@ BRASA கல்வி, அரசு மற்றும் வணிகத்த�
 அரசியலமைப்பே முதன்மையானது. திறந்து வெளிப்படையானது. உலகக் குடிமக்களுக்கு சொந்தமானது. அனைத்து உரிமைகளும் BRASA அரசியலமைப்பு கட்டமைப்பின் கீழ் பாதுகாக்கப்படுகின்றன.
 
 «அரேனல் · கோஸ்டா ரிக்கா · 2026 — அனைவருக்காகவும் அன்புடன் உருவாக்கப்பட்டது.»
+
+# 🌍 BRASA Ulimwengu
+Mfumo mmoja unaounganisha: Elimu · Serikali · Biashara — Imejengwa kwa kila raia wa ulimwengu.
+
+🌐 Tovuti: https://brasa.world
+📍 Asili: Arenal · Kosta Rika
+📌 Ilianzishwa: 2026 · Inamilikiwa na Raia
+
+✨ BRASA Ni Nini?
+BRASA inaunganisha Elimu, Serikali, na Biashara katika mfumo mmoja kamili — Imeundwa kwa kila lugha, kila taifa, na kila maisha. Huduma zote za msingi ni bure kwa raia, zikifadhiliwa kabisa na biashara — Hakuna ushuru, kamwe.
+
+💎 Nguvu Zetu & Kinachotufanya Tufahamike
+🗣️ **Lugha Zaidi ya 7,100** — Kila raia katika lugha yake ya asili
+📜 **Haki 21 za Kila Mtu & Katiba** — Ahadi zilizoandikwa wazi kwa kila mtu
+🔍 **Wazi Kabisa** — Kitabu Wazi + Ripoti ya moja kwa moja 24/7; Hakuna kilichofichwa
+🆓 **Gharama $0 kwa Raia** — Inafadhiliwa na biashara, sio ada au ushuru
+🌍 **Kweli Ulimwenguni Pote** — Amerika · Afrika · Ulaya · Asia · Mashariki ya Kati · Bahari ya Shamu
+🤝 **Inamilikiwa na Watu** — Sio ya makampuni, sio ya serikali — Ni ya sisi sote
+🎓 **Elimu kwa Kila Mtu** — Ikiwa ni pamoja na njia ya kupata Shahada ya Biashara Bure
+🛒 **Mfumo Kamili** — Soko, kujifunza, utawala na biashara — Vyote vimeunganishwa
+
+🧱 Nguzo Nne
+| Nguzo | Lengo |
+|---|---|
+| 🎓 Elimu | Shule ya Ulimwengu Bure — Maarifa wazi kwa kila mtu |
+| ⚖️ Serikali | Utawala wa Kikatiba & Haki zako 21 zilizolindwa |
+| 💼 Biashara | Soko la Raia & Shahada za Biashara Bure |
+| 📖 Kitabu Wazi | Takwimu za umma za moja kwa moja, zinazoweza kuchunguzwa — Wazi kabisa na kwa usawa |
+
+📜 Haki 21
+**Mwili · Hiari · Utambulisho · Ukweli · Lugha · Mawasiliano · Familia · Sayari yenye Afya · Maji Safi · Chakula · Afya · Nishati · Makazi · Usalama · Amani · Elimu · Kupumzika · Teknolojia · Haki · Biashara · Kusafiri**
+→ *Soma Katiba kamili kwenye brasa.world*
+
+🧩 Miradi — Suluhisho Halisi, Athari Halisi
+🏠 Makazi · 🍎 Chakula · 💧 Maji · 💊 Dawa · ⚡ Nishati · 🔬 Teknolojia · ❤️ Ukarimu · 🏫 Vyuo vya Elimu
+
+📄 Kanuni & Leseni
+Katiba inatangulia. Wazi na kwa usawa. Inamilikiwa na raia wa ulimwengu. Haki zote zinalindwa na mfumo wa Katiba wa BRASA.
+
+«Arenal · Kosta Rika · 2026 — Imeundwa kwa upendo kwa kila mtu.»
+
+# 🌍 د BRASA نړۍ
+یو متحد سیسټم: زده کړه · حکومت · سوداګري — د نړۍ د هر وګړي لپاره جوړ شوی.
+
+🌐 ویب پاڼه: https://brasa.world
+📍 د اصلي ځای: آرینال · کوسټا ریکا
+📅 تاسیس: 2026 · د وګړو ملکیت
+
+✨ BRASA څه شی دی؟
+BRASA زده کړه، حکومت او سوداګري په یو بشپړ سیسټم کې سره یوځای کوي — د هرې ژبې، هر هیواد او هر ژوند لپاره ډیزاین شوی. ټول اصلي خدمتونه وګړو ته ویاړ دي، په بشپړ ډول د سوداګرۍ له لارې تمویل کیږي — هیڅکله مالیه نه.
+
+💎 زموږ د ځانګړتیاوو
+🗣️ **د 7,100 څخه زیاتې ژبې** — هر وګړی په خپله مورنۍ ژبه کې
+📜 **21 نړیوال حقونه او اساسي قانون** — ټولو ته د واضح لیکلي تضمینونه
+🔍 **په بشپړ ډول روښانه** — پرانیستی کتاب + 24/7 ژوندۍ راپور ورکول — هیڅ پټ ندي
+🆓 وګړو ته $0 لګښت — د سوداګرۍ له لارې تمویل، فیس یا مالیه نشته
+🌍 **ریښتیني نړیوال لړی** — امریکا · افریقا · اروپا · اسیا · منځنی ختیځ · بحرالکاہل
+🤝 **د خلکو ملکیت** — نه د شرکتونو، نه د حکومتونو — د موږ ټولو دی
+🎓 **د هر چا لپاره زده کړه** — د سوداګرۍ د ویاړ ډیپلوم د ترلاسه کولو لاره هم شامله
+🛒 **بشپړ سیسټم** — بازار، زده کړه، اداره او سوداګري — ټول سره تړلي دي
+
+🧱 څلور ستنې
+| ستن | موخه |
+|---|---|
+| 🎓 زده کړه — د نړۍ ویاړ ښوونځی — پوهه هر چا ته ویاړ ده |
+| ⚖️ حکومت — د اساسي قانون پر بنسټ اداره او ستاسو 21 خوندي شوي حقونه |
+| 💼 سوداګري — د وګړو بازار او د سوداګرۍ ویاړ ډیپلومونه |
+| 📖 پرانیستی کتاب — ژوندۍ عامه معلومات، د تایید وړ — په بشپړ ډول پرانیستی او روښانه |
+
+📜 21 حقونه
+**بدن · ازاده خپله خوښه · پېژندنه · ریښتیا · ژبه · اړیکه · کورنۍ · صحي سیاره · پاکه اوبه · خواړه · صحت · انرژي · د استوګنې ځای · خوندیتوب · سوله · زده کړه · آرام · ټیکنالوژي · انصاف · سوداګري · سفر**
+→ *بشپړ اساسي قانون په brasa.world کې ولولئ*
+
+📄 اصولونه او جواز
+اساسي قانون لومړی دی. پرانیستی او روښانه. د نړۍ د وګړو ملکیت. ټول حقونه د BRASA د اساسي قانون چوکاټ لاندې خوندي دي.
+
+«آرینال · کوسټا ریکا · 2026 — د هر چا لپاره په مینه جوړ شوی.»
+
+# 🌍 BRASA Jagad Donya
+Siji sistem nyawiji: Pendhidhikan · Pamrentahan · Bisnis — dibangun kanggo saben warga donya.
+
+🌍 Situs Web: https://brasa.world
+📍 Asal: Arenal · Kosta Rika
+📅 Diadegake: 2026 · Duweni dening Warga Negara
+
+✨ Apa Iku BRASA?
+BRASA nyawiji Pendhidhikan, Pamrentahan, lan Bisnis dadi siji sistem sing jangkep — dirancang kanggo saben basa, saben bangsa, lan saben urip. Kabeh layanan inti gratis kanggo warga negara, didanai kanthi wutuh dening perdagangan — tanpa pajak, ing salawas-lawase.
+
+💎 Kekiyatan Utama & Sing Ndadekake Kita Unik
+🗣️ **Luwih saka 7.100 Basa** — Saben warga negara nganggo basa ibune dhewe
+📜 **21 Hak Universal & Konstitusi** — Jaminan sing ditulis kanthi cetha kanggo kabeh wong
+🔍 **Jangkep Transparan** — Buku Besar Terbuka + Laporan langsung 24/7; ora ana sing didhelikake
+🆓 **Biaya $0 kanggo Warga Negara** — Didanai dening perdagangan, dudu ragad utawa pajak
+🌍 **Bener-Bener Global** — Amérika · Afrika · Éropah · Asia · Wétan Tengah · Oseania
+🤝 **Duweni dening Rakyat** — Dudu duweke perusahaan, dudu duweke pamaréntah — Duweke kita kabeh
+🎓 **Pendhidhikan kanggo Kabeh** — Klebu dalan entuk Gelar Bisnis Gratis
+🛒 **Sistem Jangkep** — Pasar, sinau, pamrentahan lan perdagangan — kabeh nyambung
+
+🧱 Papat Pilar
+| Pilar | Tujuwan |
+|---|---|
+| 🎓 Pendhidhikan — Sekolah Donya Gratis — Ilmu mbukak kanggo kabeh |
+| ⚖️ Pamrentahan — Pamrentahan miturut Konstitusi & 21 Hak Sampeyan sing Dilindungi |
+| 💼 Bisnis — Pasar Rakyat & Gelar Bisnis Gratis |
+| 📖 Buku Besar Terbuka — Data publik langsung, bisa diverifikasi — Jangkep terbuka lan transparan |
+
+📜 21 Hak
+**Awak · Karsa Bebas · Identitas · Kebenaran · Basa · Komunikasi · Kulawarga · Planet Sehat · Banyu Resik · Panganan · Kesehatan · Energi · Panggonan Urip · Kaslametan · Katentreman · Pendhidhikan · Ngaso · Teknologi · Keadilan · Bisnis · Lelungan**
+→ *Waca Konstitusi jangkep ing brasa.world*
+
+📄 Prinsip & Lisensi
+Konstitusi diutamakake. Terbuka lan transparan. Duweke warga donya. Kabeh hak dilindungi dening kerangka Konstitusi BRASA.
+
+«Arenal · Kosta Rika · 2026 — Dibangun kanthi tresna kanggo kabeh wong.»
