@@ -2522,3 +2522,42 @@ https://brasa.world ကိုအခြားသူများအားပြေ
 
 «အာရီနယ် · ကော်စတာရီကာ · 2026 · လူတိုင်းအတွက်မေတ္တာဖြင့်တည်ဆောက်သည်။»
  
+# 🌍 BRASA Wereld
+Eén verenigd systeem: Onderwijs · Overheid · Bedrijfsleven — gebouwd voor elke burger ter wereld.
+
+🌐 Website: https://brasa.world
+📍 Oorsprong: Arenal · Costa Rica
+📅 Opgericht: 2026 · Eigendom van Burgers
+
+✨ Wat is BRASA?
+BRASA verenigt Onderwijs, Overheid en Bedrijfsleven in één compleet systeem — ontworpen voor elke taal, elk land en elk leven. Alle basisdiensten zijn gratis voor burgers, volledig gefinancierd door handel — geen belastingen, nooit.
+
+💎 Kernkwaliteiten & Wat Ons Uniek Maakt
+🗣️ **Meer dan 7.100 Talen** — Elke burger in zijn eigen moedertaal
+📜 **21 Universele Rechten & Grondwet** — Duidelijke geschreven garanties voor iedereen
+🔍 **Volledig Transparant** — Open Grootboek + 24/7 live openbare rapportage; niets verborgen
+🆓 **$0 Kosten voor Burgers** — Gefinancierd door handel, niet door kosten of belastingen
+🌍 **Echt Wereldwijd** — Amerika · Afrika · Europa · Azië · Midden-Oosten · Oceanië
+🤝 **Eigendom van het Volk** — Niet van bedrijven, niet van overheden — van ons allemaal
+🎓 **Onderwijs voor Iedereen** — Inclusief traject voor een Gratis Bedrijfsdiploma
+🛒 **Volledig Systeem** — Marktplaats, leren, bestuur en handel — allemaal verbonden
+
+🧱 De Vier Pijlers
+| Pijler | Doel |
+|---|---|
+| 🎓 Onderwijs | Gratis Wereldschool — Kennis voor iedereen vrij toegankelijk |
+| ⚖️ Overheid | Grondwettelijk bestuur & uw 21 beschermde rechten |
+| 💼 Bedrijfsleven | Burgerlijke Marktplaats & Gratis Bedrijfsdiploma's |
+| 📖 Open Grootboek | Live openbare gegevens, verifieerbaar — volledig open en transparant |
+
+📜 21 Rechten
+**Lichaam · Vrije Wil · Identiteit · Waarheid · Taal · Communicatie · Familie · Gezonde Planeet · Schoon Water · Voedsel · Gezondheid · Energie · Onderdak · Veiligheid · Vrede · Onderwijs · Rust · Technologie · Rechtvaardigheid · Bedrijfsleven · Reizen**
+→ *Lees de volledige Grondwet op brasa.world*
+
+🧩 Projecten — Echte Oplossingen, Echte Impact
+🏠 Huisvesting · 🍎 Voedsel · 💧 Water · 💊 Geneesmiddelen · ⚡ Energie · 🔬 Technologie · ❤️ Filantropie · 🏫 Onderwijscampussen
+
+📄 Uitgangspunten & Licentie
+Grondwet staat voorop. Open en transparant. Eigendom van de wereldburger. Alle rechten vallen onder het Grondwettelijk Kader van BRASA.
+
+«Arenal · Costa Rica · 2026 — Met liefde gebouwd voor iedereen.»
