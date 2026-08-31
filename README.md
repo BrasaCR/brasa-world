@@ -2903,3 +2903,152 @@ BRASA අධ්‍යාපනය, රජය සහ ව්‍යාපාර එ
 ආණ්ඩුක්‍රම ව්‍යවස්ථාව ප්‍රථමයි. විවෘත හා විනිවිද. ලෝක පුරවැසියන්ගේ හිමිකාරීත්වය. සෑම අයිතිවාසිකමක්ම BRASA ආණ්ඩුක්‍රම ව්‍යවස්ථාපිත රාමුව තුළ ආරක්ෂා වී ඇත.
 
 «ඇරෙනාල් · කොස්ටා රිකා · 2026 — සෑම දෙනාටම ආදරයෙන් නිර්මාණය කරන ලදී.»
+
+# 🌍 BRASA ពិភពលោក
+ប្រព័ន្ធតែមួយរួមគ្នា៖ ការអប់រំ · រដ្ឋាភិបាល · ពាណិជ្ជកម្ម — បង្កើតឡើងសម្រាប់ពលរដ្ឋគ្រប់រូបក្នុងពិភពលោក។
+
+�ាវគេហទំព័រ៖ https://brasa.world
+📍កន្លែងដើម៖ អារេណាល់ · កូស្តារីកា
+📅 បង្កើតឡើង៖ ២០២៦ · ជាកម្មសិទ្ធិរបស់ពលរដ្ឋ
+
+✨ BRASA ជាអ្វី?
+BRASA រួមបញ្ចូលការអប់រំ រដ្ឋាភិបាល និងពាណិជ្ជកម្មទៅជាប្រព័ន្ធពេញលេញមួយ — រចនាឡើងសម្រាប់ភាសានីមួយៗ ប្រទេសនីមួយៗ និងជីវិតម្នាក់ៗ។ សេវាមូលដ្ឋានទាំងអស់មិនគិតថ្លៃសម្រាប់ពលរដ្ឋ ទទួលបានមូលនិធិទាំងស្រុងពីពាណិជ្ជកម្ម — គ្មានពន្ធ ជារៀងរហូត។
+
+💎 ភាពខ្លាំង និងភាពពិសេសរបស់ពួកយើង
+🗣️ **ភាសាជាង ៧,១០០** — ពលរដ្ឋគ្រប់រូបជាភាសាកំណើតផ្ទាល់ខ្លួន
+📜 **សិទ្ធិសកលចំនួន ២១ និងរដ្ឋធម្មនុញ្ញ** — ការធានាច្បាស់លាស់សរសេរជូនដល់ទាំងអស់គ្នា
+🔍 **តម្លាភាពពេញលេញ** — សៀវភៅបើកចំហ + របាយការណ៍បន្តផ្ទាល់ ២៤/៧; គ្មានអ្វីលាក់ទុក
+🆓 **តម្លៃ ០ ដុល្លារសម្រាប់ពលរដ្ឋ** — ទទួលមូលនិធិពីពាណិជ្ជកម្ម មិនមែនថ្លៃសេវា ឬពន្ធ
+🌍 **ពិតជាសកល** — អាមេរិក · អាហ្វ្រិក · អឺរ៉ុប · អាស៊ី · មជ្ឈិមបូព៌ា · អូសេអានី
+🤝 **ជាកម្មសិទ្ធិរបស់ប្រជាជន** — មិនមែនរបស់ក្រុមហ៊ុន មិនមែនរបស់រដ្ឋាភិបាល — ជារបស់ពួកយើងទាំងអស់គ្នា
+🎓 **ការអប់រំសម្រាប់ទាំងអស់គ្នា** — រាប់បញ្ចូលផ្លូវទទួលបានសញ្ញាបត្រពាណិជ្ជកម្មដោយឥតគិតថ្លៃ
+🛒 **ប្រព័ន្ធពេញលេញ** — ផ្សារ ការសិក្សា ការគ្រប់គ្រង និងពាណិជ្ជកម្ម — ទាំងអស់ភ្ជាប់គ្នា
+
+�ោសសសរស្តម្ភទាំងបួន
+| សសរស្តម្ភ | គោលបំណង |
+|---|---|
+| 🎓 ការអប់រំ — សាលាពិភពលោកឥតគិតថ្លៃ ចំណេះដឹងបើកចំហសម្រាប់ទាំងអស់គ្នា |
+| ⚖️ រដ្ឋាភិបាល — ការគ្រប់គ្រងតាមរដ្ឋធម្មនុញ្ញ និងសិទ្ធិទាំង ២១ របស់អ្នកដែលបានការពារ |
+| 💼 ពាណិជ្ជកម្ម — ផ្សារប្រជាជន និងសញ្ញាបត្រពាណិជ្ជកម្មឥតគិតថ្លៃ |
+| 📖 សៀវភៅបើកចំហ — ទិន្នន័យសាធារណៈបន្តផ្ទាល់ អាចផ្ទៀងផ្ទាត់បាន — បើកចំហ និងតម្លាភាពពេញលេញ |
+
+📜 សិទ្ធិទាំង ២១
+**រាងកាយ · ឆន្ទៈសេរី · អត្តសញ្ញាណ · សេចក្តីពិត · ភាសា · ការទំនាក់ទំនង · ក្រុមគ្រួសារ · ភពផែនដីមានសុខភាពល្អ · ទឹកស្អាត · អាហារ · សុខភាព · ថាមពល · ទីលំនៅ · សុវត្ថិភាព · សន្តិភាព · ការអប់រំ · ការសម្រាក · បច្ចេកវិទ្យា · យុត្តិធម៌ · ពាណិជ្ជកម្ម · ការធ្វើដំណើរ**
+→ *អានរដ្ឋធម្មនុញ្ញពេញលេញនៅ brasa.world*
+
+📂 គោលការណ៍ និងអាជ្ញាប័ណ្ណ
+រដ្ឋធម្មនុញ្ញមកមុនគេ។ បើកចំហ និងតម្លាភាព។ ជាកម្មសិទ្ធិរបស់ពលរដ្ឋពិភពលោក។ សិទ្ធិទាំងអស់ត្រូវបានការពារដោយក្របខ័ណ្ឌរដ្ឋធម្មនុញ្ញរបស់ BRASA។
+
+«អារេណាល់ · កូស្តារីកា · ២០២៦ — បង្កើតឡើងដោយក្តីស្រឡាញ់សម្រាប់មនុស្សទាំងអស់គ្នា។»
+
+
+# 🌍 BRASA Dünya
+Bir Vahid Sistem: Təhsil · Hökumət · Biznes — dünyanın hər bir vətəndaşı üçün qurulmuşdur.
+
+🌐 Veb-sayt: https://brasa.world
+📍 Mənşəyi: Arenal · Kosta Rika
+📅 Quruldu: 2026 · Vətəndaşların Mülkiyyətindədir
+
+✨ BRASA Nədir?
+BRASA Təhsil, Hökumət və Biznesi tam bir sistemdə birləşdirir — hər bir dil, hər bir xalq və hər bir həyat üçün nəzərdə tutulmuşdur. Bütün əsas xidmətlər vətəndaşlar üçün pulsuzdur, tamamilə ticarət hesabına maliyyələşdirilir — heç vaxt vergi yoxdur.
+
+💎 Əsas Güclərimiz və Fərqimiz
+🗣️ **7.100-dən çox Dil** — Hər bir vətəndaş öz doğma dilində
+📜 **21 Ümumbəşəri Hüquq və Konstitusiya** — Hamı üçün aydın yazılmış təminatlar
+🔍 **Tam Şəffaflıq** — Açıq Mühasibat Kitabı + 24/7 canlı hesabat; heç nə gizli deyil
+🆓 **Vətəndaşlar üçün 0$ xərc** — Ticarət hesabına maliyyələşdirilir, ödəniş və ya vergi deyil
+🌍 **Həqiqətən Qlobal** — Amerika · Afrika · Avropa · Asiya · Yaxın Şərq · Okeaniya
+🤝 **Xalqın Mülkiyyətindədir** — Şirkətlərin deyil, hökumətlərin deyil — hamımızındır
+🎓 **Hamı üçün Təhsil** — Pulsuz Biznes Diplomuna sahib olmaq yolu da daxil olmaqla
+🛒 **Tam Sistem** — Bazar, öyrənmə, idarəetmə və ticarət — hamısı bağlıdır
+
+🧱 Dörd Əsas Sütun
+| Sütun | Məqsəd |
+|---|---|
+| 🎓 Təhsil — Pulsuz Dünya Məktəbi — Bilik hamı üçün açıqdır |
+| ⚖️ Hökumət — Konstitusiyaya əsaslanan idarəetmə və sizin qorunan 21 hüququnuz |
+| 💼 Biznes — Xalq Bazarı və Pulsuz Biznes Diplomları |
+| 📖 Açıq Mühasibat Kitabı — Canlı ictimai məlumatlar, yoxlanıla bilən — tam açıq və şəffaf |
+
+📜 21 Hüquq
+**Bədən · Azad İradə · Şəxsiyyət · Həqiqət · Dil · Ünsiyyət · Ailə · Sağlam Planet · Təmiz Su · Qida · Sağlamlıq · Enerji · Mənzil · Təhlükəsizlik · Sülh · Təhsil · İstirahət · Texnologiya · Ədalət · Biznes · Səyahət**
+→ *Tam Konstitusiyanı brasa.world ünvanında oxuyun*
+
+📄 Prinsiplər və Lisenziya
+Konstitusiya hər şeydən üstündür. Açıq və şəffafdır. Dünya vətəndaşlarının mülkiyyətindədir. Bütün hüquqlar BRASA Konstitusiyası ilə qorunur.
+
+«Arenal · Kosta Rika · 2026 — bütün insanlar üçün sevgiylə qurulmuşdur.»
+
+# 🌍 BRASA جیهان
+یەک سیستەمی یەکگرتوو: پەروەردە · حکوومەت · بازرگانی — بۆ هەر هاووڵاتییەکی جیهان دروستکراوە.
+
+🌐 ماڵپەڕ: https://brasa.world
+📍 شوێنی دەستنیشان: ئارێناڵ · کۆستا ڕیکا
+📅 دامەزراندن: ٢٠٢٦ · خاوەندارێتی هاووڵاتییان
+
+✨ BRASA چییە؟
+BRASA پەروەردە، حکوومەت و بازرگانی دەخاتە ناو یەک سیستەمی تەواو — بۆ هەر زمانێک، هەر نەتەوەیەک و هەر ژیانێک دیزاین کراوە. هەموو خزمەتگوزارییە سەرەتاییەکان بۆ هاووڵاتییان بێبەرامەن، تەواو بە پارەی بازرگانی پشتگیری دەکرێت — هەرگیز باج نە.
+
+💎 هێزەکانمان و جیاوازیمان
+🗣️ **زیاتر لە ٧,١٠٠ زمان** — هەر هاووڵاتییەک بە زمانی دایکی خۆی
+📜 **٢١ مافی گشتی و دەستوور** — دڵنیایی نووسراو بە ڕوونی بۆ هەمووان
+🔍 **تەواو ڕوون و ئاشکرا** — پەرستەرەی کراوە + ٢٤/٧ ڕاپۆرتی ڕاستەوخۆ؛ هیچ شتێک نەشاراوەتەوە
+🆓 **بێبەرامە بۆ هاووڵاتییان** — پارەی بازرگانی، نەک پێشەوەی باج
+🌍 **بە ڕاستی گشتی** — ئەمریکا · ئەفریقیا · ئەورووپا · ئاسیا · ناوەڕاستی ڕۆژاوا · ئۆقیانووسیا
+🤝 **خاوەندارێتی خەڵک** — نەک کۆمپانیاکان، نەک حکوومەتەکان — هی هەموومانە
+🎓 **پەروەردە بۆ هەمووان** — ڕێگای وەرگرتنی بڕوانامەی بازرگانی بێبەرامەن لەخۆدەگرێت
+🛒 **سیستەمی تەواو** — بازاڕ، فێربوون، بەڕێوەبردن و بازرگانی — هەموو پێوەندی بەیەکەوە
+
+🧱 چوار ستوون
+| ستوون | ئامانج |
+|---|---|
+| 🎓 پەروەردە — خوێندنگای جیهانی بێبەرامەن — زانیاری کراوە بۆ هەمووان |
+| ⚖️ حکوومەت — بەپێی دەستوور و بەڕێوەبردن و ٢١ مافی پارێزراوی تۆ |
+| 💼 بازرگانی — بازاڕی خەڵک و بڕوانامەی بازرگانی بێبەرامەن |
+| 📖 پەرستەرەی کراوە — داتای گشتی ڕاستەوخۆ، تاقیکراوە — تەواو کراوە و ڕوون |
+
+📜 ٢١ ماف
+**لەش · ئیرادەی ئازاد · ناسنامە · ڕاستی · زمان · پەیوەندی · خێزان · گەڕەکی تەندروست · ئاوی خاوێن · خواردن · تەندروستی · وزە · شوێنی نیشتەجێبوون · ئاسایش · ئاشتی · پەروەردە · پشوو · تەکنەلۆژیا · دادپەروەری · بازرگانی · گەشتکردن**
+→ *دەستووری تەواو بخوێنەوە لە brasa.world*
+
+📄 بنەماکان و مۆڵەت
+دەستوور لەپێش هەموو شتێکدایە. کراوە و ڕوون. خاوەندارێتی هاووڵاتییانی جیهان. هەموو مافەکان بە چوارچێوەی دەستووری BRASA پارێزراون.
+
+«ئارێناڵ · کۆستا ڕیکا · ٢٠٢٦ — بە خۆشەویستی بۆ هەموو کەس دروستکراوە.»
+
+# 🌍 BRASA Umhlaba
+Uhlelo Olodwa Oluhlanganisiwe: Imfundo · Uhulumeni · Amabhizinisi — Olwakhelwe sonke isakhamuzi somhlaba.
+
+🌐 Iwebhusayithi: https://brasa.world
+📍 Isiqalo: Arenal · Kosta Rika
+📅 Isungulwe: 2026 · IngabeyeSakhamuzi
+
+✨ Yini i-BRASA?
+I-BRASA ihlanganisa Imfundo, Uhulumeni kanye Namabhizinisi kuhlelo olulodwa oluphelele — olwakhelwe zonke izilimi, zonke izizwe, nempilo yonke. Zonke izinsiza eziyinhloko zimahhala ezakhamuzini, zixhaswe ngokuphelele ngokuhwebelana — akukho ntela, nanini.
+
+💎 Amandla Etu Nokwenza Sihluke
+🗣️ **Izilimi Ezingaphezu kwezi-7,100** — Sonke isakhamuzi ngolimi lwaso lwebele
+📜 **Amalungelo angama-21 Omhlaba Wonke kanye Nomthethosisekelo** — Izithembiso ezibhalwe ngokusobala zawo wonke umuntu
+🔍 **Okusobala Ngokuphelele** — Incwadi Evulekile + Umbiko obukhoma amahora angama-24/7; Akukho okufihliwe
+🆓 **Izindleko ezingu-$0 zeSakhamuzi** — Ixhase ngokuhwebelana, hhayi ngezinkokhelo noma intela
+🌍 **Okungokoqobo Okomhlaba Wonke** — IMelika · i-Afrika · iYurophu · i-Asia · iMpumalanga Ephakathi · i-Oceania
+🤝 **IngabeyeBantu** — Hhayi eyezinkampani, hhayi yohulumeni — IngabeSonke Thina
+🎓 **Imfundo Yawo Wonke Umuntu** — Kubandakanya nendlela yokuthola Idiploma Yebhizinisi Mahhala
+🛒 **Uhlelo Oluphelele** — Imakethe, ukufunda, ukubusa kanye nokuhwebelana — Konke kuxhunyiwe
+
+🧱 Izinsika Ezine
+| Insika | Inhloso |
+|---|---|
+| 🎓 Imfundo — Isikole Somhlaba Samahhala — Ulwazi luvulekele sonke |
+| ⚖️ Uhulumeni — Ukubusa ngokweMthethosisekelo kanye namaLungelo akho angama-21 Avikelekile |
+| 💼 Amabhizinisi — Imakethe yeSakhamuzi kanye namaDiploma Ebhizinisini Amahhala |
+| 📖 Incwadi Evulekile — Imininingwane yomphakathi ebukhoma, engaqinisekiswa — Ivuleke ngokuphelele futhi isobala |
+
+📜 Amalungelo angama-21
+**Umzimba · Inkululeko Yokuzikhethela · Ubunikazi · Iqiniso · Ulimi · Ukuxhumana · Umndeni · Iplanethi Enempilo · Amanzi Ahlanzekile · Ukudla · Impilo · Amandla · Indawo Yokuhlala · Ukuphepha · Ukuthula · Imfundo · Ukuphumula · Ubuchwepheshe · Ubulungiswa · Ibhizinisi · Ukuhamba**
+→ *Funda uMthethosisekelo ophelele ku-brasa.world*
+
+📄 Iziqondiso kanye Nemvume
+UMthethosisekelo uza kuqala. Uvulekile futhi usobala. IngabeyeSakhamuzi Somhlaba Wonke. Wonke amalungelo avikelekile ngohlaka loMthethosisekelo we-BRASA.
+
+«Arenal · Kosta Rika · 2026 — Yakhiwe ngothando kubo bonke abantu.»
