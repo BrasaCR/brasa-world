@@ -2755,3 +2755,151 @@ BRASA nyawiji Pendhidhikan, Pamrentahan, lan Bisnis dadi siji sistem sing jangke
 Konstitusi diutamakake. Terbuka lan transparan. Duweke warga donya. Kabeh hak dilindungi dening kerangka Konstitusi BRASA.
 
 «Arenal · Kosta Rika · 2026 — Dibangun kanthi tresna kanggo kabeh wong.»
+
+# 🌍 BRASA विश्व
+एउटा एकीकृत प्रणाली: शिक्षा · सरकार · व्यापार — विश्वका प्रत्येक नागरिकका लागि निर्माण गरिएको।
+
+🌐 वेबसाइट: https://brasa.world
+📍 उत्पत्ति: अरेनाल · कोस्टा रिका
+📅 स्थापना: 2026 · नागरिकहरूको स्वामित्वमा
+
+✨ BRASA के हो?
+BRASA ले शिक्षा, सरकार र व्यापारलाई एउटा पूर्ण प्रणालीमा एकीकृत गर्दछ — प्रत्येक भाषा, प्रत्येक राष्ट्र र प्रत्येक जीवनका लागि डिजाइन गरिएको। सबै मुख्य सेवाहरू नागरिकलाई निःशुल्क छन्, पूर्ण रूपमा व्यापारद्वारा वित्तपोषित — कहिल्यै कर छैन।
+
+💎 हाम्रा विशेषताहरू
+🗣️ **7,100 भन्दा बढी भाषाहरू** — प्रत्येक नागरिक आफ्नै मातृभाषामा
+📜 **21 विश्वव्यापी अधिकार र संविधान** — सबैका लागि स्पष्ट लिखित ग्यारेन्टीहरू
+🔍 **पूर्ण रूपमा पारदर्शी** — खुला खाता + 24/7 प्रत्यक्ष सार्वजनिक प्रतिवेदन; केही पनि लुकाइएको छैन
+🆓 **नागरिकका लागि $0 लागत** — व्यापारद्वारा वित्तपोषित, शुल्क वा कर छैन
+🌍 **वास्तवमा विश्वव्यापी** — अमेरिका · अफ्रिका · युरोप · एशिया · मध्य पूर्व · ओशिनिया
+🤝 **जनताको स्वामित्वमा** — कम्पनीहरूको होइन, सरकारहरूको होइन — हामी सबैको हो
+🎓 **सबैका लागि शिक्षा** — निःशुल्क व्यापार डिग्री प्राप्त गर्ने मार्ग पनि समावेश
+🛒 **पूर्ण प्रणाली** — बजार, शिक्षा, शासन र व्यापार — सबै एकअर्कासँग जोडिएका
+
+🧱 चार स्तम्भ
+| स्तम्भ | उद्देश्य |
+|---|---|
+| 🎓 शिक्षा | निःशुल्क विश्वविद्यालय — ज्ञान सबैका लागि खुला |
+| ⚖️ सरकार | संविधानअनुरूप शासन र तपाईंका 21 संरक्षित अधिकार |
+| 💼 व्यापार | नागरिक बजार र निःशुल्क व्यापार डिग्रीहरू |
+| 📖 खुला खाता | प्रत्यक्ष सार्वजनिक डेटा, प्रमाणित गर्न सकिने — पूर्ण रूपमा खुला र पारदर्शी |
+
+📜 21 अधिकार
+**शरीर · स्वतन्त्र इच्छा · पहिचान · सत्य · भाषा · सञ्चार · परिवार · स्वस्थ ग्रह · स्वच्छ पानी · खाद्यान्न · स्वास्थ्य · ऊर्जा · आवास · सुरक्षा · शान्ति · शिक्षा · विश्राम · प्रविधि · न्याय · व्यापार · यात्रा**
+→ *पूर्ण संविधान brasa.world मा पढ्नुहोस्*
+
+📄 सिद्धान्तहरू र इजाजतपत्र
+संविधान सर्वोपरि छ। खुला र पारदर्शी। विश्वका नागरिकहरूको स्वामित्वमा। सबै अधिकार BRASA संवैधानिक संरचनाद्वारा संरक्षित छन्।
+
+«अरेनाल · कोस्टा रिका · 2026 — सबैका लागि मायाले बनाइएको।»
+
+# 🌍 BRASA Lume
+Un sistem unit: Educație · Guvern · Afaceri — construit pentru fiecare cetățean al lumii.
+
+🌐 Site web: https://brasa.world
+📍 Origine: Arenal · Costa Rica
+📅 Înființat: 2026 · Proprietatea Cetățenilor
+
+✨ Ce Este BRASA?
+BRASA unește Educația, Guvernul și Afacerile într-un sistem complet — conceput pentru fiecare limbă, fiecare națiune și fiecare viață. Toate serviciile de bază sunt gratuite pentru cetățeni, finanțate integral prin comerț — fără taxe, niciodată.
+
+💎 Punctele Noastre de Forță
+🗣️ **Peste 7.100 de Limbi** — Fiecare cetățean în limba sa maternă
+📜 **21 de Drepturi Universale și Constituție** — Garanții scrise clar pentru toți
+🔍 **Pe Deplin Transparent** — Registru Deschis + Raportare live 24/7; Nimic ascuns
+🆓 **Cost 0$ pentru Cetățeni** — Finanțat prin comerț, nu prin taxe sau comisioane
+🌍 **Cu Adevărat Global** — America · Africa · Europa · Asia · Orientul Mijlociu · Oceania
+🤝 **Proprietatea Poporului** — Nu al companiilor, nu al guvernelor — Al tuturor nostru
+🎓 **Educație pentru Toți** — Inclusiv calea către o Diplomă în Afaceri Gratuită
+🛒 **Ecosistem Complet** — Piață, învățare, guvernare și comerț — Toate conectate
+
+🧱 Cei Patru Stâlpi
+| Stâlp | Scop |
+|---|---|
+| 🎓 Educație | Școala Mondială Gratuită — Cunoștințe deschise pentru toți |
+| ⚖️ Guvern | Guvernare Constituțională & Cele 21 de Drepturi Protejate ale Tale |
+| 💼 Afaceri | Piața Cetățenilor & Diplome Gratuite în Afaceri |
+| 📖 Registru Deschis | Date publice în timp real, verificabile — Pe deplin deschise și transparente |
+
+📜 Cele 21 de Drepturi
+**Corp · Liber Arbitru · Identitate · Adevăr · Limbă · Comunicare · Familie · Planetă Sănătoasă · Apă Curată · Mâncare · Sănătate · Energie · Locuință · Siguranță · Pace · Educație · Odihnă · Tehnologie · Justiție · Afaceri · Călătorie**
+→ *Citește Constituția completă pe brasa.world*
+
+📄 Principii și Licență
+Constituția este mai presus de toate. Deschisă și transparentă. Proprietatea cetățenilor lumii. Toate drepturile sunt protejate de cadrul Constituțional BRASA.
+
+«Arenal · Costa Rica · 2026 — Creat cu iubire pentru toți oamenii.»
+
+# 🌍 BRASA Kalibutan
+Usa ka Nagkahiusang Sistema: Edukasyon · Gobyerno · Negosyo — Gihimo para sa matag lungsuranon sa kalibutan.
+
+🌐 Websayt: https://brasa.world
+📍 Gigikanan: Arenal · Costa Rica
+📅 Natukod: 2026 · Gipanag-iya sa mga Lungsuranon
+
+✨ Unsa ang BRASA?
+Ang BRASA naghiusa sa Edukasyon, Gobyerno, ug Negosyo ngadto sa usa ka kompleto nga sistema — Gihimo para sa matag pinulongan, matag nasud, ug matag kinabuhi. Ang tanan nga nag-unang serbisyo libre alang sa mga lungsuranon, gipondohan sa tibuok pinaagi sa pamaligya — Walay buhis, sukad pa kaniadto.
+
+💡 Ang Atong Mga Kalig-on
+🗣️ **Labaw sa 7,100 ka Pinulongan** — Matag lungsuranon sa iyang kaugalingong pinulongan
+📜 **21 nga Unibersal nga Katungod ug Konstitusyon** — Tin-aw nga sinulat nga garantiya alang sa tanan
+🔍 **Bug-os nga Transparente** — Bukas nga Libro + 24/7 nga buhi nga taho; Walay gitago
+🆓 **$0 nga Gasto sa Lungsuranon** — Gipondohan pinaagi sa pamaligya, dili bayad o buhis
+🌍 **Tinuod nga Tibuok Kalibutan** — Amerika · Aprika · Uropa · Asya · Tunga'ng Sidlakan · Oseanya
+🤝 **Gipanag-iya sa Katawhan** — Dili sa mga Kompanya, dili sa Gobyerno — Ato Nating Tanan
+🎓 **Edukasyon alang sa Tanan** — Apil na ang dalan aron makakuha og Libreng Diploma sa Negosyo
+🛒 **Kompleto nga Sistema** — Merkado, Pagkat-on, Pagdumala ug Pamaligya — Tanan nagkonektar
+
+🧱 Ang Upat ka Haligi
+| Haligi | Katuyuan |
+|---|---|
+| 🎓 Edukasyon — Libreng Eskwelahan sa Kalibutan — Kahibalo bukas alang sa tanan |
+| ⚖️ Gobyerno — Pagdumala subay sa Konstitusyon ug ang Imong 21 nga Gipanalipdan nga Katungod |
+| 💼 Negosyo — Merkado sa Lungsuranon ug Libreng Diploma sa Negosyo |
+| 📖 Bukas nga Libro — Pampublikong datos sa tinuod nga panahon, mapamatud-an — Bug-os nga bukas ug transparente |
+
+📜 Ang 21 nga Katungod
+**Lawas · Kagawasan sa Pagbuot · Pagkatawo · Kamatuoran · Pinulongan · Komunikasyon · Pamilya · Himsog nga Planeta · Limpyo nga Tubig · Pagkaon · Panglawas · Enerhiya · Puy-anan · Kasegurohan · Kalinaw · Edukasyon · Pahulay · Teknolohiya · Hustisya · Negosyo · Pagbiyahe**
+→ *Basaha ang Tibuok Konstitusyon sa brasa.world*
+
+📄 Mga Prinsipyo ug Lisensya
+Ang Konstitusyon maoy nag-una. Bukas ug Transparente. Gipanag-iya sa mga Lungsuranon sa Kalibutan. Ang tanan nga katungod gipanalipdan sa Konstitusyonal nga Balangkas sa BRASA.
+
+«Arenal · Costa Rica · 2026 — Gihimo uban ang Gugma alang sa Tanan.»
+
+# 🌍 BRASA ලෝකය
+එක් සංයුක්ත පද්ධතියක්: අධ්‍යාපනය · රජය · ව්‍යාපාර — ලෝකයේ සෑම පුරවැසියෙකු සඳහාම නිර්මාණය කර ඇත.
+
+🌐 වෙබ් අඩවිය: https://brasa.world
+📍 මූලස්ථානය: ඇරෙනාල් · කොස්ටා රිකා
+📅 ආරම්භය: 2026 · පුරවැසියන්ගේ හිමිකාරීත්වය
+
+✨ BRASA යනු කුමක්ද?
+BRASA අධ්‍යාපනය, රජය සහ ව්‍යාපාර එක් සම්පූර්ණ පද්ධතියක් ලෙස එකට එකතු කරයි — සෑම භාෂාවකටම, සෑම රටකටම සහ සෑම ජීවිතයකටම සුදුසු ලෙස සකස් කර ඇත. සෑම මූලික සේවාවක්ම පුරවැසියන්ට නොමිලේ, සම්පූර්ණයෙන්ම වාණිජ්‍යයෙන් අරමුදල් සපයයි — කවදාවත් බදු නැත.
+
+💎 අපගේ විශේෂත්ව
+🗣️ **භාෂා 7,100කට වඩා** — සෑම පුරවැසියෙකුම තම මවුභාෂාවෙන්
+📜 **විශ්වව්‍යාප්ත අයිතිවාසිකම් 21ක් සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාව** — සෑම දෙනාටම පැහැදිලි ලියුම් සහිත සහතික
+🔍 **සම්පූර්ණ විනිවිදභාවය** — විවෘත ලේඛනාගාරය + පැය 24 පුරා සජීවී වාර්තාකරණය; සැඟවුණු කිසිවක් නැත
+🆓 **පුරවැසියන්ට පිරිවැය 0$** — වාණිජ්‍යයෙන් අරමුදල්, ගාස්තු හෝ බදු නැත
+🌍 **සැබෑ ලෝක ව්‍යාප්තත්වය** — ඇමරිකාව · අප්‍රිකාව · යුරෝපය · ආසියාව · මැදපෙරදිග · ඕෂනියාව
+🤝 **ජනතාගේ හිමිකාරීත්වය** — සමාගම්වලට නොවේ, රජයන්ට නොවේ — අප සැමටම අයිති
+🎓 **සෑම දෙනාටම අධ්‍යාපනය** — ව්‍යාපාරික ඩිප්ලෝමාවක් නොමිලේ ලබාගැනීමේ මාර්ගයද ඇතුළත්
+🛒 **සම්පූර්ණ පද්ධතිය** — වෙළඳපොළ, ඉගෙනීම, පාලනය සහ වාණිජ්‍යය — සියල්ල එකට සම්බන්ධයි
+
+🧱 ස්තම්භ සතර
+| ස්තම්භ | අරමුණ |
+|---|---|
+| 🎓 අධ්‍යාපනය | නොමිලේ ලෝක පාසල — දැනුම සෑම දෙනාටම විවෘතයි |
+| ⚖️ රජය | ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව පාලනය · ඔබගේ ආරක්ෂිත අයිතිවාසිකම් 21ක් |
+| 💼 ව්‍යාපාර | පුරවැසියන්ගේ වෙළඳපොළ · නොමිලේ ව්‍යාපාරික ඩිප්ලෝමා |
+| 📖 විවෘත ලේඛනාගාරය | සජීවී මහජන දත්ත, සත්‍යාපනය කළ හැකි — සම්පූර්ණයෙන්ම විවෘත හා විනිවිද |
+
+📜 අයිතිවාසිකම් 21ක්
+**ශරීරය · ස්වාධීන කැමැත්ත · හැඳුනුම්පත · සත්‍යය · භාෂාව · සන්නිවේදනය · පවුල · සෞඛ්‍ය සම්පන්න ග්‍රහලෝකය · පිරිසිදු ජලය · ආහාර · සෞඛ්‍යය · ශක්තිය · නිවාස · ආරක්ෂාව · සාමය · අධ්‍යාපනය · විවේකය · තාක්ෂණය · සාධාරණත්වය · ව්‍යාපාර · ගමන්**
+→ *සම්පූර්ණ ආණ්ඩුක්‍රම ව්‍යවස්ථාව brasa.world හි කියවන්න*
+
+📄 මූලධර්ම සහ අවසරය
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව ප්‍රථමයි. විවෘත හා විනිවිද. ලෝක පුරවැසියන්ගේ හිමිකාරීත්වය. සෑම අයිතිවාසිකමක්ම BRASA ආණ්ඩුක්‍රම ව්‍යවස්ථාපිත රාමුව තුළ ආරක්ෂා වී ඇත.
+
+«ඇරෙනාල් · කොස්ටා රිකා · 2026 — සෑම දෙනාටම ආදරයෙන් නිර්මාණය කරන ලදී.»
