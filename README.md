@@ -3275,3 +3275,76 @@ Konstitutsiya hamma narsadan ustun. Ochiq va oshkora. Butun dunyo fuqarolari mul
 
 «Arenal · Kosta-Rika · 2026 — Barcha insonlar uchun mehr bilan yaratilgan.»
 
+# 🌍 BRASA Värld
+Ett samlat system: Utbildning · Styrelse · Näringsliv — Byggt för varje medborgare i hela världen.
+
+🌐 Webbplats: https://brasa.world
+📍 Ursprung: Arenal · Costa Rica
+📅 Grundat: 2026 · Ägs av Medborgarna
+
+✨ Vad Är BRASA?
+BRASA förenar Utbildning, Styrelse och Näringsliv i ett komplett system — utformat för varje språk, varje nation och varje liv. Alla grundläggande tjänster är kostnadsfria för medborgarna, helt finansierade av handel — inga skatter, någonsin.
+
+💎 Våra Styrkor och Vad Som Gör Oss Unika
+🗣️ **Över 7 100 Språk** — Varje medborgare på sitt eget modersmål
+📜 **21 Universella Rättigheter och Grundlag** — Tydligt formulerade garantier för alla
+🔍 **Fullständigt Öppet** — Öppen Bok · Rapportering dygnet runt 24/7; Inget dolt
+🆓 **0 Sek Kostnad för Medborgarna** — Finansierat av handel, inte av avgifter eller skatter
+🌍 **Verkligen Globalt** — Amerika · Afrika · Europa · Asien · Mellanöstern · Oceanien
+🤝 **Folket Äger Det** — Inte företag, inte regeringar — Vårt allasammans
+🎓 **Utbildning för Alla** — Inklusive väg till Gratis Företagsexamen
+🛒 **Komplett System** — Marknad, lärande, styrning och handel — Allt sammankopplat
+
+🧱 Fyra Pelare
+| Pelare | Mål |
+|---|---|
+| 🎓 Utbildning — Gratis Världsskola — Kunskap öppen för alla |
+| ⚖️ Styrelse — Styrs enligt Grundlagen och Dina 21 Skyddade Rättigheter |
+| 💼 Näringsliv — Medborgarnas Marknad och Gratis Företagsexamina |
+| 📖 Öppen Bok — Offentlig information i realtid, granskbar — Helt öppet och genomskinligt |
+
+📜 21 Rättigheter
+**Kropp · Fri Vilja · Identitet · Sanning · Språk · Kommunikation · Familj · Hälsosam Planet · Rent Vatten · Mat · Hälsa · Energi · Bostad · Trygghet · Fred · Utbildning · Vila · Teknik · Rättvisa · Näringsliv · Resande**
+→ *Läs hela Grundlagen på brasa.world*
+
+📄 Principer och Licens
+Grundlagen kommer först. Öppet och genomskinligt. Ägs av världens medborgare. Alla rättigheter skyddas av BRASAs konstitutionella ramverk.
+
+«Arenal · Costa Rica · 2026 — Byggt med kärlek för alla människor.»
+
+# 🌍 BRASA Monn
+Yon sèl sistèm: Edikasyon · Gouvenman · Komès — Konstwi pou chak sitwayen nan lemonn.
+
+🌐 Sit Entènèt: https://brasa.world
+📍 Orijin: Arenal · Kosta Rika
+📅 Etabli: 2026 · Se Sitwayen ki Posede Li
+
+✨ Kisa BRASA Ye?
+BRASA mete Edikasyon, Gouvenman ak Komès ansanm nan yon sèl sistèm konplè — kreye pou chak lang, chak nasyon ak chak lavi. Tout sèvis debaz yo gratis pou sitwayen yo, se komès ki finanse yo nèt — pa gen taks, pako janm.
+
+💎 Fòs Nou ak Sa K Fè Nou Inik
+🗣️ **Plis pase 7 100 Lang** — Chak sitwayen nan pwòp lang li
+📜 **21 Dwa Inivèsèl ak Konstitisyon** — Garanti ekri klè pou tout moun
+🔍 **Totalman Transparan** — Liv Ouvè Rapò an dirèk 24/7; Pa gen anyen kache
+🆓 **0$ pou Sitwayen yo** — Se komès ki finanse li, se pa frè oswa taks
+🌍 **Vrèman Global** — Amerik · Afrik · Ewòp · Azi · Mwayen Oryan · Oseani
+🤝 **Se Pèp Ki Posede Li** — Se pa konpayi, se pa gouvenman — Se Nou Tout
+🎓 **Edikasyon pou Tout Moun** — Gen ladan l chemen pou Jwenn Diplòm Komès Gratis
+🛒 **Sistèm Konplè** — Mache, aprantisaj, jere ak komès — Tout ansanm konekte
+
+🧱 Kat Poto
+| Poto | Objektif |
+|---|---|
+| 🎓 Edikasyon — Lekòl Mondyal Gratis — Konesans ouvè pou tout moun |
+| ⚖️ Gouvenman — Gouvenans daprè Konstitisyon ak 21 Dwa Pwoteje Ou yo |
+| 💼 Komès — Mache Sitwayen ak Diplòm Komès Gratis |
+| 📖 Liv Ouvè — Done Piblik an dirèk, ou ka tcheke yo — Totalman ouvè ak transparan |
+
+📜 21 Dwa
+**Kò · Libète Chwa · Idantite · Verite · Lang · Kominikasyon · Fanmi · Planèt ki Ansante · Dlo Pwòp · Manje · Sante · Enèji · Lojman · Sekirite · Lapè · Edikasyon · Repo · Teknoloji · Jistis · Komès · Vwayaj**
+→ *Li Konstitisyon an nèt sou brasa.world*
+
+📜 Prensip ak Lisans
+Konstitisyon an vini anvan tout lòt bagay. Ouvè ak transparan. Se sitwayen lemonn ki posede li. Tout dwa pwoteje pa kad Konstitisyon BRASA a.
+
+«Arenal · Kosta Rika · 2026 — Konstwi ak Lanmou pou Tout Moun.»
