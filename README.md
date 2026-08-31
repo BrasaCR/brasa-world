@@ -3052,3 +3052,226 @@ I-BRASA ihlanganisa Imfundo, Uhulumeni kanye Namabhizinisi kuhlelo olulodwa olup
 UMthethosisekelo uza kuqala. Uvulekile futhi usobala. IngabeyeSakhamuzi Somhlaba Wonke. Wonke amalungelo avikelekile ngohlaka loMthethosisekelo we-BRASA.
 
 «Arenal · Kosta Rika · 2026 — Yakhiwe ngothando kubo bonke abantu.»
+
+# 🌍 BRASA Свят
+Една единна система: Образование · Държава · Бизнес — Изградена за всеки гражданин на света.
+
+🌐 Уебсайт: https://brasa.world
+📍 Произход: Аренал · Коста Рика
+📅 Основана: 2026 · Собственост на Гражданите
+
+✨ Какво Е BRASA?
+BRASA обединява Образованието, Държавата и Бизнеса в една цялостна система — проектирана за всеки език, всяка нация и всеки живот. Всички основни услуги са безплатни за гражданите, изцяло финансирани от търговия — без данъци, завинаги.
+
+💎 Нашите Сили и Това, Което Ни Отличава
+🗣️ **Над 7.100 Езика** — Всеки гражданин на собствения си майчин език
+📜 **21 Универсални Права и Конституция** — Ясно написани гаранции за всички
+🔍 **Пълна Прозрачност** — Отворена Книга · Доклад на живо 24/7; Нищо не е скрито
+🆓 **0$ Цена за Гражданите** — Финансирана от търговия, не от такси или данъци
+🌍 **Истински Глобална** — Америка · Африка · Европа · Азия · Близък Изток · Океания
+🤝 **Собственост на Народа** — Не на компании, не на правителства — Наша е на всички
+🎓 **Образование за Всички** — Включва и път до Безплатна Диплома по Бизнес
+🛒 **Цялостна Система** — Пазар, обучение, управление и търговия — Всички свързани
+
+🧱 Четири Стълба
+| Стълб | Цел |
+|---|---|
+| 🎓 Образование — Безплатно Световно Училище — Знанието е отворено за всички |
+| ⚖️ Държава — Управление според Конституция и Вашите 21 Защитени Права |
+| 💼 Бизнес — Граждански Пазар и Безплатни Дипломи по Бизнес |
+ 📖 Отворена Книга — Публични данни на живо, проверими — Напълно отворено и прозрачно |
+
+📜 21 Права
+**Тяло · Свободна Воля · Самоличност · Истина · Език · Комуникация · Семейство · Здрава Планета · Чиста Вода · Храна · Здраве · Енергия · Жилище · Сигурност · Мир · Образование · Почивка · Технологии · Справедливост · Бизнес · Пътуване**
+→ *Прочетете цялата Конституция на brasa.world*
+
+📄 Принципи и Лиценз
+Конституцията е над всичко. Отворена и прозрачна. Собственост на гражданите на света. Всички права са защитени от Конституционната рамка на BRASA.
+
+«Аренал · Коста Рика · 2026 — Изградено с любов за всички хора.»
+
+# 🌍 BRASA Verden
+Ett samlet system: Utdanning · Styresett · Næringsliv — Bygget for alle verdens borgere.
+
+🌐 Nettsted: https://brasa.world
+📍 Opprinnelse: Arenal · Costa Rica
+📅 Stiftet: 2026 · Eiet av Borgerne
+
+✨ Hva Er BRASA?
+BRASA forener Utdanning, Styresett og Næringsliv i ett komplett system — Designet for hvert språk, hver nasjon og ethvert liv. Alle grunnleggende tjenester er gratis for borgerne, fullt finansiert av handel — Ingen skatt, noensinne.
+
+💡 Våre Styrker og Hva Som Gjør Oss Unike
+🗣️ **Over 7.100 Språk** — Hver borger på sitt eget morsmål
+📜 **21 Universelle Rettigheter og Grunnlov** — Tydelige skrevne garantier for alle
+🔍 **Fullstendig Gjennomsiktig** — Åpen Bok · Rapportering døgnkontinuerlig 24/7; Ingen ting skjult
+🆓 **0$ Kostnad for Borgerne** — Finansiert av handel, ikke av avgifter eller skatt
+🌍 **Virkelig Global** — Amerika · Afrika · Europa · Asia · Midtøsten · Oseania
+🤝 **Eiet av Folket** — Ikke av selskaper, ikke av regjeringer — Vårt for alle
+🎓 **Utdanning for Alle** — Inkludert vei til Gratis Bedriftsdiplom
+🛒 **Komplett System** — Marked, læring, styring og handel — Alt forbundet
+
+🧱 Fire Søyler
+| Søyle | Mål |
+|---|---|
+| 🎓 Utdanning — Verdensskole uten kostnad — Kunnskap åpen for alle |
+| ⚖️ Styresett — Styring etter Grunnloven og Dine 21 Beskyttede Rettigheter |
+| 💼 Næringsliv — Borgermarked og Gratis Bedriftsdiplomer |
+| 📖 Åpen Bok — Offentlige data i sanntid, kontrollerbart — Fullstendig åpen og gjennomsiktig |
+
+📜 21 Rettigheter
+**Kropp · Fri Vilje · Identitet · Sannhet · Språk · Kommunikasjon · Familie · Sunn Planet · Rent Vann · Mat · Helse · Energi · Bolig · Sikkerhet · Fred · Utdanning · Hvile · Teknologi · Rettferdighet · Næringsliv · Reising**
+→ *Les hele Grunnloven på brasa.world*
+
+📄 Prinsipper og Lisens
+Grunnloven kommer først. Åpen og gjennomsiktig. Eiet av verdens borgere. Alle rettigheter beskyttes av BRASAs Grunnlovsramme.
+
+«Arenal · Costa Rica · 2026 — Bygget med kjærlighet for alle mennesker.»
+
+# 🌍 BRASA Verden
+Et samlet system: Uddannelse · Styre · Erhvervsliv — Bygget for alle verdens borgere.
+
+🌐 Hjemmeside: https://brasa.world
+📍 Oprindelse: Arenal · Costa Rica
+📅 Grundlagt: 2026 · Ejet af Borgerne
+
+✨ Hvad Er BRASA?
+BRASA forener Uddannelse, Styre og Erhvervsliv i ét komplet system — Designet for hvert sprog, hver nation og ethvert liv. Alle grundlæggende tjenester er gratis for borgerne, fuldt finansieret af handel — Ingen skat, nogensinde.
+
+💡 Vores Styrker og Hvad Der Gør Os Unikke
+🗣️ **Over 7.100 Sprog** — Hver borger på sit eget modersmål
+📜 **21 Universelle Rettigheder og Grundlov** — Tydeligt skrevne garantier for alle
+🔍 **Fuldstændig Gennemsigtigt** — Åben Bog · Rapportering døgnet rundt 24/7; Intet skjult
+🆓 **0$ Omkostning for Borgerne** — Finansieret af handel, ikke af gebyrer eller skat
+🌍 **Virkelig Globalt** — Amerika · Afrika · Europa · Asien · Mellemøsten · Oceanien
+🤝 **Ejet af Folket** — Ikke af selskaber, ikke af regeringer — Vores for os alle
+🎓 **Uddannelse for Alle** — Inklusive vej til Gratis Erhvervsdiplom
+🛒 **Komplet System** — Marked, læring, styring og handel — Alt forbundet
+
+🧱 Fire Søjler
+| Søjle | Mål |
+|---|---|
+| 🎓 Uddannelse — Verdensskole uden omkostning — Viden åben for alle |
+| ⚖️ Styre — Styring efter Grundloven og Dine 21 Beskyttede Rettigheder |
+| 💼 Erhvervsliv — Borgermarked og Gratis Erhvervsdiplomer |
+| 📖 Åben Bog — Offentlige data i realtid, verificerbart — Fuldstændig åbent og gennemsigtigt |
+
+📜 21 Rettigheder
+**Krop · Fri Vilje · Identitet · Sandhed · Sprog · Kommunikation · Familie · Sund Planet · Rent Vand · Mad · Sundhed · Energi · Bolig · Sikkerhed · Fred · Uddannelse · Hvile · Teknologi · Retfærdighed · Erhvervsliv · Rejse**
+→ *Læs hele Grundloven på brasa.world*
+
+📄 Principper og Licens
+Grundloven kommer først. Åben og gennemsigtig. Ejet af verdens borgere. Alle rettigheder beskyttes af BRASAs Grundlovsramme.
+
+«Arenal · Costa Rica · 2026 — Bygget med kærlighed for alle mennesker.»
+
+# 🌍 BRASA Maailma
+Yksi yhtenäinen järjestelmä: Koulutus · Hallinto · Liiketoiminta — Rakennettu maailman jokaiselle kansalaiselle.
+
+🌐 Verkkosivusto: https://brasa.world
+📍 Alkuperä: Arenal · Costa Rica
+📅 Perustettu: 2026 · Kansalaisten Omistuksessa
+
+✨ Mikä On BRASA?
+BRASA yhdistää Koulutuksen, Hallinnon ja Liiketoiminnan yhdeksi kokonaisuudeksi — Suunniteltu jokaiselle kielelle, jokaiselle kansakunnalle ja jokaiselle elämälle. Kaikki peruspalvelut ovat maksuttomia kansalaisille, täysin kaupalla rahoitettu — Ei veroa, koskaan.
+
+💎 Vahvuutemme ja Mikä Tekee Meistä Ainutlaatuisen
+🗣️ **Yli 7.100 Kieltä** — Jokainen kansalainen omalla äidinkielellään
+📜 **21 Yleismaailmallista Oikeutta ja Perustuslaki** — Selkeästi kirjoitetut takeet kaikille
+🔍 **Täysin Läpinäkyvä** — Avoin Kirja · Raportointi suorana 24/7; Ei mitään salattua
+🆓 **0$ Kansalaiselle** — Kaupalla rahoitettu, ei maksuilla eikä veroilla
+🌍 **Todella Maailmanlaajuinen** — Amerikka · Afrikka · Eurooppa · Aasia · Lähi-Itä · Oseania
+🤝 **Kansalaisten Omistuksessa** — Ei yritysten, ei hallitusten — Meidän kaikkien
+🎓 **Koulutus Kaikille** — Sisältää myös polun Maksuttomaan Liiketoiminnan Tutkintoon
+🛒 **Kokonaisjärjestelmä** — Markkinat, oppiminen, hallinto ja kauppa — Kaikki yhteydessä
+
+� Neljä Pilaria
+| Pilari | Tavoite |
+|---|---|
+| 🎓 Koulutus — Maksuton Maailman Koulu — Tieto avoin kaikille |
+| ⚖️ Hallinto — Perustuslain Mukainen Hallinto ja 21 Suojattua Oikeuttasi |
+| 💼 Liiketoiminta — Kansalaisten Markkinat ja Maksuttomat Liiketoiminnan Tutkinnot |
+| 📖 Avoin Kirja — Julkiset tiedot reaaliajassa, todennettavissa — Täysin avoin ja läpinäkyvä |
+
+📜 21 Oikeutta
+**Ruumi · Vapaa Tahto · Identiteetti · Totuus · Kieli · Vuorovaikutus · Perhe · Terve Planeetta · Puhdas Vesi · Ruoka · Terveys · Energia · Asunto · Turvallisuus · Rauha · Koulutus · Lepo · Teknologia · Oikeudenmukaisuus · Liiketoiminta · Matkustaminen**
+→ *Lue koko Perustuslaki osoitteessa brasa.world*
+
+📄 Periaatteet ja Lisenssi
+Perustuslaki on ensisijainen. Avoin ja läpinäkyvä. Maailman kansalaisten omistuksessa. Kaikki oikeudet suojattu BRASAN Perustuslakikehyksellä.
+
+«Arenal · Costa Rica · 2026 — Rakennettu rakkaudella kaikkia ihmisiä varten.»
+
+# 🌍 BRASA ዓለም
+አንድ የተዋሃደ ሥርዓት፡ ትምህርት · መንግሥት · ንግድ — ለዓለም ሁሉ ዜጋ የተሠራ።
+
+🌐 ድር ገጽ፦ https://brasa.world
+📍 መነሻ፦ አረናል · ኮስታ ሪካ
+📅 የተመሠረተ፦ 2026 · በዜጎች ባለቤትነት የተያዘ
+
+✨ BRASA ምንድን ነው?
+BRASA ትምህርትን፣ መንግሥትንና ንግድን በአንድ የተሟላ ሥርዓት አዋህዷል። ለእያንዳንዱ ቋንቋ፣ ለእያንዳንዱ ሀገርና ለእያንዳንዱ ሕይወት የተነደፈ። ሁሉም መሠረታዊ አገልግሎቶች ለዜጎች በነጻ ይሰጣሉ፣ ሙሉ በሙሉ በንግድ የተደገፉ — ግብጽ ከቶ የለም።
+
+💎 ዋና ጥንካሬዎቻችንና ልዩነታችን
+🗣️ **ከ7,100 በላይ ቋንቋዎች** — እያንዳንዱ ዜጋ በራሱ የአደገበት ቋንቋ
+📜 **21 ዓለም አቀፍ መብቶችና ሕገ መንግሥት** — ለሁሉም ግልጽ በሆነ መንገድ የተጻፈ ዋስትና
+🔍 **ሙሉ በሙሉ ግልጽነት** — የተከፈተ መጽሐፍ + የቀጥታ ሪፖርት 24/7፤ የተሸሸገ ነገር የለም
+🆓 **ለዜጎች 0 ዶላር** — በንግድ የተደገፈ፣ በክፍያ ወይም በግብጽ አይደለም
+🌍 **በእውነቱ ዓለም አቀፍ** — አሜሪካ · አፍሪካ · አውሮፓ · እስያ · መካከለኛው ምሥራቅ · ኦሴንያ
+🤝 **በሕዝብ ባለቤትነት** — በኩባንያዎች አይደለም፣ በመንግሥት አይደለም — የሁላችንም ነው
+🎓 **ትምህርት ለሁሉም** — ነፃ የንግድ ዲፕሎማ የማግኘት መንገድንም ይጨምራል
+🛒 **የተሟላ ሥርዓት** — ገበያ፣ ትምህርት፣ አስተዳደርና ንግድ — ሁሉም የተሳሰሩ
+
+🧱 አራት ምሶሶሶች
+| ምሶሶስ | ዓላማ |
+|---|---|
+| 🎓 ትምህርት — ነፃ የዓለም ትምህርት ቤት — ዕውቀት ለሁሉም ክፍት ነው |
+| ⚖️ መንግሥት — በሕገ መንግሥት መሠረት የሚካሄድ አስተዳደርና የተጠበቁ 21 መብቶችዎ |
+| 💼 ንግድ — የዜጎች ገበያና ነፃ የንግድ ዲፕሎማዎች |
+| 📖 የተከፈተ መጽሐፍ — የሕዝብ መረጃ በቀጥታ፣ ሊጣራ የሚችል — ሙሉ በሙሉ ክፍትና ግልጽ |
+
+📜 21 መብቶች
+**አካል · የራስን ፍላጎት የመወሰን ነፃነት · ማንነት · እውነት · ቋንቋ · የመግባቢያ ዘዴ · ቤተሰብ · ጤናማ ፕላኔት · ንጹሕ ውኃ · ምግብ · ጤና · ኃይል · መኖሪያ ቤት · ደህንነት · ሰላም · ትምህርት · ዕረፍት · ቴክኖሎጂ · ፍትሕ · ንግድ · የመጓዝ መብት**
+→ *ሙሉውን ሕገ መንግሥት በ brasa.world ያንብቡ*
+
+📄 መርሆዎችና ፈቃድ
+ሕገ መንግሥት ከምንም በፊት ይቀድማል። ክፍትና ግልጽ። በዓለም ዜጎች ባለቤትነት። ሁሉም መብቶች በBRASA ሕገ መንግሥት ማዕቀፍ የተጠበቁ ናቸው።
+
+«አረናል · ኮስታ ሪካ · 2026 — ለሁሉም ሰው በፍቅር የተሠራ።»
+
+# 🌍 BRASA Jahon
+Yagona tizim: Ta'lim · Davlat · Biznes — Butun dunyo fuqarolari uchun yaratilgan.
+
+🌐 Veb-sayt: https://brasa.world
+📍 Kelib chiqishi: Arenal · Kosta-Rika
+📌 Ta'sis etilgan: 2026 · Fuqarolar Mulkida
+
+✨ BRASA Nima?
+BRASA Ta'lim, Davlat va Biznesni yaxlit bir tizimga birlashtiradi — Har bir til, har bir xalq va har bir hayot uchun mo'ljallangan. Barcha asosiy xizmatlar fuqarolar uchun bepul, to'liq savdo hisobidan moliyalashtiriladi — Hech qachon soliq undirilmaydi.
+
+💎 Asosiy Kuchimiz va Bizni Farqlantiruvchi Tomonlar
+🗣️ **7.100 dan ortiq tillar** — Har bir fuqaro o'z ona tilida
+📜 **21 Umumjahon Huquq va Konstitutsiya** — Barchasi uchun aniq yozilgan kafolatlar
+🔍 **To'liq Oshkoralik** — Ochiq Kitob + 24/7 jonli hisobot; Hech narsa yashirin emas
+🆓 **Fuqarolar uchun 0$** — Savdo hisobidan moliyalashtiriladi, to'lov yoki soliq emas
+🌍 **Haqiqatan Jahon miqyosida** — Amerika · Afrika · Yevropa · Osiyo · Yaqin Sharq · Okeaniya
+🤝 **Xalq Mulki** — Kompaniyalar mulki emas, Hukumat mulki emas — Barchamizniki
+🎓 **Ta'lim Barcha Uchun** — Bepul Biznes Diplomiga ega bo'lish yo'li ham kiritilgan
+🛒 **Yaxlit Tizim** — Bozor, o'rganish, boshqaruv va savdo — Barchasi o'zaro bog'langan
+
+🧱 To'rtta Ustun
+| Ustun | Maqsad |
+|---|---|
+| 🎓 Ta'lim — Butunjahon bepul maktabi — Bilim barchaga ochiq |
+| ⚖️ Davlat — Konstitutsiya asosida boshqaruv va Sizning 21 Himoyalangan Huquqingiz |
+| 💼 Biznes — Fuqarolik Bozori va Bepul Biznes Diplomlari |
+| 📖 Ochiq Kitob — Jonli ommaviy ma'lumotlar, tekshirilishi mumkin — To'liq ochiq va oshkora |
+
+📜 21 Huquq
+**Tana · Erkin Iroda · Shaxsiyat · Haqiqat · Til · Muloqot · Oila · Sog'lom Sayyora · Toza Suv · Oziq-ovqat · Sog'liq · Energiya · Uy-joy · Xavfsizlik · Tinchlik · Ta'lim · Dam olish · Texnologiya · Adolat · Biznes · Sayohat**
+→ *To'liq Konstitutsiyani brasa.world saytida o'qing*
+
+📄 Tamoyillar va Litsenziya
+Konstitutsiya hamma narsadan ustun. Ochiq va oshkora. Butun dunyo fuqarolari mulkida. Barcha huquqlar BRASA Konstitutsiyaviy doirasi bilan himoyalangan.
+
+«Arenal · Kosta-Rika · 2026 — Barcha insonlar uchun mehr bilan yaratilgan.»
+
