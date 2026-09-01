@@ -1,0 +1,13 @@
+{
+  "country": "India",
+  "officialName": "India",
+  "code": "IN",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.india.gov.in/",
+  "sources": [
+    "https://www.india.gov.in/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

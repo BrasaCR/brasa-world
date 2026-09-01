@@ -1,0 +1,497 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "thailand",
+  "code": "TH",
+  "country": "Thailand",
+  "officialName": "Thailand",
+  "brand": "BRASA TH",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.thaigov.go.th/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA TH",
+    "Government of Panama": "Government of Thailand",
+    "Made with care in Panama": "Made with care in Thailand",
+    "Panamanian": "Thailand",
+    "Panama": "Thailand"
+  },
+  "sources": [
+    "https://www.thaigov.go.th/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "TH-1",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "TH-2",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "TH-3",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "TH-4",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "TH-5",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "TH-6",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "TH-7",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "TH-8",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "TH-9",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "TH-10",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "TH-11",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "TH-12",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "TH-13",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "TH-14",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "TH-15",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "TH-16",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "TH-17",
+      "officialHref": "https://www.thaigov.go.th/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "TH-18",
+      "officialHref": "https://www.thaigov.go.th/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Amnat Charoen",
+      "code": "37"
+    },
+    {
+      "name": "Ang Thong",
+      "code": "15"
+    },
+    {
+      "name": "Bueng Kan",
+      "code": "38"
+    },
+    {
+      "name": "Buri Ram",
+      "code": "31"
+    },
+    {
+      "name": "Chachoengsao",
+      "code": "24"
+    },
+    {
+      "name": "Chai Nat",
+      "code": "18"
+    },
+    {
+      "name": "Chaiyaphum",
+      "code": "36"
+    },
+    {
+      "name": "Chanthaburi",
+      "code": "22"
+    },
+    {
+      "name": "Chiang Mai",
+      "code": "50"
+    },
+    {
+      "name": "Chiang Rai",
+      "code": "57"
+    },
+    {
+      "name": "Chon Buri",
+      "code": "20"
+    },
+    {
+      "name": "Chumphon",
+      "code": "86"
+    },
+    {
+      "name": "Kalasin",
+      "code": "46"
+    },
+    {
+      "name": "Kamphaeng Phet",
+      "code": "62"
+    },
+    {
+      "name": "Kanchanaburi",
+      "code": "71"
+    },
+    {
+      "name": "Khon Kaen",
+      "code": "40"
+    },
+    {
+      "name": "Krabi",
+      "code": "81"
+    },
+    {
+      "name": "Krung Thep Mahanakhon (Bangkok)",
+      "code": "10"
+    },
+    {
+      "name": "Lampang",
+      "code": "52"
+    },
+    {
+      "name": "Lamphun",
+      "code": "51"
+    },
+    {
+      "name": "Loei",
+      "code": "42"
+    },
+    {
+      "name": "Lop Buri",
+      "code": "16"
+    },
+    {
+      "name": "Mae Hong Son",
+      "code": "58"
+    },
+    {
+      "name": "Maha Sarakham",
+      "code": "44"
+    },
+    {
+      "name": "Mukdahan",
+      "code": "49"
+    },
+    {
+      "name": "Nakhon Nayok",
+      "code": "26"
+    },
+    {
+      "name": "Nakhon Phathom",
+      "code": "73"
+    },
+    {
+      "name": "Nakhon Phanom",
+      "code": "48"
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "code": "30"
+    },
+    {
+      "name": "Nakhon Sawan",
+      "code": "60"
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "code": "80"
+    },
+    {
+      "name": "Nan",
+      "code": "55"
+    },
+    {
+      "name": "Narathiwat",
+      "code": "96"
+    },
+    {
+      "name": "Nong Bua Lam Phu",
+      "code": "39"
+    },
+    {
+      "name": "Nong Khai",
+      "code": "43"
+    },
+    {
+      "name": "Nonthaburi",
+      "code": "12"
+    },
+    {
+      "name": "Pathum Thani",
+      "code": "13"
+    },
+    {
+      "name": "Pattani",
+      "code": "94"
+    },
+    {
+      "name": "Phangnga",
+      "code": "82"
+    },
+    {
+      "name": "Phatthalung",
+      "code": "93"
+    },
+    {
+      "name": "Phayao",
+      "code": "56"
+    },
+    {
+      "name": "Phetchabun",
+      "code": "67"
+    },
+    {
+      "name": "Phetchaburi",
+      "code": "76"
+    },
+    {
+      "name": "Phichit",
+      "code": "66"
+    },
+    {
+      "name": "Phitsanulok",
+      "code": "65"
+    },
+    {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "code": "14"
+    },
+    {
+      "name": "Phrae",
+      "code": "54"
+    },
+    {
+      "name": "Phuket",
+      "code": "83"
+    },
+    {
+      "name": "Prachin Buri",
+      "code": "25"
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "code": "77"
+    },
+    {
+      "name": "Ranong",
+      "code": "85"
+    },
+    {
+      "name": "Ratchaburi",
+      "code": "70"
+    },
+    {
+      "name": "Rayong",
+      "code": "21"
+    },
+    {
+      "name": "Roi Et",
+      "code": "45"
+    },
+    {
+      "name": "Sa Kaeo",
+      "code": "27"
+    },
+    {
+      "name": "Sakon Nakhon",
+      "code": "47"
+    },
+    {
+      "name": "Samut Prakan",
+      "code": "11"
+    },
+    {
+      "name": "Samut Sakhon",
+      "code": "74"
+    },
+    {
+      "name": "Samut Songkhram",
+      "code": "75"
+    },
+    {
+      "name": "Saraburi",
+      "code": "19"
+    },
+    {
+      "name": "Satun",
+      "code": "91"
+    },
+    {
+      "name": "Sing Buri",
+      "code": "17"
+    },
+    {
+      "name": "Si Sa ket",
+      "code": "33"
+    },
+    {
+      "name": "Songkhla",
+      "code": "90"
+    },
+    {
+      "name": "Sukhothai",
+      "code": "64"
+    },
+    {
+      "name": "Suphan Buri",
+      "code": "72"
+    },
+    {
+      "name": "Surat Thani",
+      "code": "84"
+    },
+    {
+      "name": "Surin",
+      "code": "32"
+    },
+    {
+      "name": "Tak",
+      "code": "63"
+    },
+    {
+      "name": "Trang",
+      "code": "92"
+    },
+    {
+      "name": "Trat",
+      "code": "23"
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "code": "34"
+    },
+    {
+      "name": "Udon Thani",
+      "code": "41"
+    },
+    {
+      "name": "Uthai Thani",
+      "code": "61"
+    },
+    {
+      "name": "Uttaradit",
+      "code": "53"
+    },
+    {
+      "name": "Yala",
+      "code": "95"
+    },
+    {
+      "name": "Yasothon",
+      "code": "35"
+    }
+  ]
+}

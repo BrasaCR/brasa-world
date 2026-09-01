@@ -1,0 +1,13 @@
+{
+  "country": "Kazakhstan",
+  "officialName": "Kazakhstan",
+  "code": "KZ",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://egov.kz/",
+  "sources": [
+    "https://egov.kz/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

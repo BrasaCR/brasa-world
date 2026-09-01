@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "timor-leste",
+  "code": "TL",
+  "country": "Timor-Leste",
+  "officialName": "Timor-Leste",
+  "brand": "BRASA TL",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://timor-leste.gov.tl/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA TL",
+    "Government of Panama": "Government of Timor-Leste",
+    "Made with care in Panama": "Made with care in Timor-Leste",
+    "Panamanian": "Timor-Leste",
+    "Panama": "Timor-Leste"
+  },
+  "sources": [
+    "https://timor-leste.gov.tl/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "TL-1",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "TL-2",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "TL-3",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "TL-4",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "TL-5",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "TL-6",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "TL-7",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "TL-8",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "TL-9",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "TL-10",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "TL-11",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "TL-12",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "TL-13",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "TL-14",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "TL-15",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "TL-16",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "TL-17",
+      "officialHref": "https://timor-leste.gov.tl/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "TL-18",
+      "officialHref": "https://timor-leste.gov.tl/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aileu",
+      "code": "AL"
+    },
+    {
+      "name": "Ainaro",
+      "code": "AN"
+    },
+    {
+      "name": "Baucau",
+      "code": "BA"
+    },
+    {
+      "name": "Bobonaro",
+      "code": "BO"
+    },
+    {
+      "name": "Cova Lima",
+      "code": "CO"
+    },
+    {
+      "name": "Dili",
+      "code": "DI"
+    },
+    {
+      "name": "Ermera",
+      "code": "ER"
+    },
+    {
+      "name": "Lautem",
+      "code": "LA"
+    },
+    {
+      "name": "Liquica",
+      "code": "LI"
+    },
+    {
+      "name": "Manatuto",
+      "code": "MT"
+    },
+    {
+      "name": "Manufahi",
+      "code": "MF"
+    },
+    {
+      "name": "Oecussi",
+      "code": "OE"
+    },
+    {
+      "name": "Viqueque",
+      "code": "VI"
+    }
+  ]
+}

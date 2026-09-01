@@ -1,0 +1,13 @@
+{
+  "country": "Uzbekistan",
+  "officialName": "Uzbekistan",
+  "code": "UZ",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://my.gov.uz/",
+  "sources": [
+    "https://my.gov.uz/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

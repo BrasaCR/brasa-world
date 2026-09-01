@@ -1,0 +1,13 @@
+{
+  "country": "Bangladesh",
+  "officialName": "Bangladesh",
+  "code": "BD",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://bangladesh.gov.bd/",
+  "sources": [
+    "https://bangladesh.gov.bd/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

@@ -1,0 +1,13 @@
+{
+  "country": "Afghanistan",
+  "officialName": "Afghanistan",
+  "code": "AF",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.afghanistan.gov.af/",
+  "sources": [
+    "https://www.afghanistan.gov.af/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

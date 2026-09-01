@@ -1,0 +1,13 @@
+{
+  "country": "Japan",
+  "officialName": "Japan",
+  "code": "JP",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.e-gov.go.jp/",
+  "sources": [
+    "https://www.e-gov.go.jp/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

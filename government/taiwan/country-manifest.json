@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "taiwan",
+  "code": "TW",
+  "country": "Taiwan",
+  "officialName": "Taiwan",
+  "brand": "BRASA TW",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.tw/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA TW",
+    "Government of Panama": "Government of Taiwan",
+    "Made with care in Panama": "Made with care in Taiwan",
+    "Panamanian": "Taiwan",
+    "Panama": "Taiwan"
+  },
+  "sources": [
+    "https://www.gov.tw/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "TW-1",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "TW-2",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "TW-3",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "TW-4",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "TW-5",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "TW-6",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "TW-7",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "TW-8",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "TW-9",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "TW-10",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "TW-11",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "TW-12",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "TW-13",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "TW-14",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "TW-15",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "TW-16",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "TW-17",
+      "officialHref": "https://www.gov.tw/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "TW-18",
+      "officialHref": "https://www.gov.tw/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Changhua",
+      "code": "CHA"
+    },
+    {
+      "name": "Chiayi",
+      "code": "CYQ"
+    },
+    {
+      "name": "Hsinchu",
+      "code": "HSQ"
+    },
+    {
+      "name": "Hualien",
+      "code": "HUA"
+    },
+    {
+      "name": "Kaohsiung",
+      "code": "KHH"
+    },
+    {
+      "name": "Keelung",
+      "code": "KEE"
+    },
+    {
+      "name": "Kinmen",
+      "code": "KIN"
+    },
+    {
+      "name": "Lienchiang",
+      "code": "LIE"
+    },
+    {
+      "name": "Miaoli",
+      "code": "MIA"
+    },
+    {
+      "name": "Nantou",
+      "code": "NAN"
+    },
+    {
+      "name": "Penghu",
+      "code": "PEN"
+    },
+    {
+      "name": "New Taipei",
+      "code": "NWT"
+    },
+    {
+      "name": "Pingtung",
+      "code": "PIF"
+    },
+    {
+      "name": "Taichung",
+      "code": "TXG"
+    },
+    {
+      "name": "Tainan",
+      "code": "TNN"
+    },
+    {
+      "name": "Taipei",
+      "code": "TPE"
+    },
+    {
+      "name": "Taitung",
+      "code": "TTT"
+    },
+    {
+      "name": "Taoyuan",
+      "code": "TAO"
+    },
+    {
+      "name": "Yilan",
+      "code": "ILA"
+    },
+    {
+      "name": "Yunlin",
+      "code": "YUN"
+    }
+  ]
+}

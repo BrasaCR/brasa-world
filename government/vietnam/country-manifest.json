@@ -1,0 +1,445 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "vietnam",
+  "code": "VN",
+  "country": "Vietnam",
+  "officialName": "Vietnam",
+  "brand": "BRASA VN",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.chinhphu.vn/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA VN",
+    "Government of Panama": "Government of Vietnam",
+    "Made with care in Panama": "Made with care in Vietnam",
+    "Panamanian": "Vietnam",
+    "Panama": "Vietnam"
+  },
+  "sources": [
+    "https://www.chinhphu.vn/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "VN-1",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "VN-2",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "VN-3",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "VN-4",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "VN-5",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "VN-6",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "VN-7",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "VN-8",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "VN-9",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "VN-10",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "VN-11",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "VN-12",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "VN-13",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "VN-14",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "VN-15",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "VN-16",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "VN-17",
+      "officialHref": "https://www.chinhphu.vn/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "VN-18",
+      "officialHref": "https://www.chinhphu.vn/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "An Giang",
+      "code": "44"
+    },
+    {
+      "name": "Bà Rịa - Vũng Tàu",
+      "code": "43"
+    },
+    {
+      "name": "Bình Dương",
+      "code": "57"
+    },
+    {
+      "name": "Bình Phước",
+      "code": "58"
+    },
+    {
+      "name": "Bình Định",
+      "code": "31"
+    },
+    {
+      "name": "Bình Thuận",
+      "code": "40"
+    },
+    {
+      "name": "Bạc Liêu",
+      "code": "55"
+    },
+    {
+      "name": "Bắc Giang",
+      "code": "54"
+    },
+    {
+      "name": "Bắc Kạn",
+      "code": "53"
+    },
+    {
+      "name": "Bắc Ninh",
+      "code": "56"
+    },
+    {
+      "name": "Bến Tre",
+      "code": "50"
+    },
+    {
+      "name": "Cao Bằng",
+      "code": "04"
+    },
+    {
+      "name": "Cà Mau",
+      "code": "59"
+    },
+    {
+      "name": "Đắk Lắk",
+      "code": "33"
+    },
+    {
+      "name": "Đắk Nông",
+      "code": "72"
+    },
+    {
+      "name": "Điện Biên",
+      "code": "71"
+    },
+    {
+      "name": "Đồng Nai",
+      "code": "39"
+    },
+    {
+      "name": "Đồng Tháp",
+      "code": "45"
+    },
+    {
+      "name": "Gia Lai",
+      "code": "30"
+    },
+    {
+      "name": "Hà Giang",
+      "code": "03"
+    },
+    {
+      "name": "Hà Nam",
+      "code": "63"
+    },
+    {
+      "name": "Hà Tây",
+      "code": "15"
+    },
+    {
+      "name": "Hà Tĩnh",
+      "code": "23"
+    },
+    {
+      "name": "Hải Dương",
+      "code": "61"
+    },
+    {
+      "name": "Hậu Giang",
+      "code": "73"
+    },
+    {
+      "name": "Hòa Bình",
+      "code": "14"
+    },
+    {
+      "name": "Hưng Yên",
+      "code": "66"
+    },
+    {
+      "name": "Khánh Hòa",
+      "code": "34"
+    },
+    {
+      "name": "Kiên Giang",
+      "code": "47"
+    },
+    {
+      "name": "Kon Tum",
+      "code": "28"
+    },
+    {
+      "name": "Lai Châu",
+      "code": "01"
+    },
+    {
+      "name": "Lâm Đồng",
+      "code": "35"
+    },
+    {
+      "name": "Lạng Sơn",
+      "code": "09"
+    },
+    {
+      "name": "Lào Cai",
+      "code": "02"
+    },
+    {
+      "name": "Long An",
+      "code": "41"
+    },
+    {
+      "name": "Nam Định",
+      "code": "67"
+    },
+    {
+      "name": "Nghệ An",
+      "code": "22"
+    },
+    {
+      "name": "Ninh Bình",
+      "code": "18"
+    },
+    {
+      "name": "Ninh Thuận",
+      "code": "36"
+    },
+    {
+      "name": "Phú Thọ",
+      "code": "68"
+    },
+    {
+      "name": "Phú Yên",
+      "code": "32"
+    },
+    {
+      "name": "Quảng Bình",
+      "code": "24"
+    },
+    {
+      "name": "Quảng Nam",
+      "code": "27"
+    },
+    {
+      "name": "Quảng Ngãi",
+      "code": "29"
+    },
+    {
+      "name": "Quảng Ninh",
+      "code": "13"
+    },
+    {
+      "name": "Quảng Trị",
+      "code": "25"
+    },
+    {
+      "name": "Sóc Trăng",
+      "code": "52"
+    },
+    {
+      "name": "Sơn La",
+      "code": "05"
+    },
+    {
+      "name": "Tây Ninh",
+      "code": "37"
+    },
+    {
+      "name": "Thái Bình",
+      "code": "20"
+    },
+    {
+      "name": "Thái Nguyên",
+      "code": "69"
+    },
+    {
+      "name": "Thanh Hóa",
+      "code": "21"
+    },
+    {
+      "name": "Thừa Thiên–Huế",
+      "code": "26"
+    },
+    {
+      "name": "Tiền Giang",
+      "code": "46"
+    },
+    {
+      "name": "Trà Vinh",
+      "code": "51"
+    },
+    {
+      "name": "Tuyên Quang",
+      "code": "07"
+    },
+    {
+      "name": "Vĩnh Long",
+      "code": "49"
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "code": "70"
+    },
+    {
+      "name": "Yên Bái",
+      "code": "06"
+    },
+    {
+      "name": "Cần Thơ",
+      "code": "CT"
+    },
+    {
+      "name": "Đà Nẵng",
+      "code": "DN"
+    },
+    {
+      "name": "Hà Nội",
+      "code": "HN"
+    },
+    {
+      "name": "Hải Phòng",
+      "code": "HP"
+    },
+    {
+      "name": "Hồ Chí Minh (Sài Gòn)",
+      "code": "SG"
+    }
+  ]
+}

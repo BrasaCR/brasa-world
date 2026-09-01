@@ -1,5 +1,133 @@
 (function () {
   const countrySites = {
+    "vietnam": {
+      name: "Vietnam",
+      href: "government/vietnam/"
+    },
+    "uzbekistan": {
+      name: "Uzbekistan",
+      href: "government/uzbekistan/"
+    },
+    "turkmenistan": {
+      name: "Turkmenistan",
+      href: "government/turkmenistan/"
+    },
+    "timor-leste": {
+      name: "Timor-Leste",
+      href: "government/timor-leste/"
+    },
+    "thailand": {
+      name: "Thailand",
+      href: "government/thailand/"
+    },
+    "tajikistan": {
+      name: "Tajikistan",
+      href: "government/tajikistan/"
+    },
+    "taiwan": {
+      name: "Taiwan",
+      href: "government/taiwan/"
+    },
+    "sri-lanka": {
+      name: "Sri Lanka",
+      href: "government/sri-lanka/"
+    },
+    "south-korea": {
+      name: "South Korea",
+      href: "government/south-korea/"
+    },
+    "singapore": {
+      name: "Singapore",
+      href: "government/singapore/"
+    },
+    "philippines": {
+      name: "Philippines",
+      href: "government/philippines/"
+    },
+    "pakistan": {
+      name: "Pakistan",
+      href: "government/pakistan/"
+    },
+    "north-korea": {
+      name: "North Korea",
+      href: "government/north-korea/"
+    },
+    "nepal": {
+      name: "Nepal",
+      href: "government/nepal/"
+    },
+    "myanmar": {
+      name: "Myanmar",
+      href: "government/myanmar/"
+    },
+    "mongolia": {
+      name: "Mongolia",
+      href: "government/mongolia/"
+    },
+    "maldives": {
+      name: "Maldives",
+      href: "government/maldives/"
+    },
+    "malaysia": {
+      name: "Malaysia",
+      href: "government/malaysia/"
+    },
+    "macau": {
+      name: "Macau",
+      href: "government/macau/"
+    },
+    "laos": {
+      name: "Laos",
+      href: "government/laos/"
+    },
+    "kyrgyzstan": {
+      name: "Kyrgyzstan",
+      href: "government/kyrgyzstan/"
+    },
+    "kazakhstan": {
+      name: "Kazakhstan",
+      href: "government/kazakhstan/"
+    },
+    "japan": {
+      name: "Japan",
+      href: "government/japan/"
+    },
+    "indonesia": {
+      name: "Indonesia",
+      href: "government/indonesia/"
+    },
+    "india": {
+      name: "India",
+      href: "government/india/"
+    },
+    "hong-kong": {
+      name: "Hong Kong",
+      href: "government/hong-kong/"
+    },
+    "china": {
+      name: "China",
+      href: "government/china/"
+    },
+    "cambodia": {
+      name: "Cambodia",
+      href: "government/cambodia/"
+    },
+    "brunei": {
+      name: "Brunei",
+      href: "government/brunei/"
+    },
+    "bhutan": {
+      name: "Bhutan",
+      href: "government/bhutan/"
+    },
+    "bangladesh": {
+      name: "Bangladesh",
+      href: "government/bangladesh/"
+    },
+    "afghanistan": {
+      name: "Afghanistan",
+      href: "government/afghanistan/"
+    },
     "united-kingdom": {
       name: "United Kingdom",
       href: "government/united-kingdom/"

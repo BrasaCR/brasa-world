@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "indonesia",
+  "code": "ID",
+  "country": "Indonesia",
+  "officialName": "Indonesia",
+  "brand": "BRASA ID",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://indonesia.go.id/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA ID",
+    "Government of Panama": "Government of Indonesia",
+    "Made with care in Panama": "Made with care in Indonesia",
+    "Panamanian": "Indonesia",
+    "Panama": "Indonesia"
+  },
+  "sources": [
+    "https://indonesia.go.id/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "ID-1",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "ID-2",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "ID-3",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "ID-4",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "ID-5",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "ID-6",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "ID-7",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "ID-8",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "ID-9",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "ID-10",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "ID-11",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "ID-12",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "ID-13",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "ID-14",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "ID-15",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "ID-16",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "ID-17",
+      "officialHref": "https://indonesia.go.id/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "ID-18",
+      "officialHref": "https://indonesia.go.id/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aceh",
+      "code": "AC"
+    },
+    {
+      "name": "Bali",
+      "code": "BA"
+    },
+    {
+      "name": "Bangka Belitung",
+      "code": "BB"
+    },
+    {
+      "name": "Banten",
+      "code": "BT"
+    },
+    {
+      "name": "Bengkulu",
+      "code": "BE"
+    },
+    {
+      "name": "Gorontalo",
+      "code": "GO"
+    },
+    {
+      "name": "Jakarta Raya",
+      "code": "JK"
+    },
+    {
+      "name": "Jambi",
+      "code": "JA"
+    },
+    {
+      "name": "Jawa Barat",
+      "code": "JB"
+    },
+    {
+      "name": "Jawa Tengah",
+      "code": "JT"
+    },
+    {
+      "name": "Jawa Timur",
+      "code": "JI"
+    },
+    {
+      "name": "Kalimantan Barat",
+      "code": "KB"
+    },
+    {
+      "name": "Kalimantan Selatan",
+      "code": "KS"
+    },
+    {
+      "name": "Kalimantan Tengah",
+      "code": "KT"
+    },
+    {
+      "name": "Kalimantan Timur",
+      "code": "KI"
+    },
+    {
+      "name": "Kalimantan Utara",
+      "code": "KU"
+    },
+    {
+      "name": "Kepulauan Riau",
+      "code": "KR"
+    },
+    {
+      "name": "Lampung",
+      "code": "LA"
+    },
+    {
+      "name": "Maluku",
+      "code": "MA"
+    },
+    {
+      "name": "Maluku Utara",
+      "code": "MU"
+    },
+    {
+      "name": "Nusa Tenggara Barat",
+      "code": "NB"
+    },
+    {
+      "name": "Nusa Tenggara Timur",
+      "code": "NT"
+    },
+    {
+      "name": "Papua",
+      "code": "PA"
+    },
+    {
+      "name": "Papua Barat",
+      "code": "PB"
+    },
+    {
+      "name": "Riau",
+      "code": "RI"
+    },
+    {
+      "name": "Sulawesi Selatan",
+      "code": "SR"
+    },
+    {
+      "name": "Sulawesi Tengah",
+      "code": "ST"
+    },
+    {
+      "name": "Sulawesi Tenggara",
+      "code": "SG"
+    },
+    {
+      "name": "Sulawesi Utara",
+      "code": "SA"
+    },
+    {
+      "name": "Sumatera Barat",
+      "code": "SB"
+    },
+    {
+      "name": "Sumatera Selatan",
+      "code": "SS"
+    },
+    {
+      "name": "Sumatera Utara",
+      "code": "SU"
+    },
+    {
+      "name": "Yogyakarta",
+      "code": "YO"
+    }
+  ]
+}

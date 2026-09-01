@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "bhutan",
+  "code": "BT",
+  "country": "Bhutan",
+  "officialName": "Bhutan",
+  "brand": "BRASA BT",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.bt/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA BT",
+    "Government of Panama": "Government of Bhutan",
+    "Made with care in Panama": "Made with care in Bhutan",
+    "Panamanian": "Bhutan",
+    "Panama": "Bhutan"
+  },
+  "sources": [
+    "https://www.gov.bt/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "BT-1",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "BT-2",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "BT-3",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "BT-4",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "BT-5",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "BT-6",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "BT-7",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "BT-8",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "BT-9",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "BT-10",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "BT-11",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "BT-12",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "BT-13",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "BT-14",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "BT-15",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "BT-16",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "BT-17",
+      "officialHref": "https://www.gov.bt/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "BT-18",
+      "officialHref": "https://www.gov.bt/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Bumthang",
+      "code": "33"
+    },
+    {
+      "name": "Chhukha",
+      "code": "12"
+    },
+    {
+      "name": "Dagana",
+      "code": "22"
+    },
+    {
+      "name": "Gasa",
+      "code": "GA"
+    },
+    {
+      "name": "Haa",
+      "code": "13"
+    },
+    {
+      "name": "Lhuntse",
+      "code": "44"
+    },
+    {
+      "name": "Mongar",
+      "code": "42"
+    },
+    {
+      "name": "Paro",
+      "code": "11"
+    },
+    {
+      "name": "Pemagatshel",
+      "code": "43"
+    },
+    {
+      "name": "Punakha",
+      "code": "23"
+    },
+    {
+      "name": "Samdrup Jongkhar",
+      "code": "45"
+    },
+    {
+      "name": "Samtse",
+      "code": "14"
+    },
+    {
+      "name": "Sarpang",
+      "code": "31"
+    },
+    {
+      "name": "Thimphu",
+      "code": "15"
+    },
+    {
+      "name": "Trashigang",
+      "code": "41"
+    },
+    {
+      "name": "Trashiyangtse",
+      "code": "TY"
+    },
+    {
+      "name": "Trongsa",
+      "code": "32"
+    },
+    {
+      "name": "Tsirang",
+      "code": "21"
+    },
+    {
+      "name": "Wangdue Phodrang",
+      "code": "24"
+    },
+    {
+      "name": "Zhemgang",
+      "code": "34"
+    }
+  ]
+}

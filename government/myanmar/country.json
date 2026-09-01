@@ -1,0 +1,13 @@
+{
+  "country": "Myanmar",
+  "officialName": "Myanmar",
+  "code": "MM",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.myanmar.gov.mm/",
+  "sources": [
+    "https://www.myanmar.gov.mm/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "region": "asia",
+  "slug": "japan",
+  "code": "JP",
+  "country": "Japan",
+  "officialName": "Japan",
+  "brand": "BRASA JP",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.e-gov.go.jp/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA JP",
+    "Government of Panama": "Government of Japan",
+    "Made with care in Panama": "Made with care in Japan",
+    "Panamanian": "Japan",
+    "Panama": "Japan"
+  },
+  "sources": [
+    "https://www.e-gov.go.jp/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "JP-1",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "JP-2",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "JP-3",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "JP-4",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "JP-5",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "JP-6",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "JP-7",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "JP-8",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "JP-9",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "JP-10",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "JP-11",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "JP-12",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "JP-13",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "JP-14",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "JP-15",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "JP-16",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "JP-17",
+      "officialHref": "https://www.e-gov.go.jp/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "JP-18",
+      "officialHref": "https://www.e-gov.go.jp/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aichi",
+      "code": "23"
+    },
+    {
+      "name": "Akita",
+      "code": "05"
+    },
+    {
+      "name": "Aomori",
+      "code": "02"
+    },
+    {
+      "name": "Chiba",
+      "code": "12"
+    },
+    {
+      "name": "Ehime",
+      "code": "38"
+    },
+    {
+      "name": "Fukui",
+      "code": "18"
+    },
+    {
+      "name": "Fukuoka",
+      "code": "40"
+    },
+    {
+      "name": "Fukushima",
+      "code": "07"
+    },
+    {
+      "name": "Gifu",
+      "code": "21"
+    },
+    {
+      "name": "Gunma",
+      "code": "10"
+    },
+    {
+      "name": "Hiroshima",
+      "code": "34"
+    },
+    {
+      "name": "Hokkaido",
+      "code": "01"
+    },
+    {
+      "name": "Hyogo",
+      "code": "28"
+    },
+    {
+      "name": "Ibaraki",
+      "code": "08"
+    },
+    {
+      "name": "Ishikawa",
+      "code": "17"
+    },
+    {
+      "name": "Iwate",
+      "code": "03"
+    },
+    {
+      "name": "Kagawa",
+      "code": "37"
+    },
+    {
+      "name": "Kagoshima",
+      "code": "46"
+    },
+    {
+      "name": "Kanagawa",
+      "code": "14"
+    },
+    {
+      "name": "Kochi",
+      "code": "39"
+    },
+    {
+      "name": "Kumamoto",
+      "code": "43"
+    },
+    {
+      "name": "Kyoto",
+      "code": "26"
+    },
+    {
+      "name": "Mie",
+      "code": "24"
+    },
+    {
+      "name": "Miyagi",
+      "code": "04"
+    },
+    {
+      "name": "Miyazaki",
+      "code": "45"
+    },
+    {
+      "name": "Nagano",
+      "code": "20"
+    },
+    {
+      "name": "Nagasaki",
+      "code": "42"
+    },
+    {
+      "name": "Nara",
+      "code": "29"
+    },
+    {
+      "name": "Niigata",
+      "code": "15"
+    },
+    {
+      "name": "Oita",
+      "code": "44"
+    },
+    {
+      "name": "Okayama",
+      "code": "33"
+    },
+    {
+      "name": "Okinawa",
+      "code": "47"
+    },
+    {
+      "name": "Osaka",
+      "code": "27"
+    },
+    {
+      "name": "Saga",
+      "code": "41"
+    },
+    {
+      "name": "Saitama",
+      "code": "11"
+    },
+    {
+      "name": "Shiga",
+      "code": "25"
+    },
+    {
+      "name": "Shimane",
+      "code": "32"
+    },
+    {
+      "name": "Shizuoka",
+      "code": "22"
+    },
+    {
+      "name": "Tochigi",
+      "code": "09"
+    },
+    {
+      "name": "Tokushima",
+      "code": "36"
+    },
+    {
+      "name": "Tokyo",
+      "code": "13"
+    },
+    {
+      "name": "Tottori",
+      "code": "31"
+    },
+    {
+      "name": "Toyama",
+      "code": "16"
+    },
+    {
+      "name": "Wakayama",
+      "code": "30"
+    },
+    {
+      "name": "Yamagata",
+      "code": "06"
+    },
+    {
+      "name": "Yamaguchi",
+      "code": "35"
+    },
+    {
+      "name": "Yamanashi",
+      "code": "19"
+    }
+  ]
+}
