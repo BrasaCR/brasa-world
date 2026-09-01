@@ -39,87 +39,87 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Comunicaciones, Infraestructura y Vivienda",
-      "ministry-catalog.html#transportation",
+      "ministry-01-ministerio-de-comunicaciones-infraestructura-y-vivienda.html",
       "CIV"
     ],
     [
       "Ministerio de Agricultura, Ganadería y Alimentación",
-      "https://guatemala.gob.gt/category/maga/",
+      "ministry-02-ministerio-de-agricultura-ganaderia-y-alimentacion.html",
       "MAGA"
     ],
     [
       "Ministerio de Ambiente y Recursos Naturales",
-      "https://guatemala.gob.gt/category/marn/",
+      "ministry-03-ministerio-de-ambiente-y-recursos-naturales.html",
       "MARN"
     ],
     [
       "Ministerio de Cultura y Deportes",
-      "https://guatemala.gob.gt/category/mcd/",
+      "ministry-04-ministerio-de-cultura-y-deportes.html",
       "MCD"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://guatemala.gob.gt/category/mem/",
+      "ministry-05-ministerio-de-energia-y-minas.html",
       "MEM"
     ],
     [
       "Ministerio de Desarrollo Social",
-      "https://guatemala.gob.gt/category/mides/",
+      "ministry-06-ministerio-de-desarrollo-social.html",
       "MIDES"
     ],
     [
       "Ministerio de la Defensa Nacional",
-      "https://guatemala.gob.gt/category/mindef/",
+      "ministry-07-ministerio-de-la-defensa-nacional.html",
       "MINDEF"
     ],
     [
       "Ministerio de Economía",
-      "https://guatemala.gob.gt/category/mineco/",
+      "ministry-08-ministerio-de-economia.html",
       "MINECO"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-09-ministerio-de-educacion.html",
       "MINEDUC"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://guatemala.gob.gt/category/minex/",
+      "ministry-10-ministerio-de-relaciones-exteriores.html",
       "MINEX"
     ],
     [
       "Ministerio de Finanzas Públicas",
-      "https://guatemala.gob.gt/category/minfin/",
+      "ministry-11-ministerio-de-finanzas-publicas.html",
       "MINFIN"
     ],
     [
       "Ministerio de Gobernación",
-      "https://guatemala.gob.gt/category/mingob/",
+      "ministry-12-ministerio-de-gobernacion.html",
       "MINGOB"
     ],
     [
       "Ministerio de Salud Pública y Asistencia Social",
-      "https://guatemala.gob.gt/category/mspas/",
+      "ministry-13-ministerio-de-salud-publica-y-asistencia-social.html",
       "MSPAS"
     ],
     [
       "Ministerio de Trabajo y Previsión Social",
-      "https://guatemala.gob.gt/category/mintrab/",
+      "ministry-14-ministerio-de-trabajo-y-prevision-social.html",
       "MINTRAB"
     ],
     [
       "Presidencia de la República",
-      "https://guatemala.gob.gt/",
+      "ministry-15-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ],
     [
       "Secretaría de Seguridad Alimentaria y Nutricional",
-      "https://guatemala.gob.gt/category/sesan/",
+      "ministry-16-secretaria-de-seguridad-alimentaria-y-nutricional.html",
       "SESAN"
     ],
     [
       "Secretaría de Planificación y Programación de la Presidencia",
-      "https://guatemala.gob.gt/category/segeplan/",
+      "ministry-17-secretaria-de-planificacion-y-programacion-de-la-presidencia.html",
       "SEGEPLAN"
     ]
   ]

@@ -38,79 +38,79 @@
   {
     "label": "Ministerio de Educación",
     "page": "Government of Nicaragua",
-    "url": "ministry-catalog.html#education",
+    "url": "ministry-01-ministerio-de-educacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Transporte e Infraestructura",
     "page": "Government of Nicaragua",
-    "url": "ministry-catalog.html#transportation",
+    "url": "ministry-02-ministerio-de-transporte-e-infraestructura.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Salud",
     "page": "Government of Nicaragua",
-    "url": "https://www.minsa.gob.ni/",
+    "url": "ministry-03-ministerio-de-salud.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Hacienda y Crédito Público",
     "page": "Government of Nicaragua",
-    "url": "https://www.hacienda.gob.ni/",
+    "url": "ministry-04-ministerio-de-hacienda-y-credito-publico.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Fomento, Industria y Comercio",
     "page": "Government of Nicaragua",
-    "url": "https://www.mific.gob.ni/",
+    "url": "ministry-05-ministerio-de-fomento-industria-y-comercio.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Gobernación",
     "page": "Government of Nicaragua",
-    "url": "https://www.migob.gob.ni/",
+    "url": "ministry-06-ministerio-de-gobernacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Relaciones Exteriores",
     "page": "Government of Nicaragua",
-    "url": "https://www.cancilleria.gob.ni/",
+    "url": "ministry-07-ministerio-de-relaciones-exteriores.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio del Trabajo",
     "page": "Government of Nicaragua",
-    "url": "https://www.mitrab.gob.ni/",
+    "url": "ministry-08-ministerio-del-trabajo.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio Agropecuario",
     "page": "Government of Nicaragua",
-    "url": "https://www.mag.gob.ni/",
+    "url": "ministry-09-ministerio-agropecuario.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio del Ambiente y los Recursos Naturales",
     "page": "Government of Nicaragua",
-    "url": "https://www.marena.gob.ni/",
+    "url": "ministry-10-ministerio-del-ambiente-y-los-recursos-naturales.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Energía y Minas",
     "page": "Government of Nicaragua",
-    "url": "https://www.mem.gob.ni/",
+    "url": "ministry-11-ministerio-de-energia-y-minas.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de la Familia, Adolescencia y Niñez",
     "page": "Government of Nicaragua",
-    "url": "https://www.mifamilia.gob.ni/",
+    "url": "ministry-12-ministerio-de-la-familia-adolescencia-y-ninez.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Presidencia de la República",
     "page": "Government of Nicaragua",
-    "url": "https://www.presidencia.gob.ni/",
+    "url": "ministry-13-presidencia-de-la-republica.html",
     "verified": "2026-08-27"
   }
 ]

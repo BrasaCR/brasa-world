@@ -66,103 +66,123 @@
   "ministries": [
     {
       "name": "Ministerio de Agricultura y Ganadería",
-      "href": "https://www.agricultura.gob.ec/",
-      "abbreviation": "MAG"
+      "href": "ministry-01-ministerio-de-agricultura-y-ganaderia.html",
+      "abbreviation": "MAG",
+      "officialHref": "https://www.agricultura.gob.ec/"
     },
     {
       "name": "Ministerio de Cultura y Patrimonio",
-      "href": "https://www.culturaypatrimonio.gob.ec/",
-      "abbreviation": "MCYP"
+      "href": "ministry-02-ministerio-de-cultura-y-patrimonio.html",
+      "abbreviation": "MCYP",
+      "officialHref": "https://www.culturaypatrimonio.gob.ec/"
     },
     {
       "name": "Ministerio de Defensa Nacional",
-      "href": "https://www.defensa.gob.ec/",
-      "abbreviation": "MIDENA"
+      "href": "ministry-03-ministerio-de-defensa-nacional.html",
+      "abbreviation": "MIDENA",
+      "officialHref": "https://www.defensa.gob.ec/"
     },
     {
       "name": "Ministerio de Desarrollo Urbano y Vivienda",
-      "href": "https://www.habitatyvivienda.gob.ec/",
-      "abbreviation": "MIDUVI"
+      "href": "ministry-04-ministerio-de-desarrollo-urbano-y-vivienda.html",
+      "abbreviation": "MIDUVI",
+      "officialHref": "https://www.habitatyvivienda.gob.ec/"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
-      "href": "https://www.finanzas.gob.ec/",
-      "abbreviation": "MEF"
+      "href": "ministry-05-ministerio-de-economia-y-finanzas.html",
+      "abbreviation": "MEF",
+      "officialHref": "https://www.finanzas.gob.ec/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINEDUC"
+      "href": "ministry-06-ministerio-de-educacion.html",
+      "abbreviation": "MINEDUC",
+      "officialHref": "https://www.presidencia.gob.ec/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://www.recursosyenergia.gob.ec/",
-      "abbreviation": "MEM"
+      "href": "ministry-07-ministerio-de-energia-y-minas.html",
+      "abbreviation": "MEM",
+      "officialHref": "https://www.recursosyenergia.gob.ec/"
     },
     {
       "name": "Ministerio de Gobierno",
-      "href": "https://www.ministeriodegobierno.gob.ec/",
-      "abbreviation": "MDG"
+      "href": "ministry-08-ministerio-de-gobierno.html",
+      "abbreviation": "MDG",
+      "officialHref": "https://www.ministeriodegobierno.gob.ec/"
     },
     {
       "name": "Ministerio de Inclusión Económica y Social",
-      "href": "https://www.inclusion.gob.ec/",
-      "abbreviation": "MIES"
+      "href": "ministry-09-ministerio-de-inclusion-economica-y-social.html",
+      "abbreviation": "MIES",
+      "officialHref": "https://www.inclusion.gob.ec/"
     },
     {
       "name": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-      "href": "https://www.produccion.gob.ec/",
-      "abbreviation": "MPCEIP"
+      "href": "ministry-10-ministerio-de-produccion-comercio-exterior-inversiones-y-pes.html",
+      "abbreviation": "MPCEIP",
+      "officialHref": "https://www.produccion.gob.ec/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores y Movilidad Humana",
-      "href": "https://www.cancilleria.gob.ec/",
-      "abbreviation": "MREMH"
+      "href": "ministry-11-ministerio-de-relaciones-exteriores-y-movilidad-humana.html",
+      "abbreviation": "MREMH",
+      "officialHref": "https://www.cancilleria.gob.ec/"
     },
     {
       "name": "Ministerio de Salud Pública",
-      "href": "https://www.salud.gob.ec/",
-      "abbreviation": "MSP"
+      "href": "ministry-12-ministerio-de-salud-publica.html",
+      "abbreviation": "MSP",
+      "officialHref": "https://www.salud.gob.ec/"
     },
     {
       "name": "Ministerio de Telecomunicaciones y de la Sociedad de la Información",
-      "href": "https://www.telecomunicaciones.gob.ec/",
-      "abbreviation": "MINTEL"
+      "href": "ministry-13-ministerio-de-telecomunicaciones-y-de-la-sociedad-de-la-info.html",
+      "abbreviation": "MINTEL",
+      "officialHref": "https://www.telecomunicaciones.gob.ec/"
     },
     {
       "name": "Ministerio del Trabajo",
-      "href": "https://www.trabajo.gob.ec/",
-      "abbreviation": "MDT"
+      "href": "ministry-14-ministerio-del-trabajo.html",
+      "abbreviation": "MDT",
+      "officialHref": "https://www.trabajo.gob.ec/"
     },
     {
       "name": "Ministerio de Transporte y Obras Públicas",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MTOP"
+      "href": "ministry-15-ministerio-de-transporte-y-obras-publicas.html",
+      "abbreviation": "MTOP",
+      "officialHref": "https://www.presidencia.gob.ec/"
     },
     {
       "name": "Ministerio de Turismo",
-      "href": "https://www.turismo.gob.ec/",
-      "abbreviation": "MINTUR"
+      "href": "ministry-16-ministerio-de-turismo.html",
+      "abbreviation": "MINTUR",
+      "officialHref": "https://www.turismo.gob.ec/"
     },
     {
       "name": "Ministerio de la Mujer y Derechos Humanos",
-      "href": "https://www.derechoshumanos.gob.ec/",
-      "abbreviation": "MMDH"
+      "href": "ministry-17-ministerio-de-la-mujer-y-derechos-humanos.html",
+      "abbreviation": "MMDH",
+      "officialHref": "https://www.derechoshumanos.gob.ec/"
     },
     {
       "name": "Ministerio del Ambiente, Agua y Transición Ecológica",
-      "href": "https://www.ambiente.gob.ec/",
-      "abbreviation": "MAATE"
+      "href": "ministry-18-ministerio-del-ambiente-agua-y-transicion-ecologica.html",
+      "abbreviation": "MAATE",
+      "officialHref": "https://www.ambiente.gob.ec/"
     },
     {
       "name": "Ministerio del Deporte",
-      "href": "https://www.deporte.gob.ec/",
-      "abbreviation": "MD"
+      "href": "ministry-19-ministerio-del-deporte.html",
+      "abbreviation": "MD",
+      "officialHref": "https://www.deporte.gob.ec/"
     },
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.ministeriodelinterior.gob.ec/",
-      "abbreviation": "MDI"
+      "href": "ministry-20-ministerio-del-interior.html",
+      "abbreviation": "MDI",
+      "officialHref": "https://www.ministeriodelinterior.gob.ec/"
     }
   ],
   "sharedPages": [

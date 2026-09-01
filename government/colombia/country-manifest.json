@@ -68,98 +68,117 @@
   "ministries": [
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.mininterior.gov.co/",
-      "abbreviation": "MININTERIOR"
+      "href": "ministry-01-ministerio-del-interior.html",
+      "abbreviation": "MININTERIOR",
+      "officialHref": "https://www.mininterior.gov.co/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.cancilleria.gov.co/",
-      "abbreviation": "CANCILLERIA"
+      "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "CANCILLERIA",
+      "officialHref": "https://www.cancilleria.gov.co/"
     },
     {
       "name": "Ministerio de Hacienda y Crédito Público",
-      "href": "https://www.minhacienda.gov.co/",
-      "abbreviation": "MINHACIENDA"
+      "href": "ministry-03-ministerio-de-hacienda-y-credito-publico.html",
+      "abbreviation": "MINHACIENDA",
+      "officialHref": "https://www.minhacienda.gov.co/"
     },
     {
       "name": "Ministerio de Justicia y del Derecho",
-      "href": "https://www.minjusticia.gov.co/",
-      "abbreviation": "MINJUSTICIA"
+      "href": "ministry-04-ministerio-de-justicia-y-del-derecho.html",
+      "abbreviation": "MINJUSTICIA",
+      "officialHref": "https://www.minjusticia.gov.co/"
     },
     {
       "name": "Ministerio de Defensa Nacional",
-      "href": "https://www.mindefensa.gov.co/",
-      "abbreviation": "MINDEFENSA"
+      "href": "ministry-05-ministerio-de-defensa-nacional.html",
+      "abbreviation": "MINDEFENSA",
+      "officialHref": "https://www.mindefensa.gov.co/"
     },
     {
       "name": "Ministerio de Agricultura y Desarrollo Rural",
-      "href": "https://www.minagricultura.gov.co/",
-      "abbreviation": "MINAGRICULTURA"
+      "href": "ministry-06-ministerio-de-agricultura-y-desarrollo-rural.html",
+      "abbreviation": "MINAGRICULTURA",
+      "officialHref": "https://www.minagricultura.gov.co/"
     },
     {
       "name": "Ministerio de Salud y Protección Social",
-      "href": "https://www.minsalud.gov.co/",
-      "abbreviation": "MINSALUD"
+      "href": "ministry-07-ministerio-de-salud-y-proteccion-social.html",
+      "abbreviation": "MINSALUD",
+      "officialHref": "https://www.minsalud.gov.co/"
     },
     {
       "name": "Ministerio del Trabajo",
-      "href": "https://www.mintrabajo.gov.co/",
-      "abbreviation": "MINTRABAJO"
+      "href": "ministry-08-ministerio-del-trabajo.html",
+      "abbreviation": "MINTRABAJO",
+      "officialHref": "https://www.mintrabajo.gov.co/"
     },
     {
       "name": "Ministerio de Minas y Energía",
-      "href": "https://www.minenergia.gov.co/",
-      "abbreviation": "MINENERGIA"
+      "href": "ministry-09-ministerio-de-minas-y-energia.html",
+      "abbreviation": "MINENERGIA",
+      "officialHref": "https://www.minenergia.gov.co/"
     },
     {
       "name": "Ministerio de Comercio, Industria y Turismo",
-      "href": "https://www.mincit.gov.co/",
-      "abbreviation": "MINCIT"
+      "href": "ministry-10-ministerio-de-comercio-industria-y-turismo.html",
+      "abbreviation": "MINCIT",
+      "officialHref": "https://www.mincit.gov.co/"
     },
     {
       "name": "Ministerio de Educación Nacional",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINEDUCACION"
+      "href": "ministry-11-ministerio-de-educacion-nacional.html",
+      "abbreviation": "MINEDUCACION",
+      "officialHref": "https://www.gov.co/"
     },
     {
       "name": "Ministerio de Ambiente y Desarrollo Sostenible",
-      "href": "https://www.minambiente.gov.co/",
-      "abbreviation": "MINAMBIENTE"
+      "href": "ministry-12-ministerio-de-ambiente-y-desarrollo-sostenible.html",
+      "abbreviation": "MINAMBIENTE",
+      "officialHref": "https://www.minambiente.gov.co/"
     },
     {
       "name": "Ministerio de Vivienda, Ciudad y Territorio",
-      "href": "https://www.minvivienda.gov.co/",
-      "abbreviation": "MINVIVIENDA"
+      "href": "ministry-13-ministerio-de-vivienda-ciudad-y-territorio.html",
+      "abbreviation": "MINVIVIENDA",
+      "officialHref": "https://www.minvivienda.gov.co/"
     },
     {
       "name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
-      "href": "https://www.mintic.gov.co/",
-      "abbreviation": "MINTIC"
+      "href": "ministry-14-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaci.html",
+      "abbreviation": "MINTIC",
+      "officialHref": "https://www.mintic.gov.co/"
     },
     {
       "name": "Ministerio de Transporte",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MINTRANSPORTE"
+      "href": "ministry-15-ministerio-de-transporte.html",
+      "abbreviation": "MINTRANSPORTE",
+      "officialHref": "https://www.gov.co/"
     },
     {
       "name": "Ministerio de las Culturas, las Artes y los Saberes",
-      "href": "https://www.mincultura.gov.co/",
-      "abbreviation": "MINCULTURAS"
+      "href": "ministry-16-ministerio-de-las-culturas-las-artes-y-los-saberes.html",
+      "abbreviation": "MINCULTURAS",
+      "officialHref": "https://www.mincultura.gov.co/"
     },
     {
       "name": "Ministerio de Ciencia, Tecnología e Innovación",
-      "href": "https://minciencias.gov.co/",
-      "abbreviation": "MINCIENCIAS"
+      "href": "ministry-17-ministerio-de-ciencia-tecnologia-e-innovacion.html",
+      "abbreviation": "MINCIENCIAS",
+      "officialHref": "https://minciencias.gov.co/"
     },
     {
       "name": "Ministerio del Deporte",
-      "href": "https://www.mindeporte.gov.co/",
-      "abbreviation": "MINDEPORTE"
+      "href": "ministry-18-ministerio-del-deporte.html",
+      "abbreviation": "MINDEPORTE",
+      "officialHref": "https://www.mindeporte.gov.co/"
     },
     {
       "name": "Ministerio de Igualdad y Equidad",
-      "href": "https://www.minigualdadyequidad.gov.co/",
-      "abbreviation": "MINIGUALDAD"
+      "href": "ministry-19-ministerio-de-igualdad-y-equidad.html",
+      "abbreviation": "MINIGUALDAD",
+      "officialHref": "https://www.minigualdadyequidad.gov.co/"
     }
   ],
   "sharedPages": [

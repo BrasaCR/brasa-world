@@ -61,73 +61,87 @@
   "ministries": [
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M1"
+      "href": "ministry-01-ministerio-del-interior.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-de-economia-y-finanzas.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Defensa Nacional",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-de-defensa-nacional.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Educación y Cultura",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-de-educacion-y-cultura.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Transporte y Obras Públicas",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-de-transporte-y-obras-publicas.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Industria, Energía y Minería",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-de-industria-energia-y-mineria.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Trabajo y Seguridad Social",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Salud Pública",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-de-salud-publica.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Ganadería, Agricultura y Pesca",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-de-ganaderia-agricultura-y-pesca.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Turismo",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerio-de-turismo.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Vivienda y Ordenamiento Territorial",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerio-de-vivienda-y-ordenamiento-territorial.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Desarrollo Social",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerio-de-desarrollo-social.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gub.uy/"
     },
     {
       "name": "Ministerio de Ambiente",
-      "href": "https://www.gub.uy/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerio-de-ambiente.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gub.uy/"
     }
   ],
   "sharedPages": [

@@ -39,82 +39,82 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Educación, Ciencia y Tecnología",
-      "ministry-catalog.html#education",
+      "ministry-01-ministerio-de-educacion-ciencia-y-tecnologia.html",
       "MINEDUCYT"
     ],
     [
       "Ministerio de Obras Públicas y de Transporte",
-      "ministry-catalog.html#transportation",
+      "ministry-02-ministerio-de-obras-publicas-y-de-transporte.html",
       "MOPT"
     ],
     [
       "Ministerio de Salud",
-      "https://www.salud.gob.sv/",
+      "ministry-03-ministerio-de-salud.html",
       "MINSAL"
     ],
     [
       "Ministerio de Hacienda",
-      "https://www.mh.gob.sv/",
+      "ministry-04-ministerio-de-hacienda.html",
       "MH"
     ],
     [
       "Ministerio de Economía",
-      "https://www.economia.gob.sv/",
+      "ministry-05-ministerio-de-economia.html",
       "MINEC"
     ],
     [
       "Ministerio de Gobernación y Desarrollo Territorial",
-      "https://www.gobernacion.gob.sv/",
+      "ministry-06-ministerio-de-gobernacion-y-desarrollo-territorial.html",
       "MIGOBDT"
     ],
     [
       "Ministerio de Justicia y Seguridad Pública",
-      "https://www.seguridad.gob.sv/",
+      "ministry-07-ministerio-de-justicia-y-seguridad-publica.html",
       "MJSP"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://rree.gob.sv/",
+      "ministry-08-ministerio-de-relaciones-exteriores.html",
       "RREE"
     ],
     [
       "Ministerio de Trabajo y Previsión Social",
-      "https://www.mtps.gob.sv/",
+      "ministry-09-ministerio-de-trabajo-y-prevision-social.html",
       "MTPS"
     ],
     [
       "Ministerio de Agricultura y Ganadería",
-      "https://www.mag.gob.sv/",
+      "ministry-10-ministerio-de-agricultura-y-ganaderia.html",
       "MAG"
     ],
     [
       "Ministerio de Medio Ambiente y Recursos Naturales",
-      "https://www.ambiente.gob.sv/",
+      "ministry-11-ministerio-de-medio-ambiente-y-recursos-naturales.html",
       "MARN"
     ],
     [
       "Ministerio de Cultura",
-      "https://www.cultura.gob.sv/",
+      "ministry-12-ministerio-de-cultura.html",
       "MICULTURA"
     ],
     [
       "Ministerio de Turismo",
-      "https://www.mitur.gob.sv/",
+      "ministry-13-ministerio-de-turismo.html",
       "MITUR"
     ],
     [
       "Ministerio de Vivienda",
-      "https://www.vivienda.gob.sv/",
+      "ministry-14-ministerio-de-vivienda.html",
       "VIVIENDA"
     ],
     [
       "Ministerio de Defensa Nacional",
-      "https://www.fuerzaarmada.mil.sv/",
+      "ministry-15-ministerio-de-defensa-nacional.html",
       "MDN"
     ],
     [
       "Presidencia de la República",
-      "https://www.presidencia.gob.sv/",
+      "ministry-16-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ]
   ]

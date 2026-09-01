@@ -39,102 +39,102 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Agricultura y Ganadería",
-      "https://www.agricultura.gob.ec/",
+      "ministry-01-ministerio-de-agricultura-y-ganaderia.html",
       "MAG"
     ],
     [
       "Ministerio de Cultura y Patrimonio",
-      "https://www.culturaypatrimonio.gob.ec/",
+      "ministry-02-ministerio-de-cultura-y-patrimonio.html",
       "MCYP"
     ],
     [
       "Ministerio de Defensa Nacional",
-      "https://www.defensa.gob.ec/",
+      "ministry-03-ministerio-de-defensa-nacional.html",
       "MIDENA"
     ],
     [
       "Ministerio de Desarrollo Urbano y Vivienda",
-      "https://www.habitatyvivienda.gob.ec/",
+      "ministry-04-ministerio-de-desarrollo-urbano-y-vivienda.html",
       "MIDUVI"
     ],
     [
       "Ministerio de Economía y Finanzas",
-      "https://www.finanzas.gob.ec/",
+      "ministry-05-ministerio-de-economia-y-finanzas.html",
       "MEF"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-06-ministerio-de-educacion.html",
       "MINEDUC"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://www.recursosyenergia.gob.ec/",
+      "ministry-07-ministerio-de-energia-y-minas.html",
       "MEM"
     ],
     [
       "Ministerio de Gobierno",
-      "https://www.ministeriodegobierno.gob.ec/",
+      "ministry-08-ministerio-de-gobierno.html",
       "MDG"
     ],
     [
       "Ministerio de Inclusión Económica y Social",
-      "https://www.inclusion.gob.ec/",
+      "ministry-09-ministerio-de-inclusion-economica-y-social.html",
       "MIES"
     ],
     [
       "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-      "https://www.produccion.gob.ec/",
+      "ministry-10-ministerio-de-produccion-comercio-exterior-inversiones-y-pes.html",
       "MPCEIP"
     ],
     [
       "Ministerio de Relaciones Exteriores y Movilidad Humana",
-      "https://www.cancilleria.gob.ec/",
+      "ministry-11-ministerio-de-relaciones-exteriores-y-movilidad-humana.html",
       "MREMH"
     ],
     [
       "Ministerio de Salud Pública",
-      "https://www.salud.gob.ec/",
+      "ministry-12-ministerio-de-salud-publica.html",
       "MSP"
     ],
     [
       "Ministerio de Telecomunicaciones y de la Sociedad de la Información",
-      "https://www.telecomunicaciones.gob.ec/",
+      "ministry-13-ministerio-de-telecomunicaciones-y-de-la-sociedad-de-la-info.html",
       "MINTEL"
     ],
     [
       "Ministerio del Trabajo",
-      "https://www.trabajo.gob.ec/",
+      "ministry-14-ministerio-del-trabajo.html",
       "MDT"
     ],
     [
       "Ministerio de Transporte y Obras Públicas",
-      "ministry-catalog.html#transportation",
+      "ministry-15-ministerio-de-transporte-y-obras-publicas.html",
       "MTOP"
     ],
     [
       "Ministerio de Turismo",
-      "https://www.turismo.gob.ec/",
+      "ministry-16-ministerio-de-turismo.html",
       "MINTUR"
     ],
     [
       "Ministerio de la Mujer y Derechos Humanos",
-      "https://www.derechoshumanos.gob.ec/",
+      "ministry-17-ministerio-de-la-mujer-y-derechos-humanos.html",
       "MMDH"
     ],
     [
       "Ministerio del Ambiente, Agua y Transición Ecológica",
-      "https://www.ambiente.gob.ec/",
+      "ministry-18-ministerio-del-ambiente-agua-y-transicion-ecologica.html",
       "MAATE"
     ],
     [
       "Ministerio del Deporte",
-      "https://www.deporte.gob.ec/",
+      "ministry-19-ministerio-del-deporte.html",
       "MD"
     ],
     [
       "Ministerio del Interior",
-      "https://www.ministeriodelinterior.gob.ec/",
+      "ministry-20-ministerio-del-interior.html",
       "MDI"
     ]
   ]

@@ -73,88 +73,105 @@
   "ministries": [
     {
       "name": "Ministère de l’Éducation Nationale et de la Formation Professionnelle",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MENFP"
+      "href": "ministry-01-ministere-de-l-education-nationale-et-de-la-formation-profes.html",
+      "abbreviation": "MENFP",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère des Travaux Publics, Transports et Communications",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MTPTC"
+      "href": "ministry-02-ministere-des-travaux-publics-transports-et-communications.html",
+      "abbreviation": "MTPTC",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère de la Santé Publique et de la Population",
-      "href": "https://www.mspp.gouv.ht/",
-      "abbreviation": "MSPP"
+      "href": "ministry-03-ministere-de-la-sante-publique-et-de-la-population.html",
+      "abbreviation": "MSPP",
+      "officialHref": "https://www.mspp.gouv.ht/"
     },
     {
       "name": "Ministère de l’Économie et des Finances",
-      "href": "https://www.mef.gouv.ht/",
-      "abbreviation": "MEF"
+      "href": "ministry-04-ministere-de-l-economie-et-des-finances.html",
+      "abbreviation": "MEF",
+      "officialHref": "https://www.mef.gouv.ht/"
     },
     {
       "name": "Ministère de la Justice et de la Sécurité Publique",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "MJSP"
+      "href": "ministry-05-ministere-de-la-justice-et-de-la-securite-publique.html",
+      "abbreviation": "MJSP",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère des Affaires Étrangères et des Cultes",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "MAEC"
+      "href": "ministry-06-ministere-des-affaires-etrangeres-et-des-cultes.html",
+      "abbreviation": "MAEC",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère de l’Intérieur et des Collectivités Territoriales",
-      "href": "https://mict.gouv.ht/",
-      "abbreviation": "MICT"
+      "href": "ministry-07-ministere-de-l-interieur-et-des-collectivites-territoriales.html",
+      "abbreviation": "MICT",
+      "officialHref": "https://mict.gouv.ht/"
     },
     {
       "name": "Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",
-      "href": "https://agriculture.gouv.ht/",
-      "abbreviation": "MARNDR"
+      "href": "ministry-08-ministere-de-l-agriculture-des-ressources-naturelles-et-du-d.html",
+      "abbreviation": "MARNDR",
+      "officialHref": "https://agriculture.gouv.ht/"
     },
     {
       "name": "Ministère de l’Environnement",
-      "href": "https://mde.gouv.ht/",
-      "abbreviation": "MDE"
+      "href": "ministry-09-ministere-de-l-environnement.html",
+      "abbreviation": "MDE",
+      "officialHref": "https://mde.gouv.ht/"
     },
     {
       "name": "Ministère du Commerce et de l’Industrie",
-      "href": "https://mci.gouv.ht/",
-      "abbreviation": "MCI"
+      "href": "ministry-10-ministere-du-commerce-et-de-l-industrie.html",
+      "abbreviation": "MCI",
+      "officialHref": "https://mci.gouv.ht/"
     },
     {
       "name": "Ministère des Affaires Sociales et du Travail",
-      "href": "https://www.mast.gouv.ht/",
-      "abbreviation": "MAST"
+      "href": "ministry-11-ministere-des-affaires-sociales-et-du-travail.html",
+      "abbreviation": "MAST",
+      "officialHref": "https://www.mast.gouv.ht/"
     },
     {
       "name": "Ministère de la Planification et de la Coopération Externe",
-      "href": "https://www.mpce.gouv.ht/",
-      "abbreviation": "MPCE"
+      "href": "ministry-12-ministere-de-la-planification-et-de-la-cooperation-externe.html",
+      "abbreviation": "MPCE",
+      "officialHref": "https://www.mpce.gouv.ht/"
     },
     {
       "name": "Ministère du Tourisme",
-      "href": "https://tourisme.gouv.ht/",
-      "abbreviation": "MDT"
+      "href": "ministry-13-ministere-du-tourisme.html",
+      "abbreviation": "MDT",
+      "officialHref": "https://tourisme.gouv.ht/"
     },
     {
       "name": "Ministère de la Culture et de la Communication",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "MCC"
+      "href": "ministry-14-ministere-de-la-culture-et-de-la-communication.html",
+      "abbreviation": "MCC",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère à la Condition Féminine et aux Droits des Femmes",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "MCFDF"
+      "href": "ministry-15-ministere-a-la-condition-feminine-et-aux-droits-des-femmes.html",
+      "abbreviation": "MCFDF",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Ministère de la Jeunesse, des Sports et de l’Action Civique",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "MJSAC"
+      "href": "ministry-16-ministere-de-la-jeunesse-des-sports-et-de-l-action-civique.html",
+      "abbreviation": "MJSAC",
+      "officialHref": "https://www.primature.gouv.ht/"
     },
     {
       "name": "Primature",
-      "href": "https://www.primature.gouv.ht/",
-      "abbreviation": "PM"
+      "href": "ministry-17-primature.html",
+      "abbreviation": "PM",
+      "officialHref": "https://www.primature.gouv.ht/"
     }
   ],
   "sharedPages": [

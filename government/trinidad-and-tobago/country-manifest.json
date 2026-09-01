@@ -61,78 +61,93 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Finance",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Foreign and CARICOM Affairs",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-and-caricom-affairs.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of National Security",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Education",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Health",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Public Utilities",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-public-utilities.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Works and Infrastructure",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-works-and-infrastructure.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Energy and Energy Industries",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-energy-and-energy-industries.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Trade, Investment and Tourism",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-trade-investment-and-tourism.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Rural Development and Local Government",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-rural-development-and-local-government.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Social Development and Family Services",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministry-of-social-development-and-family-services.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Labour, Small and Micro Enterprise Development",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministry-of-labour-small-and-micro-enterprise-development.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Agriculture, Land and Fisheries",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministry-of-agriculture-land-and-fisheries.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gov.tt/"
     },
     {
       "name": "Ministry of Sport and Youth Affairs",
-      "href": "https://www.gov.tt/",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministry-of-sport-and-youth-affairs.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.gov.tt/"
     }
   ],
   "sharedPages": [

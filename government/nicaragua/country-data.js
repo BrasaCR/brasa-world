@@ -39,67 +39,67 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-01-ministerio-de-educacion.html",
       "MINED"
     ],
     [
       "Ministerio de Transporte e Infraestructura",
-      "ministry-catalog.html#transportation",
+      "ministry-02-ministerio-de-transporte-e-infraestructura.html",
       "MTI"
     ],
     [
       "Ministerio de Salud",
-      "https://www.minsa.gob.ni/",
+      "ministry-03-ministerio-de-salud.html",
       "MINSA"
     ],
     [
       "Ministerio de Hacienda y Crédito Público",
-      "https://www.hacienda.gob.ni/",
+      "ministry-04-ministerio-de-hacienda-y-credito-publico.html",
       "MHCP"
     ],
     [
       "Ministerio de Fomento, Industria y Comercio",
-      "https://www.mific.gob.ni/",
+      "ministry-05-ministerio-de-fomento-industria-y-comercio.html",
       "MIFIC"
     ],
     [
       "Ministerio de Gobernación",
-      "https://www.migob.gob.ni/",
+      "ministry-06-ministerio-de-gobernacion.html",
       "MIGOB"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.cancilleria.gob.ni/",
+      "ministry-07-ministerio-de-relaciones-exteriores.html",
       "MINREX"
     ],
     [
       "Ministerio del Trabajo",
-      "https://www.mitrab.gob.ni/",
+      "ministry-08-ministerio-del-trabajo.html",
       "MITRAB"
     ],
     [
       "Ministerio Agropecuario",
-      "https://www.mag.gob.ni/",
+      "ministry-09-ministerio-agropecuario.html",
       "MAG"
     ],
     [
       "Ministerio del Ambiente y los Recursos Naturales",
-      "https://www.marena.gob.ni/",
+      "ministry-10-ministerio-del-ambiente-y-los-recursos-naturales.html",
       "MARENA"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://www.mem.gob.ni/",
+      "ministry-11-ministerio-de-energia-y-minas.html",
       "MEM"
     ],
     [
       "Ministerio de la Familia, Adolescencia y Niñez",
-      "https://www.mifamilia.gob.ni/",
+      "ministry-12-ministerio-de-la-familia-adolescencia-y-ninez.html",
       "MIFAN"
     ],
     [
       "Presidencia de la República",
-      "https://www.presidencia.gob.ni/",
+      "ministry-13-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ]
   ]

@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.gov.jm/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance and the Public Service",
-      "https://www.gov.jm/",
+      "ministry-02-ministry-of-finance-and-the-public-service.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs and Foreign Trade",
-      "https://www.gov.jm/",
+      "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "M3"
     ],
     [
       "Ministry of National Security",
-      "https://www.gov.jm/",
+      "ministry-04-ministry-of-national-security.html",
       "M4"
     ],
     [
       "Ministry of Health and Wellness",
-      "https://www.gov.jm/",
+      "ministry-05-ministry-of-health-and-wellness.html",
       "M5"
     ],
     [
       "Ministry of Education, Skills, Youth and Information",
-      "ministry-catalog.html#education",
+      "ministry-06-ministry-of-education-skills-youth-and-information.html",
       "M6"
     ],
     [
       "Ministry of Economic Growth and Job Creation",
-      "https://www.gov.jm/",
+      "ministry-07-ministry-of-economic-growth-and-job-creation.html",
       "M7"
     ],
     [
       "Ministry of Local Government and Community Development",
-      "https://www.gov.jm/",
+      "ministry-08-ministry-of-local-government-and-community-development.html",
       "M8"
     ],
     [
       "Ministry of Labour and Social Security",
-      "https://www.gov.jm/",
+      "ministry-09-ministry-of-labour-and-social-security.html",
       "M9"
     ],
     [
       "Ministry of Industry, Investment and Commerce",
-      "https://www.gov.jm/",
+      "ministry-10-ministry-of-industry-investment-and-commerce.html",
       "M10"
     ],
     [
       "Ministry of Agriculture, Fisheries and Mining",
-      "https://www.gov.jm/",
+      "ministry-11-ministry-of-agriculture-fisheries-and-mining.html",
       "M11"
     ],
     [
       "Ministry of Tourism",
-      "https://www.gov.jm/",
+      "ministry-12-ministry-of-tourism.html",
       "M12"
     ],
     [
       "Ministry of Justice",
-      "https://www.gov.jm/",
+      "ministry-13-ministry-of-justice.html",
       "M13"
     ],
     [
       "Ministry of Transport and Mining",
-      "ministry-catalog.html#transportation",
+      "ministry-14-ministry-of-transport-and-mining.html",
       "M14"
     ],
     [
       "Ministry of Culture, Gender, Entertainment and Sport",
-      "https://www.gov.jm/",
+      "ministry-15-ministry-of-culture-gender-entertainment-and-sport.html",
       "M15"
     ]
   ]

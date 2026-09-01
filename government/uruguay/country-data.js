@@ -39,72 +39,72 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio del Interior",
-      "https://www.gub.uy/",
+      "ministry-01-ministerio-del-interior.html",
       "M1"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.gub.uy/",
+      "ministry-02-ministerio-de-relaciones-exteriores.html",
       "M2"
     ],
     [
       "Ministerio de Economía y Finanzas",
-      "https://www.gub.uy/",
+      "ministry-03-ministerio-de-economia-y-finanzas.html",
       "M3"
     ],
     [
       "Ministerio de Defensa Nacional",
-      "https://www.gub.uy/",
+      "ministry-04-ministerio-de-defensa-nacional.html",
       "M4"
     ],
     [
       "Ministerio de Educación y Cultura",
-      "ministry-catalog.html#education",
+      "ministry-05-ministerio-de-educacion-y-cultura.html",
       "M5"
     ],
     [
       "Ministerio de Transporte y Obras Públicas",
-      "ministry-catalog.html#transportation",
+      "ministry-06-ministerio-de-transporte-y-obras-publicas.html",
       "M6"
     ],
     [
       "Ministerio de Industria, Energía y Minería",
-      "https://www.gub.uy/",
+      "ministry-07-ministerio-de-industria-energia-y-mineria.html",
       "M7"
     ],
     [
       "Ministerio de Trabajo y Seguridad Social",
-      "https://www.gub.uy/",
+      "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
       "M8"
     ],
     [
       "Ministerio de Salud Pública",
-      "https://www.gub.uy/",
+      "ministry-09-ministerio-de-salud-publica.html",
       "M9"
     ],
     [
       "Ministerio de Ganadería, Agricultura y Pesca",
-      "https://www.gub.uy/",
+      "ministry-10-ministerio-de-ganaderia-agricultura-y-pesca.html",
       "M10"
     ],
     [
       "Ministerio de Turismo",
-      "https://www.gub.uy/",
+      "ministry-11-ministerio-de-turismo.html",
       "M11"
     ],
     [
       "Ministerio de Vivienda y Ordenamiento Territorial",
-      "https://www.gub.uy/",
+      "ministry-12-ministerio-de-vivienda-y-ordenamiento-territorial.html",
       "M12"
     ],
     [
       "Ministerio de Desarrollo Social",
-      "https://www.gub.uy/",
+      "ministry-13-ministerio-de-desarrollo-social.html",
       "M13"
     ],
     [
       "Ministerio de Ambiente",
-      "https://www.gub.uy/",
+      "ministry-14-ministerio-de-ambiente.html",
       "M14"
     ]
   ]

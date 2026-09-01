@@ -61,78 +61,93 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Finance",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Foreign Affairs",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of National Security",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Education and Technical and Vocational Training",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-and-technical-and-vocational-training.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Health and Wellness",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-and-wellness.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Works and Family Island Affairs",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-works-and-family-island-affairs.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Housing and Urban Renewal",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-housing-and-urban-renewal.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Tourism, Investments and Aviation",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-tourism-investments-and-aviation.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Economic Affairs",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-economic-affairs.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Agriculture and Marine Resources",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-agriculture-and-marine-resources.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Social Services, Information and Broadcasting",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministry-of-social-services-information-and-broadcasting.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Labour and the Public Service",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministry-of-labour-and-the-public-service.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of the Environment and Natural Resources",
-      "href": "https://www.bahamas.gov.bs/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministry-of-the-environment-and-natural-resources.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.bahamas.gov.bs/"
     },
     {
       "name": "Ministry of Transport and Energy",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministry-of-transport-and-energy.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.bahamas.gov.bs/"
     }
   ],
   "sharedPages": [

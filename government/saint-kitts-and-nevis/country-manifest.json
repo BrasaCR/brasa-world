@@ -61,63 +61,75 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Finance and the Public Service",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-and-the-public-service.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Foreign Affairs",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of National Security",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Education",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Health",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Public Infrastructure, Energy and Utilities",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-public-infrastructure-energy-and-utilities.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Agriculture, Fisheries, Marine Resources and Cooperatives",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-agriculture-fisheries-marine-resources-and-coope.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Tourism",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-tourism.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Sustainable Development",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-sustainable-development.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Social Development and Gender Affairs",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-social-development-and-gender-affairs.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gov.kn/"
     },
     {
       "name": "Ministry of Environment, Climate Action and Constituency Empowerment",
-      "href": "https://www.gov.kn/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministry-of-environment-climate-action-and-constituency-empo.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gov.kn/"
     }
   ],
   "sharedPages": [

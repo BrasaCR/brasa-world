@@ -61,58 +61,69 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Finance",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Foreign Affairs, Trade and Export Development",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs-trade-and-export-development.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of National Security, Home Affairs and Public Administration",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security-home-affairs-and-public-admini.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Education, Youth, Sports and Culture",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-youth-sports-and-culture.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Health, Wellness and Religious Affairs",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-wellness-and-religious-affairs.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Infrastructure and Physical Development",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-infrastructure-and-physical-development.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Agriculture and Lands, Forestry and Marine Resources",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-agriculture-and-lands-forestry-and-marine-resour.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Climate Resilience, the Environment and Renewable Energy",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-climate-resilience-the-environment-and-renewable.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Social and Community Development, Housing and Gender Affairs",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-social-and-community-development-housing-and-gen.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.gd/"
     },
     {
       "name": "Ministry of Mobilisation, Implementation and Transformation",
-      "href": "https://www.gov.gd/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-mobilisation-implementation-and-transformation.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gov.gd/"
     }
   ],
   "sharedPages": [

@@ -62,98 +62,117 @@
   "ministries": [
     {
       "name": "Presidencia del Consejo de Ministros",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M1"
+      "href": "ministry-01-presidencia-del-consejo-de-ministros.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Defensa",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-de-defensa.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-de-economia-y-finanzas.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-del-interior.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Justicia y Derechos Humanos",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-de-justicia-y-derechos-humanos.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-de-educacion.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Salud",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-de-salud.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Desarrollo Agrario y Riego",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-de-desarrollo-agrario-y-riego.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Trabajo y Promoción del Empleo",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-de-trabajo-y-promocion-del-empleo.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de la Producción",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerio-de-la-produccion.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Comercio Exterior y Turismo",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerio-de-comercio-exterior-y-turismo.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerio-de-energia-y-minas.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Transportes y Comunicaciones",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerio-de-transportes-y-comunicaciones.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Vivienda, Construcción y Saneamiento",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministerio-de-vivienda-construccion-y-saneamiento.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de la Mujer y Poblaciones Vulnerables",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M16"
+      "href": "ministry-16-ministerio-de-la-mujer-y-poblaciones-vulnerables.html",
+      "abbreviation": "M16",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio del Ambiente",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M17"
+      "href": "ministry-17-ministerio-del-ambiente.html",
+      "abbreviation": "M17",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Cultura",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M18"
+      "href": "ministry-18-ministerio-de-cultura.html",
+      "abbreviation": "M18",
+      "officialHref": "https://www.gob.pe/"
     },
     {
       "name": "Ministerio de Desarrollo e Inclusión Social",
-      "href": "https://www.gob.pe/",
-      "abbreviation": "M19"
+      "href": "ministry-19-ministerio-de-desarrollo-e-inclusion-social.html",
+      "abbreviation": "M19",
+      "officialHref": "https://www.gob.pe/"
     }
   ],
   "sharedPages": [

@@ -39,52 +39,52 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Jefatura de Gabinete de Ministros",
-      "https://www.argentina.gob.ar/",
+      "ministry-01-jefatura-de-gabinete-de-ministros.html",
       "M1"
     ],
     [
       "Ministerio del Interior",
-      "https://www.argentina.gob.ar/",
+      "ministry-02-ministerio-del-interior.html",
       "M2"
     ],
     [
       "Ministerio de Capital Humano",
-      "https://www.argentina.gob.ar/",
+      "ministry-03-ministerio-de-capital-humano.html",
       "M3"
     ],
     [
       "Ministerio de Defensa",
-      "https://www.argentina.gob.ar/",
+      "ministry-04-ministerio-de-defensa.html",
       "M4"
     ],
     [
       "Ministerio de Economía",
-      "https://www.argentina.gob.ar/",
+      "ministry-05-ministerio-de-economia.html",
       "M5"
     ],
     [
       "Ministerio de Justicia",
-      "https://www.argentina.gob.ar/",
+      "ministry-06-ministerio-de-justicia.html",
       "M6"
     ],
     [
       "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
-      "https://www.argentina.gob.ar/",
+      "ministry-07-ministerio-de-relaciones-exteriores-comercio-internacional-y.html",
       "M7"
     ],
     [
       "Ministerio de Salud",
-      "https://www.argentina.gob.ar/",
+      "ministry-08-ministerio-de-salud.html",
       "M8"
     ],
     [
       "Ministerio de Seguridad Nacional",
-      "https://www.argentina.gob.ar/",
+      "ministry-09-ministerio-de-seguridad-nacional.html",
       "M9"
     ],
     [
       "Ministerio de Desregulación y Transformación del Estado",
-      "https://www.argentina.gob.ar/",
+      "ministry-10-ministerio-de-desregulacion-y-transformacion-del-estado.html",
       "M10"
     ]
   ]

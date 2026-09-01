@@ -39,87 +39,87 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerie van Binnenlandse Zaken",
-      "https://gov.sr/",
+      "ministry-01-ministerie-van-binnenlandse-zaken.html",
       "M1"
     ],
     [
       "Ministerie van Buitenlandse Zaken, International Business en Internationale Samenwerking",
-      "https://gov.sr/",
+      "ministry-02-ministerie-van-buitenlandse-zaken-international-business-en-.html",
       "M2"
     ],
     [
       "Ministerie van Defensie",
-      "https://gov.sr/",
+      "ministry-03-ministerie-van-defensie.html",
       "M3"
     ],
     [
       "Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",
-      "https://gov.sr/",
+      "ministry-04-ministerie-van-economische-zaken-ondernemerschap-en-technolo.html",
       "M4"
     ],
     [
       "Ministerie van Financiën en Planning",
-      "https://gov.sr/",
+      "ministry-05-ministerie-van-financien-en-planning.html",
       "M5"
     ],
     [
       "Ministerie van Grondbeleid en Bosbeheer",
-      "https://gov.sr/",
+      "ministry-06-ministerie-van-grondbeleid-en-bosbeheer.html",
       "M6"
     ],
     [
       "Ministerie van Justitie en Politie",
-      "https://gov.sr/",
+      "ministry-07-ministerie-van-justitie-en-politie.html",
       "M7"
     ],
     [
       "Ministerie van Landbouw, Veeteelt en Visserij",
-      "https://gov.sr/",
+      "ministry-08-ministerie-van-landbouw-veeteelt-en-visserij.html",
       "M8"
     ],
     [
       "Ministerie van Natuurlijke Hulpbronnen",
-      "https://gov.sr/",
+      "ministry-09-ministerie-van-natuurlijke-hulpbronnen.html",
       "M9"
     ],
     [
       "Ministerie van Onderwijs, Wetenschap en Cultuur",
-      "ministry-catalog.html#education",
+      "ministry-10-ministerie-van-onderwijs-wetenschap-en-cultuur.html",
       "M10"
     ],
     [
       "Ministerie van Openbare Werken",
-      "ministry-catalog.html#transportation",
+      "ministry-11-ministerie-van-openbare-werken.html",
       "M11"
     ],
     [
       "Ministerie van Regionale Ontwikkeling en Sport",
-      "https://gov.sr/",
+      "ministry-12-ministerie-van-regionale-ontwikkeling-en-sport.html",
       "M12"
     ],
     [
       "Ministerie van Ruimtelijke Ordening en Milieu",
-      "https://gov.sr/",
+      "ministry-13-ministerie-van-ruimtelijke-ordening-en-milieu.html",
       "M13"
     ],
     [
       "Ministerie van Sociale Zaken en Volkshuisvesting",
-      "https://gov.sr/",
+      "ministry-14-ministerie-van-sociale-zaken-en-volkshuisvesting.html",
       "M14"
     ],
     [
       "Ministerie van Transport, Communicatie en Toerisme",
-      "ministry-catalog.html#transportation",
+      "ministry-15-ministerie-van-transport-communicatie-en-toerisme.html",
       "M15"
     ],
     [
       "Ministerie van Volksgezondheid",
-      "https://gov.sr/",
+      "ministry-16-ministerie-van-volksgezondheid.html",
       "M16"
     ],
     [
       "Ministerie van Arbeid, Werkgelegenheid en Jeugdzaken",
-      "https://gov.sr/",
+      "ministry-17-ministerie-van-arbeid-werkgelegenheid-en-jeugdzaken.html",
       "M17"
     ]
   ]

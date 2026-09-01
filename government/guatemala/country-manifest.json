@@ -66,88 +66,105 @@
   "ministries": [
     {
       "name": "Ministerio de Comunicaciones, Infraestructura y Vivienda",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "CIV"
+      "href": "ministry-01-ministerio-de-comunicaciones-infraestructura-y-vivienda.html",
+      "abbreviation": "CIV",
+      "officialHref": "https://guatemala.gob.gt/"
     },
     {
       "name": "Ministerio de Agricultura, Ganadería y Alimentación",
-      "href": "https://guatemala.gob.gt/category/maga/",
-      "abbreviation": "MAGA"
+      "href": "ministry-02-ministerio-de-agricultura-ganaderia-y-alimentacion.html",
+      "abbreviation": "MAGA",
+      "officialHref": "https://guatemala.gob.gt/category/maga/"
     },
     {
       "name": "Ministerio de Ambiente y Recursos Naturales",
-      "href": "https://guatemala.gob.gt/category/marn/",
-      "abbreviation": "MARN"
+      "href": "ministry-03-ministerio-de-ambiente-y-recursos-naturales.html",
+      "abbreviation": "MARN",
+      "officialHref": "https://guatemala.gob.gt/category/marn/"
     },
     {
       "name": "Ministerio de Cultura y Deportes",
-      "href": "https://guatemala.gob.gt/category/mcd/",
-      "abbreviation": "MCD"
+      "href": "ministry-04-ministerio-de-cultura-y-deportes.html",
+      "abbreviation": "MCD",
+      "officialHref": "https://guatemala.gob.gt/category/mcd/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://guatemala.gob.gt/category/mem/",
-      "abbreviation": "MEM"
+      "href": "ministry-05-ministerio-de-energia-y-minas.html",
+      "abbreviation": "MEM",
+      "officialHref": "https://guatemala.gob.gt/category/mem/"
     },
     {
       "name": "Ministerio de Desarrollo Social",
-      "href": "https://guatemala.gob.gt/category/mides/",
-      "abbreviation": "MIDES"
+      "href": "ministry-06-ministerio-de-desarrollo-social.html",
+      "abbreviation": "MIDES",
+      "officialHref": "https://guatemala.gob.gt/category/mides/"
     },
     {
       "name": "Ministerio de la Defensa Nacional",
-      "href": "https://guatemala.gob.gt/category/mindef/",
-      "abbreviation": "MINDEF"
+      "href": "ministry-07-ministerio-de-la-defensa-nacional.html",
+      "abbreviation": "MINDEF",
+      "officialHref": "https://guatemala.gob.gt/category/mindef/"
     },
     {
       "name": "Ministerio de Economía",
-      "href": "https://guatemala.gob.gt/category/mineco/",
-      "abbreviation": "MINECO"
+      "href": "ministry-08-ministerio-de-economia.html",
+      "abbreviation": "MINECO",
+      "officialHref": "https://guatemala.gob.gt/category/mineco/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINEDUC"
+      "href": "ministry-09-ministerio-de-educacion.html",
+      "abbreviation": "MINEDUC",
+      "officialHref": "https://guatemala.gob.gt/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://guatemala.gob.gt/category/minex/",
-      "abbreviation": "MINEX"
+      "href": "ministry-10-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "MINEX",
+      "officialHref": "https://guatemala.gob.gt/category/minex/"
     },
     {
       "name": "Ministerio de Finanzas Públicas",
-      "href": "https://guatemala.gob.gt/category/minfin/",
-      "abbreviation": "MINFIN"
+      "href": "ministry-11-ministerio-de-finanzas-publicas.html",
+      "abbreviation": "MINFIN",
+      "officialHref": "https://guatemala.gob.gt/category/minfin/"
     },
     {
       "name": "Ministerio de Gobernación",
-      "href": "https://guatemala.gob.gt/category/mingob/",
-      "abbreviation": "MINGOB"
+      "href": "ministry-12-ministerio-de-gobernacion.html",
+      "abbreviation": "MINGOB",
+      "officialHref": "https://guatemala.gob.gt/category/mingob/"
     },
     {
       "name": "Ministerio de Salud Pública y Asistencia Social",
-      "href": "https://guatemala.gob.gt/category/mspas/",
-      "abbreviation": "MSPAS"
+      "href": "ministry-13-ministerio-de-salud-publica-y-asistencia-social.html",
+      "abbreviation": "MSPAS",
+      "officialHref": "https://guatemala.gob.gt/category/mspas/"
     },
     {
       "name": "Ministerio de Trabajo y Previsión Social",
-      "href": "https://guatemala.gob.gt/category/mintrab/",
-      "abbreviation": "MINTRAB"
+      "href": "ministry-14-ministerio-de-trabajo-y-prevision-social.html",
+      "abbreviation": "MINTRAB",
+      "officialHref": "https://guatemala.gob.gt/category/mintrab/"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://guatemala.gob.gt/",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-15-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://guatemala.gob.gt/"
     },
     {
       "name": "Secretaría de Seguridad Alimentaria y Nutricional",
-      "href": "https://guatemala.gob.gt/category/sesan/",
-      "abbreviation": "SESAN"
+      "href": "ministry-16-secretaria-de-seguridad-alimentaria-y-nutricional.html",
+      "abbreviation": "SESAN",
+      "officialHref": "https://guatemala.gob.gt/category/sesan/"
     },
     {
       "name": "Secretaría de Planificación y Programación de la Presidencia",
-      "href": "https://guatemala.gob.gt/category/segeplan/",
-      "abbreviation": "SEGEPLAN"
+      "href": "ministry-17-secretaria-de-planificacion-y-programacion-de-la-presidencia.html",
+      "abbreviation": "SEGEPLAN",
+      "officialHref": "https://guatemala.gob.gt/category/segeplan/"
     }
   ],
   "sharedPages": [

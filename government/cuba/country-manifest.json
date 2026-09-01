@@ -66,78 +66,93 @@
   "ministries": [
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINED"
+      "href": "ministry-01-ministerio-de-educacion.html",
+      "abbreviation": "MINED",
+      "officialHref": "https://www.cubagob.cu/"
     },
     {
       "name": "Ministerio del Transporte",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MITRANS"
+      "href": "ministry-02-ministerio-del-transporte.html",
+      "abbreviation": "MITRANS",
+      "officialHref": "https://www.cubagob.cu/"
     },
     {
       "name": "Ministerio de Salud Pública",
-      "href": "https://salud.msp.gob.cu/",
-      "abbreviation": "MINSAP"
+      "href": "ministry-03-ministerio-de-salud-publica.html",
+      "abbreviation": "MINSAP",
+      "officialHref": "https://salud.msp.gob.cu/"
     },
     {
       "name": "Ministerio de Finanzas y Precios",
-      "href": "https://www.mfp.gob.cu/",
-      "abbreviation": "MFP"
+      "href": "ministry-04-ministerio-de-finanzas-y-precios.html",
+      "abbreviation": "MFP",
+      "officialHref": "https://www.mfp.gob.cu/"
     },
     {
       "name": "Ministerio de Economía y Planificación",
-      "href": "https://www.mep.gob.cu/",
-      "abbreviation": "MEP"
+      "href": "ministry-05-ministerio-de-economia-y-planificacion.html",
+      "abbreviation": "MEP",
+      "officialHref": "https://www.mep.gob.cu/"
     },
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.minint.gob.cu/",
-      "abbreviation": "MININT"
+      "href": "ministry-06-ministerio-del-interior.html",
+      "abbreviation": "MININT",
+      "officialHref": "https://www.minint.gob.cu/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://cubaminrex.cu/",
-      "abbreviation": "MINREX"
+      "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "MINREX",
+      "officialHref": "https://cubaminrex.cu/"
     },
     {
       "name": "Ministerio de Trabajo y Seguridad Social",
-      "href": "https://www.mtss.gob.cu/",
-      "abbreviation": "MTSS"
+      "href": "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
+      "abbreviation": "MTSS",
+      "officialHref": "https://www.mtss.gob.cu/"
     },
     {
       "name": "Ministerio de Agricultura",
-      "href": "https://www.minag.gob.cu/",
-      "abbreviation": "MINAG"
+      "href": "ministry-09-ministerio-de-agricultura.html",
+      "abbreviation": "MINAG",
+      "officialHref": "https://www.minag.gob.cu/"
     },
     {
       "name": "Ministerio de Ciencia, Tecnología y Medio Ambiente",
-      "href": "https://www.citma.gob.cu/",
-      "abbreviation": "CITMA"
+      "href": "ministry-10-ministerio-de-ciencia-tecnologia-y-medio-ambiente.html",
+      "abbreviation": "CITMA",
+      "officialHref": "https://www.citma.gob.cu/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://www.minem.gob.cu/",
-      "abbreviation": "MINEM"
+      "href": "ministry-11-ministerio-de-energia-y-minas.html",
+      "abbreviation": "MINEM",
+      "officialHref": "https://www.minem.gob.cu/"
     },
     {
       "name": "Ministerio de Comunicaciones",
-      "href": "https://www.mincom.gob.cu/",
-      "abbreviation": "MINCOM"
+      "href": "ministry-12-ministerio-de-comunicaciones.html",
+      "abbreviation": "MINCOM",
+      "officialHref": "https://www.mincom.gob.cu/"
     },
     {
       "name": "Ministerio de Cultura",
-      "href": "https://www.ministeriodecultura.gob.cu/",
-      "abbreviation": "MINCULT"
+      "href": "ministry-13-ministerio-de-cultura.html",
+      "abbreviation": "MINCULT",
+      "officialHref": "https://www.ministeriodecultura.gob.cu/"
     },
     {
       "name": "Ministerio de Turismo",
-      "href": "https://www.mintur.gob.cu/",
-      "abbreviation": "MINTUR"
+      "href": "ministry-14-ministerio-de-turismo.html",
+      "abbreviation": "MINTUR",
+      "officialHref": "https://www.mintur.gob.cu/"
     },
     {
       "name": "Consejo de Ministros",
-      "href": "https://www.cubagob.cu/",
-      "abbreviation": "GOBIERNO"
+      "href": "ministry-15-consejo-de-ministros.html",
+      "abbreviation": "GOBIERNO",
+      "officialHref": "https://www.cubagob.cu/"
     }
   ],
   "sharedPages": [

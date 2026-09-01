@@ -38,85 +38,85 @@
   {
     "label": "Secretaría de Educación",
     "page": "Government of Honduras",
-    "url": "ministry-catalog.html#education",
+    "url": "ministry-01-secretaria-de-educacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Infraestructura y Transporte",
     "page": "Government of Honduras",
-    "url": "ministry-catalog.html#transportation",
+    "url": "ministry-02-secretaria-de-infraestructura-y-transporte.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Salud",
     "page": "Government of Honduras",
-    "url": "https://www.salud.gob.hn/",
+    "url": "ministry-03-secretaria-de-salud.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Finanzas",
     "page": "Government of Honduras",
-    "url": "https://www.sefin.gob.hn/",
+    "url": "ministry-04-secretaria-de-finanzas.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Desarrollo Económico",
     "page": "Government of Honduras",
-    "url": "https://sde.gob.hn/",
+    "url": "ministry-05-secretaria-de-desarrollo-economico.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Gobernación, Justicia y Descentralización",
     "page": "Government of Honduras",
-    "url": "https://www.sgjd.gob.hn/",
+    "url": "ministry-06-secretaria-de-gobernacion-justicia-y-descentralizacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Seguridad",
     "page": "Government of Honduras",
-    "url": "https://www.policianacional.gob.hn/",
+    "url": "ministry-07-secretaria-de-seguridad.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Relaciones Exteriores",
     "page": "Government of Honduras",
-    "url": "https://sreci.gob.hn/",
+    "url": "ministry-08-secretaria-de-relaciones-exteriores.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Trabajo y Seguridad Social",
     "page": "Government of Honduras",
-    "url": "https://www.trabajo.gob.hn/",
+    "url": "ministry-09-secretaria-de-trabajo-y-seguridad-social.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Agricultura y Ganadería",
     "page": "Government of Honduras",
-    "url": "https://sag.gob.hn/",
+    "url": "ministry-10-secretaria-de-agricultura-y-ganaderia.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Recursos Naturales y Ambiente",
     "page": "Government of Honduras",
-    "url": "https://serna.gob.hn/",
+    "url": "ministry-11-secretaria-de-recursos-naturales-y-ambiente.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Turismo",
     "page": "Government of Honduras",
-    "url": "https://iht.hn/",
+    "url": "ministry-12-secretaria-de-turismo.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Secretaría de Defensa Nacional",
     "page": "Government of Honduras",
-    "url": "https://sedena.gob.hn/",
+    "url": "ministry-13-secretaria-de-defensa-nacional.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Presidencia de la República",
     "page": "Government of Honduras",
-    "url": "https://www.presidencia.gob.hn/",
+    "url": "ministry-14-presidencia-de-la-republica.html",
     "verified": "2026-08-27"
   }
 ]

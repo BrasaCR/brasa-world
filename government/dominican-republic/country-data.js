@@ -39,117 +39,117 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de la Presidencia",
-      "https://presidencia.gob.do/ministerios",
+      "ministry-01-ministerio-de-la-presidencia.html",
       "MINPRE"
     ],
     [
       "Ministerio Administrativo de la Presidencia",
-      "https://mapre.gob.do/",
+      "ministry-02-ministerio-administrativo-de-la-presidencia.html",
       "MAPRE"
     ],
     [
       "Ministerio de Obras Públicas y Comunicaciones",
-      "ministry-catalog.html#transportation",
+      "ministry-03-ministerio-de-obras-publicas-y-comunicaciones.html",
       "MOPC"
     ],
     [
       "Ministerio de Hacienda y Economía",
-      "https://www.hacienda.gob.do/",
+      "ministry-04-ministerio-de-hacienda-y-economia.html",
       "MH"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://mem.gob.do/",
+      "ministry-05-ministerio-de-energia-y-minas.html",
       "MEM"
     ],
     [
       "Ministerio de Cultura",
-      "https://cultura.gob.do/",
+      "ministry-06-ministerio-de-cultura.html",
       "MINC"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://mirex.gob.do/",
+      "ministry-07-ministerio-de-relaciones-exteriores.html",
       "MIREX"
     ],
     [
       "Ministerio de Turismo",
-      "https://www.mitur.gob.do/",
+      "ministry-08-ministerio-de-turismo.html",
       "MITUR"
     ],
     [
       "Ministerio de Trabajo",
-      "https://mt.gob.do/",
+      "ministry-09-ministerio-de-trabajo.html",
       "MT"
     ],
     [
       "Ministerio de Defensa",
-      "https://mide.gob.do/",
+      "ministry-10-ministerio-de-defensa.html",
       "MIDE"
     ],
     [
       "Ministerio de la Mujer",
-      "https://mujer.gob.do/",
+      "ministry-11-ministerio-de-la-mujer.html",
       "MMUJER"
     ],
     [
       "Ministerio de Vivienda y Edificaciones",
-      "https://mived.gob.do/",
+      "ministry-12-ministerio-de-vivienda-y-edificaciones.html",
       "MIVED"
     ],
     [
       "Ministerio de Administración Pública",
-      "https://map.gob.do/",
+      "ministry-13-ministerio-de-administracion-publica.html",
       "MAP"
     ],
     [
       "Ministerio de Medio Ambiente y Recursos Naturales",
-      "https://ambiente.gob.do/",
+      "ministry-14-ministerio-de-medio-ambiente-y-recursos-naturales.html",
       "MIMARENA"
     ],
     [
       "Ministerio de Agricultura",
-      "https://agricultura.gob.do/",
+      "ministry-15-ministerio-de-agricultura.html",
       "MA"
     ],
     [
       "Ministerio de Juventud",
-      "https://juventud.gob.do/",
+      "ministry-16-ministerio-de-juventud.html",
       "MJ"
     ],
     [
       "Ministerio de Deportes y Recreación",
-      "https://miderec.gob.do/",
+      "ministry-17-ministerio-de-deportes-y-recreacion.html",
       "MIDEREC"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-18-ministerio-de-educacion.html",
       "MINERD"
     ],
     [
       "Ministerio de Educación Superior, Ciencia y Tecnología",
-      "https://mescyt.gob.do/",
+      "ministry-19-ministerio-de-educacion-superior-ciencia-y-tecnologia.html",
       "MESCYT"
     ],
     [
       "Ministerio de Industria, Comercio y Mipymes",
-      "https://micm.gob.do/",
+      "ministry-20-ministerio-de-industria-comercio-y-mipymes.html",
       "MICM"
     ],
     [
       "Ministerio de Interior y Policía",
-      "https://mip.gob.do/",
+      "ministry-21-ministerio-de-interior-y-policia.html",
       "MIP"
     ],
     [
       "Ministerio de Salud Pública",
-      "https://www.msp.gob.do/",
+      "ministry-22-ministerio-de-salud-publica.html",
       "MISPAS"
     ],
     [
       "Ministerio de Justicia",
-      "https://presidencia.gob.do/ministerios",
+      "ministry-23-ministerio-de-justicia.html",
       "MJUS"
     ]
   ]

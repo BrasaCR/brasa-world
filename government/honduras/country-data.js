@@ -39,72 +39,72 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Secretaría de Educación",
-      "ministry-catalog.html#education",
+      "ministry-01-secretaria-de-educacion.html",
       "SEDUC"
     ],
     [
       "Secretaría de Infraestructura y Transporte",
-      "ministry-catalog.html#transportation",
+      "ministry-02-secretaria-de-infraestructura-y-transporte.html",
       "SIT"
     ],
     [
       "Secretaría de Salud",
-      "https://www.salud.gob.hn/",
+      "ministry-03-secretaria-de-salud.html",
       "SESAL"
     ],
     [
       "Secretaría de Finanzas",
-      "https://www.sefin.gob.hn/",
+      "ministry-04-secretaria-de-finanzas.html",
       "SEFIN"
     ],
     [
       "Secretaría de Desarrollo Económico",
-      "https://sde.gob.hn/",
+      "ministry-05-secretaria-de-desarrollo-economico.html",
       "SDE"
     ],
     [
       "Secretaría de Gobernación, Justicia y Descentralización",
-      "https://www.sgjd.gob.hn/",
+      "ministry-06-secretaria-de-gobernacion-justicia-y-descentralizacion.html",
       "SGJD"
     ],
     [
       "Secretaría de Seguridad",
-      "https://www.policianacional.gob.hn/",
+      "ministry-07-secretaria-de-seguridad.html",
       "SEDS"
     ],
     [
       "Secretaría de Relaciones Exteriores",
-      "https://sreci.gob.hn/",
+      "ministry-08-secretaria-de-relaciones-exteriores.html",
       "SRECI"
     ],
     [
       "Secretaría de Trabajo y Seguridad Social",
-      "https://www.trabajo.gob.hn/",
+      "ministry-09-secretaria-de-trabajo-y-seguridad-social.html",
       "SETRASS"
     ],
     [
       "Secretaría de Agricultura y Ganadería",
-      "https://sag.gob.hn/",
+      "ministry-10-secretaria-de-agricultura-y-ganaderia.html",
       "SAG"
     ],
     [
       "Secretaría de Recursos Naturales y Ambiente",
-      "https://serna.gob.hn/",
+      "ministry-11-secretaria-de-recursos-naturales-y-ambiente.html",
       "SERNA"
     ],
     [
       "Secretaría de Turismo",
-      "https://iht.hn/",
+      "ministry-12-secretaria-de-turismo.html",
       "IHT"
     ],
     [
       "Secretaría de Defensa Nacional",
-      "https://sedena.gob.hn/",
+      "ministry-13-secretaria-de-defensa-nacional.html",
       "SEDENA"
     ],
     [
       "Presidencia de la República",
-      "https://www.presidencia.gob.hn/",
+      "ministry-14-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ]
   ]

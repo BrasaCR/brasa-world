@@ -61,48 +61,57 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Finance and Corporate Governance",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-and-corporate-governance.html",
+      "abbreviation": "M2",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Foreign Affairs, Agriculture, Trade and Barbuda Affairs",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs-agriculture-trade-and-barbuda-af.html",
+      "abbreviation": "M3",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Legal Affairs, Public Safety, Immigration and Labour",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-legal-affairs-public-safety-immigration-and-labo.html",
+      "abbreviation": "M4",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Education, Sports and Creative Industries",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-sports-and-creative-industries.html",
+      "abbreviation": "M5",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Health, Wellness, Social Transformation and the Environment",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-wellness-social-transformation-and-the-en.html",
+      "abbreviation": "M6",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Works",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-works.html",
+      "abbreviation": "M7",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Tourism, Civil Aviation, Transportation and Investment",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-tourism-civil-aviation-transportation-and-invest.html",
+      "abbreviation": "M8",
+      "officialHref": "https://ab.gov.ag/"
     },
     {
       "name": "Ministry of Housing, Lands and Urban Renewal",
-      "href": "https://ab.gov.ag/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-housing-lands-and-urban-renewal.html",
+      "abbreviation": "M9",
+      "officialHref": "https://ab.gov.ag/"
     }
   ],
   "sharedPages": [

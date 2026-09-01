@@ -38,91 +38,91 @@
   {
     "label": "Department of State",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-01-department-of-state.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of the Treasury",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-02-department-of-the-treasury.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Defense",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-03-department-of-defense.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Justice",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-04-department-of-justice.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of the Interior",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-05-department-of-the-interior.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Agriculture",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-06-department-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Commerce",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-07-department-of-commerce.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Labor",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-08-department-of-labor.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Health and Human Services",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-09-department-of-health-and-human-services.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Housing and Urban Development",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-10-department-of-housing-and-urban-development.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Transportation",
     "page": "Government of United States",
-    "url": "ministry-catalog.html#transportation",
+    "url": "ministry-11-department-of-transportation.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Energy",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-12-department-of-energy.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Education",
     "page": "Government of United States",
-    "url": "ministry-catalog.html#education",
+    "url": "ministry-13-department-of-education.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Veterans Affairs",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-14-department-of-veterans-affairs.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Homeland Security",
     "page": "Government of United States",
-    "url": "https://www.usa.gov/",
+    "url": "ministry-15-department-of-homeland-security.html",
     "verified": "2026-09-01"
   }
 ]

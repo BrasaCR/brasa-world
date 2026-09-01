@@ -39,62 +39,62 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.gov.kn/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance and the Public Service",
-      "https://www.gov.kn/",
+      "ministry-02-ministry-of-finance-and-the-public-service.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs",
-      "https://www.gov.kn/",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "M3"
     ],
     [
       "Ministry of National Security",
-      "https://www.gov.kn/",
+      "ministry-04-ministry-of-national-security.html",
       "M4"
     ],
     [
       "Ministry of Education",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education.html",
       "M5"
     ],
     [
       "Ministry of Health",
-      "https://www.gov.kn/",
+      "ministry-06-ministry-of-health.html",
       "M6"
     ],
     [
       "Ministry of Public Infrastructure, Energy and Utilities",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-public-infrastructure-energy-and-utilities.html",
       "M7"
     ],
     [
       "Ministry of Agriculture, Fisheries, Marine Resources and Cooperatives",
-      "https://www.gov.kn/",
+      "ministry-08-ministry-of-agriculture-fisheries-marine-resources-and-coope.html",
       "M8"
     ],
     [
       "Ministry of Tourism",
-      "https://www.gov.kn/",
+      "ministry-09-ministry-of-tourism.html",
       "M9"
     ],
     [
       "Ministry of Sustainable Development",
-      "https://www.gov.kn/",
+      "ministry-10-ministry-of-sustainable-development.html",
       "M10"
     ],
     [
       "Ministry of Social Development and Gender Affairs",
-      "https://www.gov.kn/",
+      "ministry-11-ministry-of-social-development-and-gender-affairs.html",
       "M11"
     ],
     [
       "Ministry of Environment, Climate Action and Constituency Empowerment",
-      "https://www.gov.kn/",
+      "ministry-12-ministry-of-environment-climate-action-and-constituency-empo.html",
       "M12"
     ]
   ]

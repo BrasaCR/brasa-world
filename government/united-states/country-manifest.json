@@ -61,78 +61,93 @@
   "ministries": [
     {
       "name": "Department of State",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M1"
+      "href": "ministry-01-department-of-state.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of the Treasury",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M2"
+      "href": "ministry-02-department-of-the-treasury.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Defense",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M3"
+      "href": "ministry-03-department-of-defense.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Justice",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M4"
+      "href": "ministry-04-department-of-justice.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of the Interior",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M5"
+      "href": "ministry-05-department-of-the-interior.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Agriculture",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M6"
+      "href": "ministry-06-department-of-agriculture.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Commerce",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M7"
+      "href": "ministry-07-department-of-commerce.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Labor",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M8"
+      "href": "ministry-08-department-of-labor.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Health and Human Services",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M9"
+      "href": "ministry-09-department-of-health-and-human-services.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Housing and Urban Development",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M10"
+      "href": "ministry-10-department-of-housing-and-urban-development.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Transportation",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M11"
+      "href": "ministry-11-department-of-transportation.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Energy",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M12"
+      "href": "ministry-12-department-of-energy.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Education",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M13"
+      "href": "ministry-13-department-of-education.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Veterans Affairs",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M14"
+      "href": "ministry-14-department-of-veterans-affairs.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.usa.gov/"
     },
     {
       "name": "Department of Homeland Security",
-      "href": "https://www.usa.gov/",
-      "abbreviation": "M15"
+      "href": "ministry-15-department-of-homeland-security.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.usa.gov/"
     }
   ],
   "sharedPages": [

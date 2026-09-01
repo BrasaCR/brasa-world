@@ -61,53 +61,63 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Finance, Economic Planning and Information Technology",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-economic-planning-and-information-techno.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Foreign Affairs and Foreign Trade",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of National Security",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Education and National Reconciliation",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-and-national-reconciliation.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Health, Wellness and the Environment",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-wellness-and-the-environment.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Transport, Works, Lands and Physical Planning",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-transport-works-lands-and-physical-planning.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry and Labour",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-agriculture-forestry-fisheries-rural-transformat.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of Tourism, Civil Aviation, Sustainable Development and Culture",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-tourism-civil-aviation-sustainable-development-a.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.vc/"
     },
     {
       "name": "Ministry of National Mobilisation, Social Development and Local Government",
-      "href": "https://www.gov.vc/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-national-mobilisation-social-development-and-loc.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.vc/"
     }
   ],
   "sharedPages": [

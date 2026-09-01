@@ -39,92 +39,92 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Salud",
-      "https://www.minsa.gob.pa/",
+      "ministry-01-ministerio-de-salud.html",
       "MINSA"
     ],
     [
       "Ministerio de Ambiente",
-      "https://www.miambiente.gob.pa/",
+      "ministry-02-ministerio-de-ambiente.html",
       "MIAMBIENTE"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-03-ministerio-de-educacion.html",
       "MEDUCA"
     ],
     [
       "Ministerio de Economía y Finanzas",
-      "https://www.mef.gob.pa/",
+      "ministry-04-ministerio-de-economia-y-finanzas.html",
       "MEF"
     ],
     [
       "Ministerio de Obras Públicas · Transportation",
-      "ministry-catalog.html#transportation",
+      "ministry-05-ministerio-de-obras-publicas-transportation.html",
       "MOP"
     ],
     [
       "Ministerio de Seguridad Pública",
-      "https://www.minseg.gob.pa/",
+      "ministry-06-ministerio-de-seguridad-publica.html",
       "MINSEG"
     ],
     [
       "Ministerio de Desarrollo Agropecuario",
-      "https://www.mida.gob.pa/",
+      "ministry-07-ministerio-de-desarrollo-agropecuario.html",
       "MIDA"
     ],
     [
       "Ministerio de Trabajo y Desarrollo Laboral",
-      "https://www.mitradel.gob.pa/",
+      "ministry-08-ministerio-de-trabajo-y-desarrollo-laboral.html",
       "MITRADEL"
     ],
     [
       "Ministerio de Vivienda y Ordenamiento Territorial",
-      "https://www.miviot.gob.pa/",
+      "ministry-09-ministerio-de-vivienda-y-ordenamiento-territorial.html",
       "MIVIOT"
     ],
     [
       "Ministerio de Cultura",
-      "https://www.micultura.gob.pa/",
+      "ministry-10-ministerio-de-cultura.html",
       "MICULTURA"
     ],
     [
       "Ministerio de Gobierno",
-      "https://www.mingob.gob.pa/",
+      "ministry-11-ministerio-de-gobierno.html",
       "MINGOB"
     ],
     [
       "Ministerio de Comercio e Industrias",
-      "https://www.mici.gob.pa/",
+      "ministry-12-ministerio-de-comercio-e-industrias.html",
       "MICI"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.mire.gob.pa/",
+      "ministry-13-ministerio-de-relaciones-exteriores.html",
       "MIRE"
     ],
     [
       "Ministerio de Desarrollo Social",
-      "https://www.mides.gob.pa/",
+      "ministry-14-ministerio-de-desarrollo-social.html",
       "MIDES"
     ],
     [
       "Presidencia de la República",
-      "https://www.presidencia.gob.pa/",
+      "ministry-15-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ],
     [
       "Tribunal Electoral",
-      "https://www.tribunal-electoral.gob.pa/",
+      "ministry-16-tribunal-electoral.html",
       "TE"
     ],
     [
       "Caja de Seguro Social",
-      "https://www.css.gob.pa/",
+      "ministry-17-caja-de-seguro-social.html",
       "CSS"
     ],
     [
       "Autoridad del Canal de Panamá",
-      "https://www.pancanal.com/",
+      "ministry-18-autoridad-del-canal-de-panama.html",
       "ACP"
     ]
   ]

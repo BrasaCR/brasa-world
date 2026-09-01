@@ -39,97 +39,97 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio del Interior",
-      "https://www.mininterior.gov.co/",
+      "ministry-01-ministerio-del-interior.html",
       "MININTERIOR"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.cancilleria.gov.co/",
+      "ministry-02-ministerio-de-relaciones-exteriores.html",
       "CANCILLERIA"
     ],
     [
       "Ministerio de Hacienda y Crédito Público",
-      "https://www.minhacienda.gov.co/",
+      "ministry-03-ministerio-de-hacienda-y-credito-publico.html",
       "MINHACIENDA"
     ],
     [
       "Ministerio de Justicia y del Derecho",
-      "https://www.minjusticia.gov.co/",
+      "ministry-04-ministerio-de-justicia-y-del-derecho.html",
       "MINJUSTICIA"
     ],
     [
       "Ministerio de Defensa Nacional",
-      "https://www.mindefensa.gov.co/",
+      "ministry-05-ministerio-de-defensa-nacional.html",
       "MINDEFENSA"
     ],
     [
       "Ministerio de Agricultura y Desarrollo Rural",
-      "https://www.minagricultura.gov.co/",
+      "ministry-06-ministerio-de-agricultura-y-desarrollo-rural.html",
       "MINAGRICULTURA"
     ],
     [
       "Ministerio de Salud y Protección Social",
-      "https://www.minsalud.gov.co/",
+      "ministry-07-ministerio-de-salud-y-proteccion-social.html",
       "MINSALUD"
     ],
     [
       "Ministerio del Trabajo",
-      "https://www.mintrabajo.gov.co/",
+      "ministry-08-ministerio-del-trabajo.html",
       "MINTRABAJO"
     ],
     [
       "Ministerio de Minas y Energía",
-      "https://www.minenergia.gov.co/",
+      "ministry-09-ministerio-de-minas-y-energia.html",
       "MINENERGIA"
     ],
     [
       "Ministerio de Comercio, Industria y Turismo",
-      "https://www.mincit.gov.co/",
+      "ministry-10-ministerio-de-comercio-industria-y-turismo.html",
       "MINCIT"
     ],
     [
       "Ministerio de Educación Nacional",
-      "ministry-catalog.html#education",
+      "ministry-11-ministerio-de-educacion-nacional.html",
       "MINEDUCACION"
     ],
     [
       "Ministerio de Ambiente y Desarrollo Sostenible",
-      "https://www.minambiente.gov.co/",
+      "ministry-12-ministerio-de-ambiente-y-desarrollo-sostenible.html",
       "MINAMBIENTE"
     ],
     [
       "Ministerio de Vivienda, Ciudad y Territorio",
-      "https://www.minvivienda.gov.co/",
+      "ministry-13-ministerio-de-vivienda-ciudad-y-territorio.html",
       "MINVIVIENDA"
     ],
     [
       "Ministerio de Tecnologías de la Información y las Comunicaciones",
-      "https://www.mintic.gov.co/",
+      "ministry-14-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaci.html",
       "MINTIC"
     ],
     [
       "Ministerio de Transporte",
-      "ministry-catalog.html#transportation",
+      "ministry-15-ministerio-de-transporte.html",
       "MINTRANSPORTE"
     ],
     [
       "Ministerio de las Culturas, las Artes y los Saberes",
-      "https://www.mincultura.gov.co/",
+      "ministry-16-ministerio-de-las-culturas-las-artes-y-los-saberes.html",
       "MINCULTURAS"
     ],
     [
       "Ministerio de Ciencia, Tecnología e Innovación",
-      "https://minciencias.gov.co/",
+      "ministry-17-ministerio-de-ciencia-tecnologia-e-innovacion.html",
       "MINCIENCIAS"
     ],
     [
       "Ministerio del Deporte",
-      "https://www.mindeporte.gov.co/",
+      "ministry-18-ministerio-del-deporte.html",
       "MINDEPORTE"
     ],
     [
       "Ministerio de Igualdad y Equidad",
-      "https://www.minigualdadyequidad.gov.co/",
+      "ministry-19-ministerio-de-igualdad-y-equidad.html",
       "MINIGUALDAD"
     ]
   ]

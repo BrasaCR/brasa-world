@@ -39,117 +39,117 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Secretaría de Gobernación",
-      "https://www.gob.mx/segob",
+      "ministry-01-secretaria-de-gobernacion.html",
       "SEGOB"
     ],
     [
       "Secretaría de Relaciones Exteriores",
-      "https://www.gob.mx/sre",
+      "ministry-02-secretaria-de-relaciones-exteriores.html",
       "SRE"
     ],
     [
       "Secretaría de la Defensa Nacional",
-      "https://www.gob.mx/defensa",
+      "ministry-03-secretaria-de-la-defensa-nacional.html",
       "DEFENSA"
     ],
     [
       "Secretaría de Marina",
-      "https://www.gob.mx/semar",
+      "ministry-04-secretaria-de-marina.html",
       "SEMAR"
     ],
     [
       "Secretaría de Seguridad y Protección Ciudadana",
-      "https://www.gob.mx/sspc",
+      "ministry-05-secretaria-de-seguridad-y-proteccion-ciudadana.html",
       "SSPC"
     ],
     [
       "Secretaría de Hacienda y Crédito Público",
-      "https://www.gob.mx/shcp",
+      "ministry-06-secretaria-de-hacienda-y-credito-publico.html",
       "SHCP"
     ],
     [
       "Secretaría de Bienestar",
-      "https://www.gob.mx/bienestar",
+      "ministry-07-secretaria-de-bienestar.html",
       "BIENESTAR"
     ],
     [
       "Secretaría de Medio Ambiente y Recursos Naturales",
-      "https://www.gob.mx/semarnat",
+      "ministry-08-secretaria-de-medio-ambiente-y-recursos-naturales.html",
       "SEMARNAT"
     ],
     [
       "Secretaría de Energía",
-      "https://www.gob.mx/sener",
+      "ministry-09-secretaria-de-energia.html",
       "SENER"
     ],
     [
       "Secretaría de Economía",
-      "https://www.gob.mx/se",
+      "ministry-10-secretaria-de-economia.html",
       "SE"
     ],
     [
       "Secretaría de Agricultura y Desarrollo Rural",
-      "https://www.gob.mx/agricultura",
+      "ministry-11-secretaria-de-agricultura-y-desarrollo-rural.html",
       "AGRICULTURA"
     ],
     [
       "Secretaría de Infraestructura, Comunicaciones y Transportes",
-      "ministry-catalog.html#transportation",
+      "ministry-12-secretaria-de-infraestructura-comunicaciones-y-transportes.html",
       "SICT"
     ],
     [
       "Secretaría Anticorrupción y Buen Gobierno",
-      "https://www.gob.mx/buengobierno",
+      "ministry-13-secretaria-anticorrupcion-y-buen-gobierno.html",
       "BUEN GOBIERNO"
     ],
     [
       "Secretaría de Educación Pública",
-      "ministry-catalog.html#education",
+      "ministry-14-secretaria-de-educacion-publica.html",
       "SEP"
     ],
     [
       "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
-      "https://www.gob.mx/secihti",
+      "ministry-15-secretaria-de-ciencia-humanidades-tecnologia-e-innovacion.html",
       "SECIHTI"
     ],
     [
       "Secretaría de Salud",
-      "https://www.gob.mx/salud",
+      "ministry-16-secretaria-de-salud.html",
       "SALUD"
     ],
     [
       "Secretaría del Trabajo y Previsión Social",
-      "https://www.gob.mx/stps",
+      "ministry-17-secretaria-del-trabajo-y-prevision-social.html",
       "STPS"
     ],
     [
       "Secretaría de Desarrollo Agrario, Territorial y Urbano",
-      "https://www.gob.mx/sedatu",
+      "ministry-18-secretaria-de-desarrollo-agrario-territorial-y-urbano.html",
       "SEDATU"
     ],
     [
       "Secretaría de Cultura",
-      "https://www.gob.mx/cultura",
+      "ministry-19-secretaria-de-cultura.html",
       "CULTURA"
     ],
     [
       "Secretaría de Turismo",
-      "https://www.gob.mx/sectur",
+      "ministry-20-secretaria-de-turismo.html",
       "SECTUR"
     ],
     [
       "Secretaría de las Mujeres",
-      "https://www.gob.mx/mujeres",
+      "ministry-21-secretaria-de-las-mujeres.html",
       "MUJERES"
     ],
     [
       "Agencia de Transformación Digital y Telecomunicaciones",
-      "https://www.gob.mx/atdt",
+      "ministry-22-agencia-de-transformacion-digital-y-telecomunicaciones.html",
       "ATDT"
     ],
     [
       "Presidencia de la República",
-      "https://www.gob.mx/presidencia",
+      "ministry-23-presidencia-de-la-republica.html",
       "PRESIDENCIA"
     ]
   ]

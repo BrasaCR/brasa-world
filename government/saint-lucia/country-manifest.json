@@ -61,58 +61,69 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Finance, Economic Development and Youth Economy",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-economic-development-and-youth-economy.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of External Affairs, International Trade and Civil Aviation",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-external-affairs-international-trade-and-civil-a.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Home Affairs, Crime Prevention and Persons with Disabilities",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-home-affairs-crime-prevention-and-persons-with-d.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Education, Sustainable Development, Innovation, Science, Technology and Vocational Training",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-sustainable-development-innovation-sci.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Health, Wellness and Elderly Affairs",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-wellness-and-elderly-affairs.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Infrastructure, Ports, Transport, Physical Development and Urban Renewal",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-infrastructure-ports-transport-physical-developm.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Agriculture, Fisheries, Food Security and Rural Development",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-agriculture-fisheries-food-security-and-rural-de.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Tourism, Investment, Creative Industries, Culture and Information",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-tourism-investment-creative-industries-culture-a.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Equity, Social Justice and Empowerment",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-equity-social-justice-and-empowerment.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.govt.lc/"
     },
     {
       "name": "Ministry of Public Service, Labour and Gender Affairs",
-      "href": "https://www.govt.lc/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-public-service-labour-and-gender-affairs.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.govt.lc/"
     }
   ],
   "sharedPages": [

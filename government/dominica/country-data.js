@@ -39,62 +39,62 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.dominica.gov.dm/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance, Economic Development, Climate Resilience and Social Security",
-      "https://www.dominica.gov.dm/",
+      "ministry-02-ministry-of-finance-economic-development-climate-resilience-.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs, International Business, Trade and Energy",
-      "https://www.dominica.gov.dm/",
+      "ministry-03-ministry-of-foreign-affairs-international-business-trade-and.html",
       "M3"
     ],
     [
       "Ministry of National Security and Legal Affairs",
-      "https://www.dominica.gov.dm/",
+      "ministry-04-ministry-of-national-security-and-legal-affairs.html",
       "M4"
     ],
     [
       "Ministry of Education, Human Resource Planning, Vocational Training and National Excellence",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education-human-resource-planning-vocational-tra.html",
       "M5"
     ],
     [
       "Ministry of Health, Wellness and Social Services",
-      "https://www.dominica.gov.dm/",
+      "ministry-06-ministry-of-health-wellness-and-social-services.html",
       "M6"
     ],
     [
       "Ministry of Public Works, Public Utilities and Digital Economy",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-public-works-public-utilities-and-digital-econom.html",
       "M7"
     ],
     [
       "Ministry of Agriculture, Fisheries, Blue and Green Economy",
-      "https://www.dominica.gov.dm/",
+      "ministry-08-ministry-of-agriculture-fisheries-blue-and-green-economy.html",
       "M8"
     ],
     [
       "Ministry of Tourism",
-      "https://www.dominica.gov.dm/",
+      "ministry-09-ministry-of-tourism.html",
       "M9"
     ],
     [
       "Ministry of Environment, Rural Modernisation, Kalinago Upliftment and Constituency Empowerment",
-      "https://www.dominica.gov.dm/",
+      "ministry-10-ministry-of-environment-rural-modernisation-kalinago-upliftm.html",
       "M10"
     ],
     [
       "Ministry of Housing and Urban Development",
-      "https://www.dominica.gov.dm/",
+      "ministry-11-ministry-of-housing-and-urban-development.html",
       "M11"
     ],
     [
       "Ministry of Labour, Public Service Reform, Social Partnership, Entrepreneurship and Small Business Development",
-      "https://www.dominica.gov.dm/",
+      "ministry-12-ministry-of-labour-public-service-reform-social-partnership-.html",
       "M12"
     ]
   ]

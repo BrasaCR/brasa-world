@@ -61,93 +61,111 @@
   "ministries": [
     {
       "name": "Ministerio de Salud",
-      "href": "https://www.minsa.gob.pa/",
-      "abbreviation": "MINSA"
+      "href": "ministry-01-ministerio-de-salud.html",
+      "abbreviation": "MINSA",
+      "officialHref": "https://www.minsa.gob.pa/"
     },
     {
       "name": "Ministerio de Ambiente",
-      "href": "https://www.miambiente.gob.pa/",
-      "abbreviation": "MIAMBIENTE"
+      "href": "ministry-02-ministerio-de-ambiente.html",
+      "abbreviation": "MIAMBIENTE",
+      "officialHref": "https://www.miambiente.gob.pa/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MEDUCA"
+      "href": "ministry-03-ministerio-de-educacion.html",
+      "abbreviation": "MEDUCA",
+      "officialHref": "https://www.panamadigital.gob.pa/"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
-      "href": "https://www.mef.gob.pa/",
-      "abbreviation": "MEF"
+      "href": "ministry-04-ministerio-de-economia-y-finanzas.html",
+      "abbreviation": "MEF",
+      "officialHref": "https://www.mef.gob.pa/"
     },
     {
       "name": "Ministerio de Obras Públicas · Transportation",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MOP"
+      "href": "ministry-05-ministerio-de-obras-publicas-transportation.html",
+      "abbreviation": "MOP",
+      "officialHref": "https://www.panamadigital.gob.pa/"
     },
     {
       "name": "Ministerio de Seguridad Pública",
-      "href": "https://www.minseg.gob.pa/",
-      "abbreviation": "MINSEG"
+      "href": "ministry-06-ministerio-de-seguridad-publica.html",
+      "abbreviation": "MINSEG",
+      "officialHref": "https://www.minseg.gob.pa/"
     },
     {
       "name": "Ministerio de Desarrollo Agropecuario",
-      "href": "https://www.mida.gob.pa/",
-      "abbreviation": "MIDA"
+      "href": "ministry-07-ministerio-de-desarrollo-agropecuario.html",
+      "abbreviation": "MIDA",
+      "officialHref": "https://www.mida.gob.pa/"
     },
     {
       "name": "Ministerio de Trabajo y Desarrollo Laboral",
-      "href": "https://www.mitradel.gob.pa/",
-      "abbreviation": "MITRADEL"
+      "href": "ministry-08-ministerio-de-trabajo-y-desarrollo-laboral.html",
+      "abbreviation": "MITRADEL",
+      "officialHref": "https://www.mitradel.gob.pa/"
     },
     {
       "name": "Ministerio de Vivienda y Ordenamiento Territorial",
-      "href": "https://www.miviot.gob.pa/",
-      "abbreviation": "MIVIOT"
+      "href": "ministry-09-ministerio-de-vivienda-y-ordenamiento-territorial.html",
+      "abbreviation": "MIVIOT",
+      "officialHref": "https://www.miviot.gob.pa/"
     },
     {
       "name": "Ministerio de Cultura",
-      "href": "https://www.micultura.gob.pa/",
-      "abbreviation": "MICULTURA"
+      "href": "ministry-10-ministerio-de-cultura.html",
+      "abbreviation": "MICULTURA",
+      "officialHref": "https://www.micultura.gob.pa/"
     },
     {
       "name": "Ministerio de Gobierno",
-      "href": "https://www.mingob.gob.pa/",
-      "abbreviation": "MINGOB"
+      "href": "ministry-11-ministerio-de-gobierno.html",
+      "abbreviation": "MINGOB",
+      "officialHref": "https://www.mingob.gob.pa/"
     },
     {
       "name": "Ministerio de Comercio e Industrias",
-      "href": "https://www.mici.gob.pa/",
-      "abbreviation": "MICI"
+      "href": "ministry-12-ministerio-de-comercio-e-industrias.html",
+      "abbreviation": "MICI",
+      "officialHref": "https://www.mici.gob.pa/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.mire.gob.pa/",
-      "abbreviation": "MIRE"
+      "href": "ministry-13-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "MIRE",
+      "officialHref": "https://www.mire.gob.pa/"
     },
     {
       "name": "Ministerio de Desarrollo Social",
-      "href": "https://www.mides.gob.pa/",
-      "abbreviation": "MIDES"
+      "href": "ministry-14-ministerio-de-desarrollo-social.html",
+      "abbreviation": "MIDES",
+      "officialHref": "https://www.mides.gob.pa/"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://www.presidencia.gob.pa/",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-15-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.presidencia.gob.pa/"
     },
     {
       "name": "Tribunal Electoral",
-      "href": "https://www.tribunal-electoral.gob.pa/",
-      "abbreviation": "TE"
+      "href": "ministry-16-tribunal-electoral.html",
+      "abbreviation": "TE",
+      "officialHref": "https://www.tribunal-electoral.gob.pa/"
     },
     {
       "name": "Caja de Seguro Social",
-      "href": "https://www.css.gob.pa/",
-      "abbreviation": "CSS"
+      "href": "ministry-17-caja-de-seguro-social.html",
+      "abbreviation": "CSS",
+      "officialHref": "https://www.css.gob.pa/"
     },
     {
       "name": "Autoridad del Canal de Panamá",
-      "href": "https://www.pancanal.com/",
-      "abbreviation": "ACP"
+      "href": "ministry-18-autoridad-del-canal-de-panama.html",
+      "abbreviation": "ACP",
+      "officialHref": "https://www.pancanal.com/"
     }
   ],
   "sharedPages": [

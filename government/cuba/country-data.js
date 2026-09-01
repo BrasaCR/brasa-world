@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-01-ministerio-de-educacion.html",
       "MINED"
     ],
     [
       "Ministerio del Transporte",
-      "ministry-catalog.html#transportation",
+      "ministry-02-ministerio-del-transporte.html",
       "MITRANS"
     ],
     [
       "Ministerio de Salud Pública",
-      "https://salud.msp.gob.cu/",
+      "ministry-03-ministerio-de-salud-publica.html",
       "MINSAP"
     ],
     [
       "Ministerio de Finanzas y Precios",
-      "https://www.mfp.gob.cu/",
+      "ministry-04-ministerio-de-finanzas-y-precios.html",
       "MFP"
     ],
     [
       "Ministerio de Economía y Planificación",
-      "https://www.mep.gob.cu/",
+      "ministry-05-ministerio-de-economia-y-planificacion.html",
       "MEP"
     ],
     [
       "Ministerio del Interior",
-      "https://www.minint.gob.cu/",
+      "ministry-06-ministerio-del-interior.html",
       "MININT"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://cubaminrex.cu/",
+      "ministry-07-ministerio-de-relaciones-exteriores.html",
       "MINREX"
     ],
     [
       "Ministerio de Trabajo y Seguridad Social",
-      "https://www.mtss.gob.cu/",
+      "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
       "MTSS"
     ],
     [
       "Ministerio de Agricultura",
-      "https://www.minag.gob.cu/",
+      "ministry-09-ministerio-de-agricultura.html",
       "MINAG"
     ],
     [
       "Ministerio de Ciencia, Tecnología y Medio Ambiente",
-      "https://www.citma.gob.cu/",
+      "ministry-10-ministerio-de-ciencia-tecnologia-y-medio-ambiente.html",
       "CITMA"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://www.minem.gob.cu/",
+      "ministry-11-ministerio-de-energia-y-minas.html",
       "MINEM"
     ],
     [
       "Ministerio de Comunicaciones",
-      "https://www.mincom.gob.cu/",
+      "ministry-12-ministerio-de-comunicaciones.html",
       "MINCOM"
     ],
     [
       "Ministerio de Cultura",
-      "https://www.ministeriodecultura.gob.cu/",
+      "ministry-13-ministerio-de-cultura.html",
       "MINCULT"
     ],
     [
       "Ministerio de Turismo",
-      "https://www.mintur.gob.cu/",
+      "ministry-14-ministerio-de-turismo.html",
       "MINTUR"
     ],
     [
       "Consejo de Ministros",
-      "https://www.cubagob.cu/",
+      "ministry-15-consejo-de-ministros.html",
       "GOBIERNO"
     ]
   ]

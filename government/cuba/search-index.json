@@ -38,91 +38,91 @@
   {
     "label": "Ministerio de Educación",
     "page": "Government of Cuba",
-    "url": "ministry-catalog.html#education",
+    "url": "ministry-01-ministerio-de-educacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio del Transporte",
     "page": "Government of Cuba",
-    "url": "ministry-catalog.html#transportation",
+    "url": "ministry-02-ministerio-del-transporte.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Salud Pública",
     "page": "Government of Cuba",
-    "url": "https://salud.msp.gob.cu/",
+    "url": "ministry-03-ministerio-de-salud-publica.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Finanzas y Precios",
     "page": "Government of Cuba",
-    "url": "https://www.mfp.gob.cu/",
+    "url": "ministry-04-ministerio-de-finanzas-y-precios.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Economía y Planificación",
     "page": "Government of Cuba",
-    "url": "https://www.mep.gob.cu/",
+    "url": "ministry-05-ministerio-de-economia-y-planificacion.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio del Interior",
     "page": "Government of Cuba",
-    "url": "https://www.minint.gob.cu/",
+    "url": "ministry-06-ministerio-del-interior.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Relaciones Exteriores",
     "page": "Government of Cuba",
-    "url": "https://cubaminrex.cu/",
+    "url": "ministry-07-ministerio-de-relaciones-exteriores.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Trabajo y Seguridad Social",
     "page": "Government of Cuba",
-    "url": "https://www.mtss.gob.cu/",
+    "url": "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Agricultura",
     "page": "Government of Cuba",
-    "url": "https://www.minag.gob.cu/",
+    "url": "ministry-09-ministerio-de-agricultura.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Ciencia, Tecnología y Medio Ambiente",
     "page": "Government of Cuba",
-    "url": "https://www.citma.gob.cu/",
+    "url": "ministry-10-ministerio-de-ciencia-tecnologia-y-medio-ambiente.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Energía y Minas",
     "page": "Government of Cuba",
-    "url": "https://www.minem.gob.cu/",
+    "url": "ministry-11-ministerio-de-energia-y-minas.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Comunicaciones",
     "page": "Government of Cuba",
-    "url": "https://www.mincom.gob.cu/",
+    "url": "ministry-12-ministerio-de-comunicaciones.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Cultura",
     "page": "Government of Cuba",
-    "url": "https://www.ministeriodecultura.gob.cu/",
+    "url": "ministry-13-ministerio-de-cultura.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Ministerio de Turismo",
     "page": "Government of Cuba",
-    "url": "https://www.mintur.gob.cu/",
+    "url": "ministry-14-ministerio-de-turismo.html",
     "verified": "2026-08-27"
   },
   {
     "label": "Consejo de Ministros",
     "page": "Government of Cuba",
-    "url": "https://www.cubagob.cu/",
+    "url": "ministry-15-consejo-de-ministros.html",
     "verified": "2026-08-27"
   }
 ]

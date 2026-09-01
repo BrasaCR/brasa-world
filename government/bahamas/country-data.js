@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.bahamas.gov.bs/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance",
-      "https://www.bahamas.gov.bs/",
+      "ministry-02-ministry-of-finance.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs",
-      "https://www.bahamas.gov.bs/",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "M3"
     ],
     [
       "Ministry of National Security",
-      "https://www.bahamas.gov.bs/",
+      "ministry-04-ministry-of-national-security.html",
       "M4"
     ],
     [
       "Ministry of Education and Technical and Vocational Training",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education-and-technical-and-vocational-training.html",
       "M5"
     ],
     [
       "Ministry of Health and Wellness",
-      "https://www.bahamas.gov.bs/",
+      "ministry-06-ministry-of-health-and-wellness.html",
       "M6"
     ],
     [
       "Ministry of Works and Family Island Affairs",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-works-and-family-island-affairs.html",
       "M7"
     ],
     [
       "Ministry of Housing and Urban Renewal",
-      "https://www.bahamas.gov.bs/",
+      "ministry-08-ministry-of-housing-and-urban-renewal.html",
       "M8"
     ],
     [
       "Ministry of Tourism, Investments and Aviation",
-      "https://www.bahamas.gov.bs/",
+      "ministry-09-ministry-of-tourism-investments-and-aviation.html",
       "M9"
     ],
     [
       "Ministry of Economic Affairs",
-      "https://www.bahamas.gov.bs/",
+      "ministry-10-ministry-of-economic-affairs.html",
       "M10"
     ],
     [
       "Ministry of Agriculture and Marine Resources",
-      "https://www.bahamas.gov.bs/",
+      "ministry-11-ministry-of-agriculture-and-marine-resources.html",
       "M11"
     ],
     [
       "Ministry of Social Services, Information and Broadcasting",
-      "https://www.bahamas.gov.bs/",
+      "ministry-12-ministry-of-social-services-information-and-broadcasting.html",
       "M12"
     ],
     [
       "Ministry of Labour and the Public Service",
-      "https://www.bahamas.gov.bs/",
+      "ministry-13-ministry-of-labour-and-the-public-service.html",
       "M13"
     ],
     [
       "Ministry of the Environment and Natural Resources",
-      "https://www.bahamas.gov.bs/",
+      "ministry-14-ministry-of-the-environment-and-natural-resources.html",
       "M14"
     ],
     [
       "Ministry of Transport and Energy",
-      "ministry-catalog.html#transportation",
+      "ministry-15-ministry-of-transport-and-energy.html",
       "M15"
     ]
   ]

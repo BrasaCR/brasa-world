@@ -66,118 +66,141 @@
   "ministries": [
     {
       "name": "Ministerio de la Presidencia",
-      "href": "https://presidencia.gob.do/ministerios",
-      "abbreviation": "MINPRE"
+      "href": "ministry-01-ministerio-de-la-presidencia.html",
+      "abbreviation": "MINPRE",
+      "officialHref": "https://presidencia.gob.do/ministerios"
     },
     {
       "name": "Ministerio Administrativo de la Presidencia",
-      "href": "https://mapre.gob.do/",
-      "abbreviation": "MAPRE"
+      "href": "ministry-02-ministerio-administrativo-de-la-presidencia.html",
+      "abbreviation": "MAPRE",
+      "officialHref": "https://mapre.gob.do/"
     },
     {
       "name": "Ministerio de Obras Públicas y Comunicaciones",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MOPC"
+      "href": "ministry-03-ministerio-de-obras-publicas-y-comunicaciones.html",
+      "abbreviation": "MOPC",
+      "officialHref": "https://presidencia.gob.do/"
     },
     {
       "name": "Ministerio de Hacienda y Economía",
-      "href": "https://www.hacienda.gob.do/",
-      "abbreviation": "MH"
+      "href": "ministry-04-ministerio-de-hacienda-y-economia.html",
+      "abbreviation": "MH",
+      "officialHref": "https://www.hacienda.gob.do/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://mem.gob.do/",
-      "abbreviation": "MEM"
+      "href": "ministry-05-ministerio-de-energia-y-minas.html",
+      "abbreviation": "MEM",
+      "officialHref": "https://mem.gob.do/"
     },
     {
       "name": "Ministerio de Cultura",
-      "href": "https://cultura.gob.do/",
-      "abbreviation": "MINC"
+      "href": "ministry-06-ministerio-de-cultura.html",
+      "abbreviation": "MINC",
+      "officialHref": "https://cultura.gob.do/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://mirex.gob.do/",
-      "abbreviation": "MIREX"
+      "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "MIREX",
+      "officialHref": "https://mirex.gob.do/"
     },
     {
       "name": "Ministerio de Turismo",
-      "href": "https://www.mitur.gob.do/",
-      "abbreviation": "MITUR"
+      "href": "ministry-08-ministerio-de-turismo.html",
+      "abbreviation": "MITUR",
+      "officialHref": "https://www.mitur.gob.do/"
     },
     {
       "name": "Ministerio de Trabajo",
-      "href": "https://mt.gob.do/",
-      "abbreviation": "MT"
+      "href": "ministry-09-ministerio-de-trabajo.html",
+      "abbreviation": "MT",
+      "officialHref": "https://mt.gob.do/"
     },
     {
       "name": "Ministerio de Defensa",
-      "href": "https://mide.gob.do/",
-      "abbreviation": "MIDE"
+      "href": "ministry-10-ministerio-de-defensa.html",
+      "abbreviation": "MIDE",
+      "officialHref": "https://mide.gob.do/"
     },
     {
       "name": "Ministerio de la Mujer",
-      "href": "https://mujer.gob.do/",
-      "abbreviation": "MMUJER"
+      "href": "ministry-11-ministerio-de-la-mujer.html",
+      "abbreviation": "MMUJER",
+      "officialHref": "https://mujer.gob.do/"
     },
     {
       "name": "Ministerio de Vivienda y Edificaciones",
-      "href": "https://mived.gob.do/",
-      "abbreviation": "MIVED"
+      "href": "ministry-12-ministerio-de-vivienda-y-edificaciones.html",
+      "abbreviation": "MIVED",
+      "officialHref": "https://mived.gob.do/"
     },
     {
       "name": "Ministerio de Administración Pública",
-      "href": "https://map.gob.do/",
-      "abbreviation": "MAP"
+      "href": "ministry-13-ministerio-de-administracion-publica.html",
+      "abbreviation": "MAP",
+      "officialHref": "https://map.gob.do/"
     },
     {
       "name": "Ministerio de Medio Ambiente y Recursos Naturales",
-      "href": "https://ambiente.gob.do/",
-      "abbreviation": "MIMARENA"
+      "href": "ministry-14-ministerio-de-medio-ambiente-y-recursos-naturales.html",
+      "abbreviation": "MIMARENA",
+      "officialHref": "https://ambiente.gob.do/"
     },
     {
       "name": "Ministerio de Agricultura",
-      "href": "https://agricultura.gob.do/",
-      "abbreviation": "MA"
+      "href": "ministry-15-ministerio-de-agricultura.html",
+      "abbreviation": "MA",
+      "officialHref": "https://agricultura.gob.do/"
     },
     {
       "name": "Ministerio de Juventud",
-      "href": "https://juventud.gob.do/",
-      "abbreviation": "MJ"
+      "href": "ministry-16-ministerio-de-juventud.html",
+      "abbreviation": "MJ",
+      "officialHref": "https://juventud.gob.do/"
     },
     {
       "name": "Ministerio de Deportes y Recreación",
-      "href": "https://miderec.gob.do/",
-      "abbreviation": "MIDEREC"
+      "href": "ministry-17-ministerio-de-deportes-y-recreacion.html",
+      "abbreviation": "MIDEREC",
+      "officialHref": "https://miderec.gob.do/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINERD"
+      "href": "ministry-18-ministerio-de-educacion.html",
+      "abbreviation": "MINERD",
+      "officialHref": "https://presidencia.gob.do/"
     },
     {
       "name": "Ministerio de Educación Superior, Ciencia y Tecnología",
-      "href": "https://mescyt.gob.do/",
-      "abbreviation": "MESCYT"
+      "href": "ministry-19-ministerio-de-educacion-superior-ciencia-y-tecnologia.html",
+      "abbreviation": "MESCYT",
+      "officialHref": "https://mescyt.gob.do/"
     },
     {
       "name": "Ministerio de Industria, Comercio y Mipymes",
-      "href": "https://micm.gob.do/",
-      "abbreviation": "MICM"
+      "href": "ministry-20-ministerio-de-industria-comercio-y-mipymes.html",
+      "abbreviation": "MICM",
+      "officialHref": "https://micm.gob.do/"
     },
     {
       "name": "Ministerio de Interior y Policía",
-      "href": "https://mip.gob.do/",
-      "abbreviation": "MIP"
+      "href": "ministry-21-ministerio-de-interior-y-policia.html",
+      "abbreviation": "MIP",
+      "officialHref": "https://mip.gob.do/"
     },
     {
       "name": "Ministerio de Salud Pública",
-      "href": "https://www.msp.gob.do/",
-      "abbreviation": "MISPAS"
+      "href": "ministry-22-ministerio-de-salud-publica.html",
+      "abbreviation": "MISPAS",
+      "officialHref": "https://www.msp.gob.do/"
     },
     {
       "name": "Ministerio de Justicia",
-      "href": "https://presidencia.gob.do/ministerios",
-      "abbreviation": "MJUS"
+      "href": "ministry-23-ministerio-de-justicia.html",
+      "abbreviation": "MJUS",
+      "officialHref": "https://presidencia.gob.do/ministerios"
     }
   ],
   "sharedPages": [

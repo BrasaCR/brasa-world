@@ -66,68 +66,81 @@
   "ministries": [
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINED"
+      "href": "ministry-01-ministerio-de-educacion.html",
+      "abbreviation": "MINED",
+      "officialHref": "https://www.presidencia.gob.ni/"
     },
     {
       "name": "Ministerio de Transporte e Infraestructura",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MTI"
+      "href": "ministry-02-ministerio-de-transporte-e-infraestructura.html",
+      "abbreviation": "MTI",
+      "officialHref": "https://www.presidencia.gob.ni/"
     },
     {
       "name": "Ministerio de Salud",
-      "href": "https://www.minsa.gob.ni/",
-      "abbreviation": "MINSA"
+      "href": "ministry-03-ministerio-de-salud.html",
+      "abbreviation": "MINSA",
+      "officialHref": "https://www.minsa.gob.ni/"
     },
     {
       "name": "Ministerio de Hacienda y Crédito Público",
-      "href": "https://www.hacienda.gob.ni/",
-      "abbreviation": "MHCP"
+      "href": "ministry-04-ministerio-de-hacienda-y-credito-publico.html",
+      "abbreviation": "MHCP",
+      "officialHref": "https://www.hacienda.gob.ni/"
     },
     {
       "name": "Ministerio de Fomento, Industria y Comercio",
-      "href": "https://www.mific.gob.ni/",
-      "abbreviation": "MIFIC"
+      "href": "ministry-05-ministerio-de-fomento-industria-y-comercio.html",
+      "abbreviation": "MIFIC",
+      "officialHref": "https://www.mific.gob.ni/"
     },
     {
       "name": "Ministerio de Gobernación",
-      "href": "https://www.migob.gob.ni/",
-      "abbreviation": "MIGOB"
+      "href": "ministry-06-ministerio-de-gobernacion.html",
+      "abbreviation": "MIGOB",
+      "officialHref": "https://www.migob.gob.ni/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.cancilleria.gob.ni/",
-      "abbreviation": "MINREX"
+      "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "MINREX",
+      "officialHref": "https://www.cancilleria.gob.ni/"
     },
     {
       "name": "Ministerio del Trabajo",
-      "href": "https://www.mitrab.gob.ni/",
-      "abbreviation": "MITRAB"
+      "href": "ministry-08-ministerio-del-trabajo.html",
+      "abbreviation": "MITRAB",
+      "officialHref": "https://www.mitrab.gob.ni/"
     },
     {
       "name": "Ministerio Agropecuario",
-      "href": "https://www.mag.gob.ni/",
-      "abbreviation": "MAG"
+      "href": "ministry-09-ministerio-agropecuario.html",
+      "abbreviation": "MAG",
+      "officialHref": "https://www.mag.gob.ni/"
     },
     {
       "name": "Ministerio del Ambiente y los Recursos Naturales",
-      "href": "https://www.marena.gob.ni/",
-      "abbreviation": "MARENA"
+      "href": "ministry-10-ministerio-del-ambiente-y-los-recursos-naturales.html",
+      "abbreviation": "MARENA",
+      "officialHref": "https://www.marena.gob.ni/"
     },
     {
       "name": "Ministerio de Energía y Minas",
-      "href": "https://www.mem.gob.ni/",
-      "abbreviation": "MEM"
+      "href": "ministry-11-ministerio-de-energia-y-minas.html",
+      "abbreviation": "MEM",
+      "officialHref": "https://www.mem.gob.ni/"
     },
     {
       "name": "Ministerio de la Familia, Adolescencia y Niñez",
-      "href": "https://www.mifamilia.gob.ni/",
-      "abbreviation": "MIFAN"
+      "href": "ministry-12-ministerio-de-la-familia-adolescencia-y-ninez.html",
+      "abbreviation": "MIFAN",
+      "officialHref": "https://www.mifamilia.gob.ni/"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://www.presidencia.gob.ni/",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-13-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.presidencia.gob.ni/"
     }
   ],
   "sharedPages": [

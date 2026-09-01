@@ -61,158 +61,189 @@
   "ministries": [
     {
       "name": "Casa Civil da Presidência da República",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M1"
+      "href": "ministry-01-casa-civil-da-presidencia-da-republica.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Agricultura e Pecuária",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-da-agricultura-e-pecuaria.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério das Cidades",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-das-cidades.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Ciência, Tecnologia e Inovação",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-da-ciencia-tecnologia-e-inovacao.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério das Comunicações",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-das-comunicacoes.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Cultura",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-da-cultura.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Defesa",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-da-defesa.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-do-desenvolvimento-agrario-e-agricultura-familiar.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-do-desenvolvimento-e-assistencia-social-familia-e.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-do-desenvolvimento-industria-comercio-e-servicos.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério dos Direitos Humanos e da Cidadania",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerio-dos-direitos-humanos-e-da-cidadania.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Educação",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerio-da-educacao.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Esporte",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerio-do-esporte.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Fazenda",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerio-da-fazenda.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Gestão e da Inovação em Serviços Públicos",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministerio-da-gestao-e-da-inovacao-em-servicos-publicos.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Igualdade Racial",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M16"
+      "href": "ministry-16-ministerio-da-igualdade-racial.html",
+      "abbreviation": "M16",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Integração e do Desenvolvimento Regional",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M17"
+      "href": "ministry-17-ministerio-da-integracao-e-do-desenvolvimento-regional.html",
+      "abbreviation": "M17",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Justiça e Segurança Pública",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M18"
+      "href": "ministry-18-ministerio-da-justica-e-seguranca-publica.html",
+      "abbreviation": "M18",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Meio Ambiente e Mudança do Clima",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M19"
+      "href": "ministry-19-ministerio-do-meio-ambiente-e-mudanca-do-clima.html",
+      "abbreviation": "M19",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério de Minas e Energia",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M20"
+      "href": "ministry-20-ministerio-de-minas-e-energia.html",
+      "abbreviation": "M20",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério das Mulheres",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M21"
+      "href": "ministry-21-ministerio-das-mulheres.html",
+      "abbreviation": "M21",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Pesca e Aquicultura",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M22"
+      "href": "ministry-22-ministerio-da-pesca-e-aquicultura.html",
+      "abbreviation": "M22",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Planejamento e Orçamento",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M23"
+      "href": "ministry-23-ministerio-do-planejamento-e-orcamento.html",
+      "abbreviation": "M23",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério de Portos e Aeroportos",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M24"
+      "href": "ministry-24-ministerio-de-portos-e-aeroportos.html",
+      "abbreviation": "M24",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério dos Povos Indígenas",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M25"
+      "href": "ministry-25-ministerio-dos-povos-indigenas.html",
+      "abbreviation": "M25",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Previdência Social",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M26"
+      "href": "ministry-26-ministerio-da-previdencia-social.html",
+      "abbreviation": "M26",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério das Relações Exteriores",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M27"
+      "href": "ministry-27-ministerio-das-relacoes-exteriores.html",
+      "abbreviation": "M27",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério da Saúde",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M28"
+      "href": "ministry-28-ministerio-da-saude.html",
+      "abbreviation": "M28",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Trabalho e Emprego",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M29"
+      "href": "ministry-29-ministerio-do-trabalho-e-emprego.html",
+      "abbreviation": "M29",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério dos Transportes",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M30"
+      "href": "ministry-30-ministerio-dos-transportes.html",
+      "abbreviation": "M30",
+      "officialHref": "https://www.gov.br/"
     },
     {
       "name": "Ministério do Turismo",
-      "href": "https://www.gov.br/",
-      "abbreviation": "M31"
+      "href": "ministry-31-ministerio-do-turismo.html",
+      "abbreviation": "M31",
+      "officialHref": "https://www.gov.br/"
     }
   ],
   "sharedPages": [

@@ -39,127 +39,127 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio del Interior",
-      "https://www.gob.cl/",
+      "ministry-01-ministerio-del-interior.html",
       "M1"
     ],
     [
       "Ministerio de Seguridad Pública",
-      "https://www.gob.cl/",
+      "ministry-02-ministerio-de-seguridad-publica.html",
       "M2"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.gob.cl/",
+      "ministry-03-ministerio-de-relaciones-exteriores.html",
       "M3"
     ],
     [
       "Ministerio de Defensa Nacional",
-      "https://www.gob.cl/",
+      "ministry-04-ministerio-de-defensa-nacional.html",
       "M4"
     ],
     [
       "Ministerio de Hacienda",
-      "https://www.gob.cl/",
+      "ministry-05-ministerio-de-hacienda.html",
       "M5"
     ],
     [
       "Ministerio Secretaría General de la Presidencia",
-      "https://www.gob.cl/",
+      "ministry-06-ministerio-secretaria-general-de-la-presidencia.html",
       "M6"
     ],
     [
       "Ministerio Secretaría General de Gobierno",
-      "https://www.gob.cl/",
+      "ministry-07-ministerio-secretaria-general-de-gobierno.html",
       "M7"
     ],
     [
       "Ministerio de Economía, Fomento y Turismo",
-      "https://www.gob.cl/",
+      "ministry-08-ministerio-de-economia-fomento-y-turismo.html",
       "M8"
     ],
     [
       "Ministerio de Desarrollo Social y Familia",
-      "https://www.gob.cl/",
+      "ministry-09-ministerio-de-desarrollo-social-y-familia.html",
       "M9"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-10-ministerio-de-educacion.html",
       "M10"
     ],
     [
       "Ministerio de Justicia y Derechos Humanos",
-      "https://www.gob.cl/",
+      "ministry-11-ministerio-de-justicia-y-derechos-humanos.html",
       "M11"
     ],
     [
       "Ministerio del Trabajo y Previsión Social",
-      "https://www.gob.cl/",
+      "ministry-12-ministerio-del-trabajo-y-prevision-social.html",
       "M12"
     ],
     [
       "Ministerio de Obras Públicas",
-      "ministry-catalog.html#transportation",
+      "ministry-13-ministerio-de-obras-publicas.html",
       "M13"
     ],
     [
       "Ministerio de Salud",
-      "https://www.gob.cl/",
+      "ministry-14-ministerio-de-salud.html",
       "M14"
     ],
     [
       "Ministerio de Vivienda y Urbanismo",
-      "https://www.gob.cl/",
+      "ministry-15-ministerio-de-vivienda-y-urbanismo.html",
       "M15"
     ],
     [
       "Ministerio de Agricultura",
-      "https://www.gob.cl/",
+      "ministry-16-ministerio-de-agricultura.html",
       "M16"
     ],
     [
       "Ministerio de Minería",
-      "https://www.gob.cl/",
+      "ministry-17-ministerio-de-mineria.html",
       "M17"
     ],
     [
       "Ministerio de Transportes y Telecomunicaciones",
-      "ministry-catalog.html#transportation",
+      "ministry-18-ministerio-de-transportes-y-telecomunicaciones.html",
       "M18"
     ],
     [
       "Ministerio de Bienes Nacionales",
-      "https://www.gob.cl/",
+      "ministry-19-ministerio-de-bienes-nacionales.html",
       "M19"
     ],
     [
       "Ministerio de Energía",
-      "https://www.gob.cl/",
+      "ministry-20-ministerio-de-energia.html",
       "M20"
     ],
     [
       "Ministerio del Medio Ambiente",
-      "https://www.gob.cl/",
+      "ministry-21-ministerio-del-medio-ambiente.html",
       "M21"
     ],
     [
       "Ministerio del Deporte",
-      "https://www.gob.cl/",
+      "ministry-22-ministerio-del-deporte.html",
       "M22"
     ],
     [
       "Ministerio de la Mujer y la Equidad de Género",
-      "https://www.gob.cl/",
+      "ministry-23-ministerio-de-la-mujer-y-la-equidad-de-genero.html",
       "M23"
     ],
     [
       "Ministerio de las Culturas, las Artes y el Patrimonio",
-      "https://www.gob.cl/",
+      "ministry-24-ministerio-de-las-culturas-las-artes-y-el-patrimonio.html",
       "M24"
     ],
     [
       "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
-      "https://www.gob.cl/",
+      "ministry-25-ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion.html",
       "M25"
     ]
   ]

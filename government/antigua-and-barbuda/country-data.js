@@ -39,47 +39,47 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://ab.gov.ag/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance and Corporate Governance",
-      "https://ab.gov.ag/",
+      "ministry-02-ministry-of-finance-and-corporate-governance.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs, Agriculture, Trade and Barbuda Affairs",
-      "https://ab.gov.ag/",
+      "ministry-03-ministry-of-foreign-affairs-agriculture-trade-and-barbuda-af.html",
       "M3"
     ],
     [
       "Ministry of Legal Affairs, Public Safety, Immigration and Labour",
-      "https://ab.gov.ag/",
+      "ministry-04-ministry-of-legal-affairs-public-safety-immigration-and-labo.html",
       "M4"
     ],
     [
       "Ministry of Education, Sports and Creative Industries",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education-sports-and-creative-industries.html",
       "M5"
     ],
     [
       "Ministry of Health, Wellness, Social Transformation and the Environment",
-      "https://ab.gov.ag/",
+      "ministry-06-ministry-of-health-wellness-social-transformation-and-the-en.html",
       "M6"
     ],
     [
       "Ministry of Works",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-works.html",
       "M7"
     ],
     [
       "Ministry of Tourism, Civil Aviation, Transportation and Investment",
-      "ministry-catalog.html#transportation",
+      "ministry-08-ministry-of-tourism-civil-aviation-transportation-and-invest.html",
       "M8"
     ],
     [
       "Ministry of Housing, Lands and Urban Renewal",
-      "https://ab.gov.ag/",
+      "ministry-09-ministry-of-housing-lands-and-urban-renewal.html",
       "M9"
     ]
   ]

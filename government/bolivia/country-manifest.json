@@ -61,78 +61,93 @@
   "ministries": [
     {
       "name": "Ministerio de la Presidencia",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M1"
+      "href": "ministry-01-ministerio-de-la-presidencia.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Gobierno",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-de-gobierno.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Defensa",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-de-defensa.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Planificación del Desarrollo y Medio Ambiente",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-de-planificacion-del-desarrollo-y-medio-ambiente.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Economía y Finanzas Públicas",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-de-economia-y-finanzas-publicas.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Hidrocarburos y Energías",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-de-hidrocarburos-y-energias.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Desarrollo Productivo, Rural y Agua",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-de-desarrollo-productivo-rural-y-agua.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Obras Públicas, Servicios y Vivienda",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-de-obras-publicas-servicios-y-vivienda.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Minería y Metalurgia",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-de-mineria-y-metalurgia.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Justicia y Transparencia Institucional",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerio-de-justicia-y-transparencia-institucional.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Trabajo, Empleo y Previsión Social",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerio-de-trabajo-empleo-y-prevision-social.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Salud y Deportes",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerio-de-salud-y-deportes.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerio-de-educacion.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gob.bo/"
     },
     {
       "name": "Ministerio de Turismo Sostenible, Culturas, Folklore y Gastronomía",
-      "href": "https://www.gob.bo/",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministerio-de-turismo-sostenible-culturas-folklore-y-gastron.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.gob.bo/"
     }
   ],
   "sharedPages": [

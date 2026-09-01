@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio de la Presidencia",
-      "https://www.gob.bo/",
+      "ministry-01-ministerio-de-la-presidencia.html",
       "M1"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.gob.bo/",
+      "ministry-02-ministerio-de-relaciones-exteriores.html",
       "M2"
     ],
     [
       "Ministerio de Gobierno",
-      "https://www.gob.bo/",
+      "ministry-03-ministerio-de-gobierno.html",
       "M3"
     ],
     [
       "Ministerio de Defensa",
-      "https://www.gob.bo/",
+      "ministry-04-ministerio-de-defensa.html",
       "M4"
     ],
     [
       "Ministerio de Planificación del Desarrollo y Medio Ambiente",
-      "https://www.gob.bo/",
+      "ministry-05-ministerio-de-planificacion-del-desarrollo-y-medio-ambiente.html",
       "M5"
     ],
     [
       "Ministerio de Economía y Finanzas Públicas",
-      "https://www.gob.bo/",
+      "ministry-06-ministerio-de-economia-y-finanzas-publicas.html",
       "M6"
     ],
     [
       "Ministerio de Hidrocarburos y Energías",
-      "https://www.gob.bo/",
+      "ministry-07-ministerio-de-hidrocarburos-y-energias.html",
       "M7"
     ],
     [
       "Ministerio de Desarrollo Productivo, Rural y Agua",
-      "https://www.gob.bo/",
+      "ministry-08-ministerio-de-desarrollo-productivo-rural-y-agua.html",
       "M8"
     ],
     [
       "Ministerio de Obras Públicas, Servicios y Vivienda",
-      "ministry-catalog.html#transportation",
+      "ministry-09-ministerio-de-obras-publicas-servicios-y-vivienda.html",
       "M9"
     ],
     [
       "Ministerio de Minería y Metalurgia",
-      "https://www.gob.bo/",
+      "ministry-10-ministerio-de-mineria-y-metalurgia.html",
       "M10"
     ],
     [
       "Ministerio de Justicia y Transparencia Institucional",
-      "https://www.gob.bo/",
+      "ministry-11-ministerio-de-justicia-y-transparencia-institucional.html",
       "M11"
     ],
     [
       "Ministerio de Trabajo, Empleo y Previsión Social",
-      "https://www.gob.bo/",
+      "ministry-12-ministerio-de-trabajo-empleo-y-prevision-social.html",
       "M12"
     ],
     [
       "Ministerio de Salud y Deportes",
-      "https://www.gob.bo/",
+      "ministry-13-ministerio-de-salud-y-deportes.html",
       "M13"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-14-ministerio-de-educacion.html",
       "M14"
     ],
     [
       "Ministerio de Turismo Sostenible, Culturas, Folklore y Gastronomía",
-      "https://www.gob.bo/",
+      "ministry-15-ministerio-de-turismo-sostenible-culturas-folklore-y-gastron.html",
       "M15"
     ]
   ]

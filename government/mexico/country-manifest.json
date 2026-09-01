@@ -66,118 +66,141 @@
   "ministries": [
     {
       "name": "Secretaría de Gobernación",
-      "href": "https://www.gob.mx/segob",
-      "abbreviation": "SEGOB"
+      "href": "ministry-01-secretaria-de-gobernacion.html",
+      "abbreviation": "SEGOB",
+      "officialHref": "https://www.gob.mx/segob"
     },
     {
       "name": "Secretaría de Relaciones Exteriores",
-      "href": "https://www.gob.mx/sre",
-      "abbreviation": "SRE"
+      "href": "ministry-02-secretaria-de-relaciones-exteriores.html",
+      "abbreviation": "SRE",
+      "officialHref": "https://www.gob.mx/sre"
     },
     {
       "name": "Secretaría de la Defensa Nacional",
-      "href": "https://www.gob.mx/defensa",
-      "abbreviation": "DEFENSA"
+      "href": "ministry-03-secretaria-de-la-defensa-nacional.html",
+      "abbreviation": "DEFENSA",
+      "officialHref": "https://www.gob.mx/defensa"
     },
     {
       "name": "Secretaría de Marina",
-      "href": "https://www.gob.mx/semar",
-      "abbreviation": "SEMAR"
+      "href": "ministry-04-secretaria-de-marina.html",
+      "abbreviation": "SEMAR",
+      "officialHref": "https://www.gob.mx/semar"
     },
     {
       "name": "Secretaría de Seguridad y Protección Ciudadana",
-      "href": "https://www.gob.mx/sspc",
-      "abbreviation": "SSPC"
+      "href": "ministry-05-secretaria-de-seguridad-y-proteccion-ciudadana.html",
+      "abbreviation": "SSPC",
+      "officialHref": "https://www.gob.mx/sspc"
     },
     {
       "name": "Secretaría de Hacienda y Crédito Público",
-      "href": "https://www.gob.mx/shcp",
-      "abbreviation": "SHCP"
+      "href": "ministry-06-secretaria-de-hacienda-y-credito-publico.html",
+      "abbreviation": "SHCP",
+      "officialHref": "https://www.gob.mx/shcp"
     },
     {
       "name": "Secretaría de Bienestar",
-      "href": "https://www.gob.mx/bienestar",
-      "abbreviation": "BIENESTAR"
+      "href": "ministry-07-secretaria-de-bienestar.html",
+      "abbreviation": "BIENESTAR",
+      "officialHref": "https://www.gob.mx/bienestar"
     },
     {
       "name": "Secretaría de Medio Ambiente y Recursos Naturales",
-      "href": "https://www.gob.mx/semarnat",
-      "abbreviation": "SEMARNAT"
+      "href": "ministry-08-secretaria-de-medio-ambiente-y-recursos-naturales.html",
+      "abbreviation": "SEMARNAT",
+      "officialHref": "https://www.gob.mx/semarnat"
     },
     {
       "name": "Secretaría de Energía",
-      "href": "https://www.gob.mx/sener",
-      "abbreviation": "SENER"
+      "href": "ministry-09-secretaria-de-energia.html",
+      "abbreviation": "SENER",
+      "officialHref": "https://www.gob.mx/sener"
     },
     {
       "name": "Secretaría de Economía",
-      "href": "https://www.gob.mx/se",
-      "abbreviation": "SE"
+      "href": "ministry-10-secretaria-de-economia.html",
+      "abbreviation": "SE",
+      "officialHref": "https://www.gob.mx/se"
     },
     {
       "name": "Secretaría de Agricultura y Desarrollo Rural",
-      "href": "https://www.gob.mx/agricultura",
-      "abbreviation": "AGRICULTURA"
+      "href": "ministry-11-secretaria-de-agricultura-y-desarrollo-rural.html",
+      "abbreviation": "AGRICULTURA",
+      "officialHref": "https://www.gob.mx/agricultura"
     },
     {
       "name": "Secretaría de Infraestructura, Comunicaciones y Transportes",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "SICT"
+      "href": "ministry-12-secretaria-de-infraestructura-comunicaciones-y-transportes.html",
+      "abbreviation": "SICT",
+      "officialHref": "https://www.gob.mx/"
     },
     {
       "name": "Secretaría Anticorrupción y Buen Gobierno",
-      "href": "https://www.gob.mx/buengobierno",
-      "abbreviation": "BUEN GOBIERNO"
+      "href": "ministry-13-secretaria-anticorrupcion-y-buen-gobierno.html",
+      "abbreviation": "BUEN GOBIERNO",
+      "officialHref": "https://www.gob.mx/buengobierno"
     },
     {
       "name": "Secretaría de Educación Pública",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "SEP"
+      "href": "ministry-14-secretaria-de-educacion-publica.html",
+      "abbreviation": "SEP",
+      "officialHref": "https://www.gob.mx/"
     },
     {
       "name": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
-      "href": "https://www.gob.mx/secihti",
-      "abbreviation": "SECIHTI"
+      "href": "ministry-15-secretaria-de-ciencia-humanidades-tecnologia-e-innovacion.html",
+      "abbreviation": "SECIHTI",
+      "officialHref": "https://www.gob.mx/secihti"
     },
     {
       "name": "Secretaría de Salud",
-      "href": "https://www.gob.mx/salud",
-      "abbreviation": "SALUD"
+      "href": "ministry-16-secretaria-de-salud.html",
+      "abbreviation": "SALUD",
+      "officialHref": "https://www.gob.mx/salud"
     },
     {
       "name": "Secretaría del Trabajo y Previsión Social",
-      "href": "https://www.gob.mx/stps",
-      "abbreviation": "STPS"
+      "href": "ministry-17-secretaria-del-trabajo-y-prevision-social.html",
+      "abbreviation": "STPS",
+      "officialHref": "https://www.gob.mx/stps"
     },
     {
       "name": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
-      "href": "https://www.gob.mx/sedatu",
-      "abbreviation": "SEDATU"
+      "href": "ministry-18-secretaria-de-desarrollo-agrario-territorial-y-urbano.html",
+      "abbreviation": "SEDATU",
+      "officialHref": "https://www.gob.mx/sedatu"
     },
     {
       "name": "Secretaría de Cultura",
-      "href": "https://www.gob.mx/cultura",
-      "abbreviation": "CULTURA"
+      "href": "ministry-19-secretaria-de-cultura.html",
+      "abbreviation": "CULTURA",
+      "officialHref": "https://www.gob.mx/cultura"
     },
     {
       "name": "Secretaría de Turismo",
-      "href": "https://www.gob.mx/sectur",
-      "abbreviation": "SECTUR"
+      "href": "ministry-20-secretaria-de-turismo.html",
+      "abbreviation": "SECTUR",
+      "officialHref": "https://www.gob.mx/sectur"
     },
     {
       "name": "Secretaría de las Mujeres",
-      "href": "https://www.gob.mx/mujeres",
-      "abbreviation": "MUJERES"
+      "href": "ministry-21-secretaria-de-las-mujeres.html",
+      "abbreviation": "MUJERES",
+      "officialHref": "https://www.gob.mx/mujeres"
     },
     {
       "name": "Agencia de Transformación Digital y Telecomunicaciones",
-      "href": "https://www.gob.mx/atdt",
-      "abbreviation": "ATDT"
+      "href": "ministry-22-agencia-de-transformacion-digital-y-telecomunicaciones.html",
+      "abbreviation": "ATDT",
+      "officialHref": "https://www.gob.mx/atdt"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://www.gob.mx/presidencia",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-23-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.gob.mx/presidencia"
     }
   ],
   "sharedPages": [

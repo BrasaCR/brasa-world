@@ -67,83 +67,99 @@
   "ministries": [
     {
       "name": "Ministerio de Educación, Ciencia y Tecnología",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "MINEDUCYT"
+      "href": "ministry-01-ministerio-de-educacion-ciencia-y-tecnologia.html",
+      "abbreviation": "MINEDUCYT",
+      "officialHref": "https://www.presidencia.gob.sv/"
     },
     {
       "name": "Ministerio de Obras Públicas y de Transporte",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "MOPT"
+      "href": "ministry-02-ministerio-de-obras-publicas-y-de-transporte.html",
+      "abbreviation": "MOPT",
+      "officialHref": "https://www.presidencia.gob.sv/"
     },
     {
       "name": "Ministerio de Salud",
-      "href": "https://www.salud.gob.sv/",
-      "abbreviation": "MINSAL"
+      "href": "ministry-03-ministerio-de-salud.html",
+      "abbreviation": "MINSAL",
+      "officialHref": "https://www.salud.gob.sv/"
     },
     {
       "name": "Ministerio de Hacienda",
-      "href": "https://www.mh.gob.sv/",
-      "abbreviation": "MH"
+      "href": "ministry-04-ministerio-de-hacienda.html",
+      "abbreviation": "MH",
+      "officialHref": "https://www.mh.gob.sv/"
     },
     {
       "name": "Ministerio de Economía",
-      "href": "https://www.economia.gob.sv/",
-      "abbreviation": "MINEC"
+      "href": "ministry-05-ministerio-de-economia.html",
+      "abbreviation": "MINEC",
+      "officialHref": "https://www.economia.gob.sv/"
     },
     {
       "name": "Ministerio de Gobernación y Desarrollo Territorial",
-      "href": "https://www.gobernacion.gob.sv/",
-      "abbreviation": "MIGOBDT"
+      "href": "ministry-06-ministerio-de-gobernacion-y-desarrollo-territorial.html",
+      "abbreviation": "MIGOBDT",
+      "officialHref": "https://www.gobernacion.gob.sv/"
     },
     {
       "name": "Ministerio de Justicia y Seguridad Pública",
-      "href": "https://www.seguridad.gob.sv/",
-      "abbreviation": "MJSP"
+      "href": "ministry-07-ministerio-de-justicia-y-seguridad-publica.html",
+      "abbreviation": "MJSP",
+      "officialHref": "https://www.seguridad.gob.sv/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://rree.gob.sv/",
-      "abbreviation": "RREE"
+      "href": "ministry-08-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "RREE",
+      "officialHref": "https://rree.gob.sv/"
     },
     {
       "name": "Ministerio de Trabajo y Previsión Social",
-      "href": "https://www.mtps.gob.sv/",
-      "abbreviation": "MTPS"
+      "href": "ministry-09-ministerio-de-trabajo-y-prevision-social.html",
+      "abbreviation": "MTPS",
+      "officialHref": "https://www.mtps.gob.sv/"
     },
     {
       "name": "Ministerio de Agricultura y Ganadería",
-      "href": "https://www.mag.gob.sv/",
-      "abbreviation": "MAG"
+      "href": "ministry-10-ministerio-de-agricultura-y-ganaderia.html",
+      "abbreviation": "MAG",
+      "officialHref": "https://www.mag.gob.sv/"
     },
     {
       "name": "Ministerio de Medio Ambiente y Recursos Naturales",
-      "href": "https://www.ambiente.gob.sv/",
-      "abbreviation": "MARN"
+      "href": "ministry-11-ministerio-de-medio-ambiente-y-recursos-naturales.html",
+      "abbreviation": "MARN",
+      "officialHref": "https://www.ambiente.gob.sv/"
     },
     {
       "name": "Ministerio de Cultura",
-      "href": "https://www.cultura.gob.sv/",
-      "abbreviation": "MICULTURA"
+      "href": "ministry-12-ministerio-de-cultura.html",
+      "abbreviation": "MICULTURA",
+      "officialHref": "https://www.cultura.gob.sv/"
     },
     {
       "name": "Ministerio de Turismo",
-      "href": "https://www.mitur.gob.sv/",
-      "abbreviation": "MITUR"
+      "href": "ministry-13-ministerio-de-turismo.html",
+      "abbreviation": "MITUR",
+      "officialHref": "https://www.mitur.gob.sv/"
     },
     {
       "name": "Ministerio de Vivienda",
-      "href": "https://www.vivienda.gob.sv/",
-      "abbreviation": "VIVIENDA"
+      "href": "ministry-14-ministerio-de-vivienda.html",
+      "abbreviation": "VIVIENDA",
+      "officialHref": "https://www.vivienda.gob.sv/"
     },
     {
       "name": "Ministerio de Defensa Nacional",
-      "href": "https://www.fuerzaarmada.mil.sv/",
-      "abbreviation": "MDN"
+      "href": "ministry-15-ministerio-de-defensa-nacional.html",
+      "abbreviation": "MDN",
+      "officialHref": "https://www.fuerzaarmada.mil.sv/"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://www.presidencia.gob.sv/",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-16-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.presidencia.gob.sv/"
     }
   ],
   "sharedPages": [

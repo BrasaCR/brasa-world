@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Department of State",
-      "https://www.usa.gov/",
+      "ministry-01-department-of-state.html",
       "M1"
     ],
     [
       "Department of the Treasury",
-      "https://www.usa.gov/",
+      "ministry-02-department-of-the-treasury.html",
       "M2"
     ],
     [
       "Department of Defense",
-      "https://www.usa.gov/",
+      "ministry-03-department-of-defense.html",
       "M3"
     ],
     [
       "Department of Justice",
-      "https://www.usa.gov/",
+      "ministry-04-department-of-justice.html",
       "M4"
     ],
     [
       "Department of the Interior",
-      "https://www.usa.gov/",
+      "ministry-05-department-of-the-interior.html",
       "M5"
     ],
     [
       "Department of Agriculture",
-      "https://www.usa.gov/",
+      "ministry-06-department-of-agriculture.html",
       "M6"
     ],
     [
       "Department of Commerce",
-      "https://www.usa.gov/",
+      "ministry-07-department-of-commerce.html",
       "M7"
     ],
     [
       "Department of Labor",
-      "https://www.usa.gov/",
+      "ministry-08-department-of-labor.html",
       "M8"
     ],
     [
       "Department of Health and Human Services",
-      "https://www.usa.gov/",
+      "ministry-09-department-of-health-and-human-services.html",
       "M9"
     ],
     [
       "Department of Housing and Urban Development",
-      "https://www.usa.gov/",
+      "ministry-10-department-of-housing-and-urban-development.html",
       "M10"
     ],
     [
       "Department of Transportation",
-      "ministry-catalog.html#transportation",
+      "ministry-11-department-of-transportation.html",
       "M11"
     ],
     [
       "Department of Energy",
-      "https://www.usa.gov/",
+      "ministry-12-department-of-energy.html",
       "M12"
     ],
     [
       "Department of Education",
-      "ministry-catalog.html#education",
+      "ministry-13-department-of-education.html",
       "M13"
     ],
     [
       "Department of Veterans Affairs",
-      "https://www.usa.gov/",
+      "ministry-14-department-of-veterans-affairs.html",
       "M14"
     ],
     [
       "Department of Homeland Security",
-      "https://www.usa.gov/",
+      "ministry-15-department-of-homeland-security.html",
       "M15"
     ]
   ]

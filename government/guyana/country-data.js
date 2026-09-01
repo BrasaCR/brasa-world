@@ -39,97 +39,97 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the President",
-      "https://dpi.gov.gy/",
+      "ministry-01-office-of-the-president.html",
       "M1"
     ],
     [
       "Office of the Prime Minister",
-      "https://dpi.gov.gy/",
+      "ministry-02-office-of-the-prime-minister.html",
       "M2"
     ],
     [
       "Ministry of Agriculture",
-      "https://dpi.gov.gy/",
+      "ministry-03-ministry-of-agriculture.html",
       "M3"
     ],
     [
       "Ministry of Amerindian Affairs",
-      "https://dpi.gov.gy/",
+      "ministry-04-ministry-of-amerindian-affairs.html",
       "M4"
     ],
     [
       "Ministry of Culture, Youth and Sport",
-      "https://dpi.gov.gy/",
+      "ministry-05-ministry-of-culture-youth-and-sport.html",
       "M5"
     ],
     [
       "Ministry of Education",
-      "ministry-catalog.html#education",
+      "ministry-06-ministry-of-education.html",
       "M6"
     ],
     [
       "Ministry of Finance",
-      "https://dpi.gov.gy/",
+      "ministry-07-ministry-of-finance.html",
       "M7"
     ],
     [
       "Ministry of Foreign Affairs and International Cooperation",
-      "https://dpi.gov.gy/",
+      "ministry-08-ministry-of-foreign-affairs-and-international-cooperation.html",
       "M8"
     ],
     [
       "Ministry of Health",
-      "https://dpi.gov.gy/",
+      "ministry-09-ministry-of-health.html",
       "M9"
     ],
     [
       "Ministry of Home Affairs",
-      "https://dpi.gov.gy/",
+      "ministry-10-ministry-of-home-affairs.html",
       "M10"
     ],
     [
       "Ministry of Housing and Water",
-      "https://dpi.gov.gy/",
+      "ministry-11-ministry-of-housing-and-water.html",
       "M11"
     ],
     [
       "Ministry of Human Services and Social Security",
-      "https://dpi.gov.gy/",
+      "ministry-12-ministry-of-human-services-and-social-security.html",
       "M12"
     ],
     [
       "Ministry of Labour",
-      "https://dpi.gov.gy/",
+      "ministry-13-ministry-of-labour.html",
       "M13"
     ],
     [
       "Ministry of Legal Affairs",
-      "https://dpi.gov.gy/",
+      "ministry-14-ministry-of-legal-affairs.html",
       "M14"
     ],
     [
       "Ministry of Local Government and Regional Development",
-      "https://dpi.gov.gy/",
+      "ministry-15-ministry-of-local-government-and-regional-development.html",
       "M15"
     ],
     [
       "Ministry of Natural Resources",
-      "https://dpi.gov.gy/",
+      "ministry-16-ministry-of-natural-resources.html",
       "M16"
     ],
     [
       "Ministry of Public Service",
-      "https://dpi.gov.gy/",
+      "ministry-17-ministry-of-public-service.html",
       "M17"
     ],
     [
       "Ministry of Public Works",
-      "https://dpi.gov.gy/",
+      "ministry-18-ministry-of-public-works.html",
       "M18"
     ],
     [
       "Ministry of Tourism, Industry and Commerce",
-      "https://dpi.gov.gy/",
+      "ministry-19-ministry-of-tourism-industry-and-commerce.html",
       "M19"
     ]
   ]

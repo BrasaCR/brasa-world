@@ -39,117 +39,117 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministerio del Poder Popular del Despacho de la Presidencia y Seguimiento de la Gestión de Gobierno",
-      "https://presidencia.gob.ve/",
+      "ministry-01-ministerio-del-poder-popular-del-despacho-de-la-presidencia-.html",
       "MPPDP"
     ],
     [
       "Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz",
-      "https://www.mpprijp.gob.ve/",
+      "ministry-02-ministerio-del-poder-popular-para-relaciones-interiores-just.html",
       "MPPRIJP"
     ],
     [
       "Ministerio del Poder Popular para Relaciones Exteriores",
-      "https://mppre.gob.ve/",
+      "ministry-03-ministerio-del-poder-popular-para-relaciones-exteriores.html",
       "MPPRE"
     ],
     [
       "Ministerio del Poder Popular de Economía, Finanzas y Comercio Exterior",
-      "https://www.mppef.gob.ve/",
+      "ministry-04-ministerio-del-poder-popular-de-economia-finanzas-y-comercio.html",
       "MPPEF"
     ],
     [
       "Ministerio del Poder Popular para la Defensa",
-      "https://www.mindefensa.gob.ve/",
+      "ministry-05-ministerio-del-poder-popular-para-la-defensa.html",
       "MPPD"
     ],
     [
       "Ministerio del Poder Popular para la Educación",
-      "ministry-catalog.html#education",
+      "ministry-06-ministerio-del-poder-popular-para-la-educacion.html",
       "MPPE"
     ],
     [
       "Ministerio del Poder Popular para la Educación Universitaria",
-      "https://www.mppeu.gob.ve/",
+      "ministry-07-ministerio-del-poder-popular-para-la-educacion-universitaria.html",
       "MPPEU"
     ],
     [
       "Ministerio del Poder Popular para la Salud",
-      "https://mpps.gob.ve/",
+      "ministry-08-ministerio-del-poder-popular-para-la-salud.html",
       "MPPS"
     ],
     [
       "Ministerio del Poder Popular para el Proceso Social de Trabajo",
-      "https://www.mpppst.gob.ve/",
+      "ministry-09-ministerio-del-poder-popular-para-el-proceso-social-de-traba.html",
       "MPPPST"
     ],
     [
       "Ministerio del Poder Popular para el Transporte",
-      "ministry-catalog.html#transportation",
+      "ministry-10-ministerio-del-poder-popular-para-el-transporte.html",
       "MPPT"
     ],
     [
       "Ministerio del Poder Popular de Obras Públicas",
-      "https://www.mppop.gob.ve/",
+      "ministry-11-ministerio-del-poder-popular-de-obras-publicas.html",
       "MPPOP"
     ],
     [
       "Ministerio del Poder Popular para Hábitat y Vivienda",
-      "https://www.minhvi.gob.ve/",
+      "ministry-12-ministerio-del-poder-popular-para-habitat-y-vivienda.html",
       "MINHVI"
     ],
     [
       "Ministerio del Poder Popular para la Agricultura Productiva y Tierras",
-      "https://www.agriculturaproductiva.gob.ve/",
+      "ministry-13-ministerio-del-poder-popular-para-la-agricultura-productiva-.html",
       "MPPAPT"
     ],
     [
       "Ministerio del Poder Popular de Petróleo",
-      "https://www.minpet.gob.ve/",
+      "ministry-14-ministerio-del-poder-popular-de-petroleo.html",
       "MINPET"
     ],
     [
       "Ministerio del Poder Popular para la Energía Eléctrica",
-      "https://www.mppee.gob.ve/",
+      "ministry-15-ministerio-del-poder-popular-para-la-energia-electrica.html",
       "MPPEE"
     ],
     [
       "Ministerio del Poder Popular para la Atención de las Aguas",
-      "https://www.minaguas.gob.ve/",
+      "ministry-16-ministerio-del-poder-popular-para-la-atencion-de-las-aguas.html",
       "MINAGUAS"
     ],
     [
       "Ministerio del Poder Popular para el Ecosocialismo",
-      "https://www.minec.gob.ve/",
+      "ministry-17-ministerio-del-poder-popular-para-el-ecosocialismo.html",
       "MINEC"
     ],
     [
       "Ministerio del Poder Popular para Ciencia y Tecnología",
-      "https://www.mincyt.gob.ve/",
+      "ministry-18-ministerio-del-poder-popular-para-ciencia-y-tecnologia.html",
       "MINCYT"
     ],
     [
       "Ministerio del Poder Popular para la Comunicación e Información",
-      "https://www.minci.gob.ve/",
+      "ministry-19-ministerio-del-poder-popular-para-la-comunicacion-e-informac.html",
       "MINCI"
     ],
     [
       "Ministerio del Poder Popular para la Cultura",
-      "https://www.mincultura.gob.ve/",
+      "ministry-20-ministerio-del-poder-popular-para-la-cultura.html",
       "MINCULTURA"
     ],
     [
       "Ministerio del Poder Popular para el Turismo",
-      "https://www.mintur.gob.ve/",
+      "ministry-21-ministerio-del-poder-popular-para-el-turismo.html",
       "MINTUR"
     ],
     [
       "Ministerio del Poder Popular para la Alimentación",
-      "https://www.minpal.gob.ve/",
+      "ministry-22-ministerio-del-poder-popular-para-la-alimentacion.html",
       "MINPAL"
     ],
     [
       "Ministerio del Poder Popular para las Comunas y los Movimientos Sociales",
-      "https://www.mpcomunas.gob.ve/",
+      "ministry-23-ministerio-del-poder-popular-para-las-comunas-y-los-movimien.html",
       "MPCOMS"
     ]
   ]

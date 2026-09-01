@@ -65,73 +65,87 @@
   "ministries": [
     {
       "name": "Secretaría de Educación",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "SEDUC"
+      "href": "ministry-01-secretaria-de-educacion.html",
+      "abbreviation": "SEDUC",
+      "officialHref": "https://www.presidencia.gob.hn/"
     },
     {
       "name": "Secretaría de Infraestructura y Transporte",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "SIT"
+      "href": "ministry-02-secretaria-de-infraestructura-y-transporte.html",
+      "abbreviation": "SIT",
+      "officialHref": "https://www.presidencia.gob.hn/"
     },
     {
       "name": "Secretaría de Salud",
-      "href": "https://www.salud.gob.hn/",
-      "abbreviation": "SESAL"
+      "href": "ministry-03-secretaria-de-salud.html",
+      "abbreviation": "SESAL",
+      "officialHref": "https://www.salud.gob.hn/"
     },
     {
       "name": "Secretaría de Finanzas",
-      "href": "https://www.sefin.gob.hn/",
-      "abbreviation": "SEFIN"
+      "href": "ministry-04-secretaria-de-finanzas.html",
+      "abbreviation": "SEFIN",
+      "officialHref": "https://www.sefin.gob.hn/"
     },
     {
       "name": "Secretaría de Desarrollo Económico",
-      "href": "https://sde.gob.hn/",
-      "abbreviation": "SDE"
+      "href": "ministry-05-secretaria-de-desarrollo-economico.html",
+      "abbreviation": "SDE",
+      "officialHref": "https://sde.gob.hn/"
     },
     {
       "name": "Secretaría de Gobernación, Justicia y Descentralización",
-      "href": "https://www.sgjd.gob.hn/",
-      "abbreviation": "SGJD"
+      "href": "ministry-06-secretaria-de-gobernacion-justicia-y-descentralizacion.html",
+      "abbreviation": "SGJD",
+      "officialHref": "https://www.sgjd.gob.hn/"
     },
     {
       "name": "Secretaría de Seguridad",
-      "href": "https://www.policianacional.gob.hn/",
-      "abbreviation": "SEDS"
+      "href": "ministry-07-secretaria-de-seguridad.html",
+      "abbreviation": "SEDS",
+      "officialHref": "https://www.policianacional.gob.hn/"
     },
     {
       "name": "Secretaría de Relaciones Exteriores",
-      "href": "https://sreci.gob.hn/",
-      "abbreviation": "SRECI"
+      "href": "ministry-08-secretaria-de-relaciones-exteriores.html",
+      "abbreviation": "SRECI",
+      "officialHref": "https://sreci.gob.hn/"
     },
     {
       "name": "Secretaría de Trabajo y Seguridad Social",
-      "href": "https://www.trabajo.gob.hn/",
-      "abbreviation": "SETRASS"
+      "href": "ministry-09-secretaria-de-trabajo-y-seguridad-social.html",
+      "abbreviation": "SETRASS",
+      "officialHref": "https://www.trabajo.gob.hn/"
     },
     {
       "name": "Secretaría de Agricultura y Ganadería",
-      "href": "https://sag.gob.hn/",
-      "abbreviation": "SAG"
+      "href": "ministry-10-secretaria-de-agricultura-y-ganaderia.html",
+      "abbreviation": "SAG",
+      "officialHref": "https://sag.gob.hn/"
     },
     {
       "name": "Secretaría de Recursos Naturales y Ambiente",
-      "href": "https://serna.gob.hn/",
-      "abbreviation": "SERNA"
+      "href": "ministry-11-secretaria-de-recursos-naturales-y-ambiente.html",
+      "abbreviation": "SERNA",
+      "officialHref": "https://serna.gob.hn/"
     },
     {
       "name": "Secretaría de Turismo",
-      "href": "https://iht.hn/",
-      "abbreviation": "IHT"
+      "href": "ministry-12-secretaria-de-turismo.html",
+      "abbreviation": "IHT",
+      "officialHref": "https://iht.hn/"
     },
     {
       "name": "Secretaría de Defensa Nacional",
-      "href": "https://sedena.gob.hn/",
-      "abbreviation": "SEDENA"
+      "href": "ministry-13-secretaria-de-defensa-nacional.html",
+      "abbreviation": "SEDENA",
+      "officialHref": "https://sedena.gob.hn/"
     },
     {
       "name": "Presidencia de la República",
-      "href": "https://www.presidencia.gob.hn/",
-      "abbreviation": "PRESIDENCIA"
+      "href": "ministry-14-presidencia-de-la-republica.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.presidencia.gob.hn/"
     }
   ],
   "sharedPages": [

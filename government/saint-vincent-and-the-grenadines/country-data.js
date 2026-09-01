@@ -39,52 +39,52 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.gov.vc/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance, Economic Planning and Information Technology",
-      "https://www.gov.vc/",
+      "ministry-02-ministry-of-finance-economic-planning-and-information-techno.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs and Foreign Trade",
-      "https://www.gov.vc/",
+      "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "M3"
     ],
     [
       "Ministry of National Security",
-      "https://www.gov.vc/",
+      "ministry-04-ministry-of-national-security.html",
       "M4"
     ],
     [
       "Ministry of Education and National Reconciliation",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education-and-national-reconciliation.html",
       "M5"
     ],
     [
       "Ministry of Health, Wellness and the Environment",
-      "https://www.gov.vc/",
+      "ministry-06-ministry-of-health-wellness-and-the-environment.html",
       "M6"
     ],
     [
       "Ministry of Transport, Works, Lands and Physical Planning",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-transport-works-lands-and-physical-planning.html",
       "M7"
     ],
     [
       "Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry and Labour",
-      "https://www.gov.vc/",
+      "ministry-08-ministry-of-agriculture-forestry-fisheries-rural-transformat.html",
       "M8"
     ],
     [
       "Ministry of Tourism, Civil Aviation, Sustainable Development and Culture",
-      "https://www.gov.vc/",
+      "ministry-09-ministry-of-tourism-civil-aviation-sustainable-development-a.html",
       "M9"
     ],
     [
       "Ministry of National Mobilisation, Social Development and Local Government",
-      "https://www.gov.vc/",
+      "ministry-10-ministry-of-national-mobilisation-social-development-and-loc.html",
       "M10"
     ]
   ]

@@ -39,157 +39,157 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Casa Civil da Presidência da República",
-      "https://www.gov.br/",
+      "ministry-01-casa-civil-da-presidencia-da-republica.html",
       "M1"
     ],
     [
       "Ministério da Agricultura e Pecuária",
-      "https://www.gov.br/",
+      "ministry-02-ministerio-da-agricultura-e-pecuaria.html",
       "M2"
     ],
     [
       "Ministério das Cidades",
-      "https://www.gov.br/",
+      "ministry-03-ministerio-das-cidades.html",
       "M3"
     ],
     [
       "Ministério da Ciência, Tecnologia e Inovação",
-      "https://www.gov.br/",
+      "ministry-04-ministerio-da-ciencia-tecnologia-e-inovacao.html",
       "M4"
     ],
     [
       "Ministério das Comunicações",
-      "https://www.gov.br/",
+      "ministry-05-ministerio-das-comunicacoes.html",
       "M5"
     ],
     [
       "Ministério da Cultura",
-      "https://www.gov.br/",
+      "ministry-06-ministerio-da-cultura.html",
       "M6"
     ],
     [
       "Ministério da Defesa",
-      "https://www.gov.br/",
+      "ministry-07-ministerio-da-defesa.html",
       "M7"
     ],
     [
       "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
-      "https://www.gov.br/",
+      "ministry-08-ministerio-do-desenvolvimento-agrario-e-agricultura-familiar.html",
       "M8"
     ],
     [
       "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
-      "https://www.gov.br/",
+      "ministry-09-ministerio-do-desenvolvimento-e-assistencia-social-familia-e.html",
       "M9"
     ],
     [
       "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
-      "https://www.gov.br/",
+      "ministry-10-ministerio-do-desenvolvimento-industria-comercio-e-servicos.html",
       "M10"
     ],
     [
       "Ministério dos Direitos Humanos e da Cidadania",
-      "https://www.gov.br/",
+      "ministry-11-ministerio-dos-direitos-humanos-e-da-cidadania.html",
       "M11"
     ],
     [
       "Ministério da Educação",
-      "ministry-catalog.html#education",
+      "ministry-12-ministerio-da-educacao.html",
       "M12"
     ],
     [
       "Ministério do Esporte",
-      "https://www.gov.br/",
+      "ministry-13-ministerio-do-esporte.html",
       "M13"
     ],
     [
       "Ministério da Fazenda",
-      "https://www.gov.br/",
+      "ministry-14-ministerio-da-fazenda.html",
       "M14"
     ],
     [
       "Ministério da Gestão e da Inovação em Serviços Públicos",
-      "https://www.gov.br/",
+      "ministry-15-ministerio-da-gestao-e-da-inovacao-em-servicos-publicos.html",
       "M15"
     ],
     [
       "Ministério da Igualdade Racial",
-      "https://www.gov.br/",
+      "ministry-16-ministerio-da-igualdade-racial.html",
       "M16"
     ],
     [
       "Ministério da Integração e do Desenvolvimento Regional",
-      "https://www.gov.br/",
+      "ministry-17-ministerio-da-integracao-e-do-desenvolvimento-regional.html",
       "M17"
     ],
     [
       "Ministério da Justiça e Segurança Pública",
-      "https://www.gov.br/",
+      "ministry-18-ministerio-da-justica-e-seguranca-publica.html",
       "M18"
     ],
     [
       "Ministério do Meio Ambiente e Mudança do Clima",
-      "https://www.gov.br/",
+      "ministry-19-ministerio-do-meio-ambiente-e-mudanca-do-clima.html",
       "M19"
     ],
     [
       "Ministério de Minas e Energia",
-      "https://www.gov.br/",
+      "ministry-20-ministerio-de-minas-e-energia.html",
       "M20"
     ],
     [
       "Ministério das Mulheres",
-      "https://www.gov.br/",
+      "ministry-21-ministerio-das-mulheres.html",
       "M21"
     ],
     [
       "Ministério da Pesca e Aquicultura",
-      "https://www.gov.br/",
+      "ministry-22-ministerio-da-pesca-e-aquicultura.html",
       "M22"
     ],
     [
       "Ministério do Planejamento e Orçamento",
-      "https://www.gov.br/",
+      "ministry-23-ministerio-do-planejamento-e-orcamento.html",
       "M23"
     ],
     [
       "Ministério de Portos e Aeroportos",
-      "https://www.gov.br/",
+      "ministry-24-ministerio-de-portos-e-aeroportos.html",
       "M24"
     ],
     [
       "Ministério dos Povos Indígenas",
-      "https://www.gov.br/",
+      "ministry-25-ministerio-dos-povos-indigenas.html",
       "M25"
     ],
     [
       "Ministério da Previdência Social",
-      "https://www.gov.br/",
+      "ministry-26-ministerio-da-previdencia-social.html",
       "M26"
     ],
     [
       "Ministério das Relações Exteriores",
-      "https://www.gov.br/",
+      "ministry-27-ministerio-das-relacoes-exteriores.html",
       "M27"
     ],
     [
       "Ministério da Saúde",
-      "https://www.gov.br/",
+      "ministry-28-ministerio-da-saude.html",
       "M28"
     ],
     [
       "Ministério do Trabalho e Emprego",
-      "https://www.gov.br/",
+      "ministry-29-ministerio-do-trabalho-e-emprego.html",
       "M29"
     ],
     [
       "Ministério dos Transportes",
-      "ministry-catalog.html#transportation",
+      "ministry-30-ministerio-dos-transportes.html",
       "M30"
     ],
     [
       "Ministério do Turismo",
-      "https://www.gov.br/",
+      "ministry-31-ministerio-do-turismo.html",
       "M31"
     ]
   ]

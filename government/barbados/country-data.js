@@ -39,72 +39,72 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.gov.bb/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance, Economic Affairs and Investment",
-      "https://www.gov.bb/",
+      "ministry-02-ministry-of-finance-economic-affairs-and-investment.html",
       "M2"
     ],
     [
       "Ministry of Foreign Affairs and Foreign Trade",
-      "https://www.gov.bb/",
+      "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "M3"
     ],
     [
       "Ministry of Home Affairs and Information",
-      "https://www.gov.bb/",
+      "ministry-04-ministry-of-home-affairs-and-information.html",
       "M4"
     ],
     [
       "Ministry of Education, Technological and Vocational Training",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education-technological-and-vocational-training.html",
       "M5"
     ],
     [
       "Ministry of Health and Wellness",
-      "https://www.gov.bb/",
+      "ministry-06-ministry-of-health-and-wellness.html",
       "M6"
     ],
     [
       "Ministry of Transport and Works",
-      "ministry-catalog.html#transportation",
+      "ministry-07-ministry-of-transport-and-works.html",
       "M7"
     ],
     [
       "Ministry of Housing, Lands and Maintenance",
-      "https://www.gov.bb/",
+      "ministry-08-ministry-of-housing-lands-and-maintenance.html",
       "M8"
     ],
     [
       "Ministry of Agriculture, Food and Nutritional Security",
-      "https://www.gov.bb/",
+      "ministry-09-ministry-of-agriculture-food-and-nutritional-security.html",
       "M9"
     ],
     [
       "Ministry of Environment and National Beautification",
-      "https://www.gov.bb/",
+      "ministry-10-ministry-of-environment-and-national-beautification.html",
       "M10"
     ],
     [
       "Ministry of Labour, Social Security and Third Sector",
-      "https://www.gov.bb/",
+      "ministry-11-ministry-of-labour-social-security-and-third-sector.html",
       "M11"
     ],
     [
       "Ministry of Tourism and International Transport",
-      "ministry-catalog.html#transportation",
+      "ministry-12-ministry-of-tourism-and-international-transport.html",
       "M12"
     ],
     [
       "Ministry of Youth, Sports and Community Empowerment",
-      "https://www.gov.bb/",
+      "ministry-13-ministry-of-youth-sports-and-community-empowerment.html",
       "M13"
     ],
     [
       "Ministry of People Empowerment and Elder Affairs",
-      "https://www.gov.bb/",
+      "ministry-14-ministry-of-people-empowerment-and-elder-affairs.html",
       "M14"
     ]
   ]

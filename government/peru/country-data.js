@@ -39,97 +39,97 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Presidencia del Consejo de Ministros",
-      "https://www.gob.pe/",
+      "ministry-01-presidencia-del-consejo-de-ministros.html",
       "M1"
     ],
     [
       "Ministerio de Relaciones Exteriores",
-      "https://www.gob.pe/",
+      "ministry-02-ministerio-de-relaciones-exteriores.html",
       "M2"
     ],
     [
       "Ministerio de Defensa",
-      "https://www.gob.pe/",
+      "ministry-03-ministerio-de-defensa.html",
       "M3"
     ],
     [
       "Ministerio de Economía y Finanzas",
-      "https://www.gob.pe/",
+      "ministry-04-ministerio-de-economia-y-finanzas.html",
       "M4"
     ],
     [
       "Ministerio del Interior",
-      "https://www.gob.pe/",
+      "ministry-05-ministerio-del-interior.html",
       "M5"
     ],
     [
       "Ministerio de Justicia y Derechos Humanos",
-      "https://www.gob.pe/",
+      "ministry-06-ministerio-de-justicia-y-derechos-humanos.html",
       "M6"
     ],
     [
       "Ministerio de Educación",
-      "ministry-catalog.html#education",
+      "ministry-07-ministerio-de-educacion.html",
       "M7"
     ],
     [
       "Ministerio de Salud",
-      "https://www.gob.pe/",
+      "ministry-08-ministerio-de-salud.html",
       "M8"
     ],
     [
       "Ministerio de Desarrollo Agrario y Riego",
-      "https://www.gob.pe/",
+      "ministry-09-ministerio-de-desarrollo-agrario-y-riego.html",
       "M9"
     ],
     [
       "Ministerio de Trabajo y Promoción del Empleo",
-      "https://www.gob.pe/",
+      "ministry-10-ministerio-de-trabajo-y-promocion-del-empleo.html",
       "M10"
     ],
     [
       "Ministerio de la Producción",
-      "https://www.gob.pe/",
+      "ministry-11-ministerio-de-la-produccion.html",
       "M11"
     ],
     [
       "Ministerio de Comercio Exterior y Turismo",
-      "https://www.gob.pe/",
+      "ministry-12-ministerio-de-comercio-exterior-y-turismo.html",
       "M12"
     ],
     [
       "Ministerio de Energía y Minas",
-      "https://www.gob.pe/",
+      "ministry-13-ministerio-de-energia-y-minas.html",
       "M13"
     ],
     [
       "Ministerio de Transportes y Comunicaciones",
-      "ministry-catalog.html#transportation",
+      "ministry-14-ministerio-de-transportes-y-comunicaciones.html",
       "M14"
     ],
     [
       "Ministerio de Vivienda, Construcción y Saneamiento",
-      "https://www.gob.pe/",
+      "ministry-15-ministerio-de-vivienda-construccion-y-saneamiento.html",
       "M15"
     ],
     [
       "Ministerio de la Mujer y Poblaciones Vulnerables",
-      "https://www.gob.pe/",
+      "ministry-16-ministerio-de-la-mujer-y-poblaciones-vulnerables.html",
       "M16"
     ],
     [
       "Ministerio del Ambiente",
-      "https://www.gob.pe/",
+      "ministry-17-ministerio-del-ambiente.html",
       "M17"
     ],
     [
       "Ministerio de Cultura",
-      "https://www.gob.pe/",
+      "ministry-18-ministerio-de-cultura.html",
       "M18"
     ],
     [
       "Ministerio de Desarrollo e Inclusión Social",
-      "https://www.gob.pe/",
+      "ministry-19-ministerio-de-desarrollo-e-inclusion-social.html",
       "M19"
     ]
   ]

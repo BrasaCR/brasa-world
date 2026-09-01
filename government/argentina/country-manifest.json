@@ -61,53 +61,63 @@
   "ministries": [
     {
       "name": "Jefatura de Gabinete de Ministros",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M1"
+      "href": "ministry-01-jefatura-de-gabinete-de-ministros.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-del-interior.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Capital Humano",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-de-capital-humano.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Defensa",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-de-defensa.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Economía",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-de-economia.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Justicia",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-de-justicia.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-de-relaciones-exteriores-comercio-internacional-y.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Salud",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-de-salud.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Seguridad Nacional",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-de-seguridad-nacional.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.argentina.gob.ar/"
     },
     {
       "name": "Ministerio de Desregulación y Transformación del Estado",
-      "href": "https://www.argentina.gob.ar/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-de-desregulacion-y-transformacion-del-estado.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.argentina.gob.ar/"
     }
   ],
   "sharedPages": [

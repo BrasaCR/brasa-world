@@ -61,88 +61,105 @@
   "ministries": [
     {
       "name": "Ministerio del Interior",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M1"
+      "href": "ministry-01-ministerio-del-interior.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Defensa Nacional",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerio-de-defensa-nacional.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerio-de-economia-y-finanzas.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Educación y Ciencias",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerio-de-educacion-y-ciencias.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Salud Pública y Bienestar Social",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerio-de-salud-publica-y-bienestar-social.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Justicia",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerio-de-justicia.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Agricultura y Ganadería",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerio-de-agricultura-y-ganaderia.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Industria y Comercio",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerio-de-industria-y-comercio.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Obras Públicas y Comunicaciones",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerio-de-obras-publicas-y-comunicaciones.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Trabajo, Empleo y Seguridad Social",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerio-de-trabajo-empleo-y-seguridad-social.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Desarrollo Social",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerio-de-desarrollo-social.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Urbanismo, Vivienda y Hábitat",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerio-de-urbanismo-vivienda-y-habitat.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de Tecnologías de la Información y Comunicación",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerio-de-tecnologias-de-la-informacion-y-comunicacion.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio del Ambiente y Desarrollo Sostenible",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministerio-del-ambiente-y-desarrollo-sostenible.html",
+      "abbreviation": "M15",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de la Mujer",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M16"
+      "href": "ministry-16-ministerio-de-la-mujer.html",
+      "abbreviation": "M16",
+      "officialHref": "https://www.paraguay.gov.py/"
     },
     {
       "name": "Ministerio de la Niñez y la Adolescencia",
-      "href": "https://www.paraguay.gov.py/",
-      "abbreviation": "M17"
+      "href": "ministry-17-ministerio-de-la-ninez-y-la-adolescencia.html",
+      "abbreviation": "M17",
+      "officialHref": "https://www.paraguay.gov.py/"
     }
   ],
   "sharedPages": [

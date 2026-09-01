@@ -61,73 +61,87 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Finance, Economic Affairs and Investment",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-economic-affairs-and-investment.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Foreign Affairs and Foreign Trade",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Home Affairs and Information",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-home-affairs-and-information.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Education, Technological and Vocational Training",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-technological-and-vocational-training.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Health and Wellness",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-and-wellness.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Transport and Works",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-transport-and-works.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Housing, Lands and Maintenance",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-housing-lands-and-maintenance.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Agriculture, Food and Nutritional Security",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-agriculture-food-and-nutritional-security.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Environment and National Beautification",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-environment-and-national-beautification.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Labour, Social Security and Third Sector",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-labour-social-security-and-third-sector.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Tourism and International Transport",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministry-of-tourism-and-international-transport.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of Youth, Sports and Community Empowerment",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministry-of-youth-sports-and-community-empowerment.html",
+      "abbreviation": "M13",
+      "officialHref": "https://www.gov.bb/"
     },
     {
       "name": "Ministry of People Empowerment and Elder Affairs",
-      "href": "https://www.gov.bb/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministry-of-people-empowerment-and-elder-affairs.html",
+      "abbreviation": "M14",
+      "officialHref": "https://www.gov.bb/"
     }
   ],
   "sharedPages": [

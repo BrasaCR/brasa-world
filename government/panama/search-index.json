@@ -38,109 +38,109 @@
   {
     "label": "Ministerio de Salud",
     "page": "Government of Panama",
-    "url": "https://www.minsa.gob.pa/",
+    "url": "ministry-01-ministerio-de-salud.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Ambiente",
     "page": "Government of Panama",
-    "url": "https://www.miambiente.gob.pa/",
+    "url": "ministry-02-ministerio-de-ambiente.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Educación",
     "page": "Government of Panama",
-    "url": "ministry-catalog.html#education",
+    "url": "ministry-03-ministerio-de-educacion.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Economía y Finanzas",
     "page": "Government of Panama",
-    "url": "https://www.mef.gob.pa/",
+    "url": "ministry-04-ministerio-de-economia-y-finanzas.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Obras Públicas · Transportation",
     "page": "Government of Panama",
-    "url": "ministry-catalog.html#transportation",
+    "url": "ministry-05-ministerio-de-obras-publicas-transportation.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Seguridad Pública",
     "page": "Government of Panama",
-    "url": "https://www.minseg.gob.pa/",
+    "url": "ministry-06-ministerio-de-seguridad-publica.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Desarrollo Agropecuario",
     "page": "Government of Panama",
-    "url": "https://www.mida.gob.pa/",
+    "url": "ministry-07-ministerio-de-desarrollo-agropecuario.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Trabajo y Desarrollo Laboral",
     "page": "Government of Panama",
-    "url": "https://www.mitradel.gob.pa/",
+    "url": "ministry-08-ministerio-de-trabajo-y-desarrollo-laboral.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Vivienda y Ordenamiento Territorial",
     "page": "Government of Panama",
-    "url": "https://www.miviot.gob.pa/",
+    "url": "ministry-09-ministerio-de-vivienda-y-ordenamiento-territorial.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Cultura",
     "page": "Government of Panama",
-    "url": "https://www.micultura.gob.pa/",
+    "url": "ministry-10-ministerio-de-cultura.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Gobierno",
     "page": "Government of Panama",
-    "url": "https://www.mingob.gob.pa/",
+    "url": "ministry-11-ministerio-de-gobierno.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Comercio e Industrias",
     "page": "Government of Panama",
-    "url": "https://www.mici.gob.pa/",
+    "url": "ministry-12-ministerio-de-comercio-e-industrias.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Relaciones Exteriores",
     "page": "Government of Panama",
-    "url": "https://www.mire.gob.pa/",
+    "url": "ministry-13-ministerio-de-relaciones-exteriores.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Ministerio de Desarrollo Social",
     "page": "Government of Panama",
-    "url": "https://www.mides.gob.pa/",
+    "url": "ministry-14-ministerio-de-desarrollo-social.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Presidencia de la República",
     "page": "Government of Panama",
-    "url": "https://www.presidencia.gob.pa/",
+    "url": "ministry-15-presidencia-de-la-republica.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Tribunal Electoral",
     "page": "Government of Panama",
-    "url": "https://www.tribunal-electoral.gob.pa/",
+    "url": "ministry-16-tribunal-electoral.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Caja de Seguro Social",
     "page": "Government of Panama",
-    "url": "https://www.css.gob.pa/",
+    "url": "ministry-17-caja-de-seguro-social.html",
     "verified": "2026-08-26"
   },
   {
     "label": "Autoridad del Canal de Panamá",
     "page": "Government of Panama",
-    "url": "https://www.pancanal.com/",
+    "url": "ministry-18-autoridad-del-canal-de-panama.html",
     "verified": "2026-08-26"
   }
 ]

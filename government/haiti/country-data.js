@@ -39,87 +39,87 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Ministère de l’Éducation Nationale et de la Formation Professionnelle",
-      "ministry-catalog.html#education",
+      "ministry-01-ministere-de-l-education-nationale-et-de-la-formation-profes.html",
       "MENFP"
     ],
     [
       "Ministère des Travaux Publics, Transports et Communications",
-      "ministry-catalog.html#transportation",
+      "ministry-02-ministere-des-travaux-publics-transports-et-communications.html",
       "MTPTC"
     ],
     [
       "Ministère de la Santé Publique et de la Population",
-      "https://www.mspp.gouv.ht/",
+      "ministry-03-ministere-de-la-sante-publique-et-de-la-population.html",
       "MSPP"
     ],
     [
       "Ministère de l’Économie et des Finances",
-      "https://www.mef.gouv.ht/",
+      "ministry-04-ministere-de-l-economie-et-des-finances.html",
       "MEF"
     ],
     [
       "Ministère de la Justice et de la Sécurité Publique",
-      "https://www.primature.gouv.ht/",
+      "ministry-05-ministere-de-la-justice-et-de-la-securite-publique.html",
       "MJSP"
     ],
     [
       "Ministère des Affaires Étrangères et des Cultes",
-      "https://www.primature.gouv.ht/",
+      "ministry-06-ministere-des-affaires-etrangeres-et-des-cultes.html",
       "MAEC"
     ],
     [
       "Ministère de l’Intérieur et des Collectivités Territoriales",
-      "https://mict.gouv.ht/",
+      "ministry-07-ministere-de-l-interieur-et-des-collectivites-territoriales.html",
       "MICT"
     ],
     [
       "Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",
-      "https://agriculture.gouv.ht/",
+      "ministry-08-ministere-de-l-agriculture-des-ressources-naturelles-et-du-d.html",
       "MARNDR"
     ],
     [
       "Ministère de l’Environnement",
-      "https://mde.gouv.ht/",
+      "ministry-09-ministere-de-l-environnement.html",
       "MDE"
     ],
     [
       "Ministère du Commerce et de l’Industrie",
-      "https://mci.gouv.ht/",
+      "ministry-10-ministere-du-commerce-et-de-l-industrie.html",
       "MCI"
     ],
     [
       "Ministère des Affaires Sociales et du Travail",
-      "https://www.mast.gouv.ht/",
+      "ministry-11-ministere-des-affaires-sociales-et-du-travail.html",
       "MAST"
     ],
     [
       "Ministère de la Planification et de la Coopération Externe",
-      "https://www.mpce.gouv.ht/",
+      "ministry-12-ministere-de-la-planification-et-de-la-cooperation-externe.html",
       "MPCE"
     ],
     [
       "Ministère du Tourisme",
-      "https://tourisme.gouv.ht/",
+      "ministry-13-ministere-du-tourisme.html",
       "MDT"
     ],
     [
       "Ministère de la Culture et de la Communication",
-      "https://www.primature.gouv.ht/",
+      "ministry-14-ministere-de-la-culture-et-de-la-communication.html",
       "MCC"
     ],
     [
       "Ministère à la Condition Féminine et aux Droits des Femmes",
-      "https://www.primature.gouv.ht/",
+      "ministry-15-ministere-a-la-condition-feminine-et-aux-droits-des-femmes.html",
       "MCFDF"
     ],
     [
       "Ministère de la Jeunesse, des Sports et de l’Action Civique",
-      "https://www.primature.gouv.ht/",
+      "ministry-16-ministere-de-la-jeunesse-des-sports-et-de-l-action-civique.html",
       "MJSAC"
     ],
     [
       "Primature",
-      "https://www.primature.gouv.ht/",
+      "ministry-17-primature.html",
       "PM"
     ]
   ]

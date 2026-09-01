@@ -61,88 +61,105 @@
   "ministries": [
     {
       "name": "Ministerie van Binnenlandse Zaken",
-      "href": "https://gov.sr/",
-      "abbreviation": "M1"
+      "href": "ministry-01-ministerie-van-binnenlandse-zaken.html",
+      "abbreviation": "M1",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Buitenlandse Zaken, International Business en Internationale Samenwerking",
-      "href": "https://gov.sr/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministerie-van-buitenlandse-zaken-international-business-en-.html",
+      "abbreviation": "M2",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Defensie",
-      "href": "https://gov.sr/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministerie-van-defensie.html",
+      "abbreviation": "M3",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",
-      "href": "https://gov.sr/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministerie-van-economische-zaken-ondernemerschap-en-technolo.html",
+      "abbreviation": "M4",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Financiën en Planning",
-      "href": "https://gov.sr/",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministerie-van-financien-en-planning.html",
+      "abbreviation": "M5",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Grondbeleid en Bosbeheer",
-      "href": "https://gov.sr/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministerie-van-grondbeleid-en-bosbeheer.html",
+      "abbreviation": "M6",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Justitie en Politie",
-      "href": "https://gov.sr/",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministerie-van-justitie-en-politie.html",
+      "abbreviation": "M7",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Landbouw, Veeteelt en Visserij",
-      "href": "https://gov.sr/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministerie-van-landbouw-veeteelt-en-visserij.html",
+      "abbreviation": "M8",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Natuurlijke Hulpbronnen",
-      "href": "https://gov.sr/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministerie-van-natuurlijke-hulpbronnen.html",
+      "abbreviation": "M9",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Onderwijs, Wetenschap en Cultuur",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministerie-van-onderwijs-wetenschap-en-cultuur.html",
+      "abbreviation": "M10",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Openbare Werken",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministerie-van-openbare-werken.html",
+      "abbreviation": "M11",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Regionale Ontwikkeling en Sport",
-      "href": "https://gov.sr/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministerie-van-regionale-ontwikkeling-en-sport.html",
+      "abbreviation": "M12",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Ruimtelijke Ordening en Milieu",
-      "href": "https://gov.sr/",
-      "abbreviation": "M13"
+      "href": "ministry-13-ministerie-van-ruimtelijke-ordening-en-milieu.html",
+      "abbreviation": "M13",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Sociale Zaken en Volkshuisvesting",
-      "href": "https://gov.sr/",
-      "abbreviation": "M14"
+      "href": "ministry-14-ministerie-van-sociale-zaken-en-volkshuisvesting.html",
+      "abbreviation": "M14",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Transport, Communicatie en Toerisme",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M15"
+      "href": "ministry-15-ministerie-van-transport-communicatie-en-toerisme.html",
+      "abbreviation": "M15",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Volksgezondheid",
-      "href": "https://gov.sr/",
-      "abbreviation": "M16"
+      "href": "ministry-16-ministerie-van-volksgezondheid.html",
+      "abbreviation": "M16",
+      "officialHref": "https://gov.sr/"
     },
     {
       "name": "Ministerie van Arbeid, Werkgelegenheid en Jeugdzaken",
-      "href": "https://gov.sr/",
-      "abbreviation": "M17"
+      "href": "ministry-17-ministerie-van-arbeid-werkgelegenheid-en-jeugdzaken.html",
+      "abbreviation": "M17",
+      "officialHref": "https://gov.sr/"
     }
   ],
   "sharedPages": [

@@ -61,63 +61,75 @@
   "ministries": [
     {
       "name": "Office of the Prime Minister",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M1"
+      "href": "ministry-01-office-of-the-prime-minister.html",
+      "abbreviation": "M1",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Finance, Economic Development, Climate Resilience and Social Security",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M2"
+      "href": "ministry-02-ministry-of-finance-economic-development-climate-resilience-.html",
+      "abbreviation": "M2",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Foreign Affairs, International Business, Trade and Energy",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M3"
+      "href": "ministry-03-ministry-of-foreign-affairs-international-business-trade-and.html",
+      "abbreviation": "M3",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of National Security and Legal Affairs",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M4"
+      "href": "ministry-04-ministry-of-national-security-and-legal-affairs.html",
+      "abbreviation": "M4",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Education, Human Resource Planning, Vocational Training and National Excellence",
-      "href": "ministry-catalog.html#education",
-      "abbreviation": "M5"
+      "href": "ministry-05-ministry-of-education-human-resource-planning-vocational-tra.html",
+      "abbreviation": "M5",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Health, Wellness and Social Services",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M6"
+      "href": "ministry-06-ministry-of-health-wellness-and-social-services.html",
+      "abbreviation": "M6",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Public Works, Public Utilities and Digital Economy",
-      "href": "ministry-catalog.html#transportation",
-      "abbreviation": "M7"
+      "href": "ministry-07-ministry-of-public-works-public-utilities-and-digital-econom.html",
+      "abbreviation": "M7",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Agriculture, Fisheries, Blue and Green Economy",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M8"
+      "href": "ministry-08-ministry-of-agriculture-fisheries-blue-and-green-economy.html",
+      "abbreviation": "M8",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Tourism",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M9"
+      "href": "ministry-09-ministry-of-tourism.html",
+      "abbreviation": "M9",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Environment, Rural Modernisation, Kalinago Upliftment and Constituency Empowerment",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M10"
+      "href": "ministry-10-ministry-of-environment-rural-modernisation-kalinago-upliftm.html",
+      "abbreviation": "M10",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Housing and Urban Development",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M11"
+      "href": "ministry-11-ministry-of-housing-and-urban-development.html",
+      "abbreviation": "M11",
+      "officialHref": "https://www.dominica.gov.dm/"
     },
     {
       "name": "Ministry of Labour, Public Service Reform, Social Partnership, Entrepreneurship and Small Business Development",
-      "href": "https://www.dominica.gov.dm/",
-      "abbreviation": "M12"
+      "href": "ministry-12-ministry-of-labour-public-service-reform-social-partnership-.html",
+      "abbreviation": "M12",
+      "officialHref": "https://www.dominica.gov.dm/"
     }
   ],
   "sharedPages": [

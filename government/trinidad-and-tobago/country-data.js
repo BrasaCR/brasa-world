@@ -39,77 +39,77 @@ window.BRASA_COUNTRY = {
   "ministries": [
     [
       "Office of the Prime Minister",
-      "https://www.gov.tt/",
+      "ministry-01-office-of-the-prime-minister.html",
       "M1"
     ],
     [
       "Ministry of Finance",
-      "https://www.gov.tt/",
+      "ministry-02-ministry-of-finance.html",
       "M2"
     ],
     [
       "Ministry of Foreign and CARICOM Affairs",
-      "https://www.gov.tt/",
+      "ministry-03-ministry-of-foreign-and-caricom-affairs.html",
       "M3"
     ],
     [
       "Ministry of National Security",
-      "https://www.gov.tt/",
+      "ministry-04-ministry-of-national-security.html",
       "M4"
     ],
     [
       "Ministry of Education",
-      "ministry-catalog.html#education",
+      "ministry-05-ministry-of-education.html",
       "M5"
     ],
     [
       "Ministry of Health",
-      "https://www.gov.tt/",
+      "ministry-06-ministry-of-health.html",
       "M6"
     ],
     [
       "Ministry of Public Utilities",
-      "https://www.gov.tt/",
+      "ministry-07-ministry-of-public-utilities.html",
       "M7"
     ],
     [
       "Ministry of Works and Infrastructure",
-      "ministry-catalog.html#transportation",
+      "ministry-08-ministry-of-works-and-infrastructure.html",
       "M8"
     ],
     [
       "Ministry of Energy and Energy Industries",
-      "https://www.gov.tt/",
+      "ministry-09-ministry-of-energy-and-energy-industries.html",
       "M9"
     ],
     [
       "Ministry of Trade, Investment and Tourism",
-      "https://www.gov.tt/",
+      "ministry-10-ministry-of-trade-investment-and-tourism.html",
       "M10"
     ],
     [
       "Ministry of Rural Development and Local Government",
-      "https://www.gov.tt/",
+      "ministry-11-ministry-of-rural-development-and-local-government.html",
       "M11"
     ],
     [
       "Ministry of Social Development and Family Services",
-      "https://www.gov.tt/",
+      "ministry-12-ministry-of-social-development-and-family-services.html",
       "M12"
     ],
     [
       "Ministry of Labour, Small and Micro Enterprise Development",
-      "https://www.gov.tt/",
+      "ministry-13-ministry-of-labour-small-and-micro-enterprise-development.html",
       "M13"
     ],
     [
       "Ministry of Agriculture, Land and Fisheries",
-      "https://www.gov.tt/",
+      "ministry-14-ministry-of-agriculture-land-and-fisheries.html",
       "M14"
     ],
     [
       "Ministry of Sport and Youth Affairs",
-      "https://www.gov.tt/",
+      "ministry-15-ministry-of-sport-and-youth-affairs.html",
       "M15"
     ]
   ]
