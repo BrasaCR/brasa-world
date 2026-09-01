@@ -1,0 +1,134 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Educación, Ciencia y Tecnología",
+    "page": "Government of El Salvador",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Obras Públicas y de Transporte",
+    "page": "Government of El Salvador",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Salud",
+    "page": "Government of El Salvador",
+    "url": "https://www.salud.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Hacienda",
+    "page": "Government of El Salvador",
+    "url": "https://www.mh.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Economía",
+    "page": "Government of El Salvador",
+    "url": "https://www.economia.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Gobernación y Desarrollo Territorial",
+    "page": "Government of El Salvador",
+    "url": "https://www.gobernacion.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Justicia y Seguridad Pública",
+    "page": "Government of El Salvador",
+    "url": "https://www.seguridad.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores",
+    "page": "Government of El Salvador",
+    "url": "https://rree.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Trabajo y Previsión Social",
+    "page": "Government of El Salvador",
+    "url": "https://www.mtps.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Agricultura y Ganadería",
+    "page": "Government of El Salvador",
+    "url": "https://www.mag.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Medio Ambiente y Recursos Naturales",
+    "page": "Government of El Salvador",
+    "url": "https://www.ambiente.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Cultura",
+    "page": "Government of El Salvador",
+    "url": "https://www.cultura.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Turismo",
+    "page": "Government of El Salvador",
+    "url": "https://www.mitur.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Vivienda",
+    "page": "Government of El Salvador",
+    "url": "https://www.vivienda.gob.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Defensa Nacional",
+    "page": "Government of El Salvador",
+    "url": "https://www.fuerzaarmada.mil.sv/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Presidencia de la República",
+    "page": "Government of El Salvador",
+    "url": "https://www.presidencia.gob.sv/",
+    "verified": "2026-08-27"
+  }
+]

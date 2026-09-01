@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "slug": "mexico",
+  "code": "MX",
+  "country": "Mexico",
+  "officialName": "United Mexican States",
+  "brand": "BRASA MX",
+  "language": "en",
+  "verified": "2026-08-27",
+  "primaryPortal": "https://www.gob.mx/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA NI",
+    "Government of Nicaragua",
+    "Made with care in Nicaragua",
+    "Nicaragua",
+    "presidencia.gob.ni",
+    "ine.gob.ni",
+    "telcor.gob.ni",
+    "enacal.com.ni"
+  ],
+  "identityReplacements": {
+    "BRASA NI": "BRASA MX",
+    "Government of Nicaragua": "Government of Mexico",
+    "Made with care in Nicaragua": "Made with care in Mexico",
+    "Nicaragua": "Mexico"
+  },
+  "sources": [
+    "https://www.gob.mx/gobierno",
+    "https://beta.cfe.mx/Hogar/Pages/default.aspx",
+    "https://www.ift.org.mx/",
+    "https://portal.conagua.gob.mx/Tarifas/paginas/Principal.aspx"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "CFE household service"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "State and municipal operators"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Licensed retail providers"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Telcel, AT&T, Movistar and MVNOs"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "National and regional providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Secretaría de Gobernación",
+      "href": "https://www.gob.mx/segob",
+      "abbreviation": "SEGOB"
+    },
+    {
+      "name": "Secretaría de Relaciones Exteriores",
+      "href": "https://www.gob.mx/sre",
+      "abbreviation": "SRE"
+    },
+    {
+      "name": "Secretaría de la Defensa Nacional",
+      "href": "https://www.gob.mx/defensa",
+      "abbreviation": "DEFENSA"
+    },
+    {
+      "name": "Secretaría de Marina",
+      "href": "https://www.gob.mx/semar",
+      "abbreviation": "SEMAR"
+    },
+    {
+      "name": "Secretaría de Seguridad y Protección Ciudadana",
+      "href": "https://www.gob.mx/sspc",
+      "abbreviation": "SSPC"
+    },
+    {
+      "name": "Secretaría de Hacienda y Crédito Público",
+      "href": "https://www.gob.mx/shcp",
+      "abbreviation": "SHCP"
+    },
+    {
+      "name": "Secretaría de Bienestar",
+      "href": "https://www.gob.mx/bienestar",
+      "abbreviation": "BIENESTAR"
+    },
+    {
+      "name": "Secretaría de Medio Ambiente y Recursos Naturales",
+      "href": "https://www.gob.mx/semarnat",
+      "abbreviation": "SEMARNAT"
+    },
+    {
+      "name": "Secretaría de Energía",
+      "href": "https://www.gob.mx/sener",
+      "abbreviation": "SENER"
+    },
+    {
+      "name": "Secretaría de Economía",
+      "href": "https://www.gob.mx/se",
+      "abbreviation": "SE"
+    },
+    {
+      "name": "Secretaría de Agricultura y Desarrollo Rural",
+      "href": "https://www.gob.mx/agricultura",
+      "abbreviation": "AGRICULTURA"
+    },
+    {
+      "name": "Secretaría de Infraestructura, Comunicaciones y Transportes",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "SICT"
+    },
+    {
+      "name": "Secretaría Anticorrupción y Buen Gobierno",
+      "href": "https://www.gob.mx/buengobierno",
+      "abbreviation": "BUEN GOBIERNO"
+    },
+    {
+      "name": "Secretaría de Educación Pública",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "SEP"
+    },
+    {
+      "name": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
+      "href": "https://www.gob.mx/secihti",
+      "abbreviation": "SECIHTI"
+    },
+    {
+      "name": "Secretaría de Salud",
+      "href": "https://www.gob.mx/salud",
+      "abbreviation": "SALUD"
+    },
+    {
+      "name": "Secretaría del Trabajo y Previsión Social",
+      "href": "https://www.gob.mx/stps",
+      "abbreviation": "STPS"
+    },
+    {
+      "name": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
+      "href": "https://www.gob.mx/sedatu",
+      "abbreviation": "SEDATU"
+    },
+    {
+      "name": "Secretaría de Cultura",
+      "href": "https://www.gob.mx/cultura",
+      "abbreviation": "CULTURA"
+    },
+    {
+      "name": "Secretaría de Turismo",
+      "href": "https://www.gob.mx/sectur",
+      "abbreviation": "SECTUR"
+    },
+    {
+      "name": "Secretaría de las Mujeres",
+      "href": "https://www.gob.mx/mujeres",
+      "abbreviation": "MUJERES"
+    },
+    {
+      "name": "Agencia de Transformación Digital y Telecomunicaciones",
+      "href": "https://www.gob.mx/atdt",
+      "abbreviation": "ATDT"
+    },
+    {
+      "name": "Presidencia de la República",
+      "href": "https://www.gob.mx/presidencia",
+      "abbreviation": "PRESIDENCIA"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

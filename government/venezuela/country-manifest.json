@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "slug": "venezuela",
+  "code": "VE",
+  "country": "Venezuela",
+  "officialName": "Bolivarian Republic of Venezuela",
+  "brand": "BRASA VE",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://presidencia.gob.ve/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA CO",
+    "Government of Colombia",
+    "Made with care in Colombia",
+    "Colombia",
+    "gov.co",
+    "superservicios.gov.co",
+    "crcom.gov.co",
+    "mintransporte.gov.co",
+    "mineducacion.gov.co"
+  ],
+  "identityReplacements": {
+    "BRASA CO": "BRASA VE",
+    "Government of Colombia": "Government of Venezuela",
+    "Made with care in Colombia": "Made with care in Venezuela",
+    "Colombia": "Venezuela"
+  },
+  "sources": [
+    "https://presidencia.gob.ve/",
+    "https://www.corpoelec.gob.ve/",
+    "https://www.conatel.gob.ve/",
+    "https://www.hidrocapital.com.ve/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "CORPOELEC"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Regional hydrological companies"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "PDVSA distribution networks"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Movilnet, Movistar and Digitel"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "CANTV and private providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio del Poder Popular del Despacho de la Presidencia y Seguimiento de la Gestión de Gobierno",
+      "href": "https://presidencia.gob.ve/",
+      "abbreviation": "MPPDP"
+    },
+    {
+      "name": "Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz",
+      "href": "https://www.mpprijp.gob.ve/",
+      "abbreviation": "MPPRIJP"
+    },
+    {
+      "name": "Ministerio del Poder Popular para Relaciones Exteriores",
+      "href": "https://mppre.gob.ve/",
+      "abbreviation": "MPPRE"
+    },
+    {
+      "name": "Ministerio del Poder Popular de Economía, Finanzas y Comercio Exterior",
+      "href": "https://www.mppef.gob.ve/",
+      "abbreviation": "MPPEF"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Defensa",
+      "href": "https://www.mindefensa.gob.ve/",
+      "abbreviation": "MPPD"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MPPE"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Educación Universitaria",
+      "href": "https://www.mppeu.gob.ve/",
+      "abbreviation": "MPPEU"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Salud",
+      "href": "https://mpps.gob.ve/",
+      "abbreviation": "MPPS"
+    },
+    {
+      "name": "Ministerio del Poder Popular para el Proceso Social de Trabajo",
+      "href": "https://www.mpppst.gob.ve/",
+      "abbreviation": "MPPPST"
+    },
+    {
+      "name": "Ministerio del Poder Popular para el Transporte",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MPPT"
+    },
+    {
+      "name": "Ministerio del Poder Popular de Obras Públicas",
+      "href": "https://www.mppop.gob.ve/",
+      "abbreviation": "MPPOP"
+    },
+    {
+      "name": "Ministerio del Poder Popular para Hábitat y Vivienda",
+      "href": "https://www.minhvi.gob.ve/",
+      "abbreviation": "MINHVI"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Agricultura Productiva y Tierras",
+      "href": "https://www.agriculturaproductiva.gob.ve/",
+      "abbreviation": "MPPAPT"
+    },
+    {
+      "name": "Ministerio del Poder Popular de Petróleo",
+      "href": "https://www.minpet.gob.ve/",
+      "abbreviation": "MINPET"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Energía Eléctrica",
+      "href": "https://www.mppee.gob.ve/",
+      "abbreviation": "MPPEE"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Atención de las Aguas",
+      "href": "https://www.minaguas.gob.ve/",
+      "abbreviation": "MINAGUAS"
+    },
+    {
+      "name": "Ministerio del Poder Popular para el Ecosocialismo",
+      "href": "https://www.minec.gob.ve/",
+      "abbreviation": "MINEC"
+    },
+    {
+      "name": "Ministerio del Poder Popular para Ciencia y Tecnología",
+      "href": "https://www.mincyt.gob.ve/",
+      "abbreviation": "MINCYT"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Comunicación e Información",
+      "href": "https://www.minci.gob.ve/",
+      "abbreviation": "MINCI"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Cultura",
+      "href": "https://www.mincultura.gob.ve/",
+      "abbreviation": "MINCULTURA"
+    },
+    {
+      "name": "Ministerio del Poder Popular para el Turismo",
+      "href": "https://www.mintur.gob.ve/",
+      "abbreviation": "MINTUR"
+    },
+    {
+      "name": "Ministerio del Poder Popular para la Alimentación",
+      "href": "https://www.minpal.gob.ve/",
+      "abbreviation": "MINPAL"
+    },
+    {
+      "name": "Ministerio del Poder Popular para las Comunas y los Movimientos Sociales",
+      "href": "https://www.mpcomunas.gob.ve/",
+      "abbreviation": "MPCOMS"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

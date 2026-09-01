@@ -1,0 +1,146 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Salud",
+    "page": "Government of Panama",
+    "url": "https://www.minsa.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Ambiente",
+    "page": "Government of Panama",
+    "url": "https://www.miambiente.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Educación",
+    "page": "Government of Panama",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Economía y Finanzas",
+    "page": "Government of Panama",
+    "url": "https://www.mef.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Obras Públicas · Transportation",
+    "page": "Government of Panama",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Seguridad Pública",
+    "page": "Government of Panama",
+    "url": "https://www.minseg.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Desarrollo Agropecuario",
+    "page": "Government of Panama",
+    "url": "https://www.mida.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Trabajo y Desarrollo Laboral",
+    "page": "Government of Panama",
+    "url": "https://www.mitradel.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Vivienda y Ordenamiento Territorial",
+    "page": "Government of Panama",
+    "url": "https://www.miviot.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Cultura",
+    "page": "Government of Panama",
+    "url": "https://www.micultura.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Gobierno",
+    "page": "Government of Panama",
+    "url": "https://www.mingob.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Comercio e Industrias",
+    "page": "Government of Panama",
+    "url": "https://www.mici.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores",
+    "page": "Government of Panama",
+    "url": "https://www.mire.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Ministerio de Desarrollo Social",
+    "page": "Government of Panama",
+    "url": "https://www.mides.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Presidencia de la República",
+    "page": "Government of Panama",
+    "url": "https://www.presidencia.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Tribunal Electoral",
+    "page": "Government of Panama",
+    "url": "https://www.tribunal-electoral.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Caja de Seguro Social",
+    "page": "Government of Panama",
+    "url": "https://www.css.gob.pa/",
+    "verified": "2026-08-26"
+  },
+  {
+    "label": "Autoridad del Canal de Panamá",
+    "page": "Government of Panama",
+    "url": "https://www.pancanal.com/",
+    "verified": "2026-08-26"
+  }
+]

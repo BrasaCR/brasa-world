@@ -1,0 +1,140 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de l’Éducation Nationale et de la Formation Professionnelle",
+    "page": "Government of Haiti",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère des Travaux Publics, Transports et Communications",
+    "page": "Government of Haiti",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de la Santé Publique et de la Population",
+    "page": "Government of Haiti",
+    "url": "https://www.mspp.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de l’Économie et des Finances",
+    "page": "Government of Haiti",
+    "url": "https://www.mef.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de la Justice et de la Sécurité Publique",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère des Affaires Étrangères et des Cultes",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de l’Intérieur et des Collectivités Territoriales",
+    "page": "Government of Haiti",
+    "url": "https://mict.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",
+    "page": "Government of Haiti",
+    "url": "https://agriculture.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de l’Environnement",
+    "page": "Government of Haiti",
+    "url": "https://mde.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère du Commerce et de l’Industrie",
+    "page": "Government of Haiti",
+    "url": "https://mci.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère des Affaires Sociales et du Travail",
+    "page": "Government of Haiti",
+    "url": "https://www.mast.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de la Planification et de la Coopération Externe",
+    "page": "Government of Haiti",
+    "url": "https://www.mpce.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère du Tourisme",
+    "page": "Government of Haiti",
+    "url": "https://tourisme.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de la Culture et de la Communication",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère à la Condition Féminine et aux Droits des Femmes",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministère de la Jeunesse, des Sports et de l’Action Civique",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Primature",
+    "page": "Government of Haiti",
+    "url": "https://www.primature.gouv.ht/",
+    "verified": "2026-08-27"
+  }
+]

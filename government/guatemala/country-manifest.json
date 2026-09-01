@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "slug": "guatemala",
+  "code": "GT",
+  "country": "Guatemala",
+  "officialName": "Republic of Guatemala",
+  "brand": "BRASA GT",
+  "language": "en",
+  "verified": "2026-08-27",
+  "primaryPortal": "https://guatemala.gob.gt/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamá",
+    "panamadigital.gob.pa",
+    "asep.gob.pa",
+    "idaan.gob.pa"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA GT",
+    "Government of Panama": "Government of Guatemala",
+    "Made with care in Panama": "Made with care in Guatemala",
+    "Panama": "Guatemala"
+  },
+  "sources": [
+    "https://guatemala.gob.gt/",
+    "https://mem.gob.gt/informacion-publica-de-oficio-2025/",
+    "https://sit.gob.gt/registro-telecomunicaciones.html",
+    "https://empagua.com/inicio/",
+    "https://www.muniguate.com/servicios-en-linea/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "2 principal distributors"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Municipal and community providers"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "4 major brands"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "2 nationwide mobile networks"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "4 major providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and authorized collectors"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio de Comunicaciones, Infraestructura y Vivienda",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "CIV"
+    },
+    {
+      "name": "Ministerio de Agricultura, Ganadería y Alimentación",
+      "href": "https://guatemala.gob.gt/category/maga/",
+      "abbreviation": "MAGA"
+    },
+    {
+      "name": "Ministerio de Ambiente y Recursos Naturales",
+      "href": "https://guatemala.gob.gt/category/marn/",
+      "abbreviation": "MARN"
+    },
+    {
+      "name": "Ministerio de Cultura y Deportes",
+      "href": "https://guatemala.gob.gt/category/mcd/",
+      "abbreviation": "MCD"
+    },
+    {
+      "name": "Ministerio de Energía y Minas",
+      "href": "https://guatemala.gob.gt/category/mem/",
+      "abbreviation": "MEM"
+    },
+    {
+      "name": "Ministerio de Desarrollo Social",
+      "href": "https://guatemala.gob.gt/category/mides/",
+      "abbreviation": "MIDES"
+    },
+    {
+      "name": "Ministerio de la Defensa Nacional",
+      "href": "https://guatemala.gob.gt/category/mindef/",
+      "abbreviation": "MINDEF"
+    },
+    {
+      "name": "Ministerio de Economía",
+      "href": "https://guatemala.gob.gt/category/mineco/",
+      "abbreviation": "MINECO"
+    },
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MINEDUC"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://guatemala.gob.gt/category/minex/",
+      "abbreviation": "MINEX"
+    },
+    {
+      "name": "Ministerio de Finanzas Públicas",
+      "href": "https://guatemala.gob.gt/category/minfin/",
+      "abbreviation": "MINFIN"
+    },
+    {
+      "name": "Ministerio de Gobernación",
+      "href": "https://guatemala.gob.gt/category/mingob/",
+      "abbreviation": "MINGOB"
+    },
+    {
+      "name": "Ministerio de Salud Pública y Asistencia Social",
+      "href": "https://guatemala.gob.gt/category/mspas/",
+      "abbreviation": "MSPAS"
+    },
+    {
+      "name": "Ministerio de Trabajo y Previsión Social",
+      "href": "https://guatemala.gob.gt/category/mintrab/",
+      "abbreviation": "MINTRAB"
+    },
+    {
+      "name": "Presidencia de la República",
+      "href": "https://guatemala.gob.gt/",
+      "abbreviation": "PRESIDENCIA"
+    },
+    {
+      "name": "Secretaría de Seguridad Alimentaria y Nutricional",
+      "href": "https://guatemala.gob.gt/category/sesan/",
+      "abbreviation": "SESAN"
+    },
+    {
+      "name": "Secretaría de Planificación y Programación de la Presidencia",
+      "href": "https://guatemala.gob.gt/category/segeplan/",
+      "abbreviation": "SEGEPLAN"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

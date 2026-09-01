@@ -1,0 +1,140 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Comunicaciones, Infraestructura y Vivienda",
+    "page": "Government of Guatemala",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Agricultura, Ganadería y Alimentación",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/maga/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Ambiente y Recursos Naturales",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/marn/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Cultura y Deportes",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mcd/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Energía y Minas",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mem/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Desarrollo Social",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mides/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de la Defensa Nacional",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mindef/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Economía",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mineco/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Educación",
+    "page": "Government of Guatemala",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/minex/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Finanzas Públicas",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/minfin/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Gobernación",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mingob/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Salud Pública y Asistencia Social",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mspas/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Trabajo y Previsión Social",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/mintrab/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Presidencia de la República",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Seguridad Alimentaria y Nutricional",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/sesan/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Planificación y Programación de la Presidencia",
+    "page": "Government of Guatemala",
+    "url": "https://guatemala.gob.gt/category/segeplan/",
+    "verified": "2026-08-27"
+  }
+]

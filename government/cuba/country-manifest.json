@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "slug": "cuba",
+  "code": "CU",
+  "country": "Cuba",
+  "officialName": "Republic of Cuba",
+  "brand": "BRASA CU",
+  "language": "en",
+  "verified": "2026-08-27",
+  "primaryPortal": "https://www.cubagob.cu/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA MX",
+    "Government of Mexico",
+    "Made with care in Mexico",
+    "Mexico",
+    "gob.mx",
+    "cfe.mx",
+    "ift.org.mx",
+    "conagua.gob.mx"
+  ],
+  "identityReplacements": {
+    "BRASA MX": "BRASA CU",
+    "Government of Mexico": "Government of Cuba",
+    "Made with care in Mexico": "Made with care in Cuba",
+    "Mexico": "Cuba"
+  },
+  "sources": [
+    "https://www.cubagob.cu/",
+    "https://www.etecsa.cu/",
+    "https://www.minem.gob.cu/",
+    "https://www.hidro.gob.cu/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Unión Eléctrica and provincial companies"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Provincial water companies"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "CUPET distribution"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "ETECSA"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "ETECSA and Nauta"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MINED"
+    },
+    {
+      "name": "Ministerio del Transporte",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MITRANS"
+    },
+    {
+      "name": "Ministerio de Salud Pública",
+      "href": "https://salud.msp.gob.cu/",
+      "abbreviation": "MINSAP"
+    },
+    {
+      "name": "Ministerio de Finanzas y Precios",
+      "href": "https://www.mfp.gob.cu/",
+      "abbreviation": "MFP"
+    },
+    {
+      "name": "Ministerio de Economía y Planificación",
+      "href": "https://www.mep.gob.cu/",
+      "abbreviation": "MEP"
+    },
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.minint.gob.cu/",
+      "abbreviation": "MININT"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://cubaminrex.cu/",
+      "abbreviation": "MINREX"
+    },
+    {
+      "name": "Ministerio de Trabajo y Seguridad Social",
+      "href": "https://www.mtss.gob.cu/",
+      "abbreviation": "MTSS"
+    },
+    {
+      "name": "Ministerio de Agricultura",
+      "href": "https://www.minag.gob.cu/",
+      "abbreviation": "MINAG"
+    },
+    {
+      "name": "Ministerio de Ciencia, Tecnología y Medio Ambiente",
+      "href": "https://www.citma.gob.cu/",
+      "abbreviation": "CITMA"
+    },
+    {
+      "name": "Ministerio de Energía y Minas",
+      "href": "https://www.minem.gob.cu/",
+      "abbreviation": "MINEM"
+    },
+    {
+      "name": "Ministerio de Comunicaciones",
+      "href": "https://www.mincom.gob.cu/",
+      "abbreviation": "MINCOM"
+    },
+    {
+      "name": "Ministerio de Cultura",
+      "href": "https://www.ministeriodecultura.gob.cu/",
+      "abbreviation": "MINCULT"
+    },
+    {
+      "name": "Ministerio de Turismo",
+      "href": "https://www.mintur.gob.cu/",
+      "abbreviation": "MINTUR"
+    },
+    {
+      "name": "Consejo de Ministros",
+      "href": "https://www.cubagob.cu/",
+      "abbreviation": "GOBIERNO"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

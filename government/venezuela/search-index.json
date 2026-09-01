@@ -1,0 +1,176 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular del Despacho de la Presidencia y Seguimiento de la Gestión de Gobierno",
+    "page": "Government of Venezuela",
+    "url": "https://presidencia.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz",
+    "page": "Government of Venezuela",
+    "url": "https://www.mpprijp.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para Relaciones Exteriores",
+    "page": "Government of Venezuela",
+    "url": "https://mppre.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular de Economía, Finanzas y Comercio Exterior",
+    "page": "Government of Venezuela",
+    "url": "https://www.mppef.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Defensa",
+    "page": "Government of Venezuela",
+    "url": "https://www.mindefensa.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Educación",
+    "page": "Government of Venezuela",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Educación Universitaria",
+    "page": "Government of Venezuela",
+    "url": "https://www.mppeu.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Salud",
+    "page": "Government of Venezuela",
+    "url": "https://mpps.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para el Proceso Social de Trabajo",
+    "page": "Government of Venezuela",
+    "url": "https://www.mpppst.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para el Transporte",
+    "page": "Government of Venezuela",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular de Obras Públicas",
+    "page": "Government of Venezuela",
+    "url": "https://www.mppop.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para Hábitat y Vivienda",
+    "page": "Government of Venezuela",
+    "url": "https://www.minhvi.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Agricultura Productiva y Tierras",
+    "page": "Government of Venezuela",
+    "url": "https://www.agriculturaproductiva.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular de Petróleo",
+    "page": "Government of Venezuela",
+    "url": "https://www.minpet.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Energía Eléctrica",
+    "page": "Government of Venezuela",
+    "url": "https://www.mppee.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Atención de las Aguas",
+    "page": "Government of Venezuela",
+    "url": "https://www.minaguas.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para el Ecosocialismo",
+    "page": "Government of Venezuela",
+    "url": "https://www.minec.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para Ciencia y Tecnología",
+    "page": "Government of Venezuela",
+    "url": "https://www.mincyt.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Comunicación e Información",
+    "page": "Government of Venezuela",
+    "url": "https://www.minci.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Cultura",
+    "page": "Government of Venezuela",
+    "url": "https://www.mincultura.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para el Turismo",
+    "page": "Government of Venezuela",
+    "url": "https://www.mintur.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para la Alimentación",
+    "page": "Government of Venezuela",
+    "url": "https://www.minpal.gob.ve/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Poder Popular para las Comunas y los Movimientos Sociales",
+    "page": "Government of Venezuela",
+    "url": "https://www.mpcomunas.gob.ve/",
+    "verified": "2026-09-01"
+  }
+]

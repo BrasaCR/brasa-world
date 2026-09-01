@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "slug": "haiti",
+  "code": "HT",
+  "country": "Haiti",
+  "officialName": "Republic of Haiti",
+  "brand": "BRASA HT",
+  "language": "en",
+  "verified": "2026-08-27",
+  "primaryPortal": "https://www.primature.gouv.ht/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA DO",
+    "Government of the Dominican Republic",
+    "Made with care in the Dominican Republic",
+    "Dominican Republic",
+    "presidencia.gob.do",
+    "sie.gob.do",
+    "inapa.gob.do",
+    "indotel.gob.do",
+    "claro.com.do",
+    "altice.com.do",
+    "viva.com.do",
+    "mined.gob.ni",
+    "mti.gob.ni",
+    "inac.gob.ni",
+    "muniguate.com"
+  ],
+  "identityReplacements": {
+    "BRASA DO": "BRASA HT",
+    "Government of the Dominican Republic": "Government of Haiti",
+    "Made with care in the Dominican Republic": "Made with care in Haiti",
+    "Dominican Republic": "Haiti"
+  },
+  "sources": [
+    "https://www.primature.gouv.ht/attributions-du-premier-ministre/",
+    "https://www.edh.ht/",
+    "https://www.dinepa.gouv.ht/services/",
+    "https://conatel.gouv.ht/node/118"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Électricité d'Haïti (EDH)"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "DINEPA and four OREPAs"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Licensed fuel distributors"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel and Natcom"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "National and regional providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministère de l’Éducation Nationale et de la Formation Professionnelle",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MENFP"
+    },
+    {
+      "name": "Ministère des Travaux Publics, Transports et Communications",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MTPTC"
+    },
+    {
+      "name": "Ministère de la Santé Publique et de la Population",
+      "href": "https://www.mspp.gouv.ht/",
+      "abbreviation": "MSPP"
+    },
+    {
+      "name": "Ministère de l’Économie et des Finances",
+      "href": "https://www.mef.gouv.ht/",
+      "abbreviation": "MEF"
+    },
+    {
+      "name": "Ministère de la Justice et de la Sécurité Publique",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "MJSP"
+    },
+    {
+      "name": "Ministère des Affaires Étrangères et des Cultes",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "MAEC"
+    },
+    {
+      "name": "Ministère de l’Intérieur et des Collectivités Territoriales",
+      "href": "https://mict.gouv.ht/",
+      "abbreviation": "MICT"
+    },
+    {
+      "name": "Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",
+      "href": "https://agriculture.gouv.ht/",
+      "abbreviation": "MARNDR"
+    },
+    {
+      "name": "Ministère de l’Environnement",
+      "href": "https://mde.gouv.ht/",
+      "abbreviation": "MDE"
+    },
+    {
+      "name": "Ministère du Commerce et de l’Industrie",
+      "href": "https://mci.gouv.ht/",
+      "abbreviation": "MCI"
+    },
+    {
+      "name": "Ministère des Affaires Sociales et du Travail",
+      "href": "https://www.mast.gouv.ht/",
+      "abbreviation": "MAST"
+    },
+    {
+      "name": "Ministère de la Planification et de la Coopération Externe",
+      "href": "https://www.mpce.gouv.ht/",
+      "abbreviation": "MPCE"
+    },
+    {
+      "name": "Ministère du Tourisme",
+      "href": "https://tourisme.gouv.ht/",
+      "abbreviation": "MDT"
+    },
+    {
+      "name": "Ministère de la Culture et de la Communication",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "MCC"
+    },
+    {
+      "name": "Ministère à la Condition Féminine et aux Droits des Femmes",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "MCFDF"
+    },
+    {
+      "name": "Ministère de la Jeunesse, des Sports et de l’Action Civique",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "MJSAC"
+    },
+    {
+      "name": "Primature",
+      "href": "https://www.primature.gouv.ht/",
+      "abbreviation": "PM"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

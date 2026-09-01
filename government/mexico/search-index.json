@@ -1,0 +1,176 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Gobernación",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/segob",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Relaciones Exteriores",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/sre",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de la Defensa Nacional",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/defensa",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Marina",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/semar",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Seguridad y Protección Ciudadana",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/sspc",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Hacienda y Crédito Público",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/shcp",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Bienestar",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/bienestar",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Medio Ambiente y Recursos Naturales",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/semarnat",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Energía",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/sener",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Economía",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/se",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Agricultura y Desarrollo Rural",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/agricultura",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Infraestructura, Comunicaciones y Transportes",
+    "page": "Government of Mexico",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría Anticorrupción y Buen Gobierno",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/buengobierno",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Educación Pública",
+    "page": "Government of Mexico",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/secihti",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Salud",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/salud",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría del Trabajo y Previsión Social",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/stps",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/sedatu",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Cultura",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/cultura",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de Turismo",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/sectur",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Secretaría de las Mujeres",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/mujeres",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Agencia de Transformación Digital y Telecomunicaciones",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/atdt",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Presidencia de la República",
+    "page": "Government of Mexico",
+    "url": "https://www.gob.mx/presidencia",
+    "verified": "2026-08-27"
+  }
+]

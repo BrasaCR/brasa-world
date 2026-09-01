@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "slug": "panama",
+  "code": "PA",
+  "country": "Panama",
+  "officialName": "Republic of Panama",
+  "brand": "BRASA PA",
+  "language": "en",
+  "verified": "2026-08-26",
+  "primaryPortal": "https://www.panamadigital.gob.pa/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA CR",
+    "Government of Costa Rica",
+    "Made with care in Costa Rica"
+  ],
+  "identityReplacements": {
+    "BRASA CR": "BRASA PA",
+    "Government of Costa Rica": "Government of Panama",
+    "Made with care in Costa Rica": "Made with care in Panama"
+  },
+  "sources": [
+    "https://www.panamadigital.gob.pa/",
+    "https://www.panamadigital.gob.pa/OnlineServices",
+    "https://www.presidencia.gob.pa/pagina/ministros",
+    "https://asep.gob.pa/direcciones/services/prestadores/",
+    "https://asep.gob.pa/direcciones/services/agua-y-alcantarillado/prestadores/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "3 providers"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "10 providers"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "6 providers"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "2 providers"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "7 providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "5 operators"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio de Salud",
+      "href": "https://www.minsa.gob.pa/",
+      "abbreviation": "MINSA"
+    },
+    {
+      "name": "Ministerio de Ambiente",
+      "href": "https://www.miambiente.gob.pa/",
+      "abbreviation": "MIAMBIENTE"
+    },
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MEDUCA"
+    },
+    {
+      "name": "Ministerio de Economía y Finanzas",
+      "href": "https://www.mef.gob.pa/",
+      "abbreviation": "MEF"
+    },
+    {
+      "name": "Ministerio de Obras Públicas · Transportation",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MOP"
+    },
+    {
+      "name": "Ministerio de Seguridad Pública",
+      "href": "https://www.minseg.gob.pa/",
+      "abbreviation": "MINSEG"
+    },
+    {
+      "name": "Ministerio de Desarrollo Agropecuario",
+      "href": "https://www.mida.gob.pa/",
+      "abbreviation": "MIDA"
+    },
+    {
+      "name": "Ministerio de Trabajo y Desarrollo Laboral",
+      "href": "https://www.mitradel.gob.pa/",
+      "abbreviation": "MITRADEL"
+    },
+    {
+      "name": "Ministerio de Vivienda y Ordenamiento Territorial",
+      "href": "https://www.miviot.gob.pa/",
+      "abbreviation": "MIVIOT"
+    },
+    {
+      "name": "Ministerio de Cultura",
+      "href": "https://www.micultura.gob.pa/",
+      "abbreviation": "MICULTURA"
+    },
+    {
+      "name": "Ministerio de Gobierno",
+      "href": "https://www.mingob.gob.pa/",
+      "abbreviation": "MINGOB"
+    },
+    {
+      "name": "Ministerio de Comercio e Industrias",
+      "href": "https://www.mici.gob.pa/",
+      "abbreviation": "MICI"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://www.mire.gob.pa/",
+      "abbreviation": "MIRE"
+    },
+    {
+      "name": "Ministerio de Desarrollo Social",
+      "href": "https://www.mides.gob.pa/",
+      "abbreviation": "MIDES"
+    },
+    {
+      "name": "Presidencia de la República",
+      "href": "https://www.presidencia.gob.pa/",
+      "abbreviation": "PRESIDENCIA"
+    },
+    {
+      "name": "Tribunal Electoral",
+      "href": "https://www.tribunal-electoral.gob.pa/",
+      "abbreviation": "TE"
+    },
+    {
+      "name": "Caja de Seguro Social",
+      "href": "https://www.css.gob.pa/",
+      "abbreviation": "CSS"
+    },
+    {
+      "name": "Autoridad del Canal de Panamá",
+      "href": "https://www.pancanal.com/",
+      "abbreviation": "ACP"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

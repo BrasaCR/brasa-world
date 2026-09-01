@@ -1,0 +1,128 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Educación",
+    "page": "Government of Cuba",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio del Transporte",
+    "page": "Government of Cuba",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Salud Pública",
+    "page": "Government of Cuba",
+    "url": "https://salud.msp.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Finanzas y Precios",
+    "page": "Government of Cuba",
+    "url": "https://www.mfp.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Economía y Planificación",
+    "page": "Government of Cuba",
+    "url": "https://www.mep.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio del Interior",
+    "page": "Government of Cuba",
+    "url": "https://www.minint.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores",
+    "page": "Government of Cuba",
+    "url": "https://cubaminrex.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Trabajo y Seguridad Social",
+    "page": "Government of Cuba",
+    "url": "https://www.mtss.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Agricultura",
+    "page": "Government of Cuba",
+    "url": "https://www.minag.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Ciencia, Tecnología y Medio Ambiente",
+    "page": "Government of Cuba",
+    "url": "https://www.citma.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Energía y Minas",
+    "page": "Government of Cuba",
+    "url": "https://www.minem.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Comunicaciones",
+    "page": "Government of Cuba",
+    "url": "https://www.mincom.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Cultura",
+    "page": "Government of Cuba",
+    "url": "https://www.ministeriodecultura.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Ministerio de Turismo",
+    "page": "Government of Cuba",
+    "url": "https://www.mintur.gob.cu/",
+    "verified": "2026-08-27"
+  },
+  {
+    "label": "Consejo de Ministros",
+    "page": "Government of Cuba",
+    "url": "https://www.cubagob.cu/",
+    "verified": "2026-08-27"
+  }
+]

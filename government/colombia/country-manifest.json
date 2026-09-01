@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "slug": "colombia",
+  "code": "CO",
+  "country": "Colombia",
+  "officialName": "Republic of Colombia",
+  "brand": "BRASA CO",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.co/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA HT",
+    "Government of Haiti",
+    "Made with care in Haiti",
+    "Haiti",
+    "primature.gouv.ht",
+    "edh.ht",
+    "dinepa.gouv.ht",
+    "conatel.gouv.ht",
+    "menfp.gouv.ht",
+    "mtptc.gouv.ht"
+  ],
+  "identityReplacements": {
+    "BRASA HT": "BRASA CO",
+    "Government of Haiti": "Government of Colombia",
+    "Made with care in Haiti": "Made with care in Colombia",
+    "Haiti": "Colombia"
+  },
+  "sources": [
+    "https://www.funcionpublica.gov.co/gestor-normativo/manual-estructura-del-estado/rama-ejecutiva-orden-nacional",
+    "https://sui.superservicios.gov.co/Servicios-Informativos/Empresas-prestadoras",
+    "https://www.crcom.gov.co/es/micrositios/yo-mido-calidad/abc-sobre-medicion-calidad",
+    "https://www.gov.co/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Regional electricity distributors"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Municipal and regional providers"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Licensed distributors"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Claro, Movistar, Tigo and WOM"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "National and regional providers"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Registered municipal providers"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.mininterior.gov.co/",
+      "abbreviation": "MININTERIOR"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://www.cancilleria.gov.co/",
+      "abbreviation": "CANCILLERIA"
+    },
+    {
+      "name": "Ministerio de Hacienda y Crédito Público",
+      "href": "https://www.minhacienda.gov.co/",
+      "abbreviation": "MINHACIENDA"
+    },
+    {
+      "name": "Ministerio de Justicia y del Derecho",
+      "href": "https://www.minjusticia.gov.co/",
+      "abbreviation": "MINJUSTICIA"
+    },
+    {
+      "name": "Ministerio de Defensa Nacional",
+      "href": "https://www.mindefensa.gov.co/",
+      "abbreviation": "MINDEFENSA"
+    },
+    {
+      "name": "Ministerio de Agricultura y Desarrollo Rural",
+      "href": "https://www.minagricultura.gov.co/",
+      "abbreviation": "MINAGRICULTURA"
+    },
+    {
+      "name": "Ministerio de Salud y Protección Social",
+      "href": "https://www.minsalud.gov.co/",
+      "abbreviation": "MINSALUD"
+    },
+    {
+      "name": "Ministerio del Trabajo",
+      "href": "https://www.mintrabajo.gov.co/",
+      "abbreviation": "MINTRABAJO"
+    },
+    {
+      "name": "Ministerio de Minas y Energía",
+      "href": "https://www.minenergia.gov.co/",
+      "abbreviation": "MINENERGIA"
+    },
+    {
+      "name": "Ministerio de Comercio, Industria y Turismo",
+      "href": "https://www.mincit.gov.co/",
+      "abbreviation": "MINCIT"
+    },
+    {
+      "name": "Ministerio de Educación Nacional",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MINEDUCACION"
+    },
+    {
+      "name": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "href": "https://www.minambiente.gov.co/",
+      "abbreviation": "MINAMBIENTE"
+    },
+    {
+      "name": "Ministerio de Vivienda, Ciudad y Territorio",
+      "href": "https://www.minvivienda.gov.co/",
+      "abbreviation": "MINVIVIENDA"
+    },
+    {
+      "name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+      "href": "https://www.mintic.gov.co/",
+      "abbreviation": "MINTIC"
+    },
+    {
+      "name": "Ministerio de Transporte",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MINTRANSPORTE"
+    },
+    {
+      "name": "Ministerio de las Culturas, las Artes y los Saberes",
+      "href": "https://www.mincultura.gov.co/",
+      "abbreviation": "MINCULTURAS"
+    },
+    {
+      "name": "Ministerio de Ciencia, Tecnología e Innovación",
+      "href": "https://minciencias.gov.co/",
+      "abbreviation": "MINCIENCIAS"
+    },
+    {
+      "name": "Ministerio del Deporte",
+      "href": "https://www.mindeporte.gov.co/",
+      "abbreviation": "MINDEPORTE"
+    },
+    {
+      "name": "Ministerio de Igualdad y Equidad",
+      "href": "https://www.minigualdadyequidad.gov.co/",
+      "abbreviation": "MINIGUALDAD"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}
