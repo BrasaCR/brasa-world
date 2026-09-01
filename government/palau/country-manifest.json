@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "region": "oceania",
+  "slug": "palau",
+  "code": "PW",
+  "country": "Palau",
+  "officialName": "Palau",
+  "brand": "BRASA PW",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.palaugov.pw/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA PW",
+    "Government of Panama": "Government of Palau",
+    "Made with care in Panama": "Made with care in Palau",
+    "Panamanian": "Palau",
+    "Panama": "Palau"
+  },
+  "sources": [
+    "https://www.palaugov.pw/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "PW-1",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "PW-2",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "PW-3",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "PW-4",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "PW-5",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "PW-6",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "PW-7",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "PW-8",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "PW-9",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "PW-10",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "PW-11",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "PW-12",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "PW-13",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "PW-14",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "PW-15",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "PW-16",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "PW-17",
+      "officialHref": "https://www.palaugov.pw/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "PW-18",
+      "officialHref": "https://www.palaugov.pw/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aimeliik",
+      "code": "002"
+    },
+    {
+      "name": "Airai",
+      "code": "004"
+    },
+    {
+      "name": "Angaur",
+      "code": "010"
+    },
+    {
+      "name": "Hatobohei",
+      "code": "050"
+    },
+    {
+      "name": "Kayangel",
+      "code": "100"
+    },
+    {
+      "name": "Koror",
+      "code": "150"
+    },
+    {
+      "name": "Melekeok",
+      "code": "212"
+    },
+    {
+      "name": "Ngaraard",
+      "code": "214"
+    },
+    {
+      "name": "Ngarchelong",
+      "code": "218"
+    },
+    {
+      "name": "Ngardmau",
+      "code": "222"
+    },
+    {
+      "name": "Ngatpang",
+      "code": "224"
+    },
+    {
+      "name": "Ngchesar",
+      "code": "226"
+    },
+    {
+      "name": "Ngeremlengui",
+      "code": "227"
+    },
+    {
+      "name": "Ngiwal",
+      "code": "228"
+    },
+    {
+      "name": "Peleliu",
+      "code": "350"
+    },
+    {
+      "name": "Sonsoral",
+      "code": "370"
+    }
+  ]
+}

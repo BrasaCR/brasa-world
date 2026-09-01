@@ -1,5 +1,61 @@
 (function () {
   const countrySites = {
+    "vanuatu": {
+      name: "Vanuatu",
+      href: "government/vanuatu/"
+    },
+    "tuvalu": {
+      name: "Tuvalu",
+      href: "government/tuvalu/"
+    },
+    "tonga": {
+      name: "Tonga",
+      href: "government/tonga/"
+    },
+    "solomon-islands": {
+      name: "Solomon Islands",
+      href: "government/solomon-islands/"
+    },
+    "samoa": {
+      name: "Samoa",
+      href: "government/samoa/"
+    },
+    "papua-new-guinea": {
+      name: "Papua New Guinea",
+      href: "government/papua-new-guinea/"
+    },
+    "palau": {
+      name: "Palau",
+      href: "government/palau/"
+    },
+    "new-zealand": {
+      name: "New Zealand",
+      href: "government/new-zealand/"
+    },
+    "nauru": {
+      name: "Nauru",
+      href: "government/nauru/"
+    },
+    "micronesia": {
+      name: "Micronesia",
+      href: "government/micronesia/"
+    },
+    "marshall-islands": {
+      name: "Marshall Islands",
+      href: "government/marshall-islands/"
+    },
+    "kiribati": {
+      name: "Kiribati",
+      href: "government/kiribati/"
+    },
+    "fiji": {
+      name: "Fiji",
+      href: "government/fiji/"
+    },
+    "australia": {
+      name: "Australia",
+      href: "government/australia/"
+    },
     "zimbabwe": {
       name: "Zimbabwe",
       href: "government/zimbabwe/"

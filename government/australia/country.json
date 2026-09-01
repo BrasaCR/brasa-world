@@ -1,0 +1,13 @@
+{
+  "country": "Australia",
+  "officialName": "Australia",
+  "code": "AU",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.australia.gov.au/",
+  "sources": [
+    "https://www.australia.gov.au/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}
