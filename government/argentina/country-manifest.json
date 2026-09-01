@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "slug": "argentina",
+  "code": "AR",
+  "country": "Argentina",
+  "officialName": "Argentine Republic",
+  "brand": "BRASA AR",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.argentina.gob.ar/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA AR",
+    "Government of Ecuador": "Government of Argentina",
+    "Made with care in Ecuador": "Made with care in Argentina",
+    "Ecuador": "Argentina"
+  },
+  "sources": [
+    "https://www.argentina.gob.ar/organismos"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Edenor, Edesur, ENRE"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "AySA, Provincial water providers"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "YPF, Shell Argentina, AXION energy"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Personal, Movistar, Claro"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Personal Flow, Telecentro, Movistar, Claro"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and local services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Jefatura de Gabinete de Ministros",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministerio de Capital Humano",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministerio de Defensa",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministerio de Economía",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministerio de Justicia",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministerio de Seguridad Nacional",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministerio de Desregulación y Transformación del Estado",
+      "href": "https://www.argentina.gob.ar/",
+      "abbreviation": "M10"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

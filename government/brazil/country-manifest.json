@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "slug": "brazil",
+  "code": "BR",
+  "country": "Brazil",
+  "officialName": "Federative Republic of Brazil",
+  "brand": "BRASA BR",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.br/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA BR",
+    "Government of Ecuador": "Government of Brazil",
+    "Made with care in Ecuador": "Made with care in Brazil",
+    "Ecuador": "Brazil"
+  },
+  "sources": [
+    "https://www.gov.br/pt-br/orgaos-do-governo"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Enel Brasil, Neoenergia, CPFL Energia"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "SABESP, COPASA"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Petrobras, Ipiranga, Shell Brasil"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Vivo, Claro, TIM, Algar Telecom"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Vivo Fibra, Claro, TIM Ultrafibra, Oi Fibra"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and local services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Casa Civil da Presidência da República",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministério da Agricultura e Pecuária",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministério das Cidades",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministério da Ciência, Tecnologia e Inovação",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministério das Comunicações",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministério da Cultura",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministério da Defesa",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministério dos Direitos Humanos e da Cidadania",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministério da Educação",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministério do Esporte",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministério da Fazenda",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M14"
+    },
+    {
+      "name": "Ministério da Gestão e da Inovação em Serviços Públicos",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M15"
+    },
+    {
+      "name": "Ministério da Igualdade Racial",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M16"
+    },
+    {
+      "name": "Ministério da Integração e do Desenvolvimento Regional",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M17"
+    },
+    {
+      "name": "Ministério da Justiça e Segurança Pública",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M18"
+    },
+    {
+      "name": "Ministério do Meio Ambiente e Mudança do Clima",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M19"
+    },
+    {
+      "name": "Ministério de Minas e Energia",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M20"
+    },
+    {
+      "name": "Ministério das Mulheres",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M21"
+    },
+    {
+      "name": "Ministério da Pesca e Aquicultura",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M22"
+    },
+    {
+      "name": "Ministério do Planejamento e Orçamento",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M23"
+    },
+    {
+      "name": "Ministério de Portos e Aeroportos",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M24"
+    },
+    {
+      "name": "Ministério dos Povos Indígenas",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M25"
+    },
+    {
+      "name": "Ministério da Previdência Social",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M26"
+    },
+    {
+      "name": "Ministério das Relações Exteriores",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M27"
+    },
+    {
+      "name": "Ministério da Saúde",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M28"
+    },
+    {
+      "name": "Ministério do Trabalho e Emprego",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M29"
+    },
+    {
+      "name": "Ministério dos Transportes",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M30"
+    },
+    {
+      "name": "Ministério do Turismo",
+      "href": "https://www.gov.br/",
+      "abbreviation": "M31"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

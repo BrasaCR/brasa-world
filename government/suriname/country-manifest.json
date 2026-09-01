@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "slug": "suriname",
+  "code": "SR",
+  "country": "Suriname",
+  "officialName": "Republic of Suriname",
+  "brand": "BRASA SR",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://gov.sr/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA SR",
+    "Government of Ecuador": "Government of Suriname",
+    "Made with care in Ecuador": "Made with care in Suriname",
+    "Ecuador": "Suriname"
+  },
+  "sources": [
+    "https://gov.sr/ministeries/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "N.V. Energiebedrijven Suriname"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Surinaamsche Waterleiding Maatschappij"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Staatsolie, GOw2 Energy, SOL Suriname"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Telesur, Digicel"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Telesur, Digicel, ParboNet"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and local services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerie van Binnenlandse Zaken",
+      "href": "https://gov.sr/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministerie van Buitenlandse Zaken, International Business en Internationale Samenwerking",
+      "href": "https://gov.sr/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministerie van Defensie",
+      "href": "https://gov.sr/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",
+      "href": "https://gov.sr/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministerie van Financiën en Planning",
+      "href": "https://gov.sr/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministerie van Grondbeleid en Bosbeheer",
+      "href": "https://gov.sr/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministerie van Justitie en Politie",
+      "href": "https://gov.sr/",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministerie van Landbouw, Veeteelt en Visserij",
+      "href": "https://gov.sr/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministerie van Natuurlijke Hulpbronnen",
+      "href": "https://gov.sr/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministerie van Onderwijs, Wetenschap en Cultuur",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministerie van Openbare Werken",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministerie van Regionale Ontwikkeling en Sport",
+      "href": "https://gov.sr/",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministerie van Ruimtelijke Ordening en Milieu",
+      "href": "https://gov.sr/",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministerie van Sociale Zaken en Volkshuisvesting",
+      "href": "https://gov.sr/",
+      "abbreviation": "M14"
+    },
+    {
+      "name": "Ministerie van Transport, Communicatie en Toerisme",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M15"
+    },
+    {
+      "name": "Ministerie van Volksgezondheid",
+      "href": "https://gov.sr/",
+      "abbreviation": "M16"
+    },
+    {
+      "name": "Ministerie van Arbeid, Werkgelegenheid en Jeugdzaken",
+      "href": "https://gov.sr/",
+      "abbreviation": "M17"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

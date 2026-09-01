@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "slug": "chile",
+  "code": "CL",
+  "country": "Chile",
+  "officialName": "Republic of Chile",
+  "brand": "BRASA CL",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gob.cl/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA CL",
+    "Government of Ecuador": "Government of Chile",
+    "Made with care in Ecuador": "Made with care in Chile",
+    "Ecuador": "Chile"
+  },
+  "sources": [
+    "https://www.gob.cl/instituciones/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Enel Distribución Chile, CGE, Chilquinta"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Aguas Andinas, ESVAL"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Copec, Shell Chile, Aramco Chile"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Entel, Movistar, Claro, WOM"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "VTR, Mundo, Entel, Movistar"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and local services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministerio de Seguridad Pública",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministerio de Defensa Nacional",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministerio de Hacienda",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministerio Secretaría General de la Presidencia",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministerio Secretaría General de Gobierno",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministerio de Economía, Fomento y Turismo",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministerio de Desarrollo Social y Familia",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministerio de Justicia y Derechos Humanos",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministerio del Trabajo y Previsión Social",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministerio de Obras Públicas",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M14"
+    },
+    {
+      "name": "Ministerio de Vivienda y Urbanismo",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M15"
+    },
+    {
+      "name": "Ministerio de Agricultura",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M16"
+    },
+    {
+      "name": "Ministerio de Minería",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M17"
+    },
+    {
+      "name": "Ministerio de Transportes y Telecomunicaciones",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M18"
+    },
+    {
+      "name": "Ministerio de Bienes Nacionales",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M19"
+    },
+    {
+      "name": "Ministerio de Energía",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M20"
+    },
+    {
+      "name": "Ministerio del Medio Ambiente",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M21"
+    },
+    {
+      "name": "Ministerio del Deporte",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M22"
+    },
+    {
+      "name": "Ministerio de la Mujer y la Equidad de Género",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M23"
+    },
+    {
+      "name": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M24"
+    },
+    {
+      "name": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
+      "href": "https://www.gob.cl/",
+      "abbreviation": "M25"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

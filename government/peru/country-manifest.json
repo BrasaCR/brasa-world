@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "slug": "peru",
+  "code": "PE",
+  "country": "Peru",
+  "officialName": "Republic of Peru",
+  "brand": "BRASA PE",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gob.pe/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA PE",
+    "Government of Ecuador": "Government of Peru",
+    "Made with care in Ecuador": "Made with care in Peru",
+    "Ecuador": "Peru"
+  },
+  "sources": [
+    "https://www.gob.pe/estado/poder-ejecutivo",
+    "https://www.gob.pe/pcm/ministros"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Luz del Sur, Pluz Energía Perú, Electrocentro"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "SEDAPAL, SUNASS provider directory"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Petroperú, Primax, Repsol Perú"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Claro, Movistar, Entel, Bitel"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Movistar, Claro, WIN, OSIPTEL"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal and local services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Presidencia del Consejo de Ministros",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministerio de Defensa",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministerio de Economía y Finanzas",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministerio de Justicia y Derechos Humanos",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministerio de Desarrollo Agrario y Riego",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministerio de Trabajo y Promoción del Empleo",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministerio de la Producción",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministerio de Comercio Exterior y Turismo",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministerio de Energía y Minas",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministerio de Transportes y Comunicaciones",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M14"
+    },
+    {
+      "name": "Ministerio de Vivienda, Construcción y Saneamiento",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M15"
+    },
+    {
+      "name": "Ministerio de la Mujer y Poblaciones Vulnerables",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M16"
+    },
+    {
+      "name": "Ministerio del Ambiente",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M17"
+    },
+    {
+      "name": "Ministerio de Cultura",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M18"
+    },
+    {
+      "name": "Ministerio de Desarrollo e Inclusión Social",
+      "href": "https://www.gob.pe/",
+      "abbreviation": "M19"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

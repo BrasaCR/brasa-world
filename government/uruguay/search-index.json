@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Interior",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Economía y Finanzas",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Defensa Nacional",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Educación y Cultura",
+    "page": "Government of Uruguay",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Transporte y Obras Públicas",
+    "page": "Government of Uruguay",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Industria, Energía y Minería",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Trabajo y Seguridad Social",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Salud Pública",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Ganadería, Agricultura y Pesca",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Turismo",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Vivienda y Ordenamiento Territorial",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Desarrollo Social",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Ambiente",
+    "page": "Government of Uruguay",
+    "url": "https://www.gub.uy/",
+    "verified": "2026-09-01"
+  }
+]

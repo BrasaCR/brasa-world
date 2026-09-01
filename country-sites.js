@@ -1,5 +1,41 @@
 (function () {
   const countrySites = {
+    "suriname": {
+      name: "Suriname",
+      href: "government/suriname/"
+    },
+    "guyana": {
+      name: "Guyana",
+      href: "government/guyana/"
+    },
+    "uruguay": {
+      name: "Uruguay",
+      href: "government/uruguay/"
+    },
+    "paraguay": {
+      name: "Paraguay",
+      href: "government/paraguay/"
+    },
+    "brazil": {
+      name: "Brazil",
+      href: "government/brazil/"
+    },
+    "argentina": {
+      name: "Argentina",
+      href: "government/argentina/"
+    },
+    "chile": {
+      name: "Chile",
+      href: "government/chile/"
+    },
+    "bolivia": {
+      name: "Bolivia",
+      href: "government/bolivia/"
+    },
+    "peru": {
+      name: "Peru",
+      href: "government/peru/"
+    },
     "ecuador": {
       name: "Ecuador",
       href: "government/ecuador/"
