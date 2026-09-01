@@ -1,0 +1,13 @@
+{
+  "country": "United Arab Emirates",
+  "officialName": "United Arab Emirates",
+  "code": "AE",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://u.ae/",
+  "sources": [
+    "https://u.ae/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

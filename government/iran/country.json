@@ -1,0 +1,13 @@
+{
+  "country": "Iran",
+  "officialName": "Iran",
+  "code": "IR",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://iran.gov.ir/",
+  "sources": [
+    "https://iran.gov.ir/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

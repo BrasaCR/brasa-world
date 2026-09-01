@@ -1,5 +1,61 @@
 (function () {
   const countrySites = {
+    "yemen": {
+      name: "Yemen",
+      href: "government/yemen/"
+    },
+    "united-arab-emirates": {
+      name: "United Arab Emirates",
+      href: "government/united-arab-emirates/"
+    },
+    "syria": {
+      name: "Syria",
+      href: "government/syria/"
+    },
+    "saudi-arabia": {
+      name: "Saudi Arabia",
+      href: "government/saudi-arabia/"
+    },
+    "qatar": {
+      name: "Qatar",
+      href: "government/qatar/"
+    },
+    "palestine": {
+      name: "Palestine",
+      href: "government/palestine/"
+    },
+    "oman": {
+      name: "Oman",
+      href: "government/oman/"
+    },
+    "lebanon": {
+      name: "Lebanon",
+      href: "government/lebanon/"
+    },
+    "kuwait": {
+      name: "Kuwait",
+      href: "government/kuwait/"
+    },
+    "jordan": {
+      name: "Jordan",
+      href: "government/jordan/"
+    },
+    "israel": {
+      name: "Israel",
+      href: "government/israel/"
+    },
+    "iraq": {
+      name: "Iraq",
+      href: "government/iraq/"
+    },
+    "iran": {
+      name: "Iran",
+      href: "government/iran/"
+    },
+    "bahrain": {
+      name: "Bahrain",
+      href: "government/bahrain/"
+    },
     "vietnam": {
       name: "Vietnam",
       href: "government/vietnam/"

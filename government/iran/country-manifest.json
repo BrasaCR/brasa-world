@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "region": "middle-east",
+  "slug": "iran",
+  "code": "IR",
+  "country": "Iran",
+  "officialName": "Iran",
+  "brand": "BRASA IR",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://iran.gov.ir/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA IR",
+    "Government of Panama": "Government of Iran",
+    "Made with care in Panama": "Made with care in Iran",
+    "Panamanian": "Iran",
+    "Panama": "Iran"
+  },
+  "sources": [
+    "https://iran.gov.ir/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "IR-1",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "IR-2",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "IR-3",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "IR-4",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "IR-5",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "IR-6",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "IR-7",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "IR-8",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "IR-9",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "IR-10",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "IR-11",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "IR-12",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "IR-13",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "IR-14",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "IR-15",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "IR-16",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "IR-17",
+      "officialHref": "https://iran.gov.ir/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "IR-18",
+      "officialHref": "https://iran.gov.ir/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Alborz",
+      "code": "32"
+    },
+    {
+      "name": "Ardabīl",
+      "code": "03"
+    },
+    {
+      "name": "Āz̄arbāyjān-e Gharbī",
+      "code": "02"
+    },
+    {
+      "name": "Āz̄arbāyjān-e Sharqī",
+      "code": "01"
+    },
+    {
+      "name": "Būshehr",
+      "code": "06"
+    },
+    {
+      "name": "Chahār Maḩāl va Bakhtīārī",
+      "code": "08"
+    },
+    {
+      "name": "Eşfahān",
+      "code": "04"
+    },
+    {
+      "name": "Fārs",
+      "code": "14"
+    },
+    {
+      "name": "Gīlān",
+      "code": "19"
+    },
+    {
+      "name": "Golestān",
+      "code": "27"
+    },
+    {
+      "name": "Hamadān",
+      "code": "24"
+    },
+    {
+      "name": "Hormozgān",
+      "code": "23"
+    },
+    {
+      "name": "Īlām",
+      "code": "05"
+    },
+    {
+      "name": "Kermān",
+      "code": "15"
+    },
+    {
+      "name": "Kermānshāh",
+      "code": "17"
+    },
+    {
+      "name": "Khorāsān-e Jonūbī",
+      "code": "29"
+    },
+    {
+      "name": "Khorāsān-e Raẕavī",
+      "code": "30"
+    },
+    {
+      "name": "Khorāsān-e Shomālī",
+      "code": "61"
+    },
+    {
+      "name": "Khūzestān",
+      "code": "10"
+    },
+    {
+      "name": "Kohgīlūyeh va Bowyer Aḩmad",
+      "code": "18"
+    },
+    {
+      "name": "Kordestān",
+      "code": "16"
+    },
+    {
+      "name": "Lorestān",
+      "code": "20"
+    },
+    {
+      "name": "Markazi",
+      "code": "22"
+    },
+    {
+      "name": "Māzandarān",
+      "code": "21"
+    },
+    {
+      "name": "Qazvīn",
+      "code": "28"
+    },
+    {
+      "name": "Qom",
+      "code": "26"
+    },
+    {
+      "name": "Semnān",
+      "code": "12"
+    },
+    {
+      "name": "Sīstān va Balūchestān",
+      "code": "13"
+    },
+    {
+      "name": "Tehrān",
+      "code": "07"
+    },
+    {
+      "name": "Yazd",
+      "code": "25"
+    },
+    {
+      "name": "Zanjān",
+      "code": "11"
+    }
+  ]
+}

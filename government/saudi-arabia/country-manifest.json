@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "region": "middle-east",
+  "slug": "saudi-arabia",
+  "code": "SA",
+  "country": "Saudi Arabia",
+  "officialName": "Saudi Arabia",
+  "brand": "BRASA SA",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.my.gov.sa/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA SA",
+    "Government of Panama": "Government of Saudi Arabia",
+    "Made with care in Panama": "Made with care in Saudi Arabia",
+    "Panamanian": "Saudi Arabia",
+    "Panama": "Saudi Arabia"
+  },
+  "sources": [
+    "https://www.my.gov.sa/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "SA-1",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "SA-2",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "SA-3",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "SA-4",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "SA-5",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "SA-6",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "SA-7",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "SA-8",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "SA-9",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "SA-10",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "SA-11",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "SA-12",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "SA-13",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "SA-14",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "SA-15",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "SA-16",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "SA-17",
+      "officialHref": "https://www.my.gov.sa/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "SA-18",
+      "officialHref": "https://www.my.gov.sa/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "'Asir",
+      "code": "14"
+    },
+    {
+      "name": "Al Bahah",
+      "code": "11"
+    },
+    {
+      "name": "Al Hudud ash Shamaliyah",
+      "code": "08"
+    },
+    {
+      "name": "Al Jawf",
+      "code": "12"
+    },
+    {
+      "name": "Al Madinah al Munawwarah",
+      "code": "03"
+    },
+    {
+      "name": "Al Qasim",
+      "code": "05"
+    },
+    {
+      "name": "Ar Riyad",
+      "code": "01"
+    },
+    {
+      "name": "Ash Sharqiyah",
+      "code": "04"
+    },
+    {
+      "name": "Ha'il",
+      "code": "06"
+    },
+    {
+      "name": "Jazan",
+      "code": "09"
+    },
+    {
+      "name": "Makkah al Mukarramah",
+      "code": "02"
+    },
+    {
+      "name": "Najran",
+      "code": "10"
+    },
+    {
+      "name": "Tabuk",
+      "code": "07"
+    }
+  ]
+}
