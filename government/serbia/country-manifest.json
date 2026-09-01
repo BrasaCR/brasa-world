@@ -183,5 +183,127 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Beograd (Belgrade)",
+      "code": "00"
+    },
+    {
+      "name": "Borski",
+      "code": "14"
+    },
+    {
+      "name": "Braničevski",
+      "code": "11"
+    },
+    {
+      "name": "Jablanički",
+      "code": "23"
+    },
+    {
+      "name": "Južnobački",
+      "code": "06"
+    },
+    {
+      "name": "Južnobanatski",
+      "code": "04"
+    },
+    {
+      "name": "Kolubarski",
+      "code": "09"
+    },
+    {
+      "name": "Kosovski",
+      "code": "25"
+    },
+    {
+      "name": "Kosovsko-Mitrovački",
+      "code": "28"
+    },
+    {
+      "name": "Kosovsko-Pomoravski",
+      "code": "29"
+    },
+    {
+      "name": "Mačvanski",
+      "code": "08"
+    },
+    {
+      "name": "Moravički",
+      "code": "17"
+    },
+    {
+      "name": "Nišavski",
+      "code": "20"
+    },
+    {
+      "name": "Pčinjski",
+      "code": "24"
+    },
+    {
+      "name": "Pećki",
+      "code": "26"
+    },
+    {
+      "name": "Pirotski",
+      "code": "22"
+    },
+    {
+      "name": "Podunavski",
+      "code": "10"
+    },
+    {
+      "name": "Pomoravski",
+      "code": "13"
+    },
+    {
+      "name": "Prizrenski",
+      "code": "27"
+    },
+    {
+      "name": "Rasinski",
+      "code": "19"
+    },
+    {
+      "name": "Raški",
+      "code": "18"
+    },
+    {
+      "name": "Severnobački",
+      "code": "01"
+    },
+    {
+      "name": "Severnobanatski",
+      "code": "03"
+    },
+    {
+      "name": "Srednjebanatski",
+      "code": "02"
+    },
+    {
+      "name": "Sremski",
+      "code": "07"
+    },
+    {
+      "name": "Šumadijski",
+      "code": "12"
+    },
+    {
+      "name": "Toplički",
+      "code": "21"
+    },
+    {
+      "name": "Zaječarski",
+      "code": "15"
+    },
+    {
+      "name": "Zapadnobački",
+      "code": "05"
+    },
+    {
+      "name": "Zlatiborski",
+      "code": "16"
+    }
   ]
 }

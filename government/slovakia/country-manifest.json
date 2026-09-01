@@ -183,5 +183,39 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Banskobystricky",
+      "code": "BC"
+    },
+    {
+      "name": "Bratislavsky",
+      "code": "BL"
+    },
+    {
+      "name": "Kosicky",
+      "code": "KI"
+    },
+    {
+      "name": "Nitriansky",
+      "code": "NI"
+    },
+    {
+      "name": "Presovsky",
+      "code": "PV"
+    },
+    {
+      "name": "Trenciansky",
+      "code": "TC"
+    },
+    {
+      "name": "Trnavsky",
+      "code": "TA"
+    },
+    {
+      "name": "Zilinsky",
+      "code": "ZI"
+    }
   ]
 }

@@ -183,5 +183,19 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Brčko Distrikt",
+      "code": "BRC"
+    },
+    {
+      "name": "Federacija Bosne i Hercegovine",
+      "code": "BIH"
+    },
+    {
+      "name": "Republika Srpska",
+      "code": "SRP"
+    }
   ]
 }

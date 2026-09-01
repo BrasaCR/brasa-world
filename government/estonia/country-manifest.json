@@ -183,5 +183,67 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Harjumaa (Tallinn)",
+      "code": "37"
+    },
+    {
+      "name": "Hiiumaa (Kardla)",
+      "code": "39"
+    },
+    {
+      "name": "Ida-Virumaa (Johvi)",
+      "code": "44"
+    },
+    {
+      "name": "Järvamaa (Paide)",
+      "code": "41"
+    },
+    {
+      "name": "Jõgevamaa (Jogeva)",
+      "code": "49"
+    },
+    {
+      "name": "Läänemaa",
+      "code": "57"
+    },
+    {
+      "name": "Lääne-Virumaa (Rakvere)",
+      "code": "59"
+    },
+    {
+      "name": "Pärnumaa (Parnu)",
+      "code": "67"
+    },
+    {
+      "name": "Põlvamaa (Polva)",
+      "code": "65"
+    },
+    {
+      "name": "Raplamaa (Rapla)",
+      "code": "70"
+    },
+    {
+      "name": "Saaremaa (Kuessaare)",
+      "code": "74"
+    },
+    {
+      "name": "Tartumaa (Tartu)",
+      "code": "78"
+    },
+    {
+      "name": "Valgamaa (Valga)",
+      "code": "82"
+    },
+    {
+      "name": "Viljandimaa (Viljandi)",
+      "code": "84"
+    },
+    {
+      "name": "Võrumaa (Voru)",
+      "code": "86"
+    }
   ]
 }

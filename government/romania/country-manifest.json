@@ -183,5 +183,175 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Alba",
+      "code": "RO-AB"
+    },
+    {
+      "name": "Arad",
+      "code": "RO-AR"
+    },
+    {
+      "name": "Arges",
+      "code": "RO-AG"
+    },
+    {
+      "name": "Bacau",
+      "code": "RO-BC"
+    },
+    {
+      "name": "Bihor",
+      "code": "RO-BH"
+    },
+    {
+      "name": "Bistrita-Nasaud",
+      "code": "RO-BN"
+    },
+    {
+      "name": "Botosani",
+      "code": "RO-BT"
+    },
+    {
+      "name": "Braila",
+      "code": "RO-BR"
+    },
+    {
+      "name": "Brasov",
+      "code": "RO-BV"
+    },
+    {
+      "name": "Bucharest",
+      "code": "RO-B"
+    },
+    {
+      "name": "Buzau",
+      "code": "RO-BZ"
+    },
+    {
+      "name": "Calarasi",
+      "code": "RO-CL"
+    },
+    {
+      "name": "Caras-Severin",
+      "code": "RO-CS"
+    },
+    {
+      "name": "Cluj",
+      "code": "RO-CJ"
+    },
+    {
+      "name": "Constanta",
+      "code": "RO-CT"
+    },
+    {
+      "name": "Covasna",
+      "code": "RO-CV"
+    },
+    {
+      "name": "Dambovita",
+      "code": "RO-DB"
+    },
+    {
+      "name": "Dolj",
+      "code": "RO-DJ"
+    },
+    {
+      "name": "Galati",
+      "code": "RO-GL"
+    },
+    {
+      "name": "Giurgiu",
+      "code": "RO-GR"
+    },
+    {
+      "name": "Gorj",
+      "code": "RO-GJ"
+    },
+    {
+      "name": "Harghita",
+      "code": "RO-HR"
+    },
+    {
+      "name": "Hunedoara",
+      "code": "RO-HD"
+    },
+    {
+      "name": "Ialomita",
+      "code": "RO-IL"
+    },
+    {
+      "name": "Iasi",
+      "code": "RO-IS"
+    },
+    {
+      "name": "Ilfov",
+      "code": "RO-IF"
+    },
+    {
+      "name": "Maramures",
+      "code": "RO-MM"
+    },
+    {
+      "name": "Mehedinti",
+      "code": "RO-MH"
+    },
+    {
+      "name": "Mures",
+      "code": "RO-MS"
+    },
+    {
+      "name": "Neamt",
+      "code": "RO-NT"
+    },
+    {
+      "name": "Olt",
+      "code": "RO-OT"
+    },
+    {
+      "name": "Prahova",
+      "code": "RO-PH"
+    },
+    {
+      "name": "Salaj",
+      "code": "RO-SJ"
+    },
+    {
+      "name": "Satu Mare",
+      "code": "RO-SM"
+    },
+    {
+      "name": "Sibiu",
+      "code": "RO-SB"
+    },
+    {
+      "name": "Suceava",
+      "code": "RO-SV"
+    },
+    {
+      "name": "Teleorman",
+      "code": "RO-TR"
+    },
+    {
+      "name": "Timis",
+      "code": "RO-TM"
+    },
+    {
+      "name": "Tulcea",
+      "code": "RO-TL"
+    },
+    {
+      "name": "Valcea",
+      "code": "RO-VL"
+    },
+    {
+      "name": "Vaslui",
+      "code": "RO-VS"
+    },
+    {
+      "name": "Vrancea",
+      "code": "RO-VN"
+    }
   ]
 }

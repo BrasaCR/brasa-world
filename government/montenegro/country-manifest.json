@@ -183,5 +183,99 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Andrijevica",
+      "code": "01"
+    },
+    {
+      "name": "Bar",
+      "code": "02"
+    },
+    {
+      "name": "Berane",
+      "code": "03"
+    },
+    {
+      "name": "Bijelo Polje",
+      "code": "04"
+    },
+    {
+      "name": "Budva",
+      "code": "05"
+    },
+    {
+      "name": "Cetinje",
+      "code": "06"
+    },
+    {
+      "name": "Danilovgrad",
+      "code": "07"
+    },
+    {
+      "name": "Gusinje",
+      "code": "22"
+    },
+    {
+      "name": "Herceg Novi",
+      "code": "08"
+    },
+    {
+      "name": "Kolašin",
+      "code": "09"
+    },
+    {
+      "name": "Kotor",
+      "code": "10"
+    },
+    {
+      "name": "Mojkovac",
+      "code": "11"
+    },
+    {
+      "name": "Nikšić",
+      "code": "12"
+    },
+    {
+      "name": "Petnica",
+      "code": "23"
+    },
+    {
+      "name": "Plav",
+      "code": "13"
+    },
+    {
+      "name": "Plužine",
+      "code": "14"
+    },
+    {
+      "name": "Pljevlja",
+      "code": "15"
+    },
+    {
+      "name": "Podgorica",
+      "code": "16"
+    },
+    {
+      "name": "Rožaje",
+      "code": "17"
+    },
+    {
+      "name": "Šavnik",
+      "code": "18"
+    },
+    {
+      "name": "Tivat",
+      "code": "19"
+    },
+    {
+      "name": "Ulcinj",
+      "code": "20"
+    },
+    {
+      "name": "Žabljak",
+      "code": "21"
+    }
   ]
 }

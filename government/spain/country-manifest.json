@@ -183,5 +183,227 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Andalucìa",
+      "code": "AN"
+    },
+    {
+      "name": "Albacete",
+      "code": "AB"
+    },
+    {
+      "name": "Alicante",
+      "code": "A"
+    },
+    {
+      "name": "Almería",
+      "code": "AL"
+    },
+    {
+      "name": "Araba/Álava",
+      "code": "VI"
+    },
+    {
+      "name": "Asturias",
+      "code": "O"
+    },
+    {
+      "name": "Ávila",
+      "code": "AV"
+    },
+    {
+      "name": "Aragòn",
+      "code": "AR"
+    },
+    {
+      "name": "Badajoz",
+      "code": "BA"
+    },
+    {
+      "name": "Barcelona",
+      "code": "B"
+    },
+    {
+      "name": "Bizkaia",
+      "code": "BI"
+    },
+    {
+      "name": "Burgos",
+      "code": "BU"
+    },
+    {
+      "name": "Cáceres",
+      "code": "CC"
+    },
+    {
+      "name": "Cádiz",
+      "code": "CA"
+    },
+    {
+      "name": "Canarias",
+      "code": "CN"
+    },
+    {
+      "name": "Cantabria",
+      "code": "S"
+    },
+    {
+      "name": "Castellón/Castelló",
+      "code": "CS"
+    },
+    {
+      "name": "Ceuta",
+      "code": "CE"
+    },
+    {
+      "name": "Ciudad Real",
+      "code": "CR"
+    },
+    {
+      "name": "Córdoba",
+      "code": "CO"
+    },
+    {
+      "name": "A Coruña",
+      "code": "C"
+    },
+    {
+      "name": "Cuenca",
+      "code": "CU"
+    },
+    {
+      "name": "Gipuzkoa",
+      "code": "SS"
+    },
+    {
+      "name": "Girona",
+      "code": "GI"
+    },
+    {
+      "name": "Granada",
+      "code": "GR"
+    },
+    {
+      "name": "Guadalajara",
+      "code": "GU"
+    },
+    {
+      "name": "Huelva",
+      "code": "H"
+    },
+    {
+      "name": "Huesca",
+      "code": "HU"
+    },
+    {
+      "name": "Illes Balears",
+      "code": "PM"
+    },
+    {
+      "name": "Jaén",
+      "code": "J"
+    },
+    {
+      "name": "León",
+      "code": "LE"
+    },
+    {
+      "name": "Lleida",
+      "code": "L"
+    },
+    {
+      "name": "Lugo",
+      "code": "LU"
+    },
+    {
+      "name": "Madrid",
+      "code": "M"
+    },
+    {
+      "name": "Málaga",
+      "code": "MA"
+    },
+    {
+      "name": "Melilla",
+      "code": "ML"
+    },
+    {
+      "name": "Murcia",
+      "code": "MU"
+    },
+    {
+      "name": "Navarra/Nafarroa",
+      "code": "NA"
+    },
+    {
+      "name": "Ourense",
+      "code": "OR"
+    },
+    {
+      "name": "Palencia",
+      "code": "P"
+    },
+    {
+      "name": "Las Palmas",
+      "code": "GC"
+    },
+    {
+      "name": "Pontevedra",
+      "code": "PO"
+    },
+    {
+      "name": "La Rioja",
+      "code": "LO"
+    },
+    {
+      "name": "Salamanca",
+      "code": "SA"
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "code": "TF"
+    },
+    {
+      "name": "Segovia",
+      "code": "SG"
+    },
+    {
+      "name": "Sevilla",
+      "code": "SE"
+    },
+    {
+      "name": "Soria",
+      "code": "SO"
+    },
+    {
+      "name": "Tarragona",
+      "code": "T"
+    },
+    {
+      "name": "Teruel",
+      "code": "TE"
+    },
+    {
+      "name": "Toledo",
+      "code": "TO"
+    },
+    {
+      "name": "Valencia/València",
+      "code": "V"
+    },
+    {
+      "name": "Valladolid",
+      "code": "VA"
+    },
+    {
+      "name": "Zamora",
+      "code": "ZA"
+    },
+    {
+      "name": "Zaragoza",
+      "code": "Z"
+    }
   ]
 }

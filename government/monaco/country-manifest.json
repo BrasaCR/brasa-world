@@ -183,5 +183,75 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Colle",
+      "code": "CL"
+    },
+    {
+      "name": "Condamine",
+      "code": "CO"
+    },
+    {
+      "name": "Fontvieille",
+      "code": "FO"
+    },
+    {
+      "name": "Gare",
+      "code": "GA"
+    },
+    {
+      "name": "Jardin Exotique",
+      "code": "JE"
+    },
+    {
+      "name": "Larvotto",
+      "code": "LA"
+    },
+    {
+      "name": "Malbousquet",
+      "code": "MA"
+    },
+    {
+      "name": "Monaco-Ville",
+      "code": "MO"
+    },
+    {
+      "name": "Moneghetti",
+      "code": "MG"
+    },
+    {
+      "name": "Monte-Carlo",
+      "code": "MC"
+    },
+    {
+      "name": "Moulins",
+      "code": "MU"
+    },
+    {
+      "name": "Port-Hercule",
+      "code": "PH"
+    },
+    {
+      "name": "Saint-Roman",
+      "code": "SR"
+    },
+    {
+      "name": "Sainte-Dévote",
+      "code": "SD"
+    },
+    {
+      "name": "Source",
+      "code": "SO"
+    },
+    {
+      "name": "Spélugues",
+      "code": "SP"
+    },
+    {
+      "name": "Vallon de la Rousse",
+      "code": "VR"
+    }
   ]
 }

@@ -183,5 +183,87 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Abruzzo",
+      "code": "65"
+    },
+    {
+      "name": "Basilicata",
+      "code": "77"
+    },
+    {
+      "name": "Calabria",
+      "code": "78"
+    },
+    {
+      "name": "Campania",
+      "code": "72"
+    },
+    {
+      "name": "Emilia-Romagna",
+      "code": "45"
+    },
+    {
+      "name": "Friuli-Venezia Giulia",
+      "code": "36"
+    },
+    {
+      "name": "Lazio",
+      "code": "62"
+    },
+    {
+      "name": "Liguria",
+      "code": "42"
+    },
+    {
+      "name": "Lombardia",
+      "code": "25"
+    },
+    {
+      "name": "Marche",
+      "code": "57"
+    },
+    {
+      "name": "Molise",
+      "code": "67"
+    },
+    {
+      "name": "Piemonte",
+      "code": "21"
+    },
+    {
+      "name": "Puglia",
+      "code": "75"
+    },
+    {
+      "name": "Sardegna",
+      "code": "88"
+    },
+    {
+      "name": "Sicilia",
+      "code": "82"
+    },
+    {
+      "name": "Toscana",
+      "code": "52"
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "code": "32"
+    },
+    {
+      "name": "Umbria",
+      "code": "55"
+    },
+    {
+      "name": "Valle d'Aosta",
+      "code": "23"
+    },
+    {
+      "name": "Veneto",
+      "code": "34"
+    }
   ]
 }

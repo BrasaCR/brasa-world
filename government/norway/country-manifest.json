@@ -183,5 +183,59 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Agder",
+      "code": "09"
+    },
+    {
+      "name": "Innlandet",
+      "code": "34"
+    },
+    {
+      "name": "Jan Mayen",
+      "code": "22"
+    },
+    {
+      "name": "Møre og Romsdal",
+      "code": "15"
+    },
+    {
+      "name": "Nordland",
+      "code": "18"
+    },
+    {
+      "name": "Oslo",
+      "code": "03"
+    },
+    {
+      "name": "Rogaland",
+      "code": "11"
+    },
+    {
+      "name": "Svalbard",
+      "code": "21"
+    },
+    {
+      "name": "Troms og Finnmark",
+      "code": "54"
+    },
+    {
+      "name": "Trøndelag",
+      "code": "50"
+    },
+    {
+      "name": "Vestfold og Telemark",
+      "code": "38"
+    },
+    {
+      "name": "Vestland",
+      "code": "46"
+    },
+    {
+      "name": "Viken",
+      "code": "30"
+    }
   ]
 }

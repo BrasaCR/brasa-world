@@ -183,5 +183,119 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Blagoevgrad",
+      "code": "01"
+    },
+    {
+      "name": "Burgas",
+      "code": "02"
+    },
+    {
+      "name": "Dobrich",
+      "code": "08"
+    },
+    {
+      "name": "Gabrovo",
+      "code": "07"
+    },
+    {
+      "name": "Jambol",
+      "code": "28"
+    },
+    {
+      "name": "Khaskovo",
+      "code": "26"
+    },
+    {
+      "name": "Kjustendil",
+      "code": "10"
+    },
+    {
+      "name": "Kurdzhali",
+      "code": "09"
+    },
+    {
+      "name": "Lovech",
+      "code": "11"
+    },
+    {
+      "name": "Montana",
+      "code": "12"
+    },
+    {
+      "name": "Pazardzhik",
+      "code": "13"
+    },
+    {
+      "name": "Pernik",
+      "code": "14"
+    },
+    {
+      "name": "Pleven",
+      "code": "15"
+    },
+    {
+      "name": "Plovdiv",
+      "code": "16"
+    },
+    {
+      "name": "Razgrad",
+      "code": "17"
+    },
+    {
+      "name": "Ruse",
+      "code": "18"
+    },
+    {
+      "name": "Shumen",
+      "code": "27"
+    },
+    {
+      "name": "Silistra",
+      "code": "19"
+    },
+    {
+      "name": "Sliven",
+      "code": "20"
+    },
+    {
+      "name": "Smoljan",
+      "code": "21"
+    },
+    {
+      "name": "Sofija",
+      "code": "23"
+    },
+    {
+      "name": "Sofija-Grad",
+      "code": "22"
+    },
+    {
+      "name": "Stara Zagora",
+      "code": "24"
+    },
+    {
+      "name": "Turgovishhe",
+      "code": "25"
+    },
+    {
+      "name": "Varna",
+      "code": "03"
+    },
+    {
+      "name": "Veliko Turnovo",
+      "code": "04"
+    },
+    {
+      "name": "Vidin",
+      "code": "05"
+    },
+    {
+      "name": "Vraca",
+      "code": "06"
+    }
   ]
 }

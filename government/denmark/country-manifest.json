@@ -183,5 +183,27 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Hovedstaden",
+      "code": "DK-84"
+    },
+    {
+      "name": "Midtjylland",
+      "code": "DK-82"
+    },
+    {
+      "name": "Nordjylland",
+      "code": "DK-81"
+    },
+    {
+      "name": "Sjælland",
+      "code": "DK-85"
+    },
+    {
+      "name": "Syddanmark",
+      "code": "DK-83"
+    }
   ]
 }

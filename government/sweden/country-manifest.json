@@ -183,5 +183,91 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Blekinge",
+      "code": "K"
+    },
+    {
+      "name": "Dalarna",
+      "code": "W"
+    },
+    {
+      "name": "Gävleborg",
+      "code": "X"
+    },
+    {
+      "name": "Gotland",
+      "code": "I"
+    },
+    {
+      "name": "Halland",
+      "code": "N"
+    },
+    {
+      "name": "Jämtland",
+      "code": "Z"
+    },
+    {
+      "name": "Jönköping",
+      "code": "F"
+    },
+    {
+      "name": "Kalmar",
+      "code": "H"
+    },
+    {
+      "name": "Kronoberg",
+      "code": "G"
+    },
+    {
+      "name": "Norrbotten",
+      "code": "BD"
+    },
+    {
+      "name": "Örebro",
+      "code": "T"
+    },
+    {
+      "name": "Östergötland",
+      "code": "E"
+    },
+    {
+      "name": "Skåne",
+      "code": "M"
+    },
+    {
+      "name": "Södermanland",
+      "code": "D"
+    },
+    {
+      "name": "Stockholm",
+      "code": "AB"
+    },
+    {
+      "name": "Uppsala",
+      "code": "C"
+    },
+    {
+      "name": "Värmland",
+      "code": "S"
+    },
+    {
+      "name": "Västerbotten",
+      "code": "AC"
+    },
+    {
+      "name": "Västernorrland",
+      "code": "Y"
+    },
+    {
+      "name": "Västmanland",
+      "code": "U"
+    },
+    {
+      "name": "Västra Götaland",
+      "code": "O"
+    }
   ]
 }

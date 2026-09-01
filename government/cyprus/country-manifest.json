@@ -183,5 +183,31 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Ammochostos",
+      "code": "04"
+    },
+    {
+      "name": "Keryneia",
+      "code": "06"
+    },
+    {
+      "name": "Larnaka",
+      "code": "03"
+    },
+    {
+      "name": "Lefkosia",
+      "code": "01"
+    },
+    {
+      "name": "Lemesos",
+      "code": "02"
+    },
+    {
+      "name": "Pafos",
+      "code": "05"
+    }
   ]
 }

@@ -183,5 +183,115 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Cherkaska oblast",
+      "code": "71"
+    },
+    {
+      "name": "Chernihivska oblast",
+      "code": "74"
+    },
+    {
+      "name": "Chernivetska oblast",
+      "code": "77"
+    },
+    {
+      "name": "Dnipropetrovska oblast",
+      "code": "12"
+    },
+    {
+      "name": "Donetska oblast",
+      "code": "14"
+    },
+    {
+      "name": "Ivano-Frankivska oblast",
+      "code": "26"
+    },
+    {
+      "name": "Kharkivska oblast",
+      "code": "63"
+    },
+    {
+      "name": "Khersonska oblast",
+      "code": "65"
+    },
+    {
+      "name": "Khmelnytska oblast",
+      "code": "68"
+    },
+    {
+      "name": "Kyivska oblast",
+      "code": "32"
+    },
+    {
+      "name": "Kirovohradska oblast",
+      "code": "35"
+    },
+    {
+      "name": "Luhanska oblast",
+      "code": "09"
+    },
+    {
+      "name": "Lvivska oblast",
+      "code": "46"
+    },
+    {
+      "name": "Mykolaivska oblast",
+      "code": "48"
+    },
+    {
+      "name": "Odeska oblast",
+      "code": "51"
+    },
+    {
+      "name": "Poltavska oblast",
+      "code": "53"
+    },
+    {
+      "name": "Rivnenska oblast",
+      "code": "56"
+    },
+    {
+      "name": "Sumska oblast",
+      "code": "59"
+    },
+    {
+      "name": "Ternopilska oblast",
+      "code": "61"
+    },
+    {
+      "name": "Vinnytska oblast",
+      "code": "05"
+    },
+    {
+      "name": "Volynska oblast",
+      "code": "07"
+    },
+    {
+      "name": "Zakarpatska oblast",
+      "code": "21"
+    },
+    {
+      "name": "Zaporizka oblast",
+      "code": "23"
+    },
+    {
+      "name": "Zhytomyrska oblast",
+      "code": "18"
+    },
+    {
+      "name": "Avtonomna Respublika Krym",
+      "code": "43"
+    },
+    {
+      "name": "Kyiv",
+      "code": "30"
+    },
+    {
+      "name": "Sevastopol",
+      "code": "40"
+    }
   ]
 }

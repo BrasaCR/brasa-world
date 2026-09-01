@@ -183,5 +183,55 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Capellen",
+      "code": "CA"
+    },
+    {
+      "name": "Clevaux",
+      "code": "CL"
+    },
+    {
+      "name": "Diekirch",
+      "code": "DI"
+    },
+    {
+      "name": "Echternach",
+      "code": "EC"
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "code": "ES"
+    },
+    {
+      "name": "Grevenmacher",
+      "code": "GR"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU"
+    },
+    {
+      "name": "Mersch",
+      "code": "ME"
+    },
+    {
+      "name": "Redange",
+      "code": "RD"
+    },
+    {
+      "name": "Remich",
+      "code": "RM"
+    },
+    {
+      "name": "Vianden",
+      "code": "VD"
+    },
+    {
+      "name": "Wiltz",
+      "code": "WI"
+    }
   ]
 }

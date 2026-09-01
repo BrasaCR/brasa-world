@@ -183,5 +183,291 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aračinovo",
+      "code": "02"
+    },
+    {
+      "name": "Berovo",
+      "code": "03"
+    },
+    {
+      "name": "Bitola",
+      "code": "04"
+    },
+    {
+      "name": "Bogdanci",
+      "code": "05"
+    },
+    {
+      "name": "Bogovinje",
+      "code": "06"
+    },
+    {
+      "name": "Bosilovo",
+      "code": "07"
+    },
+    {
+      "name": "Brvenica",
+      "code": "08"
+    },
+    {
+      "name": "Centar Župa",
+      "code": "78"
+    },
+    {
+      "name": "Čaška",
+      "code": "80"
+    },
+    {
+      "name": "Češinovo-Obleševo",
+      "code": "81"
+    },
+    {
+      "name": "Čučer Sandevo",
+      "code": "82"
+    },
+    {
+      "name": "Debar",
+      "code": "21"
+    },
+    {
+      "name": "Debarca",
+      "code": "22"
+    },
+    {
+      "name": "Delčevo",
+      "code": "23"
+    },
+    {
+      "name": "Demir Hisar",
+      "code": "25"
+    },
+    {
+      "name": "Demir Kapija",
+      "code": "24"
+    },
+    {
+      "name": "Doran",
+      "code": "26"
+    },
+    {
+      "name": "Dolneni",
+      "code": "27"
+    },
+    {
+      "name": "Gevgelija",
+      "code": "18"
+    },
+    {
+      "name": "Gostivar",
+      "code": "19"
+    },
+    {
+      "name": "Gradsko",
+      "code": "20"
+    },
+    {
+      "name": "Ilinden",
+      "code": "34"
+    },
+    {
+      "name": "Jegunovce",
+      "code": "35"
+    },
+    {
+      "name": "Karbinci",
+      "code": "37"
+    },
+    {
+      "name": "Kavadarci",
+      "code": "36"
+    },
+    {
+      "name": "Kičevo",
+      "code": "40"
+    },
+    {
+      "name": "Kočani",
+      "code": "42"
+    },
+    {
+      "name": "Konče",
+      "code": "41"
+    },
+    {
+      "name": "Kratovo",
+      "code": "43"
+    },
+    {
+      "name": "Kriva Palanka",
+      "code": "44"
+    },
+    {
+      "name": "Krivogaštani",
+      "code": "45"
+    },
+    {
+      "name": "Kruševo",
+      "code": "46"
+    },
+    {
+      "name": "Kumanovo",
+      "code": "47"
+    },
+    {
+      "name": "Lipkovo",
+      "code": "48"
+    },
+    {
+      "name": "Lozovo",
+      "code": "49"
+    },
+    {
+      "name": "Makedonska Kamenica",
+      "code": "51"
+    },
+    {
+      "name": "Makedonski Brod",
+      "code": "52"
+    },
+    {
+      "name": "Mavrovo i Rostuša",
+      "code": "50"
+    },
+    {
+      "name": "Mogila",
+      "code": "53"
+    },
+    {
+      "name": "Negotino",
+      "code": "54"
+    },
+    {
+      "name": "Novaci",
+      "code": "55"
+    },
+    {
+      "name": "Novo Selo",
+      "code": "56"
+    },
+    {
+      "name": "Ohrid",
+      "code": "58"
+    },
+    {
+      "name": "Pehčevo",
+      "code": "60"
+    },
+    {
+      "name": "Petrovec",
+      "code": "59"
+    },
+    {
+      "name": "Plasnica",
+      "code": "61"
+    },
+    {
+      "name": "Prilep",
+      "code": "62"
+    },
+    {
+      "name": "Probištip",
+      "code": "63"
+    },
+    {
+      "name": "Radoviš",
+      "code": ""
+    },
+    {
+      "name": "Rankovce",
+      "code": "65"
+    },
+    {
+      "name": "Resen",
+      "code": "66"
+    },
+    {
+      "name": "Rosoman",
+      "code": "67"
+    },
+    {
+      "name": "Skopje",
+      "code": "85"
+    },
+    {
+      "name": "Sopište",
+      "code": "70"
+    },
+    {
+      "name": "Staro Nagoričane",
+      "code": "71"
+    },
+    {
+      "name": "Struga",
+      "code": "72"
+    },
+    {
+      "name": "Strumica",
+      "code": "73"
+    },
+    {
+      "name": "Studeničani",
+      "code": "74"
+    },
+    {
+      "name": "Sveti Nikole",
+      "code": "69"
+    },
+    {
+      "name": "Štip",
+      "code": "83"
+    },
+    {
+      "name": "Tearce",
+      "code": "75"
+    },
+    {
+      "name": "Tetovo",
+      "code": "76"
+    },
+    {
+      "name": "Valandovo",
+      "code": "10"
+    },
+    {
+      "name": "Vasilevo",
+      "code": "11"
+    },
+    {
+      "name": "Veles",
+      "code": "13"
+    },
+    {
+      "name": "Vevčani",
+      "code": "12"
+    },
+    {
+      "name": "Vinica",
+      "code": "14"
+    },
+    {
+      "name": "Vrapčište",
+      "code": "16"
+    },
+    {
+      "name": "Zelenikovo",
+      "code": "32"
+    },
+    {
+      "name": "Zrnovci",
+      "code": "33"
+    },
+    {
+      "name": "Želino",
+      "code": "30"
+    }
   ]
 }

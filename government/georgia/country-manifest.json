@@ -183,5 +183,55 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Abkhazia (Sokhumi)",
+      "code": "AB"
+    },
+    {
+      "name": "Ajaria (Bat'umi)",
+      "code": "AJ"
+    },
+    {
+      "name": "Guria",
+      "code": "GU"
+    },
+    {
+      "name": "Imereti",
+      "code": "IM"
+    },
+    {
+      "name": "K'akheti",
+      "code": "KA"
+    },
+    {
+      "name": "Kvemo Kartli",
+      "code": "KK"
+    },
+    {
+      "name": "Mtshkheta-Mtianeti",
+      "code": "MM"
+    },
+    {
+      "name": "Rach'a-Lexhkumi-KvemoSvaneti",
+      "code": "RL"
+    },
+    {
+      "name": "Samegrelo-Zemo Svaneti",
+      "code": "SZ"
+    },
+    {
+      "name": "Samtskhe-Javakheti",
+      "code": "SJ"
+    },
+    {
+      "name": "Shida Kartli",
+      "code": "SK"
+    },
+    {
+      "name": "Tbilisi",
+      "code": "TB"
+    }
   ]
 }

@@ -183,5 +183,39 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Austurland",
+      "code": "7"
+    },
+    {
+      "name": "Höfuðborgarsvæði",
+      "code": "1"
+    },
+    {
+      "name": "Norðurland eystra",
+      "code": "6"
+    },
+    {
+      "name": "Norðurland vestra",
+      "code": "5"
+    },
+    {
+      "name": "Suðurland",
+      "code": "8"
+    },
+    {
+      "name": "Suðurnes",
+      "code": "2"
+    },
+    {
+      "name": "Vestfirðir",
+      "code": "4"
+    },
+    {
+      "name": "Vesturland",
+      "code": "3"
+    }
   ]
 }

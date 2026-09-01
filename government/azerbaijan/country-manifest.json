@@ -183,5 +183,275 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Abşeron",
+      "code": "ABS"
+    },
+    {
+      "name": "Ağcabədi",
+      "code": "AGC"
+    },
+    {
+      "name": "Ağdam",
+      "code": "AGM"
+    },
+    {
+      "name": "Ağdaş",
+      "code": "AGS"
+    },
+    {
+      "name": "Ağstafa",
+      "code": "AGA"
+    },
+    {
+      "name": "Ağsu",
+      "code": "AGU"
+    },
+    {
+      "name": "Astara",
+      "code": "AST"
+    },
+    {
+      "name": "Bakı",
+      "code": "BAK"
+    },
+    {
+      "name": "Babək",
+      "code": "BAB"
+    },
+    {
+      "name": "Balakən",
+      "code": "BAL"
+    },
+    {
+      "name": "Bərdə",
+      "code": "BAR"
+    },
+    {
+      "name": "Beyləqan",
+      "code": "BEY"
+    },
+    {
+      "name": "Biləsuvar",
+      "code": "BIL"
+    },
+    {
+      "name": "Cəbrayıl",
+      "code": "CAB"
+    },
+    {
+      "name": "Cəlilabad",
+      "code": "CAL"
+    },
+    {
+      "name": "Culfa",
+      "code": "CUL"
+    },
+    {
+      "name": "Daşkəsən",
+      "code": "DAS"
+    },
+    {
+      "name": "Füzuli",
+      "code": "FUZ"
+    },
+    {
+      "name": "Gədəbəy",
+      "code": "GAD"
+    },
+    {
+      "name": "Goranboy",
+      "code": "GOR"
+    },
+    {
+      "name": "Göyçay",
+      "code": "GOY"
+    },
+    {
+      "name": "Göygöl",
+      "code": "GYG"
+    },
+    {
+      "name": "Hacıqabul",
+      "code": "HAC"
+    },
+    {
+      "name": "İmişli",
+      "code": "IMI"
+    },
+    {
+      "name": "İsmayıllı",
+      "code": "ISM"
+    },
+    {
+      "name": "Kəlbəcər",
+      "code": "KAL"
+    },
+    {
+      "name": "Kǝngǝrli",
+      "code": "KAN"
+    },
+    {
+      "name": "Kürdəmir",
+      "code": "KUR"
+    },
+    {
+      "name": "Laçın",
+      "code": "LAC"
+    },
+    {
+      "name": "Lənkəran",
+      "code": "LAN"
+    },
+    {
+      "name": "Lerik",
+      "code": "LER"
+    },
+    {
+      "name": "Masallı",
+      "code": "MAS"
+    },
+    {
+      "name": "Neftçala",
+      "code": "NEF"
+    },
+    {
+      "name": "Oğuz",
+      "code": "OGU"
+    },
+    {
+      "name": "Ordubad",
+      "code": "ORD"
+    },
+    {
+      "name": "Qəbələ",
+      "code": "QAB"
+    },
+    {
+      "name": "Qax",
+      "code": "QAX"
+    },
+    {
+      "name": "Qazax",
+      "code": "QAZ"
+    },
+    {
+      "name": "Qobustan",
+      "code": "QOB"
+    },
+    {
+      "name": "Quba",
+      "code": "QBA"
+    },
+    {
+      "name": "Qubadli",
+      "code": "QBI"
+    },
+    {
+      "name": "Qusar",
+      "code": "QUS"
+    },
+    {
+      "name": "Saatlı",
+      "code": "SAT"
+    },
+    {
+      "name": "Sabirabad",
+      "code": "SAB"
+    },
+    {
+      "name": "Şabran",
+      "code": "SBN"
+    },
+    {
+      "name": "Sədərək",
+      "code": "SAD"
+    },
+    {
+      "name": "Şahbuz",
+      "code": "SAH"
+    },
+    {
+      "name": "Şəki",
+      "code": "SAK"
+    },
+    {
+      "name": "Salyan",
+      "code": "SAL"
+    },
+    {
+      "name": "Şamaxı",
+      "code": "SMI"
+    },
+    {
+      "name": "Şəmkir",
+      "code": "SKR"
+    },
+    {
+      "name": "Samux",
+      "code": "SMX"
+    },
+    {
+      "name": "Şərur",
+      "code": "SAR"
+    },
+    {
+      "name": "Siyəzən",
+      "code": "SIY"
+    },
+    {
+      "name": "Şuşa",
+      "code": "SUS"
+    },
+    {
+      "name": "Tərtər",
+      "code": "TAR"
+    },
+    {
+      "name": "Tovuz",
+      "code": "TOV"
+    },
+    {
+      "name": "Ucar",
+      "code": "UCA"
+    },
+    {
+      "name": "Xaçmaz",
+      "code": "XAC"
+    },
+    {
+      "name": "Xızı",
+      "code": "XIZ"
+    },
+    {
+      "name": "Xocalı",
+      "code": "XCI"
+    },
+    {
+      "name": "Xocavənd",
+      "code": "XVD"
+    },
+    {
+      "name": "Yardımlı",
+      "code": "YAR"
+    },
+    {
+      "name": "Yevlax",
+      "code": "YEV"
+    },
+    {
+      "name": "Zəngilan",
+      "code": "ZAN"
+    },
+    {
+      "name": "Zaqatala",
+      "code": "ZAQ"
+    },
+    {
+      "name": "Zərdab",
+      "code": "ZAR"
+    }
   ]
 }

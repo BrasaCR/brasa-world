@@ -183,5 +183,43 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Burgenland",
+      "code": "1"
+    },
+    {
+      "name": "Kärnten",
+      "code": "2"
+    },
+    {
+      "name": "Niederösterreich",
+      "code": "3"
+    },
+    {
+      "name": "Oberösterreich",
+      "code": "4"
+    },
+    {
+      "name": "Salzburg",
+      "code": "5"
+    },
+    {
+      "name": "Steiermark",
+      "code": "6"
+    },
+    {
+      "name": "Tirol",
+      "code": "7"
+    },
+    {
+      "name": "Vorarlberg",
+      "code": "8"
+    },
+    {
+      "name": "Wien",
+      "code": "9"
+    }
   ]
 }

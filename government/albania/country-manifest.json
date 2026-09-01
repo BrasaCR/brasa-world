@@ -183,5 +183,55 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Berat",
+      "code": "01"
+    },
+    {
+      "name": "Dibër",
+      "code": "09"
+    },
+    {
+      "name": "Durrës",
+      "code": "02"
+    },
+    {
+      "name": "Elbasan",
+      "code": "03"
+    },
+    {
+      "name": "Fier",
+      "code": "04"
+    },
+    {
+      "name": "Gjirokastër",
+      "code": "05"
+    },
+    {
+      "name": "Korçë",
+      "code": "06"
+    },
+    {
+      "name": "Kukës",
+      "code": "07"
+    },
+    {
+      "name": "Lezhë",
+      "code": "08"
+    },
+    {
+      "name": "Shkodër",
+      "code": "10"
+    },
+    {
+      "name": "Tirana",
+      "code": "11"
+    },
+    {
+      "name": "Vlorë",
+      "code": "12"
+    }
   ]
 }

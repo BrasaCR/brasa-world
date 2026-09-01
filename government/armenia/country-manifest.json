@@ -183,5 +183,51 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Aragatsotn",
+      "code": "AG"
+    },
+    {
+      "name": "Ararat",
+      "code": "AR"
+    },
+    {
+      "name": "Armavir",
+      "code": "AV"
+    },
+    {
+      "name": "Gegharkunik",
+      "code": "GR"
+    },
+    {
+      "name": "Kotayk",
+      "code": "KT"
+    },
+    {
+      "name": "Lori",
+      "code": "LO"
+    },
+    {
+      "name": "Shirak",
+      "code": "SH"
+    },
+    {
+      "name": "Syunik",
+      "code": "SU"
+    },
+    {
+      "name": "Tavush",
+      "code": "TV"
+    },
+    {
+      "name": "Vayots Dzor",
+      "code": "VD"
+    },
+    {
+      "name": "Yerevan",
+      "code": "ER"
+    }
   ]
 }

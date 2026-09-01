@@ -183,5 +183,91 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Bjelovarsko-bilogorska županija",
+      "code": "07"
+    },
+    {
+      "name": "Brodsko-posavska županija",
+      "code": "12"
+    },
+    {
+      "name": "Dubrovačko-neretvanska županija",
+      "code": "19"
+    },
+    {
+      "name": "Grad Zagreb",
+      "code": "21"
+    },
+    {
+      "name": "Istarska županija",
+      "code": "18"
+    },
+    {
+      "name": "Karlovačka županija",
+      "code": "04"
+    },
+    {
+      "name": "Koprivničko-križevačka županija",
+      "code": "06"
+    },
+    {
+      "name": "Krapinsko-zagorska županija",
+      "code": "02"
+    },
+    {
+      "name": "Ličko-senjska županija",
+      "code": "09"
+    },
+    {
+      "name": "Međimurska županija",
+      "code": "20"
+    },
+    {
+      "name": "Osječko-baranjska županija",
+      "code": "14"
+    },
+    {
+      "name": "Požeško-slavonska županija",
+      "code": "11"
+    },
+    {
+      "name": "Primorsko-goranska županija",
+      "code": "08"
+    },
+    {
+      "name": "Sisačko-moslavačka županija",
+      "code": "03"
+    },
+    {
+      "name": "Splitsko-dalmatinska županija",
+      "code": "17"
+    },
+    {
+      "name": "Šibensko-kninska županija",
+      "code": "15"
+    },
+    {
+      "name": "Varaždinska županija",
+      "code": "05"
+    },
+    {
+      "name": "Virovitičko-podravska županija",
+      "code": "10"
+    },
+    {
+      "name": "Vukovarsko-srijemska županija",
+      "code": "16"
+    },
+    {
+      "name": "Zadarska županija",
+      "code": "13"
+    },
+    {
+      "name": "Zagrebačka županija",
+      "code": "01"
+    }
   ]
 }

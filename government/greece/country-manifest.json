@@ -183,5 +183,63 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Anatolikí Makedonía kai Thráki",
+      "code": "A"
+    },
+    {
+      "name": "Attikḯ",
+      "code": "I"
+    },
+    {
+      "name": "Dytikí Elláda",
+      "code": "G"
+    },
+    {
+      "name": "Dytikí Makedonía",
+      "code": "C"
+    },
+    {
+      "name": "Ionía Nísia",
+      "code": "F"
+    },
+    {
+      "name": "Kentrikí Makedonía",
+      "code": "B"
+    },
+    {
+      "name": "Krítí",
+      "code": "M"
+    },
+    {
+      "name": "Notío Aigaío",
+      "code": "L"
+    },
+    {
+      "name": "Peloponnísos",
+      "code": "J"
+    },
+    {
+      "name": "Stereá Elláda",
+      "code": "H"
+    },
+    {
+      "name": "Thessalía",
+      "code": "E"
+    },
+    {
+      "name": "Voreío Aigaío",
+      "code": "K"
+    },
+    {
+      "name": "Ípeiros",
+      "code": "D"
+    },
+    {
+      "name": "Ágion Óros",
+      "code": "69"
+    }
   ]
 }

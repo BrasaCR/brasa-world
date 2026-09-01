@@ -183,5 +183,63 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Hlavní město Praha",
+      "code": "10"
+    },
+    {
+      "name": "Jihočeský kraj",
+      "code": "31"
+    },
+    {
+      "name": "Jihomoravský kraj",
+      "code": "64"
+    },
+    {
+      "name": "Karlovarský kraj",
+      "code": "41"
+    },
+    {
+      "name": "Královéhradecký kraj",
+      "code": "52"
+    },
+    {
+      "name": "Liberecký kraj",
+      "code": "51"
+    },
+    {
+      "name": "Moravskoslezský kraj",
+      "code": "80"
+    },
+    {
+      "name": "Olomoucký kraj",
+      "code": "71"
+    },
+    {
+      "name": "Pardubický kraj",
+      "code": "53"
+    },
+    {
+      "name": "Plzeňský kraj",
+      "code": "32"
+    },
+    {
+      "name": "Středočeský kraj",
+      "code": "20"
+    },
+    {
+      "name": "Ústecký kraj",
+      "code": "42"
+    },
+    {
+      "name": "Vysočina",
+      "code": "63"
+    },
+    {
+      "name": "Zlínský kraj",
+      "code": "72"
+    }
   ]
 }

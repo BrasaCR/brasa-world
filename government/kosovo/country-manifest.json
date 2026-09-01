@@ -183,5 +183,35 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Farizaj",
+      "code": "FZ"
+    },
+    {
+      "name": "Gjakova",
+      "code": "GK"
+    },
+    {
+      "name": "Gjilan",
+      "code": "GL"
+    },
+    {
+      "name": "Mitrovica",
+      "code": "MI"
+    },
+    {
+      "name": "Peja/Peć",
+      "code": "PE"
+    },
+    {
+      "name": "Pristina",
+      "code": "PR"
+    },
+    {
+      "name": "Prizren",
+      "code": "PZ"
+    }
   ]
 }

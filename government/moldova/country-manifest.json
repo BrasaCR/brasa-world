@@ -183,5 +183,155 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Anenii Noi",
+      "code": "AN"
+    },
+    {
+      "name": "Basarabeasca",
+      "code": "BS"
+    },
+    {
+      "name": "Bălți",
+      "code": "BA"
+    },
+    {
+      "name": "Bender",
+      "code": "BD"
+    },
+    {
+      "name": "Briceni",
+      "code": "BR"
+    },
+    {
+      "name": "Cahul",
+      "code": "CA"
+    },
+    {
+      "name": "Cantemir",
+      "code": "CT"
+    },
+    {
+      "name": "Călărași",
+      "code": "CL"
+    },
+    {
+      "name": "Căușeni",
+      "code": "CS"
+    },
+    {
+      "name": "Chișinău",
+      "code": "CU"
+    },
+    {
+      "name": "Cimișlia",
+      "code": "CM"
+    },
+    {
+      "name": "Criuleni",
+      "code": "CR"
+    },
+    {
+      "name": "Dondușeni",
+      "code": "DO"
+    },
+    {
+      "name": "Drochia",
+      "code": "DR"
+    },
+    {
+      "name": "Dubăsari",
+      "code": "DU"
+    },
+    {
+      "name": "Edineț",
+      "code": "ED"
+    },
+    {
+      "name": "Fălești",
+      "code": "FA"
+    },
+    {
+      "name": "Florești",
+      "code": "FL"
+    },
+    {
+      "name": "Găgăuzia",
+      "code": "GA"
+    },
+    {
+      "name": "Glodeni",
+      "code": "GL"
+    },
+    {
+      "name": "Hîncești",
+      "code": "HI"
+    },
+    {
+      "name": "Ialoveni",
+      "code": "IA"
+    },
+    {
+      "name": "Leova",
+      "code": "LE"
+    },
+    {
+      "name": "Nisporeni",
+      "code": "NI"
+    },
+    {
+      "name": "Ocnița",
+      "code": "OC"
+    },
+    {
+      "name": "Orhei",
+      "code": "OR"
+    },
+    {
+      "name": "Rezina",
+      "code": "RE"
+    },
+    {
+      "name": "Rîșcani",
+      "code": "RI"
+    },
+    {
+      "name": "Sîngerei",
+      "code": "SI"
+    },
+    {
+      "name": "Soroca",
+      "code": "SO"
+    },
+    {
+      "name": "Stânga Nistrului",
+      "code": "SN"
+    },
+    {
+      "name": "Strășeni",
+      "code": "ST"
+    },
+    {
+      "name": "Șoldănești",
+      "code": "SD"
+    },
+    {
+      "name": "Ștefan Vodă",
+      "code": "SV"
+    },
+    {
+      "name": "Taraclia",
+      "code": "TA"
+    },
+    {
+      "name": "Telenești",
+      "code": "TE"
+    },
+    {
+      "name": "Ungheni",
+      "code": "UN"
+    }
   ]
 }

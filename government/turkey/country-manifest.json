@@ -183,5 +183,331 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Adana",
+      "code": "01"
+    },
+    {
+      "name": "Adiyaman",
+      "code": "02"
+    },
+    {
+      "name": "Afyonkarahisar",
+      "code": "03"
+    },
+    {
+      "name": "Agri",
+      "code": "04"
+    },
+    {
+      "name": "Aksaray",
+      "code": "68"
+    },
+    {
+      "name": "Amasya",
+      "code": "05"
+    },
+    {
+      "name": "Ankara",
+      "code": "06"
+    },
+    {
+      "name": "Antalya",
+      "code": "07"
+    },
+    {
+      "name": "Ardahan",
+      "code": "75"
+    },
+    {
+      "name": "Artvin",
+      "code": "08"
+    },
+    {
+      "name": "Aydin",
+      "code": "09"
+    },
+    {
+      "name": "Balikesir",
+      "code": "10"
+    },
+    {
+      "name": "Bartin",
+      "code": "74"
+    },
+    {
+      "name": "Batman",
+      "code": "72"
+    },
+    {
+      "name": "Bayburt",
+      "code": "69"
+    },
+    {
+      "name": "Bilecik",
+      "code": "11"
+    },
+    {
+      "name": "Bingol",
+      "code": "12"
+    },
+    {
+      "name": "Bitlis",
+      "code": "13"
+    },
+    {
+      "name": "Bolu",
+      "code": "14"
+    },
+    {
+      "name": "Burdur",
+      "code": "15"
+    },
+    {
+      "name": "Bursa",
+      "code": "16"
+    },
+    {
+      "name": "Canakkale",
+      "code": "17"
+    },
+    {
+      "name": "Cankiri",
+      "code": "18"
+    },
+    {
+      "name": "Corum",
+      "code": "19"
+    },
+    {
+      "name": "Denizli",
+      "code": "20"
+    },
+    {
+      "name": "Diyarbakir",
+      "code": "21"
+    },
+    {
+      "name": "Duzce",
+      "code": "81"
+    },
+    {
+      "name": "Edirne",
+      "code": "22"
+    },
+    {
+      "name": "Elazig",
+      "code": "23"
+    },
+    {
+      "name": "Erzincan",
+      "code": "24"
+    },
+    {
+      "name": "Erzurum",
+      "code": "25"
+    },
+    {
+      "name": "Eskisehir",
+      "code": "26"
+    },
+    {
+      "name": "Gaziantep",
+      "code": "27"
+    },
+    {
+      "name": "Giresun",
+      "code": "28"
+    },
+    {
+      "name": "Gumushane",
+      "code": "29"
+    },
+    {
+      "name": "Hakkari",
+      "code": "30"
+    },
+    {
+      "name": "Hatay",
+      "code": "31"
+    },
+    {
+      "name": "Igdir",
+      "code": "76"
+    },
+    {
+      "name": "Isparta",
+      "code": "32"
+    },
+    {
+      "name": "Istanbul",
+      "code": "34"
+    },
+    {
+      "name": "Izmir",
+      "code": "35"
+    },
+    {
+      "name": "Kahramanmaras",
+      "code": "46"
+    },
+    {
+      "name": "Karabuk",
+      "code": "78"
+    },
+    {
+      "name": "Karaman",
+      "code": "70"
+    },
+    {
+      "name": "Kars",
+      "code": "36"
+    },
+    {
+      "name": "Kastamonu",
+      "code": "37"
+    },
+    {
+      "name": "Kayseri",
+      "code": "38"
+    },
+    {
+      "name": "Kilis",
+      "code": "79"
+    },
+    {
+      "name": "Kirikkale",
+      "code": "71"
+    },
+    {
+      "name": "Kirklareli",
+      "code": "39"
+    },
+    {
+      "name": "Kirsehir",
+      "code": "40"
+    },
+    {
+      "name": "Kocaeli",
+      "code": "41"
+    },
+    {
+      "name": "Konya",
+      "code": "42"
+    },
+    {
+      "name": "Kutahya",
+      "code": "43"
+    },
+    {
+      "name": "Malatya",
+      "code": "44"
+    },
+    {
+      "name": "Manisa",
+      "code": "45"
+    },
+    {
+      "name": "Mardin",
+      "code": "47"
+    },
+    {
+      "name": "Mersin",
+      "code": "33"
+    },
+    {
+      "name": "Mugla",
+      "code": "48"
+    },
+    {
+      "name": "Mus",
+      "code": "49"
+    },
+    {
+      "name": "Nevsehir",
+      "code": "50"
+    },
+    {
+      "name": "Nigde",
+      "code": "51"
+    },
+    {
+      "name": "Ordu",
+      "code": "52"
+    },
+    {
+      "name": "Osmaniye",
+      "code": "80"
+    },
+    {
+      "name": "Rize",
+      "code": "53"
+    },
+    {
+      "name": "Sakarya",
+      "code": "54"
+    },
+    {
+      "name": "Samsun",
+      "code": "55"
+    },
+    {
+      "name": "Sanliurfa",
+      "code": "63"
+    },
+    {
+      "name": "Siirt",
+      "code": "56"
+    },
+    {
+      "name": "Sinop",
+      "code": "57"
+    },
+    {
+      "name": "Sirnak",
+      "code": "73"
+    },
+    {
+      "name": "Sivas",
+      "code": "58"
+    },
+    {
+      "name": "Tekirdag",
+      "code": "59"
+    },
+    {
+      "name": "Tokat",
+      "code": "60"
+    },
+    {
+      "name": "Trabzon",
+      "code": "61"
+    },
+    {
+      "name": "Tunceli",
+      "code": "62"
+    },
+    {
+      "name": "Usak",
+      "code": "64"
+    },
+    {
+      "name": "Van",
+      "code": "65"
+    },
+    {
+      "name": "Yalova",
+      "code": "77"
+    },
+    {
+      "name": "Yozgat",
+      "code": "66"
+    },
+    {
+      "name": "Zonguldak",
+      "code": "67"
+    }
   ]
 }

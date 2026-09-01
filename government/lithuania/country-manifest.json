@@ -183,5 +183,47 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Alytaus",
+      "code": "AL"
+    },
+    {
+      "name": "Kauno",
+      "code": "KU"
+    },
+    {
+      "name": "Klaipėdos",
+      "code": "KL"
+    },
+    {
+      "name": "Marijampolės",
+      "code": "MR"
+    },
+    {
+      "name": "Panevėžio",
+      "code": "PN"
+    },
+    {
+      "name": "Šiaulių",
+      "code": "SA"
+    },
+    {
+      "name": "Tauragės",
+      "code": "TA"
+    },
+    {
+      "name": "Telšių",
+      "code": "TE"
+    },
+    {
+      "name": "Utenos",
+      "code": "UT"
+    },
+    {
+      "name": "Vilniaus",
+      "code": "VL"
+    }
   ]
 }

@@ -183,5 +183,111 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Auvergne-Rhône-Alpes",
+      "code": "ARA"
+    },
+    {
+      "name": "Bourgogne-Franche-Comté",
+      "code": "BFC"
+    },
+    {
+      "name": "Bretagne",
+      "code": "BRE"
+    },
+    {
+      "name": "Centre-Val de Loire",
+      "code": "CVL"
+    },
+    {
+      "name": "Corse",
+      "code": "COR"
+    },
+    {
+      "name": "Grand Est",
+      "code": "GES"
+    },
+    {
+      "name": "Hauts-de-France",
+      "code": "HDF"
+    },
+    {
+      "name": "Île-de-France",
+      "code": "IDF"
+    },
+    {
+      "name": "Normandie",
+      "code": "NOR"
+    },
+    {
+      "name": "Nouvelle-Aquitaine",
+      "code": "NAQ"
+    },
+    {
+      "name": "Occitanie",
+      "code": "OCC"
+    },
+    {
+      "name": "Pays de la Loire",
+      "code": "PDL"
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "code": "PAC"
+    },
+    {
+      "name": "Clipperton",
+      "code": "CP"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP"
+    },
+    {
+      "name": "Guyane",
+      "code": "GF"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT"
+    },
+    {
+      "name": "Nouvelle-Calédonie",
+      "code": "NC"
+    },
+    {
+      "name": "Polynésie",
+      "code": "PF"
+    },
+    {
+      "name": "Saint-Pierre-et-Miquelon",
+      "code": "PM"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "code": "BL"
+    },
+    {
+      "name": "Saint Martin",
+      "code": "MF"
+    },
+    {
+      "name": "Réunion",
+      "code": "RE"
+    },
+    {
+      "name": "Terres Australes Françaises",
+      "code": "TF"
+    },
+    {
+      "name": "Wallis-et-Futuna",
+      "code": "WF"
+    }
   ]
 }

@@ -183,5 +183,35 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Brest voblast",
+      "code": "BR"
+    },
+    {
+      "name": "Gorod Minsk",
+      "code": "HM"
+    },
+    {
+      "name": "Homiel voblast",
+      "code": "HO"
+    },
+    {
+      "name": "Hrodna voblast",
+      "code": "HR"
+    },
+    {
+      "name": "Mahilyow voblast",
+      "code": "MA"
+    },
+    {
+      "name": "Minsk voblast",
+      "code": "MI"
+    },
+    {
+      "name": "Vitsebsk voblast",
+      "code": "VI"
+    }
   ]
 }

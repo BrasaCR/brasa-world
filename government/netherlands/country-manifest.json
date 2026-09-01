@@ -183,5 +183,55 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Drenthe",
+      "code": "DR"
+    },
+    {
+      "name": "Flevoland",
+      "code": "FL"
+    },
+    {
+      "name": "Friesland",
+      "code": "FR"
+    },
+    {
+      "name": "Gelderland",
+      "code": "GE"
+    },
+    {
+      "name": "Groningen",
+      "code": "GR"
+    },
+    {
+      "name": "Limburg",
+      "code": "LI"
+    },
+    {
+      "name": "Noord-Brabant",
+      "code": "NB"
+    },
+    {
+      "name": "Noord-Holland",
+      "code": "NH"
+    },
+    {
+      "name": "Overijssel",
+      "code": "OV"
+    },
+    {
+      "name": "Utrecht",
+      "code": "UT"
+    },
+    {
+      "name": "Zeeland",
+      "code": "ZE"
+    },
+    {
+      "name": "Zuid-Holland",
+      "code": "ZH"
+    }
   ]
 }
