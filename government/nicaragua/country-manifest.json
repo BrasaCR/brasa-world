@@ -29,7 +29,19 @@
     "https://www.presidencia.gob.ni/",
     "https://www.ine.gob.ni/?page_id=109411",
     "https://www.telcor.gob.ni/mapeo-cobertura-movil-claro-tigo/",
-    "https://www.enacal.com.ni/servicios/"
+    "https://www.enacal.com.ni/servicios/",
+    "https://www.minsa.gob.ni/",
+    "https://www.hacienda.gob.ni/",
+    "https://www.mific.gob.ni/",
+    "https://www.migob.gob.ni/",
+    "https://www.cancilleria.gob.ni/",
+    "https://www.mitrab.gob.ni/",
+    "https://www.mag.gob.ni/",
+    "https://www.marena.gob.ni/",
+    "https://www.mem.gob.ni/",
+    "https://www.mifamilia.gob.ni/",
+    "https://www.mined.gob.ni/",
+    "https://www.mti.gob.ni/"
   ],
   "utilities": [
     {
@@ -68,79 +80,108 @@
       "name": "Ministerio de Educación",
       "href": "ministry-01-ministerio-de-educacion.html",
       "abbreviation": "MINED",
-      "officialHref": "https://www.presidencia.gob.ni/"
+      "officialHref": "https://www.mined.gob.ni/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Transporte e Infraestructura",
       "href": "ministry-02-ministerio-de-transporte-e-infraestructura.html",
       "abbreviation": "MTI",
-      "officialHref": "https://www.presidencia.gob.ni/"
+      "officialHref": "https://www.mti.gob.ni/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud",
       "href": "ministry-03-ministerio-de-salud.html",
       "abbreviation": "MINSA",
-      "officialHref": "https://www.minsa.gob.ni/"
+      "officialHref": "https://www.minsa.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Hacienda y Crédito Público",
       "href": "ministry-04-ministerio-de-hacienda-y-credito-publico.html",
       "abbreviation": "MHCP",
-      "officialHref": "https://www.hacienda.gob.ni/"
+      "officialHref": "https://www.hacienda.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Fomento, Industria y Comercio",
       "href": "ministry-05-ministerio-de-fomento-industria-y-comercio.html",
       "abbreviation": "MIFIC",
-      "officialHref": "https://www.mific.gob.ni/"
+      "officialHref": "https://www.mific.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Gobernación",
       "href": "ministry-06-ministerio-de-gobernacion.html",
       "abbreviation": "MIGOB",
-      "officialHref": "https://www.migob.gob.ni/"
+      "officialHref": "https://www.migob.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "MINREX",
-      "officialHref": "https://www.cancilleria.gob.ni/"
+      "officialHref": "https://www.cancilleria.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Trabajo",
       "href": "ministry-08-ministerio-del-trabajo.html",
       "abbreviation": "MITRAB",
-      "officialHref": "https://www.mitrab.gob.ni/"
+      "officialHref": "https://www.mitrab.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio Agropecuario",
       "href": "ministry-09-ministerio-agropecuario.html",
       "abbreviation": "MAG",
-      "officialHref": "https://www.mag.gob.ni/"
+      "officialHref": "https://www.mag.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Ambiente y los Recursos Naturales",
       "href": "ministry-10-ministerio-del-ambiente-y-los-recursos-naturales.html",
       "abbreviation": "MARENA",
-      "officialHref": "https://www.marena.gob.ni/"
+      "officialHref": "https://www.marena.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Energía y Minas",
       "href": "ministry-11-ministerio-de-energia-y-minas.html",
       "abbreviation": "MEM",
-      "officialHref": "https://www.mem.gob.ni/"
+      "officialHref": "https://www.mem.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de la Familia, Adolescencia y Niñez",
       "href": "ministry-12-ministerio-de-la-familia-adolescencia-y-ninez.html",
       "abbreviation": "MIFAN",
-      "officialHref": "https://www.mifamilia.gob.ni/"
+      "officialHref": "https://www.mifamilia.gob.ni/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Presidencia de la República",
       "href": "ministry-13-presidencia-de-la-republica.html",
       "abbreviation": "PRESIDENCIA",
-      "officialHref": "https://www.presidencia.gob.ni/"
+      "officialHref": "https://www.presidencia.gob.ni/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -229,5 +270,11 @@
       "name": "Atlántico Sur",
       "code": "AS"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

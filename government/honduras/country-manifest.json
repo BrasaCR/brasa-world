@@ -28,7 +28,20 @@
     "https://www.presidencia.gob.hn/",
     "https://www.cree.gob.hn/registro-publico-de-empresas-del-sector-electrico/",
     "https://www.conatel.gob.hn/",
-    "https://sanaa.hn/"
+    "https://sanaa.hn/",
+    "https://www.salud.gob.hn/",
+    "https://www.sefin.gob.hn/",
+    "https://sde.gob.hn/",
+    "https://www.sgjd.gob.hn/",
+    "https://www.policianacional.gob.hn/",
+    "https://sreci.gob.hn/",
+    "https://www.trabajo.gob.hn/",
+    "https://sag.gob.hn/",
+    "https://serna.gob.hn/",
+    "https://iht.hn/",
+    "https://sedena.gob.hn/",
+    "https://se.gob.hn/",
+    "https://www.sit.gob.hn/"
   ],
   "utilities": [
     {
@@ -67,85 +80,116 @@
       "name": "Secretaría de Educación",
       "href": "ministry-01-secretaria-de-educacion.html",
       "abbreviation": "SEDUC",
-      "officialHref": "https://www.presidencia.gob.hn/"
+      "officialHref": "https://se.gob.hn/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Secretaría de Infraestructura y Transporte",
       "href": "ministry-02-secretaria-de-infraestructura-y-transporte.html",
       "abbreviation": "SIT",
-      "officialHref": "https://www.presidencia.gob.hn/"
+      "officialHref": "https://www.sit.gob.hn/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Secretaría de Salud",
       "href": "ministry-03-secretaria-de-salud.html",
       "abbreviation": "SESAL",
-      "officialHref": "https://www.salud.gob.hn/"
+      "officialHref": "https://www.salud.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Finanzas",
       "href": "ministry-04-secretaria-de-finanzas.html",
       "abbreviation": "SEFIN",
-      "officialHref": "https://www.sefin.gob.hn/"
+      "officialHref": "https://www.sefin.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Desarrollo Económico",
       "href": "ministry-05-secretaria-de-desarrollo-economico.html",
       "abbreviation": "SDE",
-      "officialHref": "https://sde.gob.hn/"
+      "officialHref": "https://sde.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Gobernación, Justicia y Descentralización",
       "href": "ministry-06-secretaria-de-gobernacion-justicia-y-descentralizacion.html",
       "abbreviation": "SGJD",
-      "officialHref": "https://www.sgjd.gob.hn/"
+      "officialHref": "https://www.sgjd.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Seguridad",
       "href": "ministry-07-secretaria-de-seguridad.html",
       "abbreviation": "SEDS",
-      "officialHref": "https://www.policianacional.gob.hn/"
+      "officialHref": "https://www.policianacional.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Relaciones Exteriores",
       "href": "ministry-08-secretaria-de-relaciones-exteriores.html",
       "abbreviation": "SRECI",
-      "officialHref": "https://sreci.gob.hn/"
+      "officialHref": "https://sreci.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Trabajo y Seguridad Social",
       "href": "ministry-09-secretaria-de-trabajo-y-seguridad-social.html",
       "abbreviation": "SETRASS",
-      "officialHref": "https://www.trabajo.gob.hn/"
+      "officialHref": "https://www.trabajo.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Agricultura y Ganadería",
       "href": "ministry-10-secretaria-de-agricultura-y-ganaderia.html",
       "abbreviation": "SAG",
-      "officialHref": "https://sag.gob.hn/"
+      "officialHref": "https://sag.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Recursos Naturales y Ambiente",
       "href": "ministry-11-secretaria-de-recursos-naturales-y-ambiente.html",
       "abbreviation": "SERNA",
-      "officialHref": "https://serna.gob.hn/"
+      "officialHref": "https://serna.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Turismo",
       "href": "ministry-12-secretaria-de-turismo.html",
       "abbreviation": "IHT",
-      "officialHref": "https://iht.hn/"
+      "officialHref": "https://iht.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Defensa Nacional",
       "href": "ministry-13-secretaria-de-defensa-nacional.html",
       "abbreviation": "SEDENA",
-      "officialHref": "https://sedena.gob.hn/"
+      "officialHref": "https://sedena.gob.hn/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Presidencia de la República",
       "href": "ministry-14-presidencia-de-la-republica.html",
       "abbreviation": "PRESIDENCIA",
-      "officialHref": "https://www.presidencia.gob.hn/"
+      "officialHref": "https://www.presidencia.gob.hn/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -238,5 +282,11 @@
       "name": "Yoro",
       "code": "YO"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

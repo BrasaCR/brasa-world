@@ -29,7 +29,21 @@
     "https://www.cubagob.cu/",
     "https://www.etecsa.cu/",
     "https://www.minem.gob.cu/",
-    "https://www.hidro.gob.cu/"
+    "https://www.hidro.gob.cu/",
+    "https://salud.msp.gob.cu/",
+    "https://www.mfp.gob.cu/",
+    "https://www.mep.gob.cu/",
+    "https://www.minint.gob.cu/",
+    "https://cubaminrex.cu/",
+    "https://www.mtss.gob.cu/",
+    "https://www.minag.gob.cu/",
+    "https://www.citma.gob.cu/",
+    "https://www.mincom.gob.cu/",
+    "https://www.ministeriodecultura.gob.cu/",
+    "https://www.mintur.gob.cu/",
+    "https://www.mined.gob.cu/",
+    "https://www.mitrans.gob.cu/",
+    "https://www.presidencia.gob.cu/es/gobierno/"
   ],
   "utilities": [
     {
@@ -68,91 +82,124 @@
       "name": "Ministerio de Educación",
       "href": "ministry-01-ministerio-de-educacion.html",
       "abbreviation": "MINED",
-      "officialHref": "https://www.cubagob.cu/"
+      "officialHref": "https://www.mined.gob.cu/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Transporte",
       "href": "ministry-02-ministerio-del-transporte.html",
       "abbreviation": "MITRANS",
-      "officialHref": "https://www.cubagob.cu/"
+      "officialHref": "https://www.mitrans.gob.cu/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud Pública",
       "href": "ministry-03-ministerio-de-salud-publica.html",
       "abbreviation": "MINSAP",
-      "officialHref": "https://salud.msp.gob.cu/"
+      "officialHref": "https://salud.msp.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Finanzas y Precios",
       "href": "ministry-04-ministerio-de-finanzas-y-precios.html",
       "abbreviation": "MFP",
-      "officialHref": "https://www.mfp.gob.cu/"
+      "officialHref": "https://www.mfp.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Economía y Planificación",
       "href": "ministry-05-ministerio-de-economia-y-planificacion.html",
       "abbreviation": "MEP",
-      "officialHref": "https://www.mep.gob.cu/"
+      "officialHref": "https://www.mep.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Interior",
       "href": "ministry-06-ministerio-del-interior.html",
       "abbreviation": "MININT",
-      "officialHref": "https://www.minint.gob.cu/"
+      "officialHref": "https://www.minint.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "MINREX",
-      "officialHref": "https://cubaminrex.cu/"
+      "officialHref": "https://cubaminrex.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Trabajo y Seguridad Social",
       "href": "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
       "abbreviation": "MTSS",
-      "officialHref": "https://www.mtss.gob.cu/"
+      "officialHref": "https://www.mtss.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Agricultura",
       "href": "ministry-09-ministerio-de-agricultura.html",
       "abbreviation": "MINAG",
-      "officialHref": "https://www.minag.gob.cu/"
+      "officialHref": "https://www.minag.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Ciencia, Tecnología y Medio Ambiente",
       "href": "ministry-10-ministerio-de-ciencia-tecnologia-y-medio-ambiente.html",
       "abbreviation": "CITMA",
-      "officialHref": "https://www.citma.gob.cu/"
+      "officialHref": "https://www.citma.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Energía y Minas",
       "href": "ministry-11-ministerio-de-energia-y-minas.html",
       "abbreviation": "MINEM",
-      "officialHref": "https://www.minem.gob.cu/"
+      "officialHref": "https://www.minem.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Comunicaciones",
       "href": "ministry-12-ministerio-de-comunicaciones.html",
       "abbreviation": "MINCOM",
-      "officialHref": "https://www.mincom.gob.cu/"
+      "officialHref": "https://www.mincom.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Cultura",
       "href": "ministry-13-ministerio-de-cultura.html",
       "abbreviation": "MINCULT",
-      "officialHref": "https://www.ministeriodecultura.gob.cu/"
+      "officialHref": "https://www.ministeriodecultura.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Turismo",
       "href": "ministry-14-ministerio-de-turismo.html",
       "abbreviation": "MINTUR",
-      "officialHref": "https://www.mintur.gob.cu/"
+      "officialHref": "https://www.mintur.gob.cu/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Consejo de Ministros",
       "href": "ministry-15-consejo-de-ministros.html",
       "abbreviation": "GOBIERNO",
-      "officialHref": "https://www.cubagob.cu/"
+      "officialHref": "https://www.presidencia.gob.cu/es/gobierno/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -237,5 +284,11 @@
       "name": "Villa Clara",
       "code": "05"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }
