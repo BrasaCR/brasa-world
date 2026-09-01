@@ -1,0 +1,13 @@
+{
+  "country": "Albania",
+  "officialName": "Albania",
+  "code": "AL",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://e-albania.al/",
+  "sources": [
+    "https://e-albania.al/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

@@ -1,0 +1,626 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="BRASA · Education, World Wide · Owned by the citizens of the world">
+<meta name="theme-color" content="#1B1A17">
+
+<title>How you pick what to learn — BRASA Education</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.brasa.world">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Geist:wght@300..700&display=swap">
+
+<style>
+/* =========================================================================
+   BRASA — How you pick what to learn
+   ========================================================================= */
+:root {
+  --brasa-black: #1B1A17;
+  --brasa-soft: #6B6862;
+  --brasa-accent: #8C3A1F;
+  --brasa-green: #0D6E5C;
+  --brasa-callout: #F2EDE0;
+  --brasa-page: #FBF9F4;
+  --brasa-cream: #F5F0E5;
+  --brasa-rule: #E5DFD0;
+  --brasa-hover: #6B280F;
+
+  --serif: 'Fraunces', 'Times New Roman', serif;
+  --sans: 'Geist', 'Helvetica Neue', system-ui, sans-serif;
+
+  --max-w: 1480px;
+  --gutter: clamp(1.25rem, 4vw, 2.75rem);
+
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --ease-photo: cubic-bezier(0.16, 0.84, 0.34, 1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--brasa-page);
+  color: var(--brasa-black);
+  font-family: var(--sans);
+  font-weight: 400;
+  line-height: 1.5;
+  font-feature-settings: "ss01", "ss02";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transparent; }
+img { display: block; max-width: 100%; height: auto; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+.container {
+  width: 100%;
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+}
+
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brasa-accent);
+  margin-bottom: 1rem;
+}
+
+.section-h {
+  font-family: var(--serif);
+  font-weight: 350;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 0;
+  margin-bottom: 1.5rem;
+  max-width: 28ch;
+}
+
+/* HEADER */
+.site-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  padding: 1.25rem var(--gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  pointer-events: none;
+  transition: padding 380ms var(--ease);
+}
+.site-header > * { pointer-events: auto; }
+.site-header.scrolled { padding-top: 0.9rem; padding-bottom: 0.9rem; }
+.wordmark { display: flex; align-items: center; }
+.wordmark-img { height: 140px; width: auto; display: block; }
+
+/* HERO */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 86vh;
+  min-height: 86svh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: var(--brasa-black);
+}
+.hero-photo { position: absolute; inset: 0; z-index: 1; overflow: hidden; }
+.hero-photo::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(27,26,23,0.4) 0%, rgba(27,26,23,0.15) 30%, rgba(27,26,23,0.25) 55%, rgba(27,26,23,0.72) 100%);
+  z-index: 2;
+}
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: heroBreathe 28s var(--ease-photo) infinite alternate;
+  filter: saturate(0.95) contrast(1.02);
+}
+@keyframes heroBreathe {
+  0%   { transform: scale(1.0)  translateX(0); }
+  100% { transform: scale(1.08) translateX(-1.5%); }
+}
+.hero-content {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  padding: 0 var(--gutter) clamp(3rem, 8vh, 5.5rem);
+  color: var(--brasa-cream);
+}
+.hero-eyebrow {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.78);
+  margin-bottom: 1rem;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: heroReveal 1.4s 0.25s var(--ease) forwards;
+}
+.hero-identity {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: clamp(2.4rem, 6vw, 5.4rem);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  font-variation-settings: "opsz" 144, "SOFT" 60, "WONK" 1;
+  margin-bottom: 1.5rem;
+  max-width: 16ch;
+  opacity: 0;
+  transform: translateY(28px);
+  animation: heroReveal 1.6s 0.4s var(--ease) forwards;
+}
+.hero-tag {
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  letter-spacing: 0.01em;
+  line-height: 1.5;
+  color: rgba(245, 240, 229, 0.86);
+  max-width: 46ch;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: heroReveal 1.6s 0.85s var(--ease) forwards;
+}
+@keyframes heroReveal { to { opacity: 1; transform: translateY(0); } }
+
+/* SECTION */
+.section { padding-top: clamp(4rem, 10vh, 8rem); padding-bottom: clamp(4rem, 10vh, 8rem); }
+.section--tight { padding-top: clamp(3rem, 6vh, 5rem); padding-bottom: clamp(4rem, 9vh, 7rem); }
+
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 1.2s var(--ease), transform 1.2s var(--ease);
+}
+.reveal.is-visible { opacity: 1; transform: translateY(0); }
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .hero-identity, .hero-tag, .hero-eyebrow { opacity: 1; transform: none; animation: none; }
+  .hero-photo img { animation: none; }
+  * { transition-duration: 0.001ms !important; }
+}
+
+/* INTRO · two-column */
+.pick-grid {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: clamp(2.5rem, 6vw, 6rem);
+  align-items: start;
+}
+@media (max-width: 900px) { .pick-grid { grid-template-columns: 1fr; gap: 2rem; } }
+.pick-lede {
+  font-family: var(--sans);
+  font-size: clamp(1.05rem, 1.4vw, 1.25rem);
+  line-height: 1.7;
+  color: var(--brasa-soft);
+}
+.pick-lede strong { color: var(--brasa-black); font-weight: 500; }
+
+/* PATHS · 3-up cards */
+.paths-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+@media (max-width: 900px) { .paths-grid { grid-template-columns: 1fr; } }
+
+.path {
+  background: var(--brasa-cream);
+  border: 1px solid var(--brasa-rule);
+  padding: clamp(1.75rem, 2.6vw, 2.4rem);
+  display: flex;
+  flex-direction: column;
+}
+.path-tag {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brasa-accent);
+  margin-bottom: 0.9rem;
+}
+.path-h {
+  font-family: var(--serif);
+  font-weight: 350;
+  font-size: clamp(1.5rem, 2.2vw, 1.95rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  font-variation-settings: "opsz" 72, "SOFT" 50;
+  margin-bottom: 0.9rem;
+}
+.path-body {
+  font-family: var(--sans);
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: var(--brasa-soft);
+}
+.path-body strong { color: var(--brasa-black); font-weight: 500; }
+
+/* FREE · two link cards */
+.free-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+@media (max-width: 780px) { .free-grid { grid-template-columns: 1fr; } }
+
+.free-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--brasa-rule);
+  background: var(--brasa-page);
+  padding: clamp(1.6rem, 2.4vw, 2.2rem);
+  transition: border-color 280ms var(--ease), background 280ms var(--ease);
+}
+.free-card:hover { border-color: var(--brasa-green); background: var(--brasa-cream); }
+.free-tag {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brasa-green);
+  margin-bottom: 0.7rem;
+}
+.free-h {
+  font-family: var(--serif);
+  font-weight: 350;
+  font-size: clamp(1.4rem, 2vw, 1.75rem);
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  font-variation-settings: "opsz" 72, "SOFT" 50;
+  margin-bottom: 0.7rem;
+}
+.free-body {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--brasa-soft);
+  margin-bottom: 1.4rem;
+}
+.free-cta {
+  margin-top: auto;
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--brasa-green);
+  transition: gap 280ms var(--ease), color 200ms;
+}
+.free-card:hover .free-cta { gap: 0.9rem; }
+.free-cta svg { transition: transform 360ms var(--ease); }
+.free-card:hover .free-cta svg { transform: translateX(4px); }
+
+/* FOOTER */
+.site-footer {
+  background: var(--brasa-black);
+  color: var(--brasa-cream);
+  padding: clamp(3rem, 7vh, 5rem) var(--gutter) 2rem;
+}
+.footer-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 2.5rem;
+  align-items: end;
+}
+@media (max-width: 720px) { .footer-inner { grid-template-columns: 1fr; } }
+.footer-mark-img { height: 220px; width: auto; display: block; margin-bottom: 0.75rem; }
+.footer-tagline {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: rgba(245, 240, 229, 0.65);
+  max-width: 48ch;
+  line-height: 1.6;
+}
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-align: right;
+}
+@media (max-width: 720px) { .footer-links { text-align: left; flex-direction: row; flex-wrap: wrap; gap: 1rem 1.5rem; } }
+.footer-links a { color: rgba(245, 240, 229, 0.78); transition: color 280ms var(--ease); }
+.footer-links a:hover { color: var(--brasa-cream); }
+.footer-bottom {
+  max-width: var(--max-w);
+  margin: 3rem auto 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(245, 240, 229, 0.12);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: rgba(245, 240, 229, 0.4);
+}
+
+:focus-visible { outline: 2px solid var(--brasa-accent); outline-offset: 3px; }
+
+/* SUB-NAVIGATION · 9-tile grid (scoped) */
+#explore .rights-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.1rem; }
+@media (max-width:760px){ #explore .rights-grid{ grid-template-columns:repeat(2,1fr); gap:0.85rem; } }
+@media (max-width:480px){ #explore .rights-grid{ grid-template-columns:1fr; } }
+#explore .right-tile { position:relative; display:block; aspect-ratio:4/3; overflow:hidden; background:var(--brasa-callout); isolation:isolate; }
+#explore .right-tile-primary { position:absolute; inset:0; z-index:1; display:block; cursor:pointer; }
+#explore .right-photo { position:absolute; inset:0; z-index:1; }
+#explore .right-photo::after { content:''; position:absolute; inset:0; background:linear-gradient(180deg, rgba(27,26,23,0) 50%, rgba(27,26,23,0.7) 100%); z-index:2; }
+#explore .right-photo img { width:100%; height:100%; object-fit:cover; transition:transform 1500ms var(--ease-photo); filter:saturate(0.92) contrast(1.03); }
+#explore .right-tile:hover .right-photo img { transform:scale(1.07); }
+#explore .right-label { position:absolute; bottom:0; left:0; right:0; z-index:3; padding:1.25rem 1.35rem; color:var(--brasa-cream); font-family:var(--serif); font-weight:400; font-size:1.4rem; letter-spacing:-0.005em; line-height:1.1; font-variation-settings:"opsz" 48,"SOFT" 40; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header" id="header">
+  <a href="index.html" class="wordmark" aria-label="BRASA — Home">
+    <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="wordmark-img" alt="BRASA">
+  </a>
+</header>
+
+<!-- HERO -->
+<section class="hero" aria-labelledby="hero-identity">
+  <div class="hero-photo">
+    <img src="https://assets.brasa.world/Thumbnails/checklist-steps.jpg"
+         alt="A pen resting on paper with arrows pointing forward"
+         loading="eager" fetchpriority="high" width="1600" height="1067">
+  </div>
+  <div class="hero-content container">
+    <p class="hero-eyebrow">BRASA Education</p>
+    <h1 class="hero-identity" id="hero-identity">Choose your Education or Business.</h1>
+    <p class="hero-tag">Earn and Learn using the World's Highest Standard System.</p>
+  </div>
+</section>
+
+<!-- INTRO -->
+<section class="section" id="standard" aria-labelledby="standard-h">
+  <div class="container">
+    <div class="pick-grid reveal">
+      <div>
+        <p class="eyebrow">How you pick what to learn and how to earn</p>
+        <h2 class="section-h" id="standard-h">The highest standard, or your own path.</h2>
+      </div>
+      <div>
+        <p class="pick-lede">
+          The BRASA Standard is the highest in the world. You can earn a <strong>BRASA-certified degree</strong>
+          along a structured path, or simply pick what you want from wherever you find it. The same goes for your
+          business. <strong>BRASA Business provides all the tools you need to do business your way.</strong> Either
+          way, BRASA tracks your progress.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PATHS -->
+<section class="section section--tight" id="paths" aria-labelledby="paths-h">
+  <div class="container">
+    <h2 class="visually-hidden" id="paths-h" style="position:absolute;left:-9999px;">Choose a path</h2>
+    <div class="paths-grid reveal">
+
+      <div class="path">
+        <p class="path-tag">Primary degree</p>
+        <h3 class="path-h">The full primary school.</h3>
+        <p class="path-body">Complete the full Khan Academy primary-school package — every subject, every course. <strong>BRASA AI helps you learn faster and more comprehensively.</strong></p>
+      </div>
+
+      <div class="path">
+        <p class="path-tag">Secondary degree</p>
+        <h3 class="path-h">Stanford and Yale, combined.</h3>
+        <p class="path-body">We combine Stanford and Yale standards into one BRASA-certified degree — <strong>double the coursework for a single degree,</strong> tracked end to end by BRASA AI.</p>
+      </div>
+
+      <div class="path">
+        <p class="path-tag">Your own path</p>
+        <h3 class="path-h">Follow your curiosity.</h3>
+        <p class="path-body">Or just learn what you want, from anywhere. You are free to follow your curiosity, and <strong>we keep the record of everything you complete.</strong></p>
+      </div>
+
+      <div class="path">
+        <p class="path-tag">Brasa Business</p>
+        <h3 class="path-h">Complete Business System</h3>
+        <p class="path-body">Earn and learn what you want, from anywhere. Follow your curiosity, make money, and <strong>we keep the record of everything you complete.</strong></p>
+      </div>
+
+      <div class="path">
+        <p class="path-tag">Brasa Government</p>
+        <h3 class="path-h">Connected to Business and Education</h3>
+        <p class="path-body">You are using the only system in the world that links <strong>Your Government with Your Business and Your Education</strong> — live, 24/7.</p>
+      </div>
+
+      <div class="path">
+        <p class="path-tag">Brasa World</p>
+        <h3 class="path-h">What Has Never Been Done Before.</h3>
+        <p class="path-body">By combining Education, Business and Government into one system — live, with an Open Ledger, owned by the citizens of the world — BRASA achieves a mathematically proven way to save time and money, with the commercial rails to fund 21 Human Rights, and provides a maintenance fund for our planet.</strong></p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- FREE -->
+<section class="section section--tight" id="free" aria-labelledby="free-h">
+  <div class="container">
+    <div class="reveal">
+      <p class="eyebrow">What is Free, Always</p>
+      <h2 class="section-h" id="free-h">No cost. Real records.</h2>
+    </div>
+    <div class="free-grid reveal">
+      <a class="free-card" href="https://www.classcentral.com/report/free-certificates/" target="_blank" rel="noopener">
+        <p class="free-tag">Free certificates</p>
+        <h3 class="free-h">Earn real certificates at no cost.</h3>
+        <p class="free-body">Earn real certificates of learning at no cost — see where to find them.</p>
+        <span class="free-cta">
+          Class Central's free-certificate guide
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+        </span>
+      </a>
+      <a class="free-card" href="https://www.classcentral.com/subject/personal-development?free=true" target="_blank" rel="noopener">
+        <p class="free-tag">Free personal development</p>
+        <h3 class="free-h">Grow yourself at no cost.</h3>
+        <p class="free-body">Grow yourself at no cost — browse free personal-development courses.</p>
+        <span class="free-cta">
+          Browse on Class Central
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+        </span>
+      </a>
+      <a class="free-card" href="https://www.classcentral.com/subject/business" target="_blank" rel="noopener">
+        <p class="free-tag">Free business education</p>
+        <h3 class="free-h">Learn about your business.</h3>
+        <p class="free-body">Learn and earn a Business Degree specifically designed for your business.</p>
+        <span class="free-cta">
+          Class Central business education
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+        </span>
+      </a>
+      <a class="free-card" href="https://brasagovernment.net/" target="_blank" rel="noopener">
+        <p class="free-tag">Free government education</p>
+        <h3 class="free-h">Learn about your government.</h3>
+        <p class="free-body">Learn about your Government and have the most updated information possible. Save time and money with your education and business linked to government services.</p>
+        <span class="free-cta">
+          BRASA Government
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+        </span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SUB-NAVIGATION · 9-tile grid -->
+<section class="section" id="explore" aria-labelledby="explore-h">
+  <div class="container">
+    <div class="reveal">
+      <p class="eyebrow">Explore</p>
+      <h2 class="section-h" id="explore-h">Explore.</h2>
+    </div>
+    <div class="reveal">
+      <div class="rights-grid">
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-01.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 01</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-02.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 02</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-03.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 03</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-04.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 04</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-05.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 05</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-06.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 06</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-07.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 07</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-08.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 08</div>
+          </a>
+        </div>
+        <div class="right-tile">
+          <a href="#" class="right-tile-primary">
+            <div class="right-photo"><img src="https://assets.brasa.world/Photos/REPLACE-how-you-pick-09.jpg" alt="" loading="lazy" width="400" height="400"></div>
+            <div class="right-label">Project 09</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <img src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png" class="footer-mark-img" alt="BRASA">
+      <p class="footer-tagline">Education, World Wide. Free education for the citizens of the world. Every school, every level, every learner — funded by commerce, protected by Swiss sovereignty.</p>
+    </div>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="index.html">Subjects</a>
+      <a href="index.html#full-catalog">Catalog</a>
+      <a href="how-to-begin.html#begin">Become a citizen</a>
+      <a href="https://brasa.world">brasa.world</a>
+    </nav>
+  </div>
+  <div class="footer-bottom">
+    <span>© BRASA CR · 2026 · Education, World Wide</span>
+    <span>Made with care in Costa Rica</span>
+  </div>
+</footer>
+
+<script>
+const header = document.getElementById('header');
+const onScroll = () => {
+  if (window.scrollY > 40) header.classList.add('scrolled');
+  else header.classList.remove('scrolled');
+};
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+  });
+}, { threshold: 0, rootMargin: '0px 0px -10% 0px' });
+document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
+</script>
+
+</body>
+</html>

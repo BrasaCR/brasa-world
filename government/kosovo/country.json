@@ -1,0 +1,13 @@
+{
+  "country": "Kosovo",
+  "officialName": "Kosovo",
+  "code": "XK",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://rks-gov.net/",
+  "sources": [
+    "https://rks-gov.net/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

@@ -1,5 +1,201 @@
 (function () {
   const countrySites = {
+    "united-kingdom": {
+      name: "United Kingdom",
+      href: "government/united-kingdom/"
+    },
+    "ukraine": {
+      name: "Ukraine",
+      href: "government/ukraine/"
+    },
+    "turkey": {
+      name: "Türkiye",
+      href: "government/turkey/"
+    },
+    "switzerland": {
+      name: "Switzerland",
+      href: "government/switzerland/"
+    },
+    "sweden": {
+      name: "Sweden",
+      href: "government/sweden/"
+    },
+    "spain": {
+      name: "Spain",
+      href: "government/spain/"
+    },
+    "slovenia": {
+      name: "Slovenia",
+      href: "government/slovenia/"
+    },
+    "slovakia": {
+      name: "Slovakia",
+      href: "government/slovakia/"
+    },
+    "serbia": {
+      name: "Serbia",
+      href: "government/serbia/"
+    },
+    "san-marino": {
+      name: "San Marino",
+      href: "government/san-marino/"
+    },
+    "russia": {
+      name: "Russia",
+      href: "government/russia/"
+    },
+    "romania": {
+      name: "Romania",
+      href: "government/romania/"
+    },
+    "portugal": {
+      name: "Portugal",
+      href: "government/portugal/"
+    },
+    "poland": {
+      name: "Poland",
+      href: "government/poland/"
+    },
+    "norway": {
+      name: "Norway",
+      href: "government/norway/"
+    },
+    "north-macedonia": {
+      name: "North Macedonia",
+      href: "government/north-macedonia/"
+    },
+    "netherlands": {
+      name: "Netherlands",
+      href: "government/netherlands/"
+    },
+    "montenegro": {
+      name: "Montenegro",
+      href: "government/montenegro/"
+    },
+    "monaco": {
+      name: "Monaco",
+      href: "government/monaco/"
+    },
+    "moldova": {
+      name: "Moldova",
+      href: "government/moldova/"
+    },
+    "malta": {
+      name: "Malta",
+      href: "government/malta/"
+    },
+    "luxembourg": {
+      name: "Luxembourg",
+      href: "government/luxembourg/"
+    },
+    "lithuania": {
+      name: "Lithuania",
+      href: "government/lithuania/"
+    },
+    "liechtenstein": {
+      name: "Liechtenstein",
+      href: "government/liechtenstein/"
+    },
+    "latvia": {
+      name: "Latvia",
+      href: "government/latvia/"
+    },
+    "kosovo": {
+      name: "Kosovo",
+      href: "government/kosovo/"
+    },
+    "italy": {
+      name: "Italy",
+      href: "government/italy/"
+    },
+    "ireland": {
+      name: "Ireland",
+      href: "government/ireland/"
+    },
+    "iceland": {
+      name: "Iceland",
+      href: "government/iceland/"
+    },
+    "hungary": {
+      name: "Hungary",
+      href: "government/hungary/"
+    },
+    "greece": {
+      name: "Greece",
+      href: "government/greece/"
+    },
+    "germany": {
+      name: "Germany",
+      href: "government/germany/"
+    },
+    "georgia": {
+      name: "Georgia",
+      href: "government/georgia/"
+    },
+    "france": {
+      name: "France",
+      href: "government/france/"
+    },
+    "finland": {
+      name: "Finland",
+      href: "government/finland/"
+    },
+    "estonia": {
+      name: "Estonia",
+      href: "government/estonia/"
+    },
+    "denmark": {
+      name: "Denmark",
+      href: "government/denmark/"
+    },
+    "czechia": {
+      name: "Czechia",
+      href: "government/czechia/"
+    },
+    "cyprus": {
+      name: "Cyprus",
+      href: "government/cyprus/"
+    },
+    "croatia": {
+      name: "Croatia",
+      href: "government/croatia/"
+    },
+    "bulgaria": {
+      name: "Bulgaria",
+      href: "government/bulgaria/"
+    },
+    "bosnia-and-herzegovina": {
+      name: "Bosnia and Herzegovina",
+      href: "government/bosnia-and-herzegovina/"
+    },
+    "belgium": {
+      name: "Belgium",
+      href: "government/belgium/"
+    },
+    "belarus": {
+      name: "Belarus",
+      href: "government/belarus/"
+    },
+    "azerbaijan": {
+      name: "Azerbaijan",
+      href: "government/azerbaijan/"
+    },
+    "austria": {
+      name: "Austria",
+      href: "government/austria/"
+    },
+    "armenia": {
+      name: "Armenia",
+      href: "government/armenia/"
+    },
+    "andorra": {
+      name: "Andorra",
+      href: "government/andorra/"
+    },
+    "albania": {
+      name: "Albania",
+      href: "government/albania/"
+    },
     "saint-kitts-and-nevis": {
       name: "Saint Kitts and Nevis",
       href: "government/saint-kitts-and-nevis/"

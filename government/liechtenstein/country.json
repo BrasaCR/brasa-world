@@ -1,0 +1,13 @@
+{
+  "country": "Liechtenstein",
+  "officialName": "Liechtenstein",
+  "code": "LI",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.llv.li/",
+  "sources": [
+    "https://www.llv.li/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

@@ -1,0 +1,13 @@
+{
+  "country": "France",
+  "officialName": "France",
+  "code": "FR",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.service-public.fr/",
+  "sources": [
+    "https://www.service-public.fr/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}
