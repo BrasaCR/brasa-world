@@ -3,6 +3,7 @@
 <head>
   <base href="/">
   <meta name="brasa-country" content="CD">
+  <meta name="brasa-default-language" content="fr">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="BRASA · Free World School · Owned by the citizens of the world">
@@ -1427,7 +1428,9 @@ const io = new IntersectionObserver((entries) => {
 revealEls.forEach((el) => io.observe(el));
 
 </script>
+<div class="notranslate" translate="no" style="position:fixed;left:18px;bottom:18px;z-index:1000;padding:8px 10px;background:#f8f5ee;border:1px solid rgba(127,50,29,.3)"><label for="brasa-language" style="position:absolute;left:-9999px">Language</label><select id="brasa-language" style="border:0;background:transparent;color:#7f321d;font:600 12px/1 Arial,sans-serif;letter-spacing:.05em"><option value="en">English · Editor</option><option value="fr">Français</option></select><div id="google_translate_element" style="display:none"></div></div>
 <a href="/?global=1" aria-label="Choose a different country" style="position:fixed;right:18px;bottom:18px;z-index:1000;padding:10px 14px;background:#f8f5ee;color:#7f321d;border:1px solid rgba(127,50,29,.3);font:600 12px/1 Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-decoration:none">Change country</a>
 <script src="/country-location.js" defer></script>
+<script src="/country-language.js" defer></script>
 </body>
 </html>
