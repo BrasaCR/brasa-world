@@ -1,0 +1,158 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Agricultura y Ganadería",
+    "page": "Government of Ecuador",
+    "url": "https://www.agricultura.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Cultura y Patrimonio",
+    "page": "Government of Ecuador",
+    "url": "https://www.culturaypatrimonio.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Defensa Nacional",
+    "page": "Government of Ecuador",
+    "url": "https://www.defensa.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Desarrollo Urbano y Vivienda",
+    "page": "Government of Ecuador",
+    "url": "https://www.habitatyvivienda.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Economía y Finanzas",
+    "page": "Government of Ecuador",
+    "url": "https://www.finanzas.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Educación",
+    "page": "Government of Ecuador",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Energía y Minas",
+    "page": "Government of Ecuador",
+    "url": "https://www.recursosyenergia.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Gobierno",
+    "page": "Government of Ecuador",
+    "url": "https://www.ministeriodegobierno.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Inclusión Económica y Social",
+    "page": "Government of Ecuador",
+    "url": "https://www.inclusion.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
+    "page": "Government of Ecuador",
+    "url": "https://www.produccion.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Relaciones Exteriores y Movilidad Humana",
+    "page": "Government of Ecuador",
+    "url": "https://www.cancilleria.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Salud Pública",
+    "page": "Government of Ecuador",
+    "url": "https://www.salud.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Telecomunicaciones y de la Sociedad de la Información",
+    "page": "Government of Ecuador",
+    "url": "https://www.telecomunicaciones.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Trabajo",
+    "page": "Government of Ecuador",
+    "url": "https://www.trabajo.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Transporte y Obras Públicas",
+    "page": "Government of Ecuador",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de Turismo",
+    "page": "Government of Ecuador",
+    "url": "https://www.turismo.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio de la Mujer y Derechos Humanos",
+    "page": "Government of Ecuador",
+    "url": "https://www.derechoshumanos.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Ambiente, Agua y Transición Ecológica",
+    "page": "Government of Ecuador",
+    "url": "https://www.ambiente.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Deporte",
+    "page": "Government of Ecuador",
+    "url": "https://www.deporte.gob.ec/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministerio del Interior",
+    "page": "Government of Ecuador",
+    "url": "https://www.ministeriodelinterior.gob.ec/",
+    "verified": "2026-09-01"
+  }
+]

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "slug": "ecuador",
+  "code": "EC",
+  "country": "Ecuador",
+  "officialName": "Republic of Ecuador",
+  "brand": "BRASA EC",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.presidencia.gob.ec/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA VE",
+    "Government of Venezuela",
+    "Made with care in Venezuela",
+    "Venezuela",
+    "presidencia.gob.ve",
+    "corpoelec.gob.ve",
+    "conatel.gob.ve",
+    "hidrocapital.com.ve"
+  ],
+  "identityReplacements": {
+    "BRASA VE": "BRASA EC",
+    "Government of Venezuela": "Government of Ecuador",
+    "Made with care in Venezuela": "Made with care in Ecuador",
+    "Venezuela": "Ecuador"
+  },
+  "sources": [
+    "https://gobec-dev02.gobiernoelectronico.gob.ec/instituciones",
+    "https://datosabiertos.presidencia.gob.ec/dataset/",
+    "https://www.asambleanacional.gob.ec/es/noticias/instituciones",
+    "https://www.arcotel.gob.ec/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "CNEL EP and regional distributors"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Municipal and regional providers"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Petroecuador and licensed distributors"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Claro, Movistar and CNT"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "CNT, Netlife, Claro and Puntonet"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal services"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio de Agricultura y Ganadería",
+      "href": "https://www.agricultura.gob.ec/",
+      "abbreviation": "MAG"
+    },
+    {
+      "name": "Ministerio de Cultura y Patrimonio",
+      "href": "https://www.culturaypatrimonio.gob.ec/",
+      "abbreviation": "MCYP"
+    },
+    {
+      "name": "Ministerio de Defensa Nacional",
+      "href": "https://www.defensa.gob.ec/",
+      "abbreviation": "MIDENA"
+    },
+    {
+      "name": "Ministerio de Desarrollo Urbano y Vivienda",
+      "href": "https://www.habitatyvivienda.gob.ec/",
+      "abbreviation": "MIDUVI"
+    },
+    {
+      "name": "Ministerio de Economía y Finanzas",
+      "href": "https://www.finanzas.gob.ec/",
+      "abbreviation": "MEF"
+    },
+    {
+      "name": "Ministerio de Educación",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "MINEDUC"
+    },
+    {
+      "name": "Ministerio de Energía y Minas",
+      "href": "https://www.recursosyenergia.gob.ec/",
+      "abbreviation": "MEM"
+    },
+    {
+      "name": "Ministerio de Gobierno",
+      "href": "https://www.ministeriodegobierno.gob.ec/",
+      "abbreviation": "MDG"
+    },
+    {
+      "name": "Ministerio de Inclusión Económica y Social",
+      "href": "https://www.inclusion.gob.ec/",
+      "abbreviation": "MIES"
+    },
+    {
+      "name": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
+      "href": "https://www.produccion.gob.ec/",
+      "abbreviation": "MPCEIP"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores y Movilidad Humana",
+      "href": "https://www.cancilleria.gob.ec/",
+      "abbreviation": "MREMH"
+    },
+    {
+      "name": "Ministerio de Salud Pública",
+      "href": "https://www.salud.gob.ec/",
+      "abbreviation": "MSP"
+    },
+    {
+      "name": "Ministerio de Telecomunicaciones y de la Sociedad de la Información",
+      "href": "https://www.telecomunicaciones.gob.ec/",
+      "abbreviation": "MINTEL"
+    },
+    {
+      "name": "Ministerio del Trabajo",
+      "href": "https://www.trabajo.gob.ec/",
+      "abbreviation": "MDT"
+    },
+    {
+      "name": "Ministerio de Transporte y Obras Públicas",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "MTOP"
+    },
+    {
+      "name": "Ministerio de Turismo",
+      "href": "https://www.turismo.gob.ec/",
+      "abbreviation": "MINTUR"
+    },
+    {
+      "name": "Ministerio de la Mujer y Derechos Humanos",
+      "href": "https://www.derechoshumanos.gob.ec/",
+      "abbreviation": "MMDH"
+    },
+    {
+      "name": "Ministerio del Ambiente, Agua y Transición Ecológica",
+      "href": "https://www.ambiente.gob.ec/",
+      "abbreviation": "MAATE"
+    },
+    {
+      "name": "Ministerio del Deporte",
+      "href": "https://www.deporte.gob.ec/",
+      "abbreviation": "MD"
+    },
+    {
+      "name": "Ministerio del Interior",
+      "href": "https://www.ministeriodelinterior.gob.ec/",
+      "abbreviation": "MDI"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

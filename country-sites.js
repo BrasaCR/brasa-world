@@ -1,5 +1,9 @@
 (function () {
   const countrySites = {
+    "ecuador": {
+      name: "Ecuador",
+      href: "government/ecuador/"
+    },
     "venezuela": {
       name: "Venezuela",
       href: "government/venezuela/"
