@@ -1,0 +1,13 @@
+{
+  "country": "Tunisia",
+  "officialName": "Tunisia",
+  "code": "TN",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.tunisie.gov.tn/",
+  "sources": [
+    "https://www.tunisie.gov.tn/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

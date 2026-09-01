@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "egypt",
+  "code": "EG",
+  "country": "Egypt",
+  "officialName": "Egypt",
+  "brand": "BRASA EG",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.egypt.gov.eg/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA EG",
+    "Government of Panama": "Government of Egypt",
+    "Made with care in Panama": "Made with care in Egypt",
+    "Panamanian": "Egypt",
+    "Panama": "Egypt"
+  },
+  "sources": [
+    "https://www.egypt.gov.eg/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "EG-1",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "EG-2",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "EG-3",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "EG-4",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "EG-5",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "EG-6",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "EG-7",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "EG-8",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "EG-9",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "EG-10",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "EG-11",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "EG-12",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "EG-13",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "EG-14",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "EG-15",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "EG-16",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "EG-17",
+      "officialHref": "https://www.egypt.gov.eg/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "EG-18",
+      "officialHref": "https://www.egypt.gov.eg/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Alexandria",
+      "code": "ALX"
+    },
+    {
+      "name": "Aswan",
+      "code": "ASN"
+    },
+    {
+      "name": "Asyout",
+      "code": "AST"
+    },
+    {
+      "name": "Bani Sueif",
+      "code": "BNS"
+    },
+    {
+      "name": "Beheira",
+      "code": "BH"
+    },
+    {
+      "name": "Cairo",
+      "code": "C"
+    },
+    {
+      "name": "Daqahlia",
+      "code": "DK"
+    },
+    {
+      "name": "Dumiat",
+      "code": "DT"
+    },
+    {
+      "name": "El Bahr El Ahmar",
+      "code": "BA"
+    },
+    {
+      "name": "El Ismailia",
+      "code": "IS"
+    },
+    {
+      "name": "El Suez",
+      "code": "SUZ"
+    },
+    {
+      "name": "El Wadi El Gedeed",
+      "code": "WAD"
+    },
+    {
+      "name": "Fayoum",
+      "code": "FYM"
+    },
+    {
+      "name": "Gharbia",
+      "code": "GH"
+    },
+    {
+      "name": "Giza",
+      "code": "GZ"
+    },
+    {
+      "name": "Helwan",
+      "code": "HU"
+    },
+    {
+      "name": "Kafr El Sheikh",
+      "code": "KFS"
+    },
+    {
+      "name": "Luxor",
+      "code": "LX"
+    },
+    {
+      "name": "Matrouh",
+      "code": "MT"
+    },
+    {
+      "name": "Menia",
+      "code": "MN"
+    },
+    {
+      "name": "Menofia",
+      "code": "MNF"
+    },
+    {
+      "name": "North Sinai",
+      "code": "SIN"
+    },
+    {
+      "name": "Port Said",
+      "code": "PTS"
+    },
+    {
+      "name": "Qalubia",
+      "code": "KB"
+    },
+    {
+      "name": "Qena",
+      "code": "KN"
+    },
+    {
+      "name": "Sharqia",
+      "code": "SHR"
+    },
+    {
+      "name": "Sixth of October",
+      "code": "SU"
+    },
+    {
+      "name": "Sohag",
+      "code": "SHG"
+    },
+    {
+      "name": "South Sinai",
+      "code": "JS"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "country": "South Sudan",
+  "officialName": "South Sudan",
+  "code": "SS",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.ss/",
+  "sources": [
+    "https://www.gov.ss/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

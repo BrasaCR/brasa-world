@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "kenya",
+  "code": "KE",
+  "country": "Kenya",
+  "officialName": "Kenya",
+  "brand": "BRASA KE",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.kenya.go.ke/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA KE",
+    "Government of Panama": "Government of Kenya",
+    "Made with care in Panama": "Made with care in Kenya",
+    "Panamanian": "Kenya",
+    "Panama": "Kenya"
+  },
+  "sources": [
+    "https://www.kenya.go.ke/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "KE-1",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "KE-2",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "KE-3",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "KE-4",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "KE-5",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "KE-6",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "KE-7",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "KE-8",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "KE-9",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "KE-10",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "KE-11",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "KE-12",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "KE-13",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "KE-14",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "KE-15",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "KE-16",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "KE-17",
+      "officialHref": "https://www.kenya.go.ke/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "KE-18",
+      "officialHref": "https://www.kenya.go.ke/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Baringo",
+      "code": "01"
+    },
+    {
+      "name": "Bomet",
+      "code": "02"
+    },
+    {
+      "name": "Bungoma",
+      "code": "03"
+    },
+    {
+      "name": "Busia",
+      "code": "04"
+    },
+    {
+      "name": "Eleyo/Marakwet",
+      "code": "05"
+    },
+    {
+      "name": "Embu",
+      "code": "06"
+    },
+    {
+      "name": "Garissa",
+      "code": "07"
+    },
+    {
+      "name": "Homa Bay",
+      "code": "08"
+    },
+    {
+      "name": "Isiolo",
+      "code": "09"
+    },
+    {
+      "name": "Kajiado",
+      "code": "10"
+    },
+    {
+      "name": "Kakamega",
+      "code": "11"
+    },
+    {
+      "name": "Kericho",
+      "code": "12"
+    },
+    {
+      "name": "Kiambu",
+      "code": "13"
+    },
+    {
+      "name": "Kilifi",
+      "code": "14"
+    },
+    {
+      "name": "Kirinyaga",
+      "code": "15"
+    },
+    {
+      "name": "Kisii",
+      "code": "16"
+    },
+    {
+      "name": "Kisumu",
+      "code": "17"
+    },
+    {
+      "name": "Kitui",
+      "code": "18"
+    },
+    {
+      "name": "Kwale",
+      "code": "19"
+    },
+    {
+      "name": "Laikipia",
+      "code": "20"
+    },
+    {
+      "name": "Lamu",
+      "code": "21"
+    },
+    {
+      "name": "Machakos",
+      "code": "22"
+    },
+    {
+      "name": "Makueni",
+      "code": "23"
+    },
+    {
+      "name": "Mandera",
+      "code": "24"
+    },
+    {
+      "name": "Marsabit",
+      "code": "25"
+    },
+    {
+      "name": "Meru",
+      "code": "26"
+    },
+    {
+      "name": "Migori",
+      "code": "27"
+    },
+    {
+      "name": "Mombasa",
+      "code": "28"
+    },
+    {
+      "name": "Murang'a",
+      "code": "29"
+    },
+    {
+      "name": "Nairobi City",
+      "code": "30"
+    },
+    {
+      "name": "Nakuru",
+      "code": "31"
+    },
+    {
+      "name": "Nandi",
+      "code": "32"
+    },
+    {
+      "name": "Narok",
+      "code": "33"
+    },
+    {
+      "name": "Nyamira",
+      "code": "34"
+    },
+    {
+      "name": "Nyandarua",
+      "code": "35"
+    },
+    {
+      "name": "Nyeri",
+      "code": "36"
+    },
+    {
+      "name": "Samburu",
+      "code": "37"
+    },
+    {
+      "name": "Siaya",
+      "code": "38"
+    },
+    {
+      "name": "Taita/Taveta",
+      "code": "39"
+    },
+    {
+      "name": "Tana River",
+      "code": "40"
+    },
+    {
+      "name": "Tharaka-Nithi",
+      "code": "41"
+    },
+    {
+      "name": "Trans Nzoia",
+      "code": "42"
+    },
+    {
+      "name": "Turkana",
+      "code": "43"
+    },
+    {
+      "name": "Uasin Gishu",
+      "code": "44"
+    },
+    {
+      "name": "Vihiga",
+      "code": "45"
+    },
+    {
+      "name": "Wajir",
+      "code": "46"
+    },
+    {
+      "name": "West Pokot",
+      "code": "47"
+    }
+  ]
+}

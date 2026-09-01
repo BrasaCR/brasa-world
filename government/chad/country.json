@@ -1,0 +1,13 @@
+{
+  "country": "Chad",
+  "officialName": "Chad",
+  "code": "TD",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gouvernement.td/",
+  "sources": [
+    "https://www.gouvernement.td/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

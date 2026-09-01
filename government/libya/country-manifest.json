@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "libya",
+  "code": "LY",
+  "country": "Libya",
+  "officialName": "Libya",
+  "brand": "BRASA LY",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://pm.gov.ly/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA LY",
+    "Government of Panama": "Government of Libya",
+    "Made with care in Panama": "Made with care in Libya",
+    "Panamanian": "Libya",
+    "Panama": "Libya"
+  },
+  "sources": [
+    "https://pm.gov.ly/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "LY-1",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "LY-2",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "LY-3",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "LY-4",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "LY-5",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "LY-6",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "LY-7",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "LY-8",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "LY-9",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "LY-10",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "LY-11",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "LY-12",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "LY-13",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "LY-14",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "LY-15",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "LY-16",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "LY-17",
+      "officialHref": "https://pm.gov.ly/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "LY-18",
+      "officialHref": "https://pm.gov.ly/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Al Buţnān",
+      "code": "BU"
+    },
+    {
+      "name": "Al Jabal al Akhḑar",
+      "code": "JA"
+    },
+    {
+      "name": "Al Jabal al Gharbī",
+      "code": "JG"
+    },
+    {
+      "name": "Al Jafārah",
+      "code": "JI"
+    },
+    {
+      "name": "Al Jufrah",
+      "code": "JU"
+    },
+    {
+      "name": "Al Kufrah",
+      "code": "FK"
+    },
+    {
+      "name": "Al Marj",
+      "code": "MJ"
+    },
+    {
+      "name": "Al Marquab",
+      "code": "MB"
+    },
+    {
+      "name": "Al Wāḩāt",
+      "code": "WA"
+    },
+    {
+      "name": "An Nuqaţ al Khams",
+      "code": "NQ"
+    },
+    {
+      "name": "Az Zāwiyah",
+      "code": "ZA"
+    },
+    {
+      "name": "Banghāzī",
+      "code": "BA"
+    },
+    {
+      "name": "Darnah",
+      "code": "DR"
+    },
+    {
+      "name": "Ghāt",
+      "code": "GH"
+    },
+    {
+      "name": "Mişrātah",
+      "code": "MI"
+    },
+    {
+      "name": "Murzuq",
+      "code": "MQ"
+    },
+    {
+      "name": "Nālūt",
+      "code": "NL"
+    },
+    {
+      "name": "Sabhā",
+      "code": "SB"
+    },
+    {
+      "name": "Surt",
+      "code": "SR"
+    },
+    {
+      "name": "Ţarābulus",
+      "code": "TB"
+    },
+    {
+      "name": "Yafran",
+      "code": "WD"
+    },
+    {
+      "name": "Wādī ash Shāţiʾ",
+      "code": "WS"
+    }
+  ]
+}

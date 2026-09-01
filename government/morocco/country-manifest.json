@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "morocco",
+  "code": "MA",
+  "country": "Morocco",
+  "officialName": "Morocco",
+  "brand": "BRASA MA",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.maroc.ma/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA MA",
+    "Government of Panama": "Government of Morocco",
+    "Made with care in Panama": "Made with care in Morocco",
+    "Panamanian": "Morocco",
+    "Panama": "Morocco"
+  },
+  "sources": [
+    "https://www.maroc.ma/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "MA-1",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "MA-2",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "MA-3",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "MA-4",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "MA-5",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "MA-6",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "MA-7",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "MA-8",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "MA-9",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "MA-10",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "MA-11",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "MA-12",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "MA-13",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "MA-14",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "MA-15",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "MA-16",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "MA-17",
+      "officialHref": "https://www.maroc.ma/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "MA-18",
+      "officialHref": "https://www.maroc.ma/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "code": "MA-01"
+    },
+    {
+      "name": "L'Oriental",
+      "code": "MA-02"
+    },
+    {
+      "name": "Fès-Meknès",
+      "code": "MA-03"
+    },
+    {
+      "name": "Rabat-Salé-Kénitra",
+      "code": "MA-04"
+    },
+    {
+      "name": "Béni Mellal-Khénifra",
+      "code": "MA-05"
+    },
+    {
+      "name": "Casablanca-Settat",
+      "code": "MA-06"
+    },
+    {
+      "name": "Marrakech-Safi",
+      "code": "MA-07"
+    },
+    {
+      "name": "Drâa-Tafilalet",
+      "code": "MA-08"
+    },
+    {
+      "name": "Souss-Massa",
+      "code": "MA-09"
+    },
+    {
+      "name": "Guelmim-Oued Noun",
+      "code": "MA-10"
+    },
+    {
+      "name": "Laâyoune-Sakia El Hamra",
+      "code": "MA-11"
+    },
+    {
+      "name": "Dakhla-Oued Ed-Dahab",
+      "code": "MA-12"
+    }
+  ]
+}

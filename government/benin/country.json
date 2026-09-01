@@ -1,0 +1,13 @@
+{
+  "country": "Benin",
+  "officialName": "Benin",
+  "code": "BJ",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://service-public.bj/",
+  "sources": [
+    "https://service-public.bj/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

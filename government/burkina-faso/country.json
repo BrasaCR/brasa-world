@@ -1,0 +1,13 @@
+{
+  "country": "Burkina Faso",
+  "officialName": "Burkina Faso",
+  "code": "BF",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gouvernement.gov.bf/",
+  "sources": [
+    "https://www.gouvernement.gov.bf/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

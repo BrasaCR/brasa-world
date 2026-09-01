@@ -1,0 +1,513 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "uganda",
+  "code": "UG",
+  "country": "Uganda",
+  "officialName": "Uganda",
+  "brand": "BRASA UG",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gou.go.ug/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA UG",
+    "Government of Panama": "Government of Uganda",
+    "Made with care in Panama": "Made with care in Uganda",
+    "Panamanian": "Uganda",
+    "Panama": "Uganda"
+  },
+  "sources": [
+    "https://www.gou.go.ug/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "UG-1",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "UG-2",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "UG-3",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "UG-4",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "UG-5",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "UG-6",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "UG-7",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "UG-8",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "UG-9",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "UG-10",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "UG-11",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "UG-12",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "UG-13",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "UG-14",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "UG-15",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "UG-16",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "UG-17",
+      "officialHref": "https://www.gou.go.ug/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "UG-18",
+      "officialHref": "https://www.gou.go.ug/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Abim",
+      "code": "317"
+    },
+    {
+      "name": "Adjumani",
+      "code": "301"
+    },
+    {
+      "name": "Amolatar",
+      "code": "314"
+    },
+    {
+      "name": "Amuria",
+      "code": "216"
+    },
+    {
+      "name": "Amuru",
+      "code": "319"
+    },
+    {
+      "name": "Apac",
+      "code": "302"
+    },
+    {
+      "name": "Arua",
+      "code": "303"
+    },
+    {
+      "name": "Budaka",
+      "code": "217"
+    },
+    {
+      "name": "Bududa",
+      "code": "223"
+    },
+    {
+      "name": "Bugiri",
+      "code": "201"
+    },
+    {
+      "name": "Bukedea",
+      "code": "224"
+    },
+    {
+      "name": "Bukwa",
+      "code": "218"
+    },
+    {
+      "name": "Buliisa",
+      "code": "419"
+    },
+    {
+      "name": "Bundibugyo",
+      "code": "401"
+    },
+    {
+      "name": "Bushenyi",
+      "code": "402"
+    },
+    {
+      "name": "Busia",
+      "code": "202"
+    },
+    {
+      "name": "Butaleja",
+      "code": "219"
+    },
+    {
+      "name": "Dokolo",
+      "code": "318"
+    },
+    {
+      "name": "Gulu",
+      "code": "304"
+    },
+    {
+      "name": "Hoima",
+      "code": "403"
+    },
+    {
+      "name": "Ibanda",
+      "code": "416"
+    },
+    {
+      "name": "Iganga",
+      "code": "203"
+    },
+    {
+      "name": "Isingiro",
+      "code": "417"
+    },
+    {
+      "name": "Jinja",
+      "code": "204"
+    },
+    {
+      "name": "Kaabong",
+      "code": "315"
+    },
+    {
+      "name": "Kabale",
+      "code": "404"
+    },
+    {
+      "name": "Kabarole",
+      "code": "405"
+    },
+    {
+      "name": "Kaberamaido",
+      "code": "213"
+    },
+    {
+      "name": "Kalangala",
+      "code": "101"
+    },
+    {
+      "name": "Kaliro",
+      "code": "220"
+    },
+    {
+      "name": "Kampala",
+      "code": "102"
+    },
+    {
+      "name": "Kamuli",
+      "code": "205"
+    },
+    {
+      "name": "Kamwenge",
+      "code": "413"
+    },
+    {
+      "name": "Kanungu",
+      "code": "414"
+    },
+    {
+      "name": "Kapchorwa",
+      "code": "206"
+    },
+    {
+      "name": "Kasese",
+      "code": "406"
+    },
+    {
+      "name": "Katakwi",
+      "code": "207"
+    },
+    {
+      "name": "Kayunga",
+      "code": "112"
+    },
+    {
+      "name": "Kibaale",
+      "code": "407"
+    },
+    {
+      "name": "Kiboga",
+      "code": "103"
+    },
+    {
+      "name": "Kiruhura",
+      "code": "418"
+    },
+    {
+      "name": "Kisoro",
+      "code": "408"
+    },
+    {
+      "name": "Kitgum",
+      "code": "305"
+    },
+    {
+      "name": "Koboko",
+      "code": "316"
+    },
+    {
+      "name": "Kotido",
+      "code": "306"
+    },
+    {
+      "name": "Kumi",
+      "code": "208"
+    },
+    {
+      "name": "Kyenjojo",
+      "code": "415"
+    },
+    {
+      "name": "Lira",
+      "code": "307"
+    },
+    {
+      "name": "Luwero",
+      "code": "104"
+    },
+    {
+      "name": "Lyantonde",
+      "code": "116"
+    },
+    {
+      "name": "Luuka",
+      "code": "229"
+    },
+    {
+      "name": "Manafwa",
+      "code": "221"
+    },
+    {
+      "name": "Maracha",
+      "code": "320"
+    },
+    {
+      "name": "Masaka",
+      "code": "105"
+    },
+    {
+      "name": "Masindi",
+      "code": "409"
+    },
+    {
+      "name": "Mayuge",
+      "code": "214"
+    },
+    {
+      "name": "Mbale",
+      "code": "209"
+    },
+    {
+      "name": "Mbarara",
+      "code": "410"
+    },
+    {
+      "name": "Mityana",
+      "code": "114"
+    },
+    {
+      "name": "Moroto",
+      "code": "308"
+    },
+    {
+      "name": "Moyo",
+      "code": "309"
+    },
+    {
+      "name": "Mpigi",
+      "code": "106"
+    },
+    {
+      "name": "Mubende",
+      "code": "107"
+    },
+    {
+      "name": "Mukono",
+      "code": "108"
+    },
+    {
+      "name": "Nakapiripirit",
+      "code": "311"
+    },
+    {
+      "name": "Nakaseke",
+      "code": "115"
+    },
+    {
+      "name": "Nakasongola",
+      "code": "109"
+    },
+    {
+      "name": "Namutumba",
+      "code": "222"
+    },
+    {
+      "name": "Nebbi",
+      "code": "310"
+    },
+    {
+      "name": "Ntungamo",
+      "code": "411"
+    },
+    {
+      "name": "Oyam",
+      "code": "321"
+    },
+    {
+      "name": "Pader",
+      "code": "312"
+    },
+    {
+      "name": "Pallisa",
+      "code": "210"
+    },
+    {
+      "name": "Rakai",
+      "code": "110"
+    },
+    {
+      "name": "Rukungiri",
+      "code": "412"
+    },
+    {
+      "name": "Sembabule",
+      "code": "111"
+    },
+    {
+      "name": "Sironko",
+      "code": "215"
+    },
+    {
+      "name": "Soroti",
+      "code": "211"
+    },
+    {
+      "name": "Tororo",
+      "code": "212"
+    },
+    {
+      "name": "Wakiso",
+      "code": "113"
+    },
+    {
+      "name": "Yumbe",
+      "code": "313"
+    }
+  ]
+}

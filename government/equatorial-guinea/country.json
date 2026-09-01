@@ -1,0 +1,13 @@
+{
+  "country": "Equatorial Guinea",
+  "officialName": "Equatorial Guinea",
+  "code": "GQ",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.guineaecuatorialpress.com/",
+  "sources": [
+    "https://www.guineaecuatorialpress.com/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

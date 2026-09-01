@@ -1,0 +1,146 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Health ministry or national health authority",
+    "page": "Government of Egypt",
+    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Environment and climate authority",
+    "page": "Government of Egypt",
+    "url": "ministry-02-environment-and-climate-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Education ministry or national education authority",
+    "page": "Government of Egypt",
+    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Finance and treasury authority",
+    "page": "Government of Egypt",
+    "url": "ministry-04-finance-and-treasury-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Transport and infrastructure authority",
+    "page": "Government of Egypt",
+    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Interior and public safety authority",
+    "page": "Government of Egypt",
+    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Agriculture and rural affairs authority",
+    "page": "Government of Egypt",
+    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Labour and employment authority",
+    "page": "Government of Egypt",
+    "url": "ministry-08-labour-and-employment-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Housing and spatial planning authority",
+    "page": "Government of Egypt",
+    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Culture and heritage authority",
+    "page": "Government of Egypt",
+    "url": "ministry-10-culture-and-heritage-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Justice authority",
+    "page": "Government of Egypt",
+    "url": "ministry-11-justice-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Economy, commerce and industry authority",
+    "page": "Government of Egypt",
+    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Foreign affairs authority",
+    "page": "Government of Egypt",
+    "url": "ministry-13-foreign-affairs-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Social protection authority",
+    "page": "Government of Egypt",
+    "url": "ministry-14-social-protection-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Head of government and cabinet",
+    "page": "Government of Egypt",
+    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Electoral authority",
+    "page": "Government of Egypt",
+    "url": "ministry-16-electoral-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "National social insurance authority",
+    "page": "Government of Egypt",
+    "url": "ministry-17-national-social-insurance-authority.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Digital government authority",
+    "page": "Government of Egypt",
+    "url": "ministry-18-digital-government-authority.html",
+    "verified": "2026-09-01"
+  }
+]

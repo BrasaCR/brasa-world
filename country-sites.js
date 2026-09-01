@@ -1,5 +1,221 @@
 (function () {
   const countrySites = {
+    "zimbabwe": {
+      name: "Zimbabwe",
+      href: "government/zimbabwe/"
+    },
+    "zambia": {
+      name: "Zambia",
+      href: "government/zambia/"
+    },
+    "uganda": {
+      name: "Uganda",
+      href: "government/uganda/"
+    },
+    "tunisia": {
+      name: "Tunisia",
+      href: "government/tunisia/"
+    },
+    "togo": {
+      name: "Togo",
+      href: "government/togo/"
+    },
+    "tanzania": {
+      name: "Tanzania",
+      href: "government/tanzania/"
+    },
+    "sudan": {
+      name: "Sudan",
+      href: "government/sudan/"
+    },
+    "south-sudan": {
+      name: "South Sudan",
+      href: "government/south-sudan/"
+    },
+    "south-africa": {
+      name: "South Africa",
+      href: "government/south-africa/"
+    },
+    "somalia": {
+      name: "Somalia",
+      href: "government/somalia/"
+    },
+    "sierra-leone": {
+      name: "Sierra Leone",
+      href: "government/sierra-leone/"
+    },
+    "seychelles": {
+      name: "Seychelles",
+      href: "government/seychelles/"
+    },
+    "senegal": {
+      name: "Senegal",
+      href: "government/senegal/"
+    },
+    "sao-tome-and-principe": {
+      name: "São Tomé and Príncipe",
+      href: "government/sao-tome-and-principe/"
+    },
+    "rwanda": {
+      name: "Rwanda",
+      href: "government/rwanda/"
+    },
+    "nigeria": {
+      name: "Nigeria",
+      href: "government/nigeria/"
+    },
+    "niger": {
+      name: "Niger",
+      href: "government/niger/"
+    },
+    "namibia": {
+      name: "Namibia",
+      href: "government/namibia/"
+    },
+    "mozambique": {
+      name: "Mozambique",
+      href: "government/mozambique/"
+    },
+    "morocco": {
+      name: "Morocco",
+      href: "government/morocco/"
+    },
+    "mauritius": {
+      name: "Mauritius",
+      href: "government/mauritius/"
+    },
+    "mauritania": {
+      name: "Mauritania",
+      href: "government/mauritania/"
+    },
+    "mali": {
+      name: "Mali",
+      href: "government/mali/"
+    },
+    "malawi": {
+      name: "Malawi",
+      href: "government/malawi/"
+    },
+    "madagascar": {
+      name: "Madagascar",
+      href: "government/madagascar/"
+    },
+    "libya": {
+      name: "Libya",
+      href: "government/libya/"
+    },
+    "liberia": {
+      name: "Liberia",
+      href: "government/liberia/"
+    },
+    "lesotho": {
+      name: "Lesotho",
+      href: "government/lesotho/"
+    },
+    "kenya": {
+      name: "Kenya",
+      href: "government/kenya/"
+    },
+    "guinea": {
+      name: "Guinea",
+      href: "government/guinea/"
+    },
+    "guinea-bissau": {
+      name: "Guinea-Bissau",
+      href: "government/guinea-bissau/"
+    },
+    "ghana": {
+      name: "Ghana",
+      href: "government/ghana/"
+    },
+    "gambia": {
+      name: "Gambia",
+      href: "government/gambia/"
+    },
+    "gabon": {
+      name: "Gabon",
+      href: "government/gabon/"
+    },
+    "ethiopia": {
+      name: "Ethiopia",
+      href: "government/ethiopia/"
+    },
+    "eswatini": {
+      name: "Eswatini",
+      href: "government/eswatini/"
+    },
+    "eritrea": {
+      name: "Eritrea",
+      href: "government/eritrea/"
+    },
+    "equatorial-guinea": {
+      name: "Equatorial Guinea",
+      href: "government/equatorial-guinea/"
+    },
+    "egypt": {
+      name: "Egypt",
+      href: "government/egypt/"
+    },
+    "dr-congo": {
+      name: "Democratic Republic of the Congo",
+      href: "government/dr-congo/"
+    },
+    "djibouti": {
+      name: "Djibouti",
+      href: "government/djibouti/"
+    },
+    "cote-divoire": {
+      name: "Côte d’Ivoire",
+      href: "government/cote-divoire/"
+    },
+    "congo": {
+      name: "Republic of the Congo",
+      href: "government/congo/"
+    },
+    "comoros": {
+      name: "Comoros",
+      href: "government/comoros/"
+    },
+    "chad": {
+      name: "Chad",
+      href: "government/chad/"
+    },
+    "central-african-republic": {
+      name: "Central African Republic",
+      href: "government/central-african-republic/"
+    },
+    "cameroon": {
+      name: "Cameroon",
+      href: "government/cameroon/"
+    },
+    "cabo-verde": {
+      name: "Cabo Verde",
+      href: "government/cabo-verde/"
+    },
+    "burundi": {
+      name: "Burundi",
+      href: "government/burundi/"
+    },
+    "burkina-faso": {
+      name: "Burkina Faso",
+      href: "government/burkina-faso/"
+    },
+    "botswana": {
+      name: "Botswana",
+      href: "government/botswana/"
+    },
+    "benin": {
+      name: "Benin",
+      href: "government/benin/"
+    },
+    "angola": {
+      name: "Angola",
+      href: "government/angola/"
+    },
+    "algeria": {
+      name: "Algeria",
+      href: "government/algeria/"
+    },
     "yemen": {
       name: "Yemen",
       href: "government/yemen/"

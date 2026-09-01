@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "burkina-faso",
+  "code": "BF",
+  "country": "Burkina Faso",
+  "officialName": "Burkina Faso",
+  "brand": "BRASA BF",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gouvernement.gov.bf/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA BF",
+    "Government of Panama": "Government of Burkina Faso",
+    "Made with care in Panama": "Made with care in Burkina Faso",
+    "Panamanian": "Burkina Faso",
+    "Panama": "Burkina Faso"
+  },
+  "sources": [
+    "https://www.gouvernement.gov.bf/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "BF-1",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "BF-2",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "BF-3",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "BF-4",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "BF-5",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "BF-6",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "BF-7",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "BF-8",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "BF-9",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "BF-10",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "BF-11",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "BF-12",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "BF-13",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "BF-14",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "BF-15",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "BF-16",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "BF-17",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "BF-18",
+      "officialHref": "https://www.gouvernement.gov.bf/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Balé",
+      "code": "BAL"
+    },
+    {
+      "name": "Bam/Lake Bam",
+      "code": "BAM"
+    },
+    {
+      "name": "Banwa Province",
+      "code": "BAN"
+    },
+    {
+      "name": "Bazèga",
+      "code": "BAZ"
+    },
+    {
+      "name": "Bougouriba",
+      "code": "BGR"
+    },
+    {
+      "name": "Boulgou Province",
+      "code": "BLG"
+    },
+    {
+      "name": "Boulkiemdé",
+      "code": "BLK"
+    },
+    {
+      "name": "Comoé/Komoe",
+      "code": "COM"
+    },
+    {
+      "name": "Ganzourgou Province",
+      "code": "GAN"
+    },
+    {
+      "name": "Gnagna",
+      "code": "GNA"
+    },
+    {
+      "name": "Gourma Province",
+      "code": "GOU"
+    },
+    {
+      "name": "Houet",
+      "code": "HOU"
+    },
+    {
+      "name": "Ioba",
+      "code": "IOB"
+    },
+    {
+      "name": "Kadiogo",
+      "code": "KAD"
+    },
+    {
+      "name": "Kénédougou",
+      "code": "KEN"
+    },
+    {
+      "name": "Komondjari",
+      "code": "KMD"
+    },
+    {
+      "name": "Kompienga",
+      "code": "KMP"
+    },
+    {
+      "name": "Kossi Province",
+      "code": "KOS"
+    },
+    {
+      "name": "Koulpélogo",
+      "code": "KOP"
+    },
+    {
+      "name": "Kouritenga",
+      "code": "KOT"
+    },
+    {
+      "name": "Kourwéogo",
+      "code": "KOW"
+    },
+    {
+      "name": "Léraba",
+      "code": "LER"
+    },
+    {
+      "name": "Loroum",
+      "code": "LOR"
+    },
+    {
+      "name": "Mouhoun",
+      "code": "MOU"
+    },
+    {
+      "name": "Namentenga",
+      "code": "NAM"
+    },
+    {
+      "name": "Naouri/Nahouri",
+      "code": "NAO"
+    },
+    {
+      "name": "Nayala",
+      "code": "NAY"
+    },
+    {
+      "name": "Noumbiel",
+      "code": "NOU"
+    },
+    {
+      "name": "Oubritenga",
+      "code": "OUB"
+    },
+    {
+      "name": "Oudalan",
+      "code": "OUD"
+    },
+    {
+      "name": "Passoré",
+      "code": "PAS"
+    },
+    {
+      "name": "Poni",
+      "code": "PON"
+    },
+    {
+      "name": "Sanguié",
+      "code": "SNG"
+    },
+    {
+      "name": "Sanmatenga",
+      "code": "SMT"
+    },
+    {
+      "name": "Séno",
+      "code": "SEN"
+    },
+    {
+      "name": "Sissili",
+      "code": "SIS"
+    },
+    {
+      "name": "Soum",
+      "code": "SOM"
+    },
+    {
+      "name": "Sourou",
+      "code": "SOR"
+    },
+    {
+      "name": "Tapoa",
+      "code": "TAP"
+    },
+    {
+      "name": "Tui/Tuy",
+      "code": "TUI"
+    },
+    {
+      "name": "Yagha",
+      "code": "YAG"
+    },
+    {
+      "name": "Yatenga",
+      "code": "YAT"
+    },
+    {
+      "name": "Ziro",
+      "code": "ZIR"
+    },
+    {
+      "name": "Zondoma",
+      "code": "ZON"
+    },
+    {
+      "name": "Zoundwéogo",
+      "code": "ZOU"
+    }
+  ]
+}

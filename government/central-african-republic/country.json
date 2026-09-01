@@ -1,0 +1,13 @@
+{
+  "country": "Central African Republic",
+  "officialName": "Central African Republic",
+  "code": "CF",
+  "language": "English interface; official institution names retained when available",
+  "currency": "See official national portal",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gouvernement.cf/",
+  "sources": [
+    "https://www.gouvernement.cf/"
+  ],
+  "editorialRule": "BRASA copy is English. Official destinations remain authoritative."
+}

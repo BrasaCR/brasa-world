@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "south-sudan",
+  "code": "SS",
+  "country": "South Sudan",
+  "officialName": "South Sudan",
+  "brand": "BRASA SS",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.ss/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA SS",
+    "Government of Panama": "Government of South Sudan",
+    "Made with care in Panama": "Made with care in South Sudan",
+    "Panamanian": "South Sudan",
+    "Panama": "South Sudan"
+  },
+  "sources": [
+    "https://www.gov.ss/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "SS-1",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "SS-2",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "SS-3",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "SS-4",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "SS-5",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "SS-6",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "SS-7",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "SS-8",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "SS-9",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "SS-10",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "SS-11",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "SS-12",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "SS-13",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "SS-14",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "SS-15",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "SS-16",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "SS-17",
+      "officialHref": "https://www.gov.ss/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "SS-18",
+      "officialHref": "https://www.gov.ss/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Central Equatoria",
+      "code": "CE"
+    },
+    {
+      "name": "Eastern Equatoria",
+      "code": "EE"
+    },
+    {
+      "name": "Jonglei",
+      "code": "JG"
+    },
+    {
+      "name": "Lakes",
+      "code": "LK"
+    },
+    {
+      "name": "Northern Bahr el Ghazal",
+      "code": "BN"
+    },
+    {
+      "name": "Unity",
+      "code": "UY"
+    },
+    {
+      "name": "Upper Nile",
+      "code": "NU"
+    },
+    {
+      "name": "Warrap",
+      "code": "WR"
+    },
+    {
+      "name": "Western Bahr el Ghazal",
+      "code": "BW"
+    },
+    {
+      "name": "Western Equatoria",
+      "code": "EW"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "region": "africa",
+  "slug": "congo",
+  "code": "CG",
+  "country": "Republic of the Congo",
+  "officialName": "Republic of the Congo",
+  "brand": "BRASA CG",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://gouvernement.cg/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA PA",
+    "Government of Panama",
+    "Made with care in Panama",
+    "Panamanian"
+  ],
+  "identityReplacements": {
+    "BRASA PA": "BRASA CG",
+    "Government of Panama": "Government of Republic of the Congo",
+    "Made with care in Panama": "Made with care in Republic of the Congo",
+    "Panamanian": "Republic of the Congo",
+    "Panama": "Republic of the Congo"
+  },
+  "sources": [
+    "https://gouvernement.cg/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Electricity provider directory"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water and sewerage provider directory"
+    },
+    {
+      "name": "Gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Gas and fuel provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Mobile and fixed-line provider directory"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Internet and television provider directory"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Municipal waste and sanitation directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Health ministry or national health authority",
+      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "abbreviation": "CG-1",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Environment and climate authority",
+      "href": "ministry-02-environment-and-climate-authority.html",
+      "abbreviation": "CG-2",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Education ministry or national education authority",
+      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "abbreviation": "CG-3",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Finance and treasury authority",
+      "href": "ministry-04-finance-and-treasury-authority.html",
+      "abbreviation": "CG-4",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Transport and infrastructure authority",
+      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "abbreviation": "CG-5",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Interior and public safety authority",
+      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "abbreviation": "CG-6",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Agriculture and rural affairs authority",
+      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "abbreviation": "CG-7",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Labour and employment authority",
+      "href": "ministry-08-labour-and-employment-authority.html",
+      "abbreviation": "CG-8",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Housing and spatial planning authority",
+      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "abbreviation": "CG-9",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Culture and heritage authority",
+      "href": "ministry-10-culture-and-heritage-authority.html",
+      "abbreviation": "CG-10",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Justice authority",
+      "href": "ministry-11-justice-authority.html",
+      "abbreviation": "CG-11",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Economy, commerce and industry authority",
+      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "abbreviation": "CG-12",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Foreign affairs authority",
+      "href": "ministry-13-foreign-affairs-authority.html",
+      "abbreviation": "CG-13",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Social protection authority",
+      "href": "ministry-14-social-protection-authority.html",
+      "abbreviation": "CG-14",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Head of government and cabinet",
+      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "abbreviation": "CG-15",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Electoral authority",
+      "href": "ministry-16-electoral-authority.html",
+      "abbreviation": "CG-16",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "National social insurance authority",
+      "href": "ministry-17-national-social-insurance-authority.html",
+      "abbreviation": "CG-17",
+      "officialHref": "https://gouvernement.cg/"
+    },
+    {
+      "name": "Digital government authority",
+      "href": "ministry-18-digital-government-authority.html",
+      "abbreviation": "CG-18",
+      "officialHref": "https://gouvernement.cg/"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ],
+  "administrativeRegions": [
+    {
+      "name": "Bouenza",
+      "code": "11"
+    },
+    {
+      "name": "Brazzaville",
+      "code": "BZV"
+    },
+    {
+      "name": "Cuvette",
+      "code": "8"
+    },
+    {
+      "name": "Cuvette-Ouest",
+      "code": "15"
+    },
+    {
+      "name": "Kouilou",
+      "code": "5"
+    },
+    {
+      "name": "Lékoumou",
+      "code": "2"
+    },
+    {
+      "name": "Likouala",
+      "code": "7"
+    },
+    {
+      "name": "Niari",
+      "code": "9"
+    },
+    {
+      "name": "Plateaux",
+      "code": "14"
+    },
+    {
+      "name": "Pointe-Noire",
+      "code": "16"
+    },
+    {
+      "name": "Pool",
+      "code": "12"
+    },
+    {
+      "name": "Sangha",
+      "code": "13"
+    }
+  ]
+}
