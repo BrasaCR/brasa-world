@@ -163,29 +163,24 @@ window.BRASA_COUNTRY = {
       "PK-25"
     ],
     [
-      "School Education Department, Government of the Punjab",
-      "ministry-26-school-education-department-government-of-the-punjab.html",
+      "Ministry of National Health Services, Regulation and Coordination",
+      "ministry-26-ministry-of-national-health-services-regulation-and-coordina.html",
       "PK-26"
     ],
     [
-      "Ministry of National Health Services, Regulation and Coordination",
-      "ministry-27-ministry-of-national-health-services-regulation-and-coordina.html",
+      "Ministry of Communications",
+      "ministry-27-ministry-of-communications.html",
       "PK-27"
     ],
     [
-      "Ministry of Communications",
-      "ministry-28-ministry-of-communications.html",
+      "Ministry of Parliamentary Affairs",
+      "ministry-28-ministry-of-parliamentary-affairs.html",
       "PK-28"
     ],
     [
-      "Ministry of Parliamentary Affairs",
-      "ministry-29-ministry-of-parliamentary-affairs.html",
-      "PK-29"
-    ],
-    [
       "Ministry of Science and Technology",
-      "ministry-30-ministry-of-science-and-technology.html",
-      "PK-30"
+      "ministry-29-ministry-of-science-and-technology.html",
+      "PK-29"
     ]
   ]
 };

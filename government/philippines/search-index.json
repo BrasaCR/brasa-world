@@ -36,165 +36,141 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Ministry of Basic, Higher and Technical Education",
-    "page": "Government of Philippines",
-    "url": "ministry-01-ministry-of-basic-higher-and-technical-education.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Ministry of Public Works",
-    "page": "Government of Philippines",
-    "url": "ministry-02-ministry-of-public-works.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Ministry of Health",
-    "page": "Government of Philippines",
-    "url": "ministry-03-ministry-of-health.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Ministry of Agriculture, Fisheries and Agrarian Reform",
-    "page": "Government of Philippines",
-    "url": "ministry-04-ministry-of-agriculture-fisheries-and-agrarian-reform.html",
-    "verified": "2026-09-01"
-  },
-  {
     "label": "Department of Health",
     "page": "Government of Philippines",
-    "url": "ministry-05-department-of-health.html",
+    "url": "ministry-01-department-of-health.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Agrarian Reform",
     "page": "Government of Philippines",
-    "url": "ministry-06-department-of-agrarian-reform.html",
+    "url": "ministry-02-department-of-agrarian-reform.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Justice",
     "page": "Government of Philippines",
-    "url": "ministry-07-department-of-justice.html",
+    "url": "ministry-03-department-of-justice.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Agriculture",
     "page": "Government of Philippines",
-    "url": "ministry-08-department-of-agriculture.html",
+    "url": "ministry-04-department-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Bureau of the Treasury",
     "page": "Government of Philippines",
-    "url": "ministry-09-bureau-of-the-treasury.html",
+    "url": "ministry-05-bureau-of-the-treasury.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Tourism",
     "page": "Government of Philippines",
-    "url": "ministry-10-department-of-tourism.html",
+    "url": "ministry-06-department-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Finance",
     "page": "Government of Philippines",
-    "url": "ministry-11-department-of-finance.html",
+    "url": "ministry-07-department-of-finance.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of National Defense",
     "page": "Government of Philippines",
-    "url": "ministry-12-department-of-national-defense.html",
+    "url": "ministry-08-department-of-national-defense.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Foreign Affairs",
     "page": "Government of Philippines",
-    "url": "ministry-13-department-of-foreign-affairs.html",
+    "url": "ministry-09-department-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Education",
     "page": "Government of Philippines",
-    "url": "ministry-14-department-of-education.html",
+    "url": "ministry-10-department-of-education.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Public Works and Highways",
     "page": "Government of Philippines",
-    "url": "ministry-15-department-of-public-works-and-highways.html",
+    "url": "ministry-11-department-of-public-works-and-highways.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Science and Technology",
     "page": "Government of Philippines",
-    "url": "ministry-16-department-of-science-and-technology.html",
+    "url": "ministry-12-department-of-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Energy",
     "page": "Government of Philippines",
-    "url": "ministry-17-department-of-energy.html",
+    "url": "ministry-13-department-of-energy.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Transportation",
     "page": "Government of Philippines",
-    "url": "ministry-18-department-of-transportation.html",
+    "url": "ministry-14-department-of-transportation.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Migrant Workers",
     "page": "Government of Philippines",
-    "url": "ministry-19-department-of-migrant-workers.html",
+    "url": "ministry-15-department-of-migrant-workers.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Trade and Industry",
     "page": "Government of Philippines",
-    "url": "ministry-20-department-of-trade-and-industry.html",
+    "url": "ministry-16-department-of-trade-and-industry.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Information and Communications Technology",
     "page": "Government of Philippines",
-    "url": "ministry-21-department-of-information-and-communications-technology.html",
+    "url": "ministry-17-department-of-information-and-communications-technology.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Environment and Natural Resources",
     "page": "Government of Philippines",
-    "url": "ministry-22-department-of-environment-and-natural-resources.html",
+    "url": "ministry-18-department-of-environment-and-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Human Settlements and Urban Development",
     "page": "Government of Philippines",
-    "url": "ministry-23-department-of-human-settlements-and-urban-development.html",
+    "url": "ministry-19-department-of-human-settlements-and-urban-development.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of the Interior and Local Government",
     "page": "Government of Philippines",
-    "url": "ministry-24-department-of-the-interior-and-local-government.html",
+    "url": "ministry-20-department-of-the-interior-and-local-government.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Budget and Management",
     "page": "Government of Philippines",
-    "url": "ministry-25-department-of-budget-and-management.html",
+    "url": "ministry-21-department-of-budget-and-management.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Labor and Employment",
     "page": "Government of Philippines",
-    "url": "ministry-26-department-of-labor-and-employment.html",
+    "url": "ministry-22-department-of-labor-and-employment.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Social Welfare and Development",
     "page": "Government of Philippines",
-    "url": "ministry-27-department-of-social-welfare-and-development.html",
+    "url": "ministry-23-department-of-social-welfare-and-development.html",
     "verified": "2026-09-01"
   }
 ]

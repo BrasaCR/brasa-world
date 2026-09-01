@@ -87,217 +87,185 @@
   ],
   "ministries": [
     {
-      "name": "Ministry of Basic, Higher and Technical Education",
-      "href": "ministry-01-ministry-of-basic-higher-and-technical-education.html",
-      "abbreviation": "PH-1",
-      "officialHref": "https://min-edu.bangsamoro.gov.ph/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
-      "name": "Ministry of Public Works",
-      "href": "ministry-02-ministry-of-public-works.html",
-      "abbreviation": "PH-2",
-      "officialHref": "https://mpw.bangsamoro.gov.ph",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
-      "name": "Ministry of Health",
-      "href": "ministry-03-ministry-of-health.html",
-      "abbreviation": "PH-3",
-      "officialHref": "http://moh.bangsamoro.gov.ph/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
-      "name": "Ministry of Agriculture, Fisheries and Agrarian Reform",
-      "href": "ministry-04-ministry-of-agriculture-fisheries-and-agrarian-reform.html",
-      "abbreviation": "PH-4",
-      "officialHref": "https://mafar.bangsamoro.gov.ph/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Department of Health",
-      "href": "ministry-05-department-of-health.html",
-      "abbreviation": "PH-5",
+      "href": "ministry-01-department-of-health.html",
+      "abbreviation": "PH-1",
       "officialHref": "https://doh.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Agrarian Reform",
-      "href": "ministry-06-department-of-agrarian-reform.html",
-      "abbreviation": "PH-6",
+      "href": "ministry-02-department-of-agrarian-reform.html",
+      "abbreviation": "PH-2",
       "officialHref": "https://dar.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Justice",
-      "href": "ministry-07-department-of-justice.html",
-      "abbreviation": "PH-7",
+      "href": "ministry-03-department-of-justice.html",
+      "abbreviation": "PH-3",
       "officialHref": "http://doj.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Agriculture",
-      "href": "ministry-08-department-of-agriculture.html",
-      "abbreviation": "PH-8",
+      "href": "ministry-04-department-of-agriculture.html",
+      "abbreviation": "PH-4",
       "officialHref": "https://www.da.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Bureau of the Treasury",
-      "href": "ministry-09-bureau-of-the-treasury.html",
-      "abbreviation": "PH-9",
+      "href": "ministry-05-bureau-of-the-treasury.html",
+      "abbreviation": "PH-5",
       "officialHref": "https://www.treasury.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Tourism",
-      "href": "ministry-10-department-of-tourism.html",
-      "abbreviation": "PH-10",
+      "href": "ministry-06-department-of-tourism.html",
+      "abbreviation": "PH-6",
       "officialHref": "https://www.tourism.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Finance",
-      "href": "ministry-11-department-of-finance.html",
-      "abbreviation": "PH-11",
+      "href": "ministry-07-department-of-finance.html",
+      "abbreviation": "PH-7",
       "officialHref": "http://www.dof.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of National Defense",
-      "href": "ministry-12-department-of-national-defense.html",
-      "abbreviation": "PH-12",
+      "href": "ministry-08-department-of-national-defense.html",
+      "abbreviation": "PH-8",
       "officialHref": "http://www.dnd.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Foreign Affairs",
-      "href": "ministry-13-department-of-foreign-affairs.html",
-      "abbreviation": "PH-13",
+      "href": "ministry-09-department-of-foreign-affairs.html",
+      "abbreviation": "PH-9",
       "officialHref": "https://www.dfa.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Education",
-      "href": "ministry-14-department-of-education.html",
-      "abbreviation": "PH-14",
+      "href": "ministry-10-department-of-education.html",
+      "abbreviation": "PH-10",
       "officialHref": "https://deped.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Public Works and Highways",
-      "href": "ministry-15-department-of-public-works-and-highways.html",
-      "abbreviation": "PH-15",
+      "href": "ministry-11-department-of-public-works-and-highways.html",
+      "abbreviation": "PH-11",
       "officialHref": "https://www.dpwh.gov.ph/dpwh/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Science and Technology",
-      "href": "ministry-16-department-of-science-and-technology.html",
-      "abbreviation": "PH-16",
+      "href": "ministry-12-department-of-science-and-technology.html",
+      "abbreviation": "PH-12",
       "officialHref": "https://www.dost.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Energy",
-      "href": "ministry-17-department-of-energy.html",
-      "abbreviation": "PH-17",
+      "href": "ministry-13-department-of-energy.html",
+      "abbreviation": "PH-13",
       "officialHref": "https://www.doe.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Transportation",
-      "href": "ministry-18-department-of-transportation.html",
-      "abbreviation": "PH-18",
+      "href": "ministry-14-department-of-transportation.html",
+      "abbreviation": "PH-14",
       "officialHref": "https://dotr.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Migrant Workers",
-      "href": "ministry-19-department-of-migrant-workers.html",
-      "abbreviation": "PH-19",
+      "href": "ministry-15-department-of-migrant-workers.html",
+      "abbreviation": "PH-15",
       "officialHref": "https://dmw.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Trade and Industry",
-      "href": "ministry-20-department-of-trade-and-industry.html",
-      "abbreviation": "PH-20",
+      "href": "ministry-16-department-of-trade-and-industry.html",
+      "abbreviation": "PH-16",
       "officialHref": "https://www.dti.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Information and Communications Technology",
-      "href": "ministry-21-department-of-information-and-communications-technology.html",
-      "abbreviation": "PH-21",
+      "href": "ministry-17-department-of-information-and-communications-technology.html",
+      "abbreviation": "PH-17",
       "officialHref": "https://dict.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Environment and Natural Resources",
-      "href": "ministry-22-department-of-environment-and-natural-resources.html",
-      "abbreviation": "PH-22",
+      "href": "ministry-18-department-of-environment-and-natural-resources.html",
+      "abbreviation": "PH-18",
       "officialHref": "https://denr.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Human Settlements and Urban Development",
-      "href": "ministry-23-department-of-human-settlements-and-urban-development.html",
-      "abbreviation": "PH-23",
+      "href": "ministry-19-department-of-human-settlements-and-urban-development.html",
+      "abbreviation": "PH-19",
       "officialHref": "https://dhsud.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of the Interior and Local Government",
-      "href": "ministry-24-department-of-the-interior-and-local-government.html",
-      "abbreviation": "PH-24",
+      "href": "ministry-20-department-of-the-interior-and-local-government.html",
+      "abbreviation": "PH-20",
       "officialHref": "https://dilg.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Budget and Management",
-      "href": "ministry-25-department-of-budget-and-management.html",
-      "abbreviation": "PH-25",
+      "href": "ministry-21-department-of-budget-and-management.html",
+      "abbreviation": "PH-21",
       "officialHref": "https://dbm.gov.ph/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Labor and Employment",
-      "href": "ministry-26-department-of-labor-and-employment.html",
-      "abbreviation": "PH-26",
+      "href": "ministry-22-department-of-labor-and-employment.html",
+      "abbreviation": "PH-22",
       "officialHref": "https://www.dole.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Social Welfare and Development",
-      "href": "ministry-27-department-of-social-welfare-and-development.html",
-      "abbreviation": "PH-27",
+      "href": "ministry-23-department-of-social-welfare-and-development.html",
+      "abbreviation": "PH-23",
       "officialHref": "https://www.dswd.gov.ph",
       "verification": "exact-official",
       "verified": "2026-09-01"

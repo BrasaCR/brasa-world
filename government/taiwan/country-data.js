@@ -136,11 +136,6 @@ window.BRASA_COUNTRY = {
       "Ministry of Health and Welfare",
       "ministry-20-ministry-of-health-and-welfare.html",
       "TW-20"
-    ],
-    [
-      "Penghu Branch, National Taxation of Southern Area, Ministry of Finance (ROC)",
-      "ministry-21-penghu-branch-national-taxation-of-southern-area-ministry-of.html",
-      "TW-21"
     ]
   ]
 };

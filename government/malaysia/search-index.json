@@ -60,183 +60,165 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Ministry of Tourism, Culture and Environment",
-    "page": "Government of Malaysia",
-    "url": "ministry-05-ministry-of-tourism-culture-and-environment.html",
-    "verified": "2026-09-01"
-  },
-  {
     "label": "Ministry of Education of Malaysia",
     "page": "Government of Malaysia",
-    "url": "ministry-06-ministry-of-education-of-malaysia.html",
+    "url": "ministry-05-ministry-of-education-of-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Works",
     "page": "Government of Malaysia",
-    "url": "ministry-07-ministry-of-works.html",
+    "url": "ministry-06-ministry-of-works.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of International Trade and Industry",
     "page": "Government of Malaysia",
-    "url": "ministry-08-ministry-of-international-trade-and-industry.html",
+    "url": "ministry-07-ministry-of-international-trade-and-industry.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Youth and Sports",
     "page": "Government of Malaysia",
-    "url": "ministry-09-ministry-of-youth-and-sports.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Ministry of Youth and Sports Sabah",
-    "page": "Government of Malaysia",
-    "url": "ministry-10-ministry-of-youth-and-sports-sabah.html",
+    "url": "ministry-08-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Human Resources",
     "page": "Government of Malaysia",
-    "url": "ministry-11-ministry-of-human-resources.html",
+    "url": "ministry-09-ministry-of-human-resources.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Tourism, Arts and Culture",
     "page": "Government of Malaysia",
-    "url": "ministry-12-ministry-of-tourism-arts-and-culture.html",
+    "url": "ministry-10-ministry-of-tourism-arts-and-culture.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Transport",
     "page": "Government of Malaysia",
-    "url": "ministry-13-ministry-of-transport.html",
+    "url": "ministry-11-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Home Affairs",
     "page": "Government of Malaysia",
-    "url": "ministry-14-ministry-of-home-affairs.html",
+    "url": "ministry-12-ministry-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Department of Environment",
     "page": "Government of Malaysia",
-    "url": "ministry-15-department-of-environment.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Ministry of Agriculture and Fisheries",
-    "page": "Government of Malaysia",
-    "url": "ministry-16-ministry-of-agriculture-and-fisheries.html",
+    "url": "ministry-13-department-of-environment.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Malaysian Prime Minister's Department",
     "page": "Government of Malaysia",
-    "url": "ministry-17-malaysian-prime-minister-s-department.html",
+    "url": "ministry-14-malaysian-prime-minister-s-department.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Housing and Local Government",
     "page": "Government of Malaysia",
-    "url": "ministry-18-ministry-of-housing-and-local-government.html",
+    "url": "ministry-15-ministry-of-housing-and-local-government.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Energy and Natural Resources",
     "page": "Government of Malaysia",
-    "url": "ministry-19-ministry-of-energy-and-natural-resources.html",
+    "url": "ministry-16-ministry-of-energy-and-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Health of Malaysia",
     "page": "Government of Malaysia",
-    "url": "ministry-20-ministry-of-health-of-malaysia.html",
+    "url": "ministry-17-ministry-of-health-of-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Defence of Malaysia",
     "page": "Government of Malaysia",
-    "url": "ministry-21-ministry-of-defence-of-malaysia.html",
+    "url": "ministry-18-ministry-of-defence-of-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Economic Affairs (Malaysia)",
     "page": "Government of Malaysia",
-    "url": "ministry-22-ministry-of-economic-affairs-malaysia.html",
+    "url": "ministry-19-ministry-of-economic-affairs-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Foreign Affairs of Malaysia",
     "page": "Government of Malaysia",
-    "url": "ministry-23-ministry-of-foreign-affairs-of-malaysia.html",
+    "url": "ministry-20-ministry-of-foreign-affairs-of-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Finance Malaysia",
     "page": "Government of Malaysia",
-    "url": "ministry-24-ministry-of-finance-malaysia.html",
+    "url": "ministry-21-ministry-of-finance-malaysia.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of National Unity",
     "page": "Government of Malaysia",
-    "url": "ministry-25-ministry-of-national-unity.html",
+    "url": "ministry-22-ministry-of-national-unity.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Digital",
     "page": "Government of Malaysia",
-    "url": "ministry-26-ministry-of-digital.html",
+    "url": "ministry-23-ministry-of-digital.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Domestic Trade and Consumer Affairs",
     "page": "Government of Malaysia",
-    "url": "ministry-27-ministry-of-domestic-trade-and-consumer-affairs.html",
+    "url": "ministry-24-ministry-of-domestic-trade-and-consumer-affairs.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Entrepreneurship Development and Co-operatives",
     "page": "Government of Malaysia",
-    "url": "ministry-28-ministry-of-entrepreneurship-development-and-co-operatives.html",
+    "url": "ministry-25-ministry-of-entrepreneurship-development-and-co-operatives.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Higher Education",
     "page": "Government of Malaysia",
-    "url": "ministry-29-ministry-of-higher-education.html",
+    "url": "ministry-26-ministry-of-higher-education.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Plantation Industries and Commodities",
     "page": "Government of Malaysia",
-    "url": "ministry-30-ministry-of-plantation-industries-and-commodities.html",
+    "url": "ministry-27-ministry-of-plantation-industries-and-commodities.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Rural and Regional Development",
     "page": "Government of Malaysia",
-    "url": "ministry-31-ministry-of-rural-and-regional-development.html",
+    "url": "ministry-28-ministry-of-rural-and-regional-development.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Science, Technology and Innovation",
     "page": "Government of Malaysia",
-    "url": "ministry-32-ministry-of-science-technology-and-innovation.html",
+    "url": "ministry-29-ministry-of-science-technology-and-innovation.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of Women, Family and Community Development",
     "page": "Government of Malaysia",
-    "url": "ministry-33-ministry-of-women-family-and-community-development.html",
+    "url": "ministry-30-ministry-of-women-family-and-community-development.html",
     "verified": "2026-09-01"
   },
   {
     "label": "Ministry of the Federal Territories",
     "page": "Government of Malaysia",
-    "url": "ministry-34-ministry-of-the-federal-territories.html",
+    "url": "ministry-31-ministry-of-the-federal-territories.html",
     "verified": "2026-09-01"
   }
 ]

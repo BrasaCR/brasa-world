@@ -239,14 +239,6 @@
       "officialHref": "http://english.doh.gov.taipei/",
       "verification": "exact-official",
       "verified": "2026-09-01"
-    },
-    {
-      "name": "Penghu Branch, National Taxation of Southern Area, Ministry of Finance (ROC)",
-      "href": "ministry-21-penghu-branch-national-taxation-of-southern-area-ministry-of.html",
-      "abbreviation": "TW-21",
-      "officialHref": "https://www.ntbsa.gov.tw/multiplehtml/65cfa1f0b20e4f0987eb15f28b692b19",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [

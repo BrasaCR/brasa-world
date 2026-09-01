@@ -126,241 +126,217 @@
       "verified": "2026-09-01"
     },
     {
-      "name": "Ministry of Tourism, Culture and Environment",
-      "href": "ministry-05-ministry-of-tourism-culture-and-environment.html",
-      "abbreviation": "MY-5",
-      "officialHref": "https://kepkas.sabah.gov.my/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Ministry of Education of Malaysia",
-      "href": "ministry-06-ministry-of-education-of-malaysia.html",
-      "abbreviation": "MY-6",
+      "href": "ministry-05-ministry-of-education-of-malaysia.html",
+      "abbreviation": "MY-5",
       "officialHref": "http://www.moe.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Works",
-      "href": "ministry-07-ministry-of-works.html",
-      "abbreviation": "MY-7",
+      "href": "ministry-06-ministry-of-works.html",
+      "abbreviation": "MY-6",
       "officialHref": "https://kkrs.sabah.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of International Trade and Industry",
-      "href": "ministry-08-ministry-of-international-trade-and-industry.html",
-      "abbreviation": "MY-8",
+      "href": "ministry-07-ministry-of-international-trade-and-industry.html",
+      "abbreviation": "MY-7",
       "officialHref": "https://www.miti.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Youth and Sports",
-      "href": "ministry-09-ministry-of-youth-and-sports.html",
-      "abbreviation": "MY-9",
+      "href": "ministry-08-ministry-of-youth-and-sports.html",
+      "abbreviation": "MY-8",
       "officialHref": "https://www.kbs.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
-      "name": "Ministry of Youth and Sports Sabah",
-      "href": "ministry-10-ministry-of-youth-and-sports-sabah.html",
-      "abbreviation": "MY-10",
-      "officialHref": "http://ww2.sabah.gov.my/kbs/v2/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Ministry of Human Resources",
-      "href": "ministry-11-ministry-of-human-resources.html",
-      "abbreviation": "MY-11",
+      "href": "ministry-09-ministry-of-human-resources.html",
+      "abbreviation": "MY-9",
       "officialHref": "https://mohr.gov.my/index.php/ms/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism, Arts and Culture",
-      "href": "ministry-12-ministry-of-tourism-arts-and-culture.html",
-      "abbreviation": "MY-12",
+      "href": "ministry-10-ministry-of-tourism-arts-and-culture.html",
+      "abbreviation": "MY-10",
       "officialHref": "https://www.motac.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Transport",
-      "href": "ministry-13-ministry-of-transport.html",
-      "abbreviation": "MY-13",
+      "href": "ministry-11-ministry-of-transport.html",
+      "abbreviation": "MY-11",
       "officialHref": "https://www.mot.gov.my/my",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Home Affairs",
-      "href": "ministry-14-ministry-of-home-affairs.html",
-      "abbreviation": "MY-14",
+      "href": "ministry-12-ministry-of-home-affairs.html",
+      "abbreviation": "MY-12",
       "officialHref": "http://www.moha.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Department of Environment",
-      "href": "ministry-15-department-of-environment.html",
-      "abbreviation": "MY-15",
+      "href": "ministry-13-department-of-environment.html",
+      "abbreviation": "MY-13",
       "officialHref": "https://www.doe.gov.my/portalv1/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
-      "name": "Ministry of Agriculture and Fisheries",
-      "href": "ministry-16-ministry-of-agriculture-and-fisheries.html",
-      "abbreviation": "MY-16",
-      "officialHref": "https://mafi.sabah.gov.my/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Malaysian Prime Minister's Department",
-      "href": "ministry-17-malaysian-prime-minister-s-department.html",
-      "abbreviation": "MY-17",
+      "href": "ministry-14-malaysian-prime-minister-s-department.html",
+      "abbreviation": "MY-14",
       "officialHref": "https://www.jpm.gov.my/ms/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Housing and Local Government",
-      "href": "ministry-18-ministry-of-housing-and-local-government.html",
-      "abbreviation": "MY-18",
+      "href": "ministry-15-ministry-of-housing-and-local-government.html",
+      "abbreviation": "MY-15",
       "officialHref": "https://www.kpkt.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Energy and Natural Resources",
-      "href": "ministry-19-ministry-of-energy-and-natural-resources.html",
-      "abbreviation": "MY-19",
+      "href": "ministry-16-ministry-of-energy-and-natural-resources.html",
+      "abbreviation": "MY-16",
       "officialHref": "https://www.ketsa.gov.my/ms-my/Pages/default.aspx",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health of Malaysia",
-      "href": "ministry-20-ministry-of-health-of-malaysia.html",
-      "abbreviation": "MY-20",
+      "href": "ministry-17-ministry-of-health-of-malaysia.html",
+      "abbreviation": "MY-17",
       "officialHref": "https://www.moh.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Defence of Malaysia",
-      "href": "ministry-21-ministry-of-defence-of-malaysia.html",
-      "abbreviation": "MY-21",
+      "href": "ministry-18-ministry-of-defence-of-malaysia.html",
+      "abbreviation": "MY-18",
       "officialHref": "http://www.mod.gov.my",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Economic Affairs (Malaysia)",
-      "href": "ministry-22-ministry-of-economic-affairs-malaysia.html",
-      "abbreviation": "MY-22",
+      "href": "ministry-19-ministry-of-economic-affairs-malaysia.html",
+      "abbreviation": "MY-19",
       "officialHref": "http://mea.gov.my",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs of Malaysia",
-      "href": "ministry-23-ministry-of-foreign-affairs-of-malaysia.html",
-      "abbreviation": "MY-23",
+      "href": "ministry-20-ministry-of-foreign-affairs-of-malaysia.html",
+      "abbreviation": "MY-20",
       "officialHref": "http://www.kln.gov.my/web/guest/home",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance Malaysia",
-      "href": "ministry-24-ministry-of-finance-malaysia.html",
-      "abbreviation": "MY-24",
+      "href": "ministry-21-ministry-of-finance-malaysia.html",
+      "abbreviation": "MY-21",
       "officialHref": "https://www.mof.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Unity",
-      "href": "ministry-25-ministry-of-national-unity.html",
-      "abbreviation": "MY-25",
+      "href": "ministry-22-ministry-of-national-unity.html",
+      "abbreviation": "MY-22",
       "officialHref": "https://www.perpaduan.gov.my/index.php/bm/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Digital",
-      "href": "ministry-26-ministry-of-digital.html",
-      "abbreviation": "MY-26",
+      "href": "ministry-23-ministry-of-digital.html",
+      "abbreviation": "MY-23",
       "officialHref": "https://www.digital.gov.my",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Domestic Trade and Consumer Affairs",
-      "href": "ministry-27-ministry-of-domestic-trade-and-consumer-affairs.html",
-      "abbreviation": "MY-27",
+      "href": "ministry-24-ministry-of-domestic-trade-and-consumer-affairs.html",
+      "abbreviation": "MY-24",
       "officialHref": "https://www.kpdnhep.gov.my/ms/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Entrepreneurship Development and Co-operatives",
-      "href": "ministry-28-ministry-of-entrepreneurship-development-and-co-operatives.html",
-      "abbreviation": "MY-28",
+      "href": "ministry-25-ministry-of-entrepreneurship-development-and-co-operatives.html",
+      "abbreviation": "MY-25",
       "officialHref": "https://www.medac.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Higher Education",
-      "href": "ministry-29-ministry-of-higher-education.html",
-      "abbreviation": "MY-29",
+      "href": "ministry-26-ministry-of-higher-education.html",
+      "abbreviation": "MY-26",
       "officialHref": "http://www.mohe.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Plantation Industries and Commodities",
-      "href": "ministry-30-ministry-of-plantation-industries-and-commodities.html",
-      "abbreviation": "MY-30",
+      "href": "ministry-27-ministry-of-plantation-industries-and-commodities.html",
+      "abbreviation": "MY-27",
       "officialHref": "https://www.mpic.gov.my/mpi/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Rural and Regional Development",
-      "href": "ministry-31-ministry-of-rural-and-regional-development.html",
-      "abbreviation": "MY-31",
+      "href": "ministry-28-ministry-of-rural-and-regional-development.html",
+      "abbreviation": "MY-28",
       "officialHref": "https://www.rurallink.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Science, Technology and Innovation",
-      "href": "ministry-32-ministry-of-science-technology-and-innovation.html",
-      "abbreviation": "MY-32",
+      "href": "ministry-29-ministry-of-science-technology-and-innovation.html",
+      "abbreviation": "MY-29",
       "officialHref": "http://www.kettha.gov.my/portal/index.php#",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Women, Family and Community Development",
-      "href": "ministry-33-ministry-of-women-family-and-community-development.html",
-      "abbreviation": "MY-33",
+      "href": "ministry-30-ministry-of-women-family-and-community-development.html",
+      "abbreviation": "MY-30",
       "officialHref": "http://www.kpwkm.gov.my/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of the Federal Territories",
-      "href": "ministry-34-ministry-of-the-federal-territories.html",
-      "abbreviation": "MY-34",
+      "href": "ministry-31-ministry-of-the-federal-territories.html",
+      "abbreviation": "MY-31",
       "officialHref": "http://www.kwp.gov.my",
       "verification": "exact-official",
       "verified": "2026-09-01"
