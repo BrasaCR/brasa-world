@@ -36,7 +36,18 @@
     "https://www.primature.gouv.ht/attributions-du-premier-ministre/",
     "https://www.edh.ht/",
     "https://www.dinepa.gouv.ht/services/",
-    "https://conatel.gouv.ht/node/118"
+    "https://conatel.gouv.ht/node/118",
+    "https://www.primature.gouv.ht/",
+    "https://www.mspp.gouv.ht/",
+    "https://www.mef.gouv.ht/",
+    "https://mict.gouv.ht/",
+    "https://agriculture.gouv.ht/",
+    "https://mde.gouv.ht/",
+    "https://mci.gouv.ht/",
+    "https://www.mast.gouv.ht/",
+    "https://www.mpce.gouv.ht/",
+    "https://tourisme.gouv.ht/",
+    "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme"
   ],
   "utilities": [
     {
@@ -75,103 +86,145 @@
       "name": "Ministère de l’Éducation Nationale et de la Formation Professionnelle",
       "href": "ministry-01-ministere-de-l-education-nationale-et-de-la-formation-profes.html",
       "abbreviation": "MENFP",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère des Travaux Publics, Transports et Communications",
       "href": "ministry-02-ministere-des-travaux-publics-transports-et-communications.html",
       "abbreviation": "MTPTC",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de la Santé Publique et de la Population",
       "href": "ministry-03-ministere-de-la-sante-publique-et-de-la-population.html",
       "abbreviation": "MSPP",
-      "officialHref": "https://www.mspp.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de l’Économie et des Finances",
       "href": "ministry-04-ministere-de-l-economie-et-des-finances.html",
       "abbreviation": "MEF",
-      "officialHref": "https://www.mef.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de la Justice et de la Sécurité Publique",
       "href": "ministry-05-ministere-de-la-justice-et-de-la-securite-publique.html",
       "abbreviation": "MJSP",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère des Affaires Étrangères et des Cultes",
       "href": "ministry-06-ministere-des-affaires-etrangeres-et-des-cultes.html",
       "abbreviation": "MAEC",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de l’Intérieur et des Collectivités Territoriales",
       "href": "ministry-07-ministere-de-l-interieur-et-des-collectivites-territoriales.html",
       "abbreviation": "MICT",
-      "officialHref": "https://mict.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",
       "href": "ministry-08-ministere-de-l-agriculture-des-ressources-naturelles-et-du-d.html",
       "abbreviation": "MARNDR",
-      "officialHref": "https://agriculture.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de l’Environnement",
       "href": "ministry-09-ministere-de-l-environnement.html",
       "abbreviation": "MDE",
-      "officialHref": "https://mde.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère du Commerce et de l’Industrie",
       "href": "ministry-10-ministere-du-commerce-et-de-l-industrie.html",
       "abbreviation": "MCI",
-      "officialHref": "https://mci.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère des Affaires Sociales et du Travail",
       "href": "ministry-11-ministere-des-affaires-sociales-et-du-travail.html",
       "abbreviation": "MAST",
-      "officialHref": "https://www.mast.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de la Planification et de la Coopération Externe",
       "href": "ministry-12-ministere-de-la-planification-et-de-la-cooperation-externe.html",
       "abbreviation": "MPCE",
-      "officialHref": "https://www.mpce.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère du Tourisme",
       "href": "ministry-13-ministere-du-tourisme.html",
       "abbreviation": "MDT",
-      "officialHref": "https://tourisme.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de la Culture et de la Communication",
       "href": "ministry-14-ministere-de-la-culture-et-de-la-communication.html",
       "abbreviation": "MCC",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère à la Condition Féminine et aux Droits des Femmes",
       "href": "ministry-15-ministere-a-la-condition-feminine-et-aux-droits-des-femmes.html",
       "abbreviation": "MCFDF",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministère de la Jeunesse, des Sports et de l’Action Civique",
       "href": "ministry-16-ministere-de-la-jeunesse-des-sports-et-de-l-action-civique.html",
       "abbreviation": "MJSAC",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Primature",
       "href": "ministry-17-primature.html",
       "abbreviation": "PM",
-      "officialHref": "https://www.primature.gouv.ht/"
+      "officialHref": "https://www.servicespublics.gouv.ht/site/ministeres?sort=acronyme",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -232,5 +285,11 @@
       "name": "Sud-Est",
       "code": "SE"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

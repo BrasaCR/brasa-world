@@ -24,7 +24,22 @@
     "Ecuador": "United States"
   },
   "sources": [
-    "https://www.usa.gov/"
+    "https://www.usa.gov/",
+    "https://www.state.gov/",
+    "https://home.treasury.gov/",
+    "https://www.defense.gov/",
+    "https://www.justice.gov/",
+    "https://www.doi.gov/",
+    "https://www.usda.gov/",
+    "https://www.commerce.gov/",
+    "https://www.dol.gov/",
+    "https://www.hhs.gov/",
+    "https://www.hud.gov/",
+    "https://www.transportation.gov/",
+    "https://www.energy.gov/",
+    "https://www.ed.gov/",
+    "https://www.va.gov/",
+    "https://www.dhs.gov/"
   ],
   "utilities": [
     {
@@ -63,91 +78,136 @@
       "name": "Department of State",
       "href": "ministry-01-department-of-state.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.state.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of the Treasury",
       "href": "ministry-02-department-of-the-treasury.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://home.treasury.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Defense",
       "href": "ministry-03-department-of-defense.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.defense.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Justice",
       "href": "ministry-04-department-of-justice.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.justice.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of the Interior",
       "href": "ministry-05-department-of-the-interior.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.doi.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Agriculture",
       "href": "ministry-06-department-of-agriculture.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.usda.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Commerce",
       "href": "ministry-07-department-of-commerce.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.commerce.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Labor",
       "href": "ministry-08-department-of-labor.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.dol.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Health and Human Services",
       "href": "ministry-09-department-of-health-and-human-services.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.hhs.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Housing and Urban Development",
       "href": "ministry-10-department-of-housing-and-urban-development.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.hud.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Transportation",
       "href": "ministry-11-department-of-transportation.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.transportation.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Energy",
       "href": "ministry-12-department-of-energy.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.energy.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Education",
       "href": "ministry-13-department-of-education.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.ed.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Veterans Affairs",
       "href": "ministry-14-department-of-veterans-affairs.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.va.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Department of Homeland Security",
       "href": "ministry-15-department-of-homeland-security.html",
       "abbreviation": "M15",
-      "officialHref": "https://www.usa.gov/"
+      "officialHref": "https://www.dhs.gov/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -404,5 +464,11 @@
       "name": "Armed Forces Pacific",
       "code": "AP"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

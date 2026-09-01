@@ -24,7 +24,8 @@
     "Ecuador": "Belize"
   },
   "sources": [
-    "https://www.belize.gov.bz/"
+    "https://www.belize.gov.bz/",
+    "https://edc.gov.bz/elibrary/site/contact?page=1"
   ],
   "utilities": [
     {
@@ -63,73 +64,109 @@
       "name": "Ministry of Finance, Economic Development and Investment",
       "href": "ministry-01-ministry-of-finance-economic-development-and-investment.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education, Culture, Science and Technology",
       "href": "ministry-02-ministry-of-education-culture-science-and-technology.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health and Wellness",
       "href": "ministry-03-ministry-of-health-and-wellness.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Home Affairs and New Growth Industries",
       "href": "ministry-04-ministry-of-home-affairs-and-new-growth-industries.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Human Development, Families and Indigenous Peoples’ Affairs",
       "href": "ministry-05-ministry-of-human-development-families-and-indigenous-people.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Infrastructure Development and Housing",
       "href": "ministry-06-ministry-of-infrastructure-development-and-housing.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Natural Resources, Petroleum and Mining",
       "href": "ministry-07-ministry-of-natural-resources-petroleum-and-mining.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Rural Transformation, Community Development, Labour and Local Government",
       "href": "ministry-08-ministry-of-rural-transformation-community-development-labou.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Sustainable Development, Climate Change and Disaster Risk Management",
       "href": "ministry-09-ministry-of-sustainable-development-climate-change-and-disas.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism and Diaspora Relations",
       "href": "ministry-10-ministry-of-tourism-and-diaspora-relations.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs and Foreign Trade",
       "href": "ministry-11-ministry-of-foreign-affairs-and-foreign-trade.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture, Food Security and Enterprise",
       "href": "ministry-12-ministry-of-agriculture-food-security-and-enterprise.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.belize.gov.bz/"
+      "officialHref": "https://edc.gov.bz/elibrary/site/contact?page=1",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -174,5 +211,11 @@
       "name": "Toledo District",
       "code": "TOL"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

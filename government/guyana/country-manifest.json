@@ -24,7 +24,8 @@
     "Ecuador": "Guyana"
   },
   "sources": [
-    "https://dpi.gov.gy/ministries/"
+    "https://dpi.gov.gy/ministries/",
+    "https://dpi.gov.gy/"
   ],
   "utilities": [
     {
@@ -63,115 +64,172 @@
       "name": "Office of the President",
       "href": "ministry-01-office-of-the-president.html",
       "abbreviation": "M1",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Office of the Prime Minister",
       "href": "ministry-02-office-of-the-prime-minister.html",
       "abbreviation": "M2",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture",
       "href": "ministry-03-ministry-of-agriculture.html",
       "abbreviation": "M3",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Amerindian Affairs",
       "href": "ministry-04-ministry-of-amerindian-affairs.html",
       "abbreviation": "M4",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Culture, Youth and Sport",
       "href": "ministry-05-ministry-of-culture-youth-and-sport.html",
       "abbreviation": "M5",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education",
       "href": "ministry-06-ministry-of-education.html",
       "abbreviation": "M6",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance",
       "href": "ministry-07-ministry-of-finance.html",
       "abbreviation": "M7",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs and International Cooperation",
       "href": "ministry-08-ministry-of-foreign-affairs-and-international-cooperation.html",
       "abbreviation": "M8",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health",
       "href": "ministry-09-ministry-of-health.html",
       "abbreviation": "M9",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Home Affairs",
       "href": "ministry-10-ministry-of-home-affairs.html",
       "abbreviation": "M10",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Housing and Water",
       "href": "ministry-11-ministry-of-housing-and-water.html",
       "abbreviation": "M11",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Human Services and Social Security",
       "href": "ministry-12-ministry-of-human-services-and-social-security.html",
       "abbreviation": "M12",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Labour",
       "href": "ministry-13-ministry-of-labour.html",
       "abbreviation": "M13",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Legal Affairs",
       "href": "ministry-14-ministry-of-legal-affairs.html",
       "abbreviation": "M14",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Local Government and Regional Development",
       "href": "ministry-15-ministry-of-local-government-and-regional-development.html",
       "abbreviation": "M15",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Natural Resources",
       "href": "ministry-16-ministry-of-natural-resources.html",
       "abbreviation": "M16",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Public Service",
       "href": "ministry-17-ministry-of-public-service.html",
       "abbreviation": "M17",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Public Works",
       "href": "ministry-18-ministry-of-public-works.html",
       "abbreviation": "M18",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism, Industry and Commerce",
       "href": "ministry-19-ministry-of-tourism-industry-and-commerce.html",
       "abbreviation": "M19",
-      "officialHref": "https://dpi.gov.gy/"
+      "officialHref": "https://dpi.gov.gy/ministries/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -232,5 +290,11 @@
       "name": "Upper Takutu-Upper Essequibo",
       "code": "UT"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

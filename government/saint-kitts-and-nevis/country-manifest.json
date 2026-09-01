@@ -24,7 +24,8 @@
     "Ecuador": "Saint Kitts and Nevis"
   },
   "sources": [
-    "https://www.gov.kn/"
+    "https://www.gov.kn/",
+    "https://www.gov.kn/government-ministries-and-departments/"
   ],
   "utilities": [
     {
@@ -63,73 +64,109 @@
       "name": "Office of the Prime Minister",
       "href": "ministry-01-office-of-the-prime-minister.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance and the Public Service",
       "href": "ministry-02-ministry-of-finance-and-the-public-service.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs",
       "href": "ministry-03-ministry-of-foreign-affairs.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Security",
       "href": "ministry-04-ministry-of-national-security.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education",
       "href": "ministry-05-ministry-of-education.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health",
       "href": "ministry-06-ministry-of-health.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Public Infrastructure, Energy and Utilities",
       "href": "ministry-07-ministry-of-public-infrastructure-energy-and-utilities.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture, Fisheries, Marine Resources and Cooperatives",
       "href": "ministry-08-ministry-of-agriculture-fisheries-marine-resources-and-coope.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism",
       "href": "ministry-09-ministry-of-tourism.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Sustainable Development",
       "href": "ministry-10-ministry-of-sustainable-development.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Social Development and Gender Affairs",
       "href": "ministry-11-ministry-of-social-development-and-gender-affairs.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Environment, Climate Action and Constituency Empowerment",
       "href": "ministry-12-ministry-of-environment-climate-action-and-constituency-empo.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gov.kn/"
+      "officialHref": "https://www.gov.kn/government-ministries-and-departments/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -158,5 +195,11 @@
       "name": "Nevis",
       "code": "N"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -24,7 +24,8 @@
     "Ecuador": "Dominica"
   },
   "sources": [
-    "https://www.dominica.gov.dm/"
+    "https://www.dominica.gov.dm/",
+    "https://www.dominica.gov.dm/government-directory"
   ],
   "utilities": [
     {
@@ -63,73 +64,109 @@
       "name": "Office of the Prime Minister",
       "href": "ministry-01-office-of-the-prime-minister.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance, Economic Development, Climate Resilience and Social Security",
       "href": "ministry-02-ministry-of-finance-economic-development-climate-resilience-.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs, International Business, Trade and Energy",
       "href": "ministry-03-ministry-of-foreign-affairs-international-business-trade-and.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Security and Legal Affairs",
       "href": "ministry-04-ministry-of-national-security-and-legal-affairs.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education, Human Resource Planning, Vocational Training and National Excellence",
       "href": "ministry-05-ministry-of-education-human-resource-planning-vocational-tra.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health, Wellness and Social Services",
       "href": "ministry-06-ministry-of-health-wellness-and-social-services.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Public Works, Public Utilities and Digital Economy",
       "href": "ministry-07-ministry-of-public-works-public-utilities-and-digital-econom.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture, Fisheries, Blue and Green Economy",
       "href": "ministry-08-ministry-of-agriculture-fisheries-blue-and-green-economy.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism",
       "href": "ministry-09-ministry-of-tourism.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Environment, Rural Modernisation, Kalinago Upliftment and Constituency Empowerment",
       "href": "ministry-10-ministry-of-environment-rural-modernisation-kalinago-upliftm.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Housing and Urban Development",
       "href": "ministry-11-ministry-of-housing-and-urban-development.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Labour, Public Service Reform, Social Partnership, Entrepreneurship and Small Business Development",
       "href": "ministry-12-ministry-of-labour-public-service-reform-social-partnership-.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.dominica.gov.dm/"
+      "officialHref": "https://www.dominica.gov.dm/government-directory",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -190,5 +227,11 @@
       "name": "Saint Peter Parish",
       "code": "11"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

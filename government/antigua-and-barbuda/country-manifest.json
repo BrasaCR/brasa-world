@@ -24,7 +24,8 @@
     "Ecuador": "Antigua and Barbuda"
   },
   "sources": [
-    "https://ab.gov.ag/"
+    "https://ab.gov.ag/",
+    "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers"
   ],
   "utilities": [
     {
@@ -63,55 +64,82 @@
       "name": "Office of the Prime Minister",
       "href": "ministry-01-office-of-the-prime-minister.html",
       "abbreviation": "M1",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance and Corporate Governance",
       "href": "ministry-02-ministry-of-finance-and-corporate-governance.html",
       "abbreviation": "M2",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs, Agriculture, Trade and Barbuda Affairs",
       "href": "ministry-03-ministry-of-foreign-affairs-agriculture-trade-and-barbuda-af.html",
       "abbreviation": "M3",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Legal Affairs, Public Safety, Immigration and Labour",
       "href": "ministry-04-ministry-of-legal-affairs-public-safety-immigration-and-labo.html",
       "abbreviation": "M4",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education, Sports and Creative Industries",
       "href": "ministry-05-ministry-of-education-sports-and-creative-industries.html",
       "abbreviation": "M5",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health, Wellness, Social Transformation and the Environment",
       "href": "ministry-06-ministry-of-health-wellness-social-transformation-and-the-en.html",
       "abbreviation": "M6",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Works",
       "href": "ministry-07-ministry-of-works.html",
       "abbreviation": "M7",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism, Civil Aviation, Transportation and Investment",
       "href": "ministry-08-ministry-of-tourism-civil-aviation-transportation-and-invest.html",
       "abbreviation": "M8",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Housing, Lands and Urban Renewal",
       "href": "ministry-09-ministry-of-housing-lands-and-urban-renewal.html",
       "abbreviation": "M9",
-      "officialHref": "https://ab.gov.ag/"
+      "officialHref": "https://www.ab.gov.ag/detail_template.php?page=government_info%2Fministers",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -260,5 +288,11 @@
       "name": "York Island",
       "code": "37"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

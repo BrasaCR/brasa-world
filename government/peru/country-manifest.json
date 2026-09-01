@@ -25,7 +25,27 @@
   },
   "sources": [
     "https://www.gob.pe/estado/poder-ejecutivo",
-    "https://www.gob.pe/pcm/ministros"
+    "https://www.gob.pe/pcm/ministros",
+    "https://www.gob.pe/",
+    "https://www.gob.pe/pcm",
+    "https://www.gob.pe/rree",
+    "https://www.gob.pe/mindef",
+    "https://www.gob.pe/mef",
+    "https://www.gob.pe/mininter",
+    "https://www.gob.pe/minjus",
+    "https://www.gob.pe/minedu",
+    "https://www.gob.pe/minsa",
+    "https://www.gob.pe/midagri",
+    "https://www.gob.pe/mtpe",
+    "https://www.gob.pe/produce",
+    "https://www.gob.pe/mincetur",
+    "https://www.gob.pe/minem",
+    "https://www.gob.pe/mtc",
+    "https://www.gob.pe/vivienda",
+    "https://www.gob.pe/mimp",
+    "https://www.gob.pe/minam",
+    "https://www.gob.pe/cultura",
+    "https://www.gob.pe/midis"
   ],
   "utilities": [
     {
@@ -64,115 +84,172 @@
       "name": "Presidencia del Consejo de Ministros",
       "href": "ministry-01-presidencia-del-consejo-de-ministros.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/pcm",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/rree",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Defensa",
       "href": "ministry-03-ministerio-de-defensa.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mindef",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
       "href": "ministry-04-ministerio-de-economia-y-finanzas.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mef",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Interior",
       "href": "ministry-05-ministerio-del-interior.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mininter",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Justicia y Derechos Humanos",
       "href": "ministry-06-ministerio-de-justicia-y-derechos-humanos.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/minjus",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-07-ministerio-de-educacion.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/minedu",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud",
       "href": "ministry-08-ministerio-de-salud.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/minsa",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Desarrollo Agrario y Riego",
       "href": "ministry-09-ministerio-de-desarrollo-agrario-y-riego.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/midagri",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Trabajo y Promoción del Empleo",
       "href": "ministry-10-ministerio-de-trabajo-y-promocion-del-empleo.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mtpe",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de la Producción",
       "href": "ministry-11-ministerio-de-la-produccion.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/produce",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Comercio Exterior y Turismo",
       "href": "ministry-12-ministerio-de-comercio-exterior-y-turismo.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mincetur",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Energía y Minas",
       "href": "ministry-13-ministerio-de-energia-y-minas.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/minem",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Transportes y Comunicaciones",
       "href": "ministry-14-ministerio-de-transportes-y-comunicaciones.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mtc",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Vivienda, Construcción y Saneamiento",
       "href": "ministry-15-ministerio-de-vivienda-construccion-y-saneamiento.html",
       "abbreviation": "M15",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/vivienda",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de la Mujer y Poblaciones Vulnerables",
       "href": "ministry-16-ministerio-de-la-mujer-y-poblaciones-vulnerables.html",
       "abbreviation": "M16",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/mimp",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Ambiente",
       "href": "ministry-17-ministerio-del-ambiente.html",
       "abbreviation": "M17",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/minam",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Cultura",
       "href": "ministry-18-ministerio-de-cultura.html",
       "abbreviation": "M18",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/cultura",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Desarrollo e Inclusión Social",
       "href": "ministry-19-ministerio-de-desarrollo-e-inclusion-social.html",
       "abbreviation": "M19",
-      "officialHref": "https://www.gob.pe/"
+      "officialHref": "https://www.gob.pe/midis",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -297,5 +374,11 @@
       "name": "Ucayali",
       "code": "UCA"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

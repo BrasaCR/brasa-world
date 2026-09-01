@@ -24,7 +24,34 @@
     "Ecuador": "Chile"
   },
   "sources": [
-    "https://www.gob.cl/instituciones/"
+    "https://www.gob.cl/instituciones/",
+    "https://www.gob.cl/",
+    "http://www.oep.gov.cl/",
+    "https://www.interior.gob.cl/",
+    "https://www.seguridadpublica.gob.cl/",
+    "https://www.minrel.gob.cl/",
+    "https://www.defensa.cl/",
+    "https://www.hacienda.cl/",
+    "https://www.minsegpres.gob.cl/",
+    "https://msgg.gob.cl/",
+    "https://www.economia.gob.cl/",
+    "https://www.desarrollosocialyfamilia.gob.cl/",
+    "https://www.mineduc.cl/",
+    "https://www.minjusticia.gob.cl/",
+    "https://www.mintrab.gob.cl/",
+    "https://www.mop.gob.cl/",
+    "https://www.minsal.cl/",
+    "https://www.minvu.gob.cl/",
+    "https://www.minagri.gob.cl/",
+    "https://www.minmineria.cl/",
+    "https://www.mtt.gob.cl/",
+    "https://www.bienesnacionales.cl/",
+    "https://energia.gob.cl/",
+    "https://mma.gob.cl/",
+    "https://www.mindep.cl/",
+    "https://minmujeryeg.gob.cl/",
+    "https://www.cultura.gob.cl/",
+    "https://www.minciencia.gob.cl/"
   ],
   "utilities": [
     {
@@ -63,151 +90,227 @@
       "name": "Ministerio del Interior",
       "href": "ministry-01-ministerio-del-interior.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.interior.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01",
+      "discoverySource": "https://es.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrnamespace=0&gsrlimit=3&gsrsearch=Ministerio%20del%20Interior%20Chile&prop=extlinks&ellimit=max"
     },
     {
       "name": "Ministerio de Seguridad Pública",
       "href": "ministry-02-ministerio-de-seguridad-publica.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.seguridadpublica.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-03-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minrel.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Defensa Nacional",
       "href": "ministry-04-ministerio-de-defensa-nacional.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.defensa.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Hacienda",
       "href": "ministry-05-ministerio-de-hacienda.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.hacienda.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio Secretaría General de la Presidencia",
       "href": "ministry-06-ministerio-secretaria-general-de-la-presidencia.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minsegpres.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio Secretaría General de Gobierno",
       "href": "ministry-07-ministerio-secretaria-general-de-gobierno.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://msgg.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía, Fomento y Turismo",
       "href": "ministry-08-ministerio-de-economia-fomento-y-turismo.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.economia.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Desarrollo Social y Familia",
       "href": "ministry-09-ministerio-de-desarrollo-social-y-familia.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.desarrollosocialyfamilia.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-10-ministerio-de-educacion.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.mineduc.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Justicia y Derechos Humanos",
       "href": "ministry-11-ministerio-de-justicia-y-derechos-humanos.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minjusticia.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Trabajo y Previsión Social",
       "href": "ministry-12-ministerio-del-trabajo-y-prevision-social.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.mintrab.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Obras Públicas",
       "href": "ministry-13-ministerio-de-obras-publicas.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.mop.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud",
       "href": "ministry-14-ministerio-de-salud.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minsal.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Vivienda y Urbanismo",
       "href": "ministry-15-ministerio-de-vivienda-y-urbanismo.html",
       "abbreviation": "M15",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minvu.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Agricultura",
       "href": "ministry-16-ministerio-de-agricultura.html",
       "abbreviation": "M16",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minagri.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Minería",
       "href": "ministry-17-ministerio-de-mineria.html",
       "abbreviation": "M17",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minmineria.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Transportes y Telecomunicaciones",
       "href": "ministry-18-ministerio-de-transportes-y-telecomunicaciones.html",
       "abbreviation": "M18",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.mtt.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Bienes Nacionales",
       "href": "ministry-19-ministerio-de-bienes-nacionales.html",
       "abbreviation": "M19",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.bienesnacionales.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Energía",
       "href": "ministry-20-ministerio-de-energia.html",
       "abbreviation": "M20",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://energia.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Medio Ambiente",
       "href": "ministry-21-ministerio-del-medio-ambiente.html",
       "abbreviation": "M21",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://mma.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio del Deporte",
       "href": "ministry-22-ministerio-del-deporte.html",
       "abbreviation": "M22",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.mindep.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de la Mujer y la Equidad de Género",
       "href": "ministry-23-ministerio-de-la-mujer-y-la-equidad-de-genero.html",
       "abbreviation": "M23",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://minmujeryeg.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de las Culturas, las Artes y el Patrimonio",
       "href": "ministry-24-ministerio-de-las-culturas-las-artes-y-el-patrimonio.html",
       "abbreviation": "M24",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.cultura.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
       "href": "ministry-25-ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion.html",
       "abbreviation": "M25",
-      "officialHref": "https://www.gob.cl/"
+      "officialHref": "https://www.minciencia.gob.cl/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -292,5 +395,11 @@
       "name": "Valparaíso",
       "code": "VS"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

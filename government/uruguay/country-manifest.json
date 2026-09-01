@@ -24,7 +24,22 @@
     "Ecuador": "Uruguay"
   },
   "sources": [
-    "https://www.gub.uy/organismos"
+    "https://www.gub.uy/organismos",
+    "https://www.gub.uy/",
+    "https://www.gub.uy/ministerio-interior/",
+    "https://www.gub.uy/ministerio-relaciones-exteriores/",
+    "https://www.gub.uy/ministerio-economia-finanzas/",
+    "https://www.gub.uy/ministerio-defensa-nacional/",
+    "https://www.gub.uy/ministerio-educacion-cultura/",
+    "https://www.gub.uy/ministerio-transporte-obras-publicas/",
+    "https://www.gub.uy/ministerio-industria-energia-mineria/",
+    "https://www.gub.uy/ministerio-trabajo-seguridad-social/",
+    "https://www.gub.uy/ministerio-salud-publica/",
+    "https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/",
+    "https://www.gub.uy/ministerio-turismo/",
+    "https://www.gub.uy/ministerio-vivienda-ordenamiento-territorial/",
+    "https://www.gub.uy/ministerio-desarrollo-social/",
+    "https://www.gub.uy/ministerio-ambiente/"
   ],
   "utilities": [
     {
@@ -63,85 +78,127 @@
       "name": "Ministerio del Interior",
       "href": "ministry-01-ministerio-del-interior.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-interior/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-relaciones-exteriores/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
       "href": "ministry-03-ministerio-de-economia-y-finanzas.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-economia-finanzas/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Defensa Nacional",
       "href": "ministry-04-ministerio-de-defensa-nacional.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-defensa-nacional/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación y Cultura",
       "href": "ministry-05-ministerio-de-educacion-y-cultura.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-educacion-cultura/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Transporte y Obras Públicas",
       "href": "ministry-06-ministerio-de-transporte-y-obras-publicas.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-transporte-obras-publicas/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Industria, Energía y Minería",
       "href": "ministry-07-ministerio-de-industria-energia-y-mineria.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-industria-energia-mineria/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Trabajo y Seguridad Social",
       "href": "ministry-08-ministerio-de-trabajo-y-seguridad-social.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-trabajo-seguridad-social/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud Pública",
       "href": "ministry-09-ministerio-de-salud-publica.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-salud-publica/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ganadería, Agricultura y Pesca",
       "href": "ministry-10-ministerio-de-ganaderia-agricultura-y-pesca.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Turismo",
       "href": "ministry-11-ministerio-de-turismo.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-turismo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Vivienda y Ordenamiento Territorial",
       "href": "ministry-12-ministerio-de-vivienda-y-ordenamiento-territorial.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-vivienda-ordenamiento-territorial/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Desarrollo Social",
       "href": "ministry-13-ministerio-de-desarrollo-social.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-desarrollo-social/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ambiente",
       "href": "ministry-14-ministerio-de-ambiente.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.gub.uy/"
+      "officialHref": "https://www.gub.uy/ministerio-ambiente/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -238,5 +295,11 @@
       "name": "Treinta y Tres",
       "code": "TT"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

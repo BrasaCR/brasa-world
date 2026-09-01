@@ -24,7 +24,9 @@
     "Ecuador": "Saint Vincent and the Grenadines"
   },
   "sources": [
-    "https://www.gov.vc/"
+    "https://www.gov.vc/",
+    "http://memory.loc.gov/ammem/amlaw",
+    "https://www.gov.vc/index.php/ministries"
   ],
   "utilities": [
     {
@@ -63,61 +65,92 @@
       "name": "Office of the Prime Minister",
       "href": "ministry-01-office-of-the-prime-minister.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance, Economic Planning and Information Technology",
       "href": "ministry-02-ministry-of-finance-economic-planning-and-information-techno.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs and Foreign Trade",
       "href": "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Security",
       "href": "ministry-04-ministry-of-national-security.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education and National Reconciliation",
       "href": "ministry-05-ministry-of-education-and-national-reconciliation.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health, Wellness and the Environment",
       "href": "ministry-06-ministry-of-health-wellness-and-the-environment.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Transport, Works, Lands and Physical Planning",
       "href": "ministry-07-ministry-of-transport-works-lands-and-physical-planning.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry and Labour",
       "href": "ministry-08-ministry-of-agriculture-forestry-fisheries-rural-transformat.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism, Civil Aviation, Sustainable Development and Culture",
       "href": "ministry-09-ministry-of-tourism-civil-aviation-sustainable-development-a.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Mobilisation, Social Development and Local Government",
       "href": "ministry-10-ministry-of-national-mobilisation-social-development-and-loc.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gov.vc/"
+      "officialHref": "https://www.gov.vc/index.php/ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01",
+      "discoverySource": "https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrnamespace=0&gsrlimit=3&gsrsearch=Ministry%20of%20National%20Mobilisation%2C%20Social%20Development%20and%20Local%20Government%20Saint%20Vincent%20and%20the%20Grenadines&prop=extlinks&ellimit=max"
     }
   ],
   "sharedPages": [
@@ -162,5 +195,11 @@
       "name": "Saint Patrick",
       "code": "05"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

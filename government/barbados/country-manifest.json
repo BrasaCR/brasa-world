@@ -24,7 +24,8 @@
     "Ecuador": "Barbados"
   },
   "sources": [
-    "https://www.gov.bb/"
+    "https://www.gov.bb/",
+    "https://www.gov.bb/Ministries"
   ],
   "utilities": [
     {
@@ -63,85 +64,127 @@
       "name": "Office of the Prime Minister",
       "href": "ministry-01-office-of-the-prime-minister.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Finance, Economic Affairs and Investment",
       "href": "ministry-02-ministry-of-finance-economic-affairs-and-investment.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs and Foreign Trade",
       "href": "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Home Affairs and Information",
       "href": "ministry-04-ministry-of-home-affairs-and-information.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education, Technological and Vocational Training",
       "href": "ministry-05-ministry-of-education-technological-and-vocational-training.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health and Wellness",
       "href": "ministry-06-ministry-of-health-and-wellness.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Transport and Works",
       "href": "ministry-07-ministry-of-transport-and-works.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Housing, Lands and Maintenance",
       "href": "ministry-08-ministry-of-housing-lands-and-maintenance.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture, Food and Nutritional Security",
       "href": "ministry-09-ministry-of-agriculture-food-and-nutritional-security.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Environment and National Beautification",
       "href": "ministry-10-ministry-of-environment-and-national-beautification.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Labour, Social Security and Third Sector",
       "href": "ministry-11-ministry-of-labour-social-security-and-third-sector.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Tourism and International Transport",
       "href": "ministry-12-ministry-of-tourism-and-international-transport.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Youth, Sports and Community Empowerment",
       "href": "ministry-13-ministry-of-youth-sports-and-community-empowerment.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministry of People Empowerment and Elder Affairs",
       "href": "ministry-14-ministry-of-people-empowerment-and-elder-affairs.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.gov.bb/"
+      "officialHref": "https://www.gov.bb/Ministries",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -206,5 +249,11 @@
       "name": "Saint Thomas",
       "code": "11"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

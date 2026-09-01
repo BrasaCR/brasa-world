@@ -24,7 +24,23 @@
     "Ecuador": "Bolivia"
   },
   "sources": [
-    "https://www.gob.bo/entidades"
+    "https://www.gob.bo/entidades",
+    "https://www.gob.bo/",
+    "https://presidencia.gob.bo/",
+    "https://cancilleria.gob.bo/",
+    "https://www.mingobierno.gob.bo/",
+    "https://www.mindef.gob.bo/",
+    "https://www.planificacion.gob.bo/",
+    "https://www.economiayfinanzas.gob.bo/",
+    "https://www.mhe.gob.bo/",
+    "https://produccion.gob.bo/",
+    "https://www.oopp.gob.bo/",
+    "https://www.mineria.gob.bo/",
+    "https://www.justicia.gob.bo/",
+    "https://www.mintrabajo.gob.bo/",
+    "https://www.minsalud.gob.bo/",
+    "https://www.minedu.gob.bo/",
+    "https://www.minculturas.gob.bo/"
   ],
   "utilities": [
     {
@@ -63,91 +79,136 @@
       "name": "Ministerio de la Presidencia",
       "href": "ministry-01-ministerio-de-la-presidencia.html",
       "abbreviation": "M1",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://presidencia.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "M2",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://cancilleria.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Gobierno",
       "href": "ministry-03-ministerio-de-gobierno.html",
       "abbreviation": "M3",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.mingobierno.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Defensa",
       "href": "ministry-04-ministerio-de-defensa.html",
       "abbreviation": "M4",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.mindef.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Planificación del Desarrollo y Medio Ambiente",
       "href": "ministry-05-ministerio-de-planificacion-del-desarrollo-y-medio-ambiente.html",
       "abbreviation": "M5",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.planificacion.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía y Finanzas Públicas",
       "href": "ministry-06-ministerio-de-economia-y-finanzas-publicas.html",
       "abbreviation": "M6",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.economiayfinanzas.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Hidrocarburos y Energías",
       "href": "ministry-07-ministerio-de-hidrocarburos-y-energias.html",
       "abbreviation": "M7",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.mhe.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Desarrollo Productivo, Rural y Agua",
       "href": "ministry-08-ministerio-de-desarrollo-productivo-rural-y-agua.html",
       "abbreviation": "M8",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://produccion.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Obras Públicas, Servicios y Vivienda",
       "href": "ministry-09-ministerio-de-obras-publicas-servicios-y-vivienda.html",
       "abbreviation": "M9",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.oopp.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Minería y Metalurgia",
       "href": "ministry-10-ministerio-de-mineria-y-metalurgia.html",
       "abbreviation": "M10",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.mineria.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Justicia y Transparencia Institucional",
       "href": "ministry-11-ministerio-de-justicia-y-transparencia-institucional.html",
       "abbreviation": "M11",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.justicia.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Trabajo, Empleo y Previsión Social",
       "href": "ministry-12-ministerio-de-trabajo-empleo-y-prevision-social.html",
       "abbreviation": "M12",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.mintrabajo.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud y Deportes",
       "href": "ministry-13-ministerio-de-salud-y-deportes.html",
       "abbreviation": "M13",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.minsalud.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-14-ministerio-de-educacion.html",
       "abbreviation": "M14",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.minedu.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Turismo Sostenible, Culturas, Folklore y Gastronomía",
       "href": "ministry-15-ministerio-de-turismo-sostenible-culturas-folklore-y-gastron.html",
       "abbreviation": "M15",
-      "officialHref": "https://www.gob.bo/"
+      "officialHref": "https://www.minculturas.gob.bo/",
+      "discoveryAttempted": "2026-09-01",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -204,5 +265,11 @@
       "name": "Tarija",
       "code": "TJ"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }
