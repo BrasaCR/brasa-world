@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "slug": "jamaica",
+  "code": "JM",
+  "country": "Jamaica",
+  "officialName": "Jamaica",
+  "brand": "BRASA JM",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.jm/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA JM",
+    "Government of Ecuador": "Government of Jamaica",
+    "Made with care in Ecuador": "Made with care in Jamaica",
+    "Ecuador": "Jamaica"
+  },
+  "sources": [
+    "https://www.gov.jm/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Jamaica Public Service"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "National Water Commission"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Petrojam, TotalEnergies Jamaica, RUBIS"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel+"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "National Solid Waste Management Authority"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance and the Public Service",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of Foreign Affairs and Foreign Trade",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of National Security",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Health and Wellness",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Education, Skills, Youth and Information",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Economic Growth and Job Creation",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Local Government and Community Development",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Labour and Social Security",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of Industry, Investment and Commerce",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministry of Agriculture, Fisheries and Mining",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministry of Tourism",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministry of Transport and Mining",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M14"
+    },
+    {
+      "name": "Ministry of Culture, Gender, Entertainment and Sport",
+      "href": "https://www.gov.jm/",
+      "abbreviation": "M15"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Schools of Costa Rica</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--cream:#F0EBDE;--ink:#1B1A17;--soft:#6B6658;--accent:#8C3A1F;--line:#D9D2C4;--card:#FBF8F1;--serif:'Fraunces',Georgia,serif;--sans:'Geist',system-ui,sans-serif}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--cream);color:var(--ink);font-family:var(--sans);line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 clamp(1.25rem,4vw,3rem)}
+  header.bar{position:sticky;top:0;z-index:10;background:rgba(240,235,222,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .bar-row{display:flex;align-items:center;justify-content:space-between;padding:1rem 0}
+  .mark{font-family:var(--serif);font-weight:600;font-size:1.35rem;color:var(--accent)}
+  .back{font-family:var(--sans);font-size:.85rem;font-weight:500;color:var(--soft);text-decoration:none}
+  .back:hover{color:var(--ink)}
+  .hero{padding:clamp(2.25rem,5vw,3.5rem) 0 1.25rem;border-bottom:1px solid var(--line)}
+  .eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:.6rem}
+  h1{font-family:var(--serif);font-weight:600;font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;letter-spacing:-.01em;color:var(--ink)}
+  .count{margin-top:.6rem;color:var(--soft);font-size:.95rem}
+  .provnav{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:1.2rem}
+  .provnav a{font-size:.8rem;font-weight:500;color:var(--soft);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:.3rem .7rem;background:var(--card)}
+  .provnav a.active{color:#fff;background:var(--accent);border-color:var(--accent)}
+  .provnav a:hover{color:var(--ink)}
+  .provnav a.active:hover{color:#fff}
+  .controls{display:flex;gap:.75rem;flex-wrap:wrap;margin:1.4rem 0 .5rem}
+  .controls input,.controls select{font-family:var(--sans);font-size:.92rem;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.6rem .8rem}
+  .controls input{flex:1;min-width:220px}
+  main{padding:1.5rem 0 5rem}
+  .canton{border-bottom:1px solid var(--line)}
+  .canton-head{width:100%;display:flex;align-items:center;justify-content:space-between;gap:1rem;background:none;border:0;cursor:pointer;padding:1rem .25rem;text-align:left;font-family:var(--sans)}
+  .canton-name{font-family:var(--serif);font-weight:500;font-size:1.15rem;color:var(--ink)}
+  .canton-meta{color:var(--soft);font-size:.85rem;white-space:nowrap}
+  .canton-list{display:none;padding:0 .25rem 1rem}
+  .canton.open .canton-list{display:block}
+  .canton.open .chev{transform:rotate(90deg)}
+  .chev{display:inline-block;transition:transform .15s;color:var(--accent);margin-left:.5rem}
+  .school{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;padding:.55rem .6rem;border-radius:8px;text-decoration:none;color:inherit;cursor:pointer}
+  .school:hover{background:var(--card)}
+  .school-name{font-weight:500}
+  .school-type{color:var(--soft);font-size:.82rem;white-space:nowrap}
+  .state{padding:3rem .25rem;color:var(--soft);font-style:italic}
+  footer{padding:2.5rem 0;border-top:1px solid var(--line);color:var(--soft);font-size:.82rem}
+  mark{background:#F2D9C9;color:var(--ink);padding:0 .1em;border-radius:2px}
+</style>
+</head>
+<body>
+<header class="bar"><div class="wrap bar-row">
+  <span class="mark">BRASA CR</span>
+  <a class="back" href="index.html">\u2190 Education, World Wide</a>
+</div></header>
+
+<div class="wrap">
+  <section class="hero">
+    <p class="eyebrow">Schools of Costa Rica</p>
+    <h1 id="title">Loading\u2026</h1>
+    <p class="count" id="count"></p>
+    <nav class="provnav" id="provnav"></nav>
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search by name\u2026" autocomplete="off">
+      <select id="typeFilter"><option value="">All types</option></select>
+    </div>
+  </section>
+  <main id="main"><p class="state">Loading schools\u2026</p></main>
+  <footer>Live from the BRASA citizens registry \u00B7 Schools of Costa Rica</footer>
+</div>
+
+<script>
+const PROVINCES = ["San José","Alajuela","Puntarenas","Guanacaste","Limón","Cartago","Heredia"];
+const params = new URLSearchParams(location.search);
+const dreParam = (params.get("dre") || "").trim();
+const provinceParam = params.get("province") || "Others";
+const DRE_MODE = !!dreParam;
+const apiUrl = DRE_MODE
+  ? "/api/schools?dre=" + encodeURIComponent(dreParam)
+  : "/api/schools?province=" + encodeURIComponent(provinceParam);
+const displayName = DRE_MODE ? ("DRE " + dreParam)
+  : ((provinceParam === "Others" || provinceParam === "Other regions") ? "Other regions" : provinceParam);
+document.getElementById("title").textContent = displayName;
+document.title = displayName + " \u00B7 Schools of Costa Rica";
+document.querySelector(".eyebrow").textContent = DRE_MODE ? "Government \u00B7 Education sector" : "Schools of Costa Rica";
+
+// nav: province chips (Education door) or a back-to-regions link (Government door)
+if (DRE_MODE) {
+  document.getElementById("provnav").innerHTML = '<a href="gov-schools.html">\u2190 All DRE regions</a>';
+} else {
+  document.getElementById("provnav").innerHTML = PROVINCES.map(p =>
+    '<a class="' + (p === provinceParam ? "active" : "") + '" href="schools.html?province=' + encodeURIComponent(p) + '">' + p + '</a>'
+  ).join("");
+}
+
+let ALL = [];
+const esc = s => String(s == null ? "" : s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+
+function groupByCanton(rows){
+  const map = new Map();
+  for(const r of rows){
+    const c = r.canton || "\u2014";
+    if(!map.has(c)) map.set(c, []);
+    map.get(c).push(r);
+  }
+  return [...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],"es"));
+}
+function highlight(name, q){
+  if(!q) return esc(name);
+  const i = name.toLowerCase().indexOf(q.toLowerCase());
+  if(i<0) return esc(name);
+  return esc(name.slice(0,i)) + "<mark>" + esc(name.slice(i,i+q.length)) + "</mark>" + esc(name.slice(i+q.length));
+}
+function render(){
+  const q = document.getElementById("q").value.trim();
+  const type = document.getElementById("typeFilter").value;
+  let rows = ALL;
+  if(type) rows = rows.filter(r => (r.type||"") === type);
+  if(q) rows = rows.filter(r => (r.name||"").toLowerCase().includes(q.toLowerCase()));
+  const main = document.getElementById("main");
+  if(rows.length === 0){ main.innerHTML = '<p class="state">No schools match.</p>'; return; }
+  const groups = groupByCanton(rows);
+  const openAll = !!(q || type) || groups.length === 1;
+  main.innerHTML = groups.map(g => {
+    const [canton, list] = g;
+    const items = list.map(r =>
+      '<a class="school" href="school.html?slug=' + encodeURIComponent(r.slug) + '"><span class="school-name">' + highlight(r.name||"", q) +
+      '</span><span class="school-type">' + esc(r.type || "") + '</span></a>'
+    ).join("");
+    return '<div class="canton' + (openAll ? " open" : "") + '">' +
+      '<button class="canton-head" onclick="this.parentNode.classList.toggle(\'open\')">' +
+        '<span class="canton-name">' + esc(canton) + '<span class="chev">\u203A</span></span>' +
+        '<span class="canton-meta">' + list.length + ' school' + (list.length>1?"s":"") + '</span>' +
+      '</button><div class="canton-list">' + items + '</div></div>';
+  }).join("");
+}
+(async function(){
+  try{
+    const res = await fetch(apiUrl);
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    if(data.error) throw new Error(data.error);
+    ALL = data.schools || [];
+    const cantons = new Set(ALL.map(r => r.canton).filter(Boolean));
+    document.getElementById("count").textContent =
+      ALL.length.toLocaleString() + " schools \u00B7 " + cantons.size + " canton" + (cantons.size!==1?"es":"");
+    const types = [...new Set(ALL.map(r => r.type).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));
+    const sel = document.getElementById("typeFilter");
+    for(const t of types){ const o=document.createElement("option"); o.value=t; o.textContent=t; sel.appendChild(o); }
+    render();
+  }catch(err){
+    document.getElementById("count").textContent = "";
+    document.getElementById("main").innerHTML =
+      '<p class="state">Couldn\u2019t load schools (' + esc(err.message||err) + ').</p>';
+  }
+})();
+document.getElementById("q").addEventListener("input", render);
+document.getElementById("typeFilter").addEventListener("change", render);
+</script>
+</body>
+</html>

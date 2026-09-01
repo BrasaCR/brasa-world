@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Office of the Prime Minister",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance, Economic Affairs and Investment",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs and Foreign Trade",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Home Affairs and Information",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education, Technological and Vocational Training",
+    "page": "Government of Barbados",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health and Wellness",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transport and Works",
+    "page": "Government of Barbados",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Housing, Lands and Maintenance",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture, Food and Nutritional Security",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Environment and National Beautification",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Labour, Social Security and Third Sector",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism and International Transport",
+    "page": "Government of Barbados",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth, Sports and Community Empowerment",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of People Empowerment and Elder Affairs",
+    "page": "Government of Barbados",
+    "url": "https://www.gov.bb/",
+    "verified": "2026-09-01"
+  }
+]

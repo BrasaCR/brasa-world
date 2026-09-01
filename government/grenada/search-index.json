@@ -1,0 +1,104 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Office of the Prime Minister",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs, Trade and Export Development",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Security, Home Affairs and Public Administration",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education, Youth, Sports and Culture",
+    "page": "Government of Grenada",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health, Wellness and Religious Affairs",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Infrastructure and Physical Development",
+    "page": "Government of Grenada",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture and Lands, Forestry and Marine Resources",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Climate Resilience, the Environment and Renewable Energy",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social and Community Development, Housing and Gender Affairs",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Mobilisation, Implementation and Transformation",
+    "page": "Government of Grenada",
+    "url": "https://www.gov.gd/",
+    "verified": "2026-09-01"
+  }
+]

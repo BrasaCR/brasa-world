@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "slug": "saint-vincent-and-the-grenadines",
+  "code": "VC",
+  "country": "Saint Vincent and the Grenadines",
+  "officialName": "Saint Vincent and the Grenadines",
+  "brand": "BRASA VC",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.vc/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA VC",
+    "Government of Ecuador": "Government of Saint Vincent and the Grenadines",
+    "Made with care in Ecuador": "Made with care in Saint Vincent and the Grenadines",
+    "Ecuador": "Saint Vincent and the Grenadines"
+  },
+  "sources": [
+    "https://www.gov.vc/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "VINLEC"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Central Water and Sewerage Authority"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Sol SVG, RUBIS"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Central Water and Sewerage Authority"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance, Economic Planning and Information Technology",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of Foreign Affairs and Foreign Trade",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of National Security",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Education and National Reconciliation",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Health, Wellness and the Environment",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Transport, Works, Lands and Physical Planning",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry and Labour",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Tourism, Civil Aviation, Sustainable Development and Culture",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of National Mobilisation, Social Development and Local Government",
+      "href": "https://www.gov.vc/",
+      "abbreviation": "M10"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

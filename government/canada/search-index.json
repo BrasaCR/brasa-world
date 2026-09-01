@@ -1,0 +1,128 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Finance Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Global Affairs Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of National Defence",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Justice Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Health Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Transport Canada",
+    "page": "Government of Canada",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Environment and Climate Change Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Immigration, Refugees and Citizenship Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Employment and Social Development Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Innovation, Science and Economic Development Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Indigenous Services Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Natural Resources Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Agriculture and Agri-Food Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Public Safety Canada",
+    "page": "Government of Canada",
+    "url": "https://www.canada.ca/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Housing, Infrastructure and Communities Canada",
+    "page": "Government of Canada",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  }
+]

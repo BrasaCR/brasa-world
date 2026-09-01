@@ -1,0 +1,48 @@
+<!-- Main Container -->
+<div class="brasa-directory-container">
+  
+  <div class="directory-header">
+    <h2>The Americas · <span class="tile-count">35 tiles</span></h2>
+  </div>
+
+  <!-- The Grid -->
+  <div class="brasa-tile-grid">
+
+    <!-- Tile 1: Costa Rica -->
+    <a href="/cr" class="brasa-tile">
+      <div class="tile-top">
+        <span class="tile-icon">🇨🇷</span>
+        <h3 class="tile-title">Costa Rica</h3>
+      </div>
+      <div class="tile-bottom">
+        <span class="tile-meta">18 Ministries · 1,438 Services</span>
+        <span class="tile-arrow">→</span>
+      </div>
+    </a>
+
+    <!-- Tile 2: United States -->
+    <a href="/us" class="brasa-tile">
+      <div class="tile-top">
+        <span class="tile-icon">🇺🇸</span>
+        <h3 class="tile-title">United States</h3>
+      </div>
+      <div class="tile-bottom">
+        <span class="tile-meta">15 Departments · 4,200+ Services</span>
+        <span class="tile-arrow">→</span>
+      </div>
+    </a>
+
+    <!-- Tile 3: Brazil -->
+    <a href="/br" class="brasa-tile">
+      <div class="tile-top">
+        <span class="tile-icon">🇧🇷</span>
+        <h3 class="tile-title">Brazil</h3>
+      </div>
+      <div class="tile-bottom">
+        <span class="tile-meta">23 Ministries · 3,100+ Services</span>
+        <span class="tile-arrow">→</span>
+      </div>
+    </a>
+
+  </div>
+</div>

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "slug": "saint-lucia",
+  "code": "LC",
+  "country": "Saint Lucia",
+  "officialName": "Saint Lucia",
+  "brand": "BRASA LC",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.govt.lc/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA LC",
+    "Government of Ecuador": "Government of Saint Lucia",
+    "Made with care in Ecuador": "Made with care in Saint Lucia",
+    "Ecuador": "Saint Lucia"
+  },
+  "sources": [
+    "https://www.govt.lc/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "LUCELEC"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "WASCO"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Sol Saint Lucia, RUBIS"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Saint Lucia Solid Waste Management Authority"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance, Economic Development and Youth Economy",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of External Affairs, International Trade and Civil Aviation",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of Home Affairs, Crime Prevention and Persons with Disabilities",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Education, Sustainable Development, Innovation, Science, Technology and Vocational Training",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Health, Wellness and Elderly Affairs",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Infrastructure, Ports, Transport, Physical Development and Urban Renewal",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Agriculture, Fisheries, Food Security and Rural Development",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Tourism, Investment, Creative Industries, Culture and Information",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of Equity, Social Justice and Empowerment",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministry of Public Service, Labour and Gender Affairs",
+      "href": "https://www.govt.lc/",
+      "abbreviation": "M11"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

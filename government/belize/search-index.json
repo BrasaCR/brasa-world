@@ -1,0 +1,110 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance, Economic Development and Investment",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education, Culture, Science and Technology",
+    "page": "Government of Belize",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health and Wellness",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Home Affairs and New Growth Industries",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Human Development, Families and Indigenous Peoples’ Affairs",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Infrastructure Development and Housing",
+    "page": "Government of Belize",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Natural Resources, Petroleum and Mining",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Rural Transformation, Community Development, Labour and Local Government",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Sustainable Development, Climate Change and Disaster Risk Management",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism and Diaspora Relations",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs and Foreign Trade",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture, Food Security and Enterprise",
+    "page": "Government of Belize",
+    "url": "https://www.belize.gov.bz/",
+    "verified": "2026-09-01"
+  }
+]

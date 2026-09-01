@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "slug": "barbados",
+  "code": "BB",
+  "country": "Barbados",
+  "officialName": "Barbados",
+  "brand": "BRASA BB",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.bb/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA BB",
+    "Government of Ecuador": "Government of Barbados",
+    "Made with care in Ecuador": "Made with care in Barbados",
+    "Ecuador": "Barbados"
+  },
+  "sources": [
+    "https://www.gov.bb/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "Barbados Light & Power"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Barbados Water Authority"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Sol Barbados, RUBIS Barbados"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Sanitation Service Authority"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance, Economic Affairs and Investment",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of Foreign Affairs and Foreign Trade",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of Home Affairs and Information",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Education, Technological and Vocational Training",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Health and Wellness",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Transport and Works",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Housing, Lands and Maintenance",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Agriculture, Food and Nutritional Security",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of Environment and National Beautification",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministry of Labour, Social Security and Third Sector",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministry of Tourism and International Transport",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M12"
+    },
+    {
+      "name": "Ministry of Youth, Sports and Community Empowerment",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M13"
+    },
+    {
+      "name": "Ministry of People Empowerment and Elder Affairs",
+      "href": "https://www.gov.bb/",
+      "abbreviation": "M14"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

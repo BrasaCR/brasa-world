@@ -1,5 +1,57 @@
 (function () {
   const countrySites = {
+    "saint-kitts-and-nevis": {
+      name: "Saint Kitts and Nevis",
+      href: "government/saint-kitts-and-nevis/"
+    },
+    "dominica": {
+      name: "Dominica",
+      href: "government/dominica/"
+    },
+    "antigua-and-barbuda": {
+      name: "Antigua and Barbuda",
+      href: "government/antigua-and-barbuda/"
+    },
+    "saint-vincent-and-the-grenadines": {
+      name: "Saint Vincent and the Grenadines",
+      href: "government/saint-vincent-and-the-grenadines/"
+    },
+    "grenada": {
+      name: "Grenada",
+      href: "government/grenada/"
+    },
+    "saint-lucia": {
+      name: "Saint Lucia",
+      href: "government/saint-lucia/"
+    },
+    "barbados": {
+      name: "Barbados",
+      href: "government/barbados/"
+    },
+    "bahamas": {
+      name: "The Bahamas",
+      href: "government/bahamas/"
+    },
+    "trinidad-and-tobago": {
+      name: "Trinidad and Tobago",
+      href: "government/trinidad-and-tobago/"
+    },
+    "jamaica": {
+      name: "Jamaica",
+      href: "government/jamaica/"
+    },
+    "united-states": {
+      name: "United States",
+      href: "government/united-states/"
+    },
+    "canada": {
+      name: "Canada",
+      href: "government/canada/"
+    },
+    "belize": {
+      name: "Belize",
+      href: "government/belize/"
+    },
     "suriname": {
       name: "Suriname",
       href: "government/suriname/"

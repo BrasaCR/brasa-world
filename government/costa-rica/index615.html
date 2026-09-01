@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
+<meta content="BRASA CR · Governments, World Wide · Owned by the citizens of the world" name="description"/>
+<meta content="#1B1A17" name="theme-color"/>
+<title>BRASA CR — Governments, World Wide</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://images.unsplash.com" rel="preconnect"/>
+<link href="https://assets.brasa.world" rel="preconnect"/>
+<!-- Fraunces (variable serif) + Geist (variable sans) — same as brasa.world -->
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&amp;family=Geist:wght@300..700&amp;display=swap" rel="stylesheet"/>
+<style>
+/* =========================================================================
+   BRASA — Education, World Wide
+   Photo-first · Text-restrained · Constitutionally anchored
+   Foundation stylesheet · verbatim from brasa.world
+   ========================================================================= */
+
+:root {
+  --brasa-black: #1B1A17;
+  --brasa-soft: #6B6862;
+  --brasa-accent: #8C3A1F;
+  --brasa-green: #0D6E5C;
+  --brasa-callout: #F2EDE0;
+  --brasa-page: #FBF9F4;
+  --brasa-cream: #F5F0E5;
+  --brasa-rule: #E5DFD0;
+  --brasa-hover: #6B280F;
+  --serif: 'Fraunces', 'Times New Roman', serif;
+  --sans: 'Geist', 'Helvetica Neue', system-ui, sans-serif;
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+  --space-3xl: 9rem;
+  --max-w: 1480px;
+  --gutter: clamp(1.25rem, 4vw, 2.75rem);
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --ease-photo: cubic-bezier(0.16, 0.84, 0.34, 1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--brasa-page);
+  color: var(--brasa-black);
+  font-family: var(--sans);
+  font-weight: 400;
+  line-height: 1.5;
+  font-feature-settings: "ss01", "ss02";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transparent; }
+img { display: block; max-width: 100%; height: auto; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+.container { width: 100%; max-width: var(--max-w); margin: 0 auto; padding-left: var(--gutter); padding-right: var(--gutter); }
+.visually-hidden { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 0.75rem; font-weight: 500;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--brasa-accent);
+  margin-bottom: var(--space-sm);
+}
+.section-h {
+  font-family: var(--serif); font-weight: 350;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.05; letter-spacing: -0.015em;
+  font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 0;
+  margin-bottom: var(--space-md);
+  max-width: 28ch;
+}
+
+/* HEADER */
+.site-header {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  padding: 1.25rem var(--gutter);
+  display: flex; align-items: center; justify-content: space-between;
+  pointer-events: none;
+  transition: background 380ms var(--ease), padding 380ms var(--ease), backdrop-filter 380ms var(--ease);
+}
+.site-header > * { pointer-events: auto; }
+.site-header.scrolled {
+  background: rgba(251, 249, 244, 0.86);
+  backdrop-filter: blur(14px) saturate(120%);
+  -webkit-backdrop-filter: blur(14px) saturate(120%);
+  padding-top: 0.9rem; padding-bottom: 0.9rem;
+  border-bottom: 1px solid rgba(229, 223, 208, 0.5);
+}
+.wordmark {
+  font-family: var(--serif); font-weight: 400;
+  font-size: 1.35rem; letter-spacing: 0.04em;
+  color: var(--brasa-cream);
+  transition: color 380ms var(--ease);
+  font-variation-settings: "opsz" 144, "SOFT" 30;
+  display: flex; align-items: center;
+}
+.site-header.scrolled .wordmark { color: var(--brasa-black); }
+.wordmark-img { height: 140px; width: auto; display: block; transition: height 380ms var(--ease), filter 380ms var(--ease); filter: drop-shadow(0 4px 18px rgba(0,0,0,0.25)); }
+.site-header.scrolled .wordmark-img { height: 56px; filter: none; }
+.nav { display: flex; gap: 2.25rem; align-items: center; }
+.nav a {
+  font-family: var(--sans); font-size: 0.82rem; font-weight: 500;
+  letter-spacing: 0.04em; color: var(--brasa-cream);
+  position: relative; padding: 0.25rem 0;
+  transition: color 380ms var(--ease);
+}
+.site-header.scrolled .nav a { color: var(--brasa-black); }
+.nav a::after { content: ''; position: absolute; bottom: -2px; left: 0; height: 1px; width: 0; background: currentColor; transition: width 360ms var(--ease); }
+.nav a:hover::after { width: 100%; }
+.nav-search {
+  background: transparent; display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; border-radius: 50%;
+  color: var(--brasa-cream);
+  transition: color 380ms var(--ease), background 280ms var(--ease);
+}
+.site-header.scrolled .nav-search { color: var(--brasa-black); }
+.nav-search:hover { background: rgba(140, 58, 31, 0.12); }
+@media (max-width: 720px) {
+  .nav { gap: 1.25rem; }
+  .nav a:not(.nav-search) { display: none; }
+  .nav a.nav-catalog { display: inline-block; }
+  .wordmark-img { height: 84px; }
+  .site-header.scrolled .wordmark-img { height: 44px; }
+}
+
+/* HERO */
+.hero {
+  position: relative; width: 100%;
+  min-height: 100vh; min-height: 100svh;
+  display: flex; align-items: flex-end;
+  overflow: hidden; background: var(--brasa-black);
+}
+.hero-photo { position: absolute; inset: 0; z-index: 1; overflow: hidden; }
+.hero-photo::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(27,26,23,0.3) 0%, rgba(27,26,23,0) 28%, rgba(27,26,23,0) 50%, rgba(27,26,23,0.55) 100%);
+  z-index: 2;
+}
+.hero-photo img {
+  width: 100%; height: 100%; object-fit: cover;
+  animation: heroBreathe 28s var(--ease-photo) infinite alternate;
+  filter: saturate(0.95) contrast(1.02);
+}
+@keyframes heroBreathe {
+  0%   { transform: scale(1.0)  translateX(0); }
+  100% { transform: scale(1.08) translateX(-1.5%); }
+}
+.hero-content { position: relative; z-index: 3; width: 100%; padding: 0 var(--gutter) clamp(3rem, 8vh, 5.5rem); color: var(--brasa-cream); }
+.hero-identity {
+  font-family: var(--serif); font-weight: 300;
+  font-size: clamp(2.75rem, 8vw, 6.75rem);
+  line-height: 0.96; letter-spacing: -0.025em;
+  font-variation-settings: "opsz" 144, "SOFT" 60, "WONK" 1;
+  max-width: 18ch; margin-bottom: 1.5rem;
+  opacity: 0; transform: translateY(28px);
+  animation: heroReveal 1.6s 0.4s var(--ease) forwards;
+}
+.hero-tag {
+  font-family: var(--sans); font-weight: 400;
+  font-size: clamp(0.95rem, 1.4vw, 1.1rem);
+  letter-spacing: 0.04em;
+  color: rgba(245, 240, 229, 0.82);
+  max-width: 52ch;
+  opacity: 0; transform: translateY(20px);
+  animation: heroReveal 1.6s 0.85s var(--ease) forwards;
+}
+@keyframes heroReveal { to { opacity: 1; transform: translateY(0); } }
+.hero-scroll {
+  position: absolute; bottom: 1.5rem; left: 50%; transform: translateX(-50%); z-index: 3;
+  font-family: var(--sans); font-size: 0.7rem; font-weight: 500;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.6);
+  display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+  opacity: 0; animation: heroReveal 1.6s 1.4s var(--ease) forwards;
+}
+.hero-scroll::after {
+  content: ''; width: 1px; height: 36px;
+  background: linear-gradient(to bottom, rgba(245,240,229,0.7), rgba(245,240,229,0));
+  animation: scrollPulse 2.4s var(--ease) infinite;
+}
+@keyframes scrollPulse {
+  0%   { transform: scaleY(0); transform-origin: top; }
+  50%  { transform: scaleY(1); transform-origin: top; }
+  51%  { transform: scaleY(1); transform-origin: bottom; }
+  100% { transform: scaleY(0); transform-origin: bottom; }
+}
+
+/* SECTION + REVEAL */
+.section { padding-top: clamp(4rem, 10vh, 8rem); padding-bottom: clamp(4rem, 10vh, 8rem); }
+.section--tight { padding-top: clamp(3rem, 6vh, 5rem); padding-bottom: clamp(3rem, 6vh, 5rem); }
+.reveal { opacity: 0; transform: translateY(30px); transition: opacity 1.2s var(--ease), transform 1.2s var(--ease); }
+.reveal.is-visible { opacity: 1; transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .hero-identity, .hero-tag, .hero-scroll { opacity: 1; transform: none; animation: none; }
+  .hero-photo img { animation: none; }
+  * { transition-duration: 0.001ms !important; }
+}
+
+/* FOUR PILLARS */
+.pillars { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(0.75rem, 1.5vw, 1.25rem); }
+@media (max-width: 720px) { .pillars { grid-template-columns: 1fr; } }
+.pillar {
+  position: relative; display: flex; flex-direction: column;
+  aspect-ratio: 4 / 3; overflow: hidden;
+  background: var(--brasa-black); isolation: isolate;
+}
+.pillar-photo { position: absolute; inset: 0; z-index: 1; }
+.pillar-photo::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(27,26,23,0.05) 0%, rgba(27,26,23,0.0) 35%, rgba(27,26,23,0.65) 100%);
+  z-index: 2; transition: background 700ms var(--ease);
+}
+.pillar:hover .pillar-photo::after { background: linear-gradient(180deg, rgba(27,26,23,0.15) 0%, rgba(27,26,23,0.05) 35%, rgba(27,26,23,0.78) 100%); }
+.pillar-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 1500ms var(--ease-photo); filter: saturate(0.93) contrast(1.02); }
+.pillar:hover .pillar-photo img { transform: scale(1.06); }
+.pillar-content {
+  position: relative; z-index: 3; align-self: end; width: 100%;
+  padding: clamp(1.5rem, 3vw, 2.5rem);
+  display: flex; align-items: flex-end; margin-top: auto;
+  color: var(--brasa-cream);
+}
+.pillar-eyebrow {
+  font-family: var(--sans); font-size: 0.7rem; font-weight: 500;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.7);
+  margin-bottom: 0.5rem; display: block;
+}
+.pillar-label {
+  font-family: var(--serif); font-weight: 350;
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  line-height: 1.05; letter-spacing: -0.015em;
+  font-variation-settings: "opsz" 144, "SOFT" 50;
+  margin-bottom: 0.5rem;
+}
+.pillar-arrow {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  font-family: var(--sans); font-size: 0.78rem; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.85);
+  transform: translateX(0);
+  transition: transform 480ms var(--ease), color 280ms;
+}
+.pillar:hover .pillar-arrow { transform: translateX(8px); color: var(--brasa-cream); }
+
+/* SUBJECTS GRID (21 tiles · BRASA "rights" pattern) */
+.rights-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 0.75rem; }
+.right-tile {
+  position: relative; display: block; aspect-ratio: 1 / 1;
+  overflow: hidden; background: var(--brasa-callout); isolation: isolate;
+}
+.right-tile-primary { position: absolute; inset: 0; z-index: 1; display: block; }
+.right-photo { position: absolute; inset: 0; z-index: 1; }
+.right-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(27,26,23,0) 50%, rgba(27,26,23,0.7) 100%); z-index: 2; }
+.right-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 1500ms var(--ease-photo); filter: saturate(0.92) contrast(1.03); }
+.right-tile:hover .right-photo img { transform: scale(1.07); }
+.right-label {
+  position: absolute; bottom: 0; left: 0; right: 0; z-index: 3;
+  padding: 1rem; color: var(--brasa-cream);
+  font-family: var(--serif); font-weight: 400;
+  font-size: 1.05rem; letter-spacing: -0.005em;
+  line-height: 1.1; font-variation-settings: "opsz" 36, "SOFT" 40;
+}
+
+/* FEATURED COLLECTIONS */
+.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(0.75rem, 1.5vw, 1.25rem); }
+@media (max-width: 960px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 580px) { .featured-grid { grid-template-columns: 1fr; } }
+.feature { position: relative; display: block; aspect-ratio: 3 / 2; overflow: hidden; background: var(--brasa-black); }
+.feature-photo { position: absolute; inset: 0; z-index: 1; }
+.feature-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(27,26,23,0) 35%, rgba(27,26,23,0.7) 100%); z-index: 2; }
+.feature-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 1500ms var(--ease-photo); filter: saturate(0.92) contrast(1.02); }
+.feature:hover .feature-photo img { transform: scale(1.05); }
+.feature-content { position: absolute; bottom: 0; left: 0; z-index: 3; padding: clamp(1.25rem, 2.5vw, 1.75rem); color: var(--brasa-cream); }
+.feature-eyebrow {
+  font-family: var(--sans); font-size: 0.65rem; font-weight: 500;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.78);
+  margin-bottom: 0.4rem; display: block;
+}
+.feature-label {
+  font-family: var(--serif); font-weight: 350;
+  font-size: clamp(1.15rem, 1.8vw, 1.5rem);
+  line-height: 1.1; letter-spacing: -0.01em;
+  font-variation-settings: "opsz" 72, "SOFT" 50;
+}
+
+/* Status badge — sits top-right of a feature tile, signals provider tier */
+.feature-badge {
+  position: absolute;
+  top: 1rem; right: 1rem;
+  z-index: 4;
+  font-family: var(--sans);
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(245, 240, 229, 0.95);
+  color: var(--brasa-black);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+.feature-badge.free     { color: var(--brasa-green); }
+.feature-badge.freemium { color: var(--brasa-accent); }
+.feature-badge.native   { color: var(--brasa-accent); background: var(--brasa-cream); }
+
+
+/* SIGNALS */
+.signals {
+  display: grid; grid-template-columns: repeat(5, 1fr); gap: clamp(0.5rem, 1vw, 1rem);
+  padding: clamp(2rem, 4vw, 3rem) 0;
+  border-top: 1px solid var(--brasa-rule);
+  border-bottom: 1px solid var(--brasa-rule);
+}
+@media (max-width: 880px) { .signals { grid-template-columns: repeat(2, 1fr); gap: 1.5rem; } }
+@media (max-width: 480px) { .signals { grid-template-columns: 1fr; } }
+.signal { text-align: left; padding: 0.5rem 0.75rem 0.5rem 0; }
+.signal-num {
+  font-family: var(--serif); font-weight: 350;
+  font-size: clamp(2rem, 3.2vw, 2.8rem);
+  line-height: 1; color: var(--brasa-accent);
+  font-variation-settings: "opsz" 144, "SOFT" 60;
+  margin-bottom: 0.4rem; letter-spacing: -0.02em;
+  font-feature-settings: "lnum";
+}
+.signal-label { font-family: var(--sans); font-size: 0.78rem; font-weight: 500; letter-spacing: 0.06em; line-height: 1.35; color: var(--brasa-soft); }
+
+/* GATEWAY */
+.gateway {
+  position: relative; display: block; width: 100%;
+  aspect-ratio: 21 / 9; min-height: 320px;
+  overflow: hidden; background: var(--brasa-black); isolation: isolate;
+}
+@media (max-width: 720px) { .gateway { aspect-ratio: 4 / 5; } }
+.gateway-photo { position: absolute; inset: 0; z-index: 1; }
+.gateway-photo::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(27,26,23,0.5) 0%, rgba(27,26,23,0.55) 100%);
+  z-index: 2; transition: background 700ms var(--ease);
+}
+.gateway:hover .gateway-photo::after { background: linear-gradient(180deg, rgba(27,26,23,0.4) 0%, rgba(27,26,23,0.45) 100%); }
+.gateway-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 1800ms var(--ease-photo); filter: saturate(0.85) contrast(1.05); }
+.gateway:hover .gateway-photo img { transform: scale(1.04); }
+.gateway-content {
+  position: absolute; inset: 0; z-index: 3;
+  display: flex; flex-direction: column;
+  justify-content: center; align-items: center;
+  text-align: center; padding: 2rem;
+  color: var(--brasa-cream);
+}
+.gateway-eyebrow {
+  font-family: var(--sans); font-size: 0.75rem; font-weight: 500;
+  letter-spacing: 0.28em; text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.75);
+  margin-bottom: 1rem;
+}
+.gateway-h {
+  font-family: var(--serif); font-weight: 300;
+  font-size: clamp(2.25rem, 5vw, 4.25rem);
+  line-height: 1; letter-spacing: -0.02em;
+  font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
+  margin-bottom: 1.5rem; max-width: 18ch;
+}
+.gateway-arrow {
+  display: inline-flex; align-items: center; gap: 0.75rem;
+  font-family: var(--sans); font-size: 0.85rem; font-weight: 500;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  padding: 0.85rem 1.5rem;
+  border: 1px solid rgba(245, 240, 229, 0.4);
+  border-radius: 999px;
+  transition: background 380ms var(--ease), border-color 380ms;
+}
+.gateway:hover .gateway-arrow { background: rgba(245, 240, 229, 0.1); border-color: rgba(245, 240, 229, 0.7); }
+
+/* WELCOME */
+.welcome { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 5rem); align-items: center; }
+@media (max-width: 820px) { .welcome { grid-template-columns: 1fr; } }
+.welcome-photo { aspect-ratio: 4 / 5; overflow: hidden; background: var(--brasa-callout); }
+.welcome-photo img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.92); }
+.welcome-text {
+  font-family: var(--serif); font-weight: 300;
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  line-height: 1.18; letter-spacing: -0.012em;
+  color: var(--brasa-black);
+  font-variation-settings: "opsz" 144, "SOFT" 50;
+  max-width: 24ch;
+}
+.welcome-text em { font-style: italic; color: var(--brasa-accent); font-variation-settings: "opsz" 144, "SOFT" 80, "WONK" 1; }
+.welcome-sig {
+  margin-top: 1.75rem;
+  font-family: var(--sans); font-size: 0.78rem; font-weight: 500;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--brasa-soft);
+}
+
+/* FOOTER */
+.site-footer { background: var(--brasa-black); color: var(--brasa-cream); padding: clamp(3rem, 7vh, 5rem) var(--gutter) 2rem; margin-top: 0; }
+.footer-inner { max-width: var(--max-w); margin: 0 auto; display: grid; grid-template-columns: 1fr auto; gap: 2.5rem; align-items: end; }
+@media (max-width: 720px) { .footer-inner { grid-template-columns: 1fr; } }
+.footer-mark { font-family: var(--serif); font-weight: 300; font-size: clamp(1.75rem, 3vw, 2.5rem); line-height: 1.05; letter-spacing: -0.015em; font-variation-settings: "opsz" 144, "SOFT" 50; margin-bottom: 0.75rem; }
+.footer-mark-img { height: 220px; width: auto; display: block; margin-bottom: 0.75rem; }
+.footer-tagline { font-family: var(--sans); font-size: 0.82rem; font-weight: 400; letter-spacing: 0.04em; color: rgba(245, 240, 229, 0.65); max-width: 48ch; line-height: 1.6; }
+.footer-links { display: flex; flex-direction: column; gap: 0.65rem; font-family: var(--sans); font-size: 0.82rem; font-weight: 500; letter-spacing: 0.04em; text-align: right; }
+@media (max-width: 720px) { .footer-links { text-align: left; flex-direction: row; flex-wrap: wrap; gap: 1rem 1.5rem; } }
+.footer-links a { color: rgba(245, 240, 229, 0.78); transition: color 280ms var(--ease); position: relative; }
+.footer-links a:hover { color: var(--brasa-cream); }
+.footer-bottom { max-width: var(--max-w); margin: 3rem auto 0; padding-top: 1.5rem; border-top: 1px solid rgba(245, 240, 229, 0.12); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.06em; color: rgba(245, 240, 229, 0.4); }
+
+/* SEARCH OVERLAY */
+.search-overlay {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(27, 26, 23, 0.96);
+  backdrop-filter: blur(20px);
+  opacity: 0; pointer-events: none;
+  transition: opacity 380ms var(--ease);
+  display: flex; align-items: flex-start; justify-content: center;
+  padding: 6rem var(--gutter) 2rem;
+}
+.search-overlay.is-open { opacity: 1; pointer-events: auto; }
+.search-inner { width: 100%; max-width: 640px; }
+.search-input {
+  width: 100%; background: transparent; border: 0;
+  border-bottom: 1px solid rgba(245, 240, 229, 0.3);
+  font-family: var(--serif); font-weight: 300;
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  color: var(--brasa-cream);
+  padding: 1rem 0; outline: none;
+  font-variation-settings: "opsz" 144, "SOFT" 50;
+}
+.search-input::placeholder { color: rgba(245, 240, 229, 0.4); }
+.search-hint { margin-top: 1.5rem; font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.08em; color: rgba(245, 240, 229, 0.5); }
+.search-close { position: absolute; top: 1.5rem; right: var(--gutter); color: rgba(245, 240, 229, 0.6); font-family: var(--sans); font-size: 0.78rem; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; transition: color 280ms; }
+.search-close:hover { color: var(--brasa-cream); }
+.search-results { width: 100%; margin-top: 1.75rem; max-height: 62vh; overflow-y: auto; display: flex; flex-direction: column; gap: 0.1rem; -webkit-overflow-scrolling: touch; }
+.search-count { font-family: var(--sans); font-size: 0.72rem; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(245, 240, 229, 0.45); margin-bottom: 0.7rem; }
+.search-empty { font-family: var(--serif); font-weight: 300; font-size: 1.4rem; color: rgba(245, 240, 229, 0.6); }
+.search-result { display: flex; flex-direction: column; gap: 0.12rem; padding: 0.7rem 0.85rem; border-radius: 10px; transition: background 200ms var(--ease); }
+.search-result:hover, .search-result:focus-visible { background: rgba(245, 240, 229, 0.08); outline: none; }
+.search-result-label { font-family: var(--sans); font-size: 0.98rem; color: var(--brasa-cream); }
+.search-result-crumb { font-family: var(--sans); font-size: 0.74rem; letter-spacing: 0.03em; color: rgba(245, 240, 229, 0.45); }
+.svc-flash { animation: svc-flash-kf 2.6s ease both; border-radius: 14px; }
+@keyframes svc-flash-kf { 0% { box-shadow: 0 0 0 0 rgba(140,58,31,0); } 12% { box-shadow: 0 0 0 3px rgba(140,58,31,0.92); } 72% { box-shadow: 0 0 0 3px rgba(140,58,31,0.92); } 100% { box-shadow: 0 0 0 0 rgba(140,58,31,0); } }
+
+/* ACCESSIBILITY */
+:focus-visible { outline: 2px solid var(--brasa-accent); outline-offset: 3px; }
+.site-header .nav a:focus-visible,
+.pillar:focus-visible,
+.right-tile-primary:focus-visible,
+.feature:focus-visible,
+.gateway:focus-visible { outline-offset: -3px; }
+
+/* Featured-band wrappers — each grid has its own eyebrow header */
+.featured-band { margin-bottom: clamp(2.5rem, 5vh, 4rem); }
+.featured-band:last-child { margin-bottom: 0; }
+
+.band-eyebrow {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--brasa-accent);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--brasa-rule);
+}
+
+.featured-band .featured-grid { margin-top: 0; }
+</style>
+<style>
+/* Gov · uniform tile structure · logos contained in identical inner boxes */
+.feature { background: #FFFFFF; }
+.feature-photo {
+  background: #FFFFFF;
+  padding: clamp(1rem, 2vw, 1.75rem);                  /* uniform inner box */
+}
+.feature-photo::after { display: none; }              /* no gradient overlay */
+.feature-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: none;
+}
+.feature:hover .feature-photo img { transform: scale(1.04); }
+/* Text label sits at bottom-left of the tile (over the padded area) */
+.feature-content {
+  background: none !important;
+}
+.feature-eyebrow { color: rgba(140, 58, 31, 0.85); }
+.feature-label   { color: #1B1A17; }
+/* Photo-backdrop tiles · band photo fills the tile, logo on a clean card, no text */
+.feature-backdrop {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.feature-backdrop--crflag {
+  background-image: url('https://assets.brasa.world/Thumbnails/CR%20FLAG%20logo.png');
+}
+.feature-backdrop--waste {
+  background-image: url('https://assets.brasa.world/Thumbnails/vecteezy_garbage-collector-pushing-yellow-wheelie-bin-towards-garbage_68910195.jpg');
+}
+
+/* Per-band collapsible dropdown */
+.band-drop {
+  margin: 0.75rem 0;
+  border-radius: 12px;
+  background: var(--brasa-callout);
+  border: 1px solid var(--brasa-rule);
+  overflow: hidden;
+}
+.band-drop[open] {
+  background: var(--brasa-cream);
+}
+.band-summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1rem 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(1.1rem, 1.6vw, 1.4rem);
+  color: var(--brasa-black);
+  user-select: none;
+  transition: background 180ms ease;
+}
+.band-summary::-webkit-details-marker { display: none; }
+.band-summary::after {
+  content: '▾';
+  margin-left: auto;
+  color: var(--brasa-accent);
+  opacity: 0.65;
+  transition: transform 220ms ease;
+  font-family: var(--sans);
+  font-size: 0.9em;
+}
+.band-drop[open] .band-summary::after { transform: rotate(180deg); }
+.band-summary:hover { background: var(--brasa-cream); }
+.band-summary-label { letter-spacing: -0.005em; }
+.band-summary-count {
+  font-family: var(--sans);
+  font-size: 0.7em;
+  color: var(--brasa-soft);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-left: 0.75rem;
+}
+.band-drop .featured-grid {
+  padding: 0.5rem 1rem 1rem;
+}
+
+/* Utility tiles · 5-column tile grid at top of bills section */
+.tile-row-label {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(1.4rem, 2.2vw, 1.9rem);
+  color: var(--brasa-black);
+  letter-spacing: -0.01em;
+  margin: 2rem 0 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--brasa-rule);
+}
+.tile-row-label:first-of-type { margin-top: 1rem; }
+.utility-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(0.75rem, 1.25vw, 1rem);
+  margin: 1rem 0 2rem;
+}
+.utility-tile {
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--brasa-callout);
+  border: 1px solid var(--brasa-rule);
+  transition: transform 280ms ease, box-shadow 280ms ease;
+}
+.utility-tile[open] {
+  grid-column: 1 / -1;
+}
+.utility-tile-face {
+  display: block;
+  list-style: none;
+  cursor: pointer;
+  aspect-ratio: 3 / 2;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 0;
+}
+.utility-tile-face::-webkit-details-marker { display: none; }
+.utility-tile-face::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(27,26,23,0.05) 0%, rgba(27,26,23,0.65) 100%);
+  z-index: 1;
+}
+.utility-tile-label {
+  position: absolute;
+  left: clamp(0.85rem, 1.5vw, 1.1rem);
+  bottom: clamp(2rem, 3vw, 2.4rem);
+  z-index: 2;
+  color: #FFFFFF;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(1.05rem, 1.6vw, 1.35rem);
+  line-height: 1.1;
+  letter-spacing: -0.005em;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.35);
+}
+.utility-tile-count {
+  position: absolute;
+  left: clamp(0.85rem, 1.5vw, 1.1rem);
+  bottom: clamp(0.7rem, 1.1vw, 0.9rem);
+  z-index: 2;
+  color: rgba(255,255,255,0.82);
+  font-family: var(--sans);
+  font-size: 0.7em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.utility-tile-face:hover {
+  filter: brightness(1.05);
+}
+
+/* Ministry tile variant: logo card centered on backdrop, like provider tiles */
+.utility-tile-face--logo .utility-tile-label {
+  display: none;  /* hide ministry name when closed (logo shows instead) */
+}
+.utility-tile[open] .utility-tile-face--logo .utility-tile-logo-card {
+  display: none;  /* hide logo when open (otherwise it stretches to full-row width) */
+}
+.utility-tile[open] .utility-tile-face--logo .utility-tile-label {
+  display: inline;  /* show ministry name when open */
+}
+.utility-tile-logo-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  width: 48%;
+  aspect-ratio: 1 / 1;
+  background: rgba(255,255,255,0.94);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+  z-index: 2;
+  transition: transform 600ms ease;
+}
+.utility-tile-face--logo:hover .utility-tile-logo-card {
+  transform: translate(-50%, -55%) scale(1.04);
+}
+.utility-tile-logo-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.utility-tile[open] .utility-tile-face {
+  aspect-ratio: auto;
+  height: auto;
+  padding: 0.75rem 1.1rem;
+  background-image: none !important;
+  background-color: var(--brasa-cream);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.utility-tile[open] .utility-tile-face::after { display: none; }
+.utility-tile[open] .utility-tile-label {
+  position: static;
+  color: var(--brasa-black);
+  text-shadow: none;
+  font-size: clamp(1rem, 1.4vw, 1.2rem);
+}
+.utility-tile[open] .utility-tile-count {
+  position: static;
+  color: var(--brasa-soft);
+  margin-left: auto;
+}
+.utility-tile[open] .utility-tile-face::before {
+  content: '▴';
+  color: var(--brasa-accent);
+  margin-left: auto;
+  font-size: 0.9em;
+  order: 3;
+}
+.utility-tile-grid {
+  padding: 1rem clamp(0.75rem, 1.25vw, 1rem) clamp(1rem, 1.5vw, 1.25rem);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: clamp(0.75rem, 1.25vw, 1rem);
+}
+@media (max-width: 900px) {
+  .utility-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 560px) {
+  .utility-grid { grid-template-columns: repeat(2, 1fr); }
+  .utility-tile-label { font-size: 1rem; }
+}
+.feature-backdrop .feature-logo-card {
+  position: absolute;
+  top: clamp(10%, 12%, 14%);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 42%;
+  aspect-ratio: 1 / 1;
+  background: rgba(255,255,255,0.94);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+  transition: transform 600ms var(--ease-photo, ease);
+}
+.feature-backdrop:hover .feature-logo-card { transform: translateX(-50%) scale(1.04); }
+.feature-backdrop .feature-logo-card img {
+  width: 100%; height: 100%;
+  object-fit: contain;
+}
+/* descriptive label at the bottom, black text directly on the photo (no white box) */
+.feature-backdrop .feature-content {
+  background: none !important;
+}
+.feature-backdrop .feature-label {
+  color: #FFFFFF;
+  text-shadow: none;
+}
+.feature-logo-card--text span {
+  font-family: var(--font-serif, Fraunces, serif);
+  font-size: clamp(1rem, 2.2vw, 1.4rem);
+  color: #1B1A17; text-align: center; line-height: 1.2;
+}</style>
+</head>
+<body>
+<!-- HEADER -->
+<header class="site-header" id="header">
+<a aria-label="BRASA CR — Governments, World Wide" class="wordmark" href="#">
+<img alt="BRASA CR" class="wordmark-img" src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png"/>
+</a>
+<nav aria-label="Primary" class="nav">
+<a class="nav-subjects" href="#bills">Bills</a>
+<a class="nav-catalog" href="#full-catalog">Catalog</a>
+<button aria-label="Open search" class="nav-search" id="searchToggle">
+<svg fill="none" height="18" stroke="currentColor" stroke-width="1.5" viewbox="0 0 18 18" width="18">
+<circle cx="8" cy="8" r="5.5"></circle>
+<path d="M12.2 12.2L16 16"></path>
+</svg>
+</button>
+</nav>
+</header>
+<!-- HERO -->
+<section aria-labelledby="hero-identity" class="hero">
+<div class="hero-photo">
+<img alt="Earth held in a human hand at sunset — Governments, World Wide" fetchpriority="high" height="1350" loading="eager" src="https://assets.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg" width="2400"/>
+</div>
+<div class="hero-content container">
+<h1 class="hero-identity" id="hero-identity">Governments, World Wide</h1>
+<p class="hero-tag">BRASA CR · The operational substrate of every government, for the citizens of the world. Every state. Every domain. In every language.</p>
+</div>
+<a aria-label="Scroll to explore" class="hero-scroll" href="#pillars">Explore</a>
+</section>
+<!-- FOUR PILLARS · Education · Government · Business · BRASA (constitutional) -->
+<section aria-labelledby="pillars-h" class="section" id="pillars">
+<div class="container">
+<h2 class="visually-hidden" id="pillars-h">The four pillars</h2>
+<div class="pillars reveal">
+<a class="pillar" href="https://brasa.education/">
+<div class="pillar-photo">
+<img alt="The Earth and the citizens of the world standing before it at sunset — Your Education" height="900" loading="lazy" src="https://images.brasa.world/Photos/vecteezy_3d-model-of-the-earth-with-human-silhouettes_27381136.jpg?w=1200&amp;q=82" width="1200"/>
+</div>
+<div class="pillar-content">
+<div>
+<span class="pillar-eyebrow">Your</span>
+<div class="pillar-label">Education</div>
+<span class="pillar-arrow">Enter →</span>
+</div>
+</div>
+</a>
+<a aria-current="page" class="pillar" href="#hero-identity">
+<div class="pillar-photo">
+<img alt="Earth held in a human hand at sunset — Your Government" height="900" loading="lazy" src="https://assets.brasa.world/Photos/vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg" width="1200"/>
+</div>
+<div class="pillar-content">
+<div>
+<span class="pillar-eyebrow">Your</span>
+<div class="pillar-label">Government</div>
+<span class="pillar-arrow">You are here</span>
+</div>
+</div>
+</a>
+<a class="pillar" href="https://brasa.business/">
+<div class="pillar-photo">
+<img alt="A stunning aerial view of Earth surrounded by modern infrastructure — Your Business" height="900" loading="lazy" src="https://images.brasa.world/Photos/vecteezy_a-stunning-aerial-view-of-earth-surrounded-by-modern_49142459.jpeg?w=1200&amp;q=82" width="1200"/>
+</div>
+<div class="pillar-content">
+<div>
+<span class="pillar-eyebrow">Your</span>
+<div class="pillar-label">Business</div>
+<span class="pillar-arrow">Enter →</span>
+</div>
+</div>
+</a>
+<a class="pillar" href="https://brasa.world/">
+<div class="pillar-photo">
+<img alt="Closeup of planet Earth at night with city lights — Your BRASA" height="900" loading="lazy" src="https://images.brasa.world/Photos/vecteezy_ai-generated-closeup-the-planet-earth-view-at-night-and-city_37127646.jpg?w=1200&amp;q=82" width="1200"/>
+</div>
+<div class="pillar-content">
+<div>
+<span class="pillar-eyebrow">Your</span>
+<div class="pillar-label">BRASA</div>
+<span class="pillar-arrow">Enter →</span>
+</div>
+</div>
+</a>
+</div>
+</div>
+</section>
+<!-- Reserved · small-tile section for future content -->
+<section aria-hidden="true" class="section" id="reserved" style="display:none;">
+<div class="container"><div class="rights-grid"></div></div>
+</section>
+<!-- BILL CATALOG · utility tile grid + ministry dropdowns -->
+<section aria-labelledby="bills-h" class="section" id="bills">
+<div class="container">
+<div class="reveal">
+<p class="eyebrow">What you pay · every bill, every channel</p>
+<h2 class="section-h" id="bills-h">Pay every bill.</h2>
+</div>
+<h3 class="tile-row-label">Utilities</h3>
+<div class="utility-grid">
+<a aria-label="Electricity" class="utility-tile-face" href="electricity.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_wind-turbines-produce-electricity-in-the-evening-sunset_9629857.jpg')"><span class="utility-tile-label">Electricity</span><span class="utility-tile-count">8 tiles</span></a>
+<a aria-label="Water &amp; sewerage" class="utility-tile-face" href="water-and-sewerage.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_illustration-of-transparent-blue-clear-water-surface-texture_26280368.jpg')"><span class="utility-tile-label">Water &amp; sewerage</span><span class="utility-tile-count">9 tiles</span></a>
+<a aria-label="LP gas &amp; fuel" class="utility-tile-face" href="lp-gas-and-fuel.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_flames-dance-on-gas-burners-filling-the-kitchen-with_54926968.jpg')"><span class="utility-tile-label">LP gas &amp; fuel</span><span class="utility-tile-count">8 tiles</span></a>
+<a aria-label="Phone service" class="utility-tile-face" href="phone-service.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_smartphone-or-mobile-phone-on-the-table-generative-ai_26439722.jpg')"><span class="utility-tile-label">Phone service</span><span class="utility-tile-count">9 tiles</span></a>
+<a aria-label="Internet &amp; cable" class="utility-tile-face" href="internet-and-cable.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_ai-generated-an-image-of-a-wifi-router-with-the-lights-on_35757432.jpg')"><span class="utility-tile-label">Internet &amp; cable</span><span class="utility-tile-count">11 tiles</span></a>
+<a aria-label="Waste" class="utility-tile-face" href="waste.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_garbage-collector-pushing-yellow-wheelie-bin-towards-garbage_68910195.jpg')"><span class="utility-tile-label">Waste</span><span class="utility-tile-count">168 tiles</span></a>
+</div>
+<h3 class="tile-row-label">Government of Costa Rica</h3>
+<div class="utility-grid ministry-grid">
+<a aria-label="Min. of Salud" class="utility-tile-face utility-tile-face--logo" href="min-of-salud.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_silhouette-of-a-happy-children-and-happy-time-sunset_7965140.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Salud" loading="lazy" src="https://assets.brasa.world/Thumbnails/minister%20of%20health%20logo.png"/></div><span class="utility-tile-label">Min. of Salud</span><span class="utility-tile-count">85 tiles</span></a>
+<a aria-label="Min. of Amb./Ener." class="utility-tile-face utility-tile-face--logo" href="min-of-amb-ener.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_environmental-protection-renewable-sustainable-energy_22605437.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Amb./Ener." loading="lazy" src="https://assets.brasa.world/Thumbnails/minae%20logo.jpg"/></div><span class="utility-tile-label">Min. of Amb./Ener.</span><span class="utility-tile-count">287 tiles</span></a>
+<a aria-label="Min. of Education" class="utility-tile-face utility-tile-face--logo" href="min-of-education.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_a-row-of-colorful-chairs-in-a-classroom-ai-generated_30783331.jpeg')"><div class="utility-tile-logo-card"><img alt="Min. of Education" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20MEP%20logo.png"/></div><span class="utility-tile-label">Min. of Education</span><span class="utility-tile-count">73 tiles</span></a>
+<a aria-label="Min. of Hacienda" class="utility-tile-face utility-tile-face--logo" href="min-of-hacienda.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_concept-of-protecting-and-protecting-the-safety-of-your_53847307.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Hacienda" loading="lazy" src="https://assets.brasa.world/Thumbnails/MINISTRY%20OF%20HACIENDA%20logo.png"/></div><span class="utility-tile-label">Min. of Hacienda</span><span class="utility-tile-count">121 tiles</span></a>
+<a aria-label="Min. of Transportes" class="utility-tile-face utility-tile-face--logo" href="min-of-transportes.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_the-long-exposure-shot-captures-the-vibrant-and-intricate_50359068.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Transportes" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20MOPT%20logo.jpg"/></div><span class="utility-tile-label">Min. of Transportes</span><span class="utility-tile-count">84 tiles</span></a>
+<a aria-label="Min. of Gobernación, Policía y Seguridad Pública" class="utility-tile-face utility-tile-face--logo" href="min-of-seguridad.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_silhouetted-figures-walking-away-from-aircraft-at-sunset_71436207.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Gobernación, Policía y Seguridad Pública" loading="lazy" src="https://assets.brasa.world/Thumbnails/MINISTRY%20OF%20SECURITY%20logo.jpg"/></div><span class="utility-tile-label">Min. of Gobernación y Seguridad</span><span class="utility-tile-count">55 tiles</span></a>
+<a aria-label="Min. of Agricultura" class="utility-tile-face utility-tile-face--logo" href="min-of-agricultura.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_endless-rows-of-leafy-greens-flourishing-on-an-organic-farm_46091598.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Agricultura" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20AGRICULTURE%20logo.png"/></div><span class="utility-tile-label">Min. of Agricultura</span><span class="utility-tile-count">93 tiles</span></a>
+<a aria-label="Min. of Trabajo" class="utility-tile-face utility-tile-face--logo" href="min-of-trabajo.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_human-resources-concept-hands-holding-digital-silhouettes-of_70669578.jpeg')"><div class="utility-tile-logo-card"><img alt="Min. of Trabajo" loading="lazy" src="https://assets.brasa.world/Thumbnails/MINISTRY%20OF%20TRABAJO%20logo.jpg"/></div><span class="utility-tile-label">Min. of Trabajo</span><span class="utility-tile-count">82 tiles</span></a>
+<a aria-label="Min. of Vivienda" class="utility-tile-face utility-tile-face--logo" href="min-of-vivienda.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_sunset-in-santa-rosa-in-costa-rica_3063705.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Vivienda" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20MIVAH%20logo.png"/></div><span class="utility-tile-label">Min. of Vivienda</span><span class="utility-tile-count">46 tiles</span></a>
+<a aria-label="Min. of Cultura" class="utility-tile-face utility-tile-face--logo" href="min-of-cultura.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_cultural-vibrancy-in-the-amazon-brazilian-carnival-amidst_37320221.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Cultura" loading="lazy" src="https://assets.brasa.world/Thumbnails/MISISTRY%20OF%20CULTURE%20logo.jpg"/></div><span class="utility-tile-label">Min. of Cultura</span><span class="utility-tile-count">60 tiles</span></a>
+<a aria-label="Min. of Justicia" class="utility-tile-face utility-tile-face--logo" href="min-of-justicia.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_legal-law-concept-image-gavel-bokeh-law-and-authority_33653327.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Justicia" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20JUSTICE%20logo.png"/></div><span class="utility-tile-label">Min. of Justicia</span><span class="utility-tile-count">60 tiles</span></a>
+<a aria-label="Min. of Comex" class="utility-tile-face utility-tile-face--logo" href="min-of-comex.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_worker-wearing-an-orange-safety-vest-and-denim-shirt-writing_79132911.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Comex" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20COMERCIA%20logo.png"/></div><span class="utility-tile-label">Min. of Comex</span><span class="utility-tile-count">38 tiles</span></a>
+<a aria-label="Min. of MEIC" class="utility-tile-face utility-tile-face--logo" href="min-of-meic.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_industrial-machinery-in-motion-capturing-the-heart-of-modern_49855054.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of MEIC" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20MEIC%20logo.jpg"/></div><span class="utility-tile-label">Min. of MEIC</span><span class="utility-tile-count">38 tiles</span></a>
+<a aria-label="Min. of RREE" class="utility-tile-face utility-tile-face--logo" href="min-of-rree.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_palace-of-nations-seat-of-the-united-nations-in-geneva_6107091.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of RREE" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20MERC%20logo.png"/></div><span class="utility-tile-label">Min. of RREE</span><span class="utility-tile-count">34 tiles</span></a>
+<a aria-label="Min. of MICITT" class="utility-tile-face utility-tile-face--logo" href="min-of-micitt.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_smartphone-or-mobile-phone-on-the-table-generative-ai_26439722.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of MICITT" loading="lazy" src="https://assets.brasa.world/Thumbnails/MICITT.png"/></div><span class="utility-tile-label">Min. of MICITT</span><span class="utility-tile-count">9 tiles</span></a>
+<a aria-label="Min. of Planificación" class="utility-tile-face utility-tile-face--logo" href="min-of-mideplan.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_the-long-exposure-shot-captures-the-vibrant-and-intricate_50359068.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Planificación" loading="lazy" src="https://assets.brasa.world/Thumbnails/mideplan.jpg"/></div><span class="utility-tile-label">Min. of Planificación</span><span class="utility-tile-count">9 tiles</span></a>
+<a aria-label="Min. of Turismo" class="utility-tile-face utility-tile-face--logo" href="min-of-turismo.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_beachfront-dining-with-ocean-and-mountain-views-for-tourism_69348084.jpg')"><div class="utility-tile-logo-card"><img alt="Min. of Turismo" loading="lazy" src="https://assets.brasa.world/Thumbnails/ICT%20logo.png"/></div><span class="utility-tile-label">Min. of Turismo</span><span class="utility-tile-count">8 tiles</span></a>
+<a aria-label="Presidencia" class="utility-tile-face utility-tile-face--logo" href="presidencia.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_a-luxurious-library-office-with-rich-wood-furnishings-and-a_71109952.jpeg')"><div class="utility-tile-logo-card"><img alt="Presidencia" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20PRESIDENT%20GOV%20logo.png"/></div><span class="utility-tile-label">Presidencia</span><span class="utility-tile-count">8 tiles</span></a>
+<a aria-label="ICODER · Deporte" class="utility-tile-face utility-tile-face--logo" href="icoder-deporte.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_athlete-running-sport-feet-on-trail-healthy-lifestyle-fitness_7707946.jpg')"><div class="utility-tile-logo-card"><img alt="ICODER · Deporte" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20ICODER%20logo.png"/></div><span class="utility-tile-label">ICODER · Deporte</span><span class="utility-tile-count">6 tiles</span></a>
+<a aria-label="Otros Entes Esenciales" class="utility-tile-face utility-tile-face--logo" href="otros-entes-esenciales.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_ai-generated-sloth-hanging-on-a-tree-branch-in-the-rainforest_36890075.jpeg')"><div class="utility-tile-logo-card"><img alt="Otros Entes Esenciales" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20FLAG%20logo.png"/></div><span class="utility-tile-label">Otros Entes Esenciales</span><span class="utility-tile-count">20 tiles</span></a>
+<a aria-label="Arranque de Negocios" class="utility-tile-face utility-tile-face--logo" href="arranque-de-negocios.html" style="background-image:url('https://assets.brasa.world/Photos/vecteezy_justice-and-law-concept-gavel-on-sounding-block-in-hand-s_10811225.jpg')"><div class="utility-tile-logo-card"><img alt="Arranque de Negocios" loading="lazy" src="https://assets.brasa.world/Thumbnails/CR%20FLAG%20logo.png"/></div><span class="utility-tile-label">Arranque de Negocios</span><span class="utility-tile-count">9 tiles</span></a>
+</div>
+</div>
+</section>
+<!-- SIGNALS -->
+<section aria-labelledby="signals-h" class="section section--tight" id="catalog">
+<div class="container">
+<div class="reveal">
+<p class="eyebrow">The shape of the catalog</p>
+<h2 class="section-h" id="signals-h" style="margin-bottom: 3rem;">The systems are already here.</h2>
+<div class="signals">
+<div class="signal">
+<div class="signal-num" id="sig-services">1,428</div>
+<div class="signal-label">Services &amp; bills mapped. Every utility, fee, tax, ministry, and channel.</div>
+</div>
+<div class="signal">
+<div class="signal-num" id="sig-categories">24</div>
+<div class="signal-label">Categories — every utility and branch of the state.</div>
+</div>
+<div class="signal">
+<div class="signal-num">122</div>
+<div class="signal-label">Sub-catalogs, organized by agency and service.</div>
+</div>
+<div class="signal">
+<div class="signal-num">18</div>
+<div class="signal-label">Ministries &amp; institutions of the Costa Rican state.</div>
+</div>
+<div class="signal">
+<div class="signal-num">₡0</div>
+<div class="signal-label">Cost to use the map. Constitutional, not commercial.</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- GATEWAY -->
+<section aria-labelledby="gateway-h" class="section" id="full-catalog">
+<div class="container">
+<a aria-labelledby="gateway-h" class="gateway reveal" href="#bills">
+<div class="gateway-photo">
+<img alt="Every bill the citizen pays — surfaced in one place" data-photo-slug="gateway-main" height="943" loading="lazy" src="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=2200&amp;q=82&amp;auto=format&amp;fit=crop" width="2200"/>
+</div>
+<div class="gateway-content">
+<span class="gateway-eyebrow">The full bill catalog</span>
+<h2 class="gateway-h" id="gateway-h">Pay every bill.</h2>
+<span class="gateway-arrow">
+          Enter the bill catalog
+          <svg fill="none" height="16" stroke="currentColor" stroke-width="1.5" viewbox="0 0 16 16" width="16">
+<path d="M3 8h10M9 4l4 4-4 4"></path>
+</svg>
+</span>
+</div>
+</a>
+</div>
+</section>
+<!-- WELCOME -->
+<section aria-labelledby="welcome-h" class="section" id="welcome">
+<div class="container">
+<div class="welcome reveal">
+<div class="welcome-photo">
+<img alt="Costa Rican coffee in nature — every citizen, every channel" data-photo-slug="welcome-main" height="1125" loading="lazy" src="https://assets.brasa.world/Photos/vecteezy_excellent-coffee-from-costa-rica-in-nature-background_45759546.jpg" width="900"/>
+</div>
+<div>
+<p class="welcome-text" id="welcome-h">
+          Welcome to Your Government. <em>Every bill, every channel, every citizen</em> — paid in seconds, at no cost, for the rest of time.
+        </p>
+<div class="welcome-sig">BRASA CR · Costa Rica · 2026 · Governments, World Wide</div>
+</div>
+</div>
+</div>
+</section>
+<!-- FOOTER -->
+<footer class="site-footer">
+<div class="footer-inner">
+<div>
+<img alt="BRASA CR" class="footer-mark-img" src="https://assets.brasa.world/Photos/brasa-cr-logo_8.png"/>
+<p class="footer-tagline">Governments, World Wide. BRASA CR · The operational substrate of every government, for the citizens of the world. Every state, every domain, every service — funded by commerce, protected by Swiss sovereignty.</p>
+</div>
+<nav aria-label="Footer" class="footer-links">
+<a href="#bills">Bills</a>
+<a href="#pillars">Featured</a>
+<a href="#full-catalog">Catalog</a>
+<a href="https://brasa.world" rel="noopener" target="_blank">brasa.world</a>
+</nav>
+</div>
+<div class="footer-bottom">
+<span>© BRASA CR · 2026 · Governments, World Wide</span>
+<span>Made with care in Costa Rica</span>
+</div>
+</footer>
+<!-- SEARCH OVERLAY -->
+<div aria-label="Search BRASA Governments" aria-modal="true" class="search-overlay" id="searchOverlay" role="dialog">
+<button aria-label="Close search" class="search-close" id="searchClose">Close ✕</button>
+<div class="search-inner">
+<input autocomplete="off" class="search-input" id="searchInput" placeholder="Search the bill catalog…" type="search"/>
+<p class="search-hint">Try: <em>Hacienda</em> · <em>MICITT</em> · <em>Electricity</em> · <em>Agricultura</em></p>
+<div aria-label="Search results" class="search-results" id="searchResults" role="listbox"></div>
+</div>
+</div>
+<script>
+// ─────────────────────────────────────────────────────────────────────
+// PHOTO REGISTRY — slug → R2 filename lookup
+// Mirrors the architecture used in brasa.world / brasa.education. The brasa-images Worker
+// fetches from R2 (images.brasa.world/lessons/), transforms (resize,
+// compress, WebP/AVIF auto-negotiation, EXIF strip), and caches at edge.
+// One source → infinite variants. Append ?w=...&q=...&fit=... per slug.
+// ─────────────────────────────────────────────────────────────────────
+const R2_BASE = 'https://assets.brasa.world/Thumbnails/';
+
+// Filenames in R2, keyed by slug. null = no R2 photo yet → placeholder stays.
+const photoFiles = {
+  'gov-hero': 'vecteezy_ai-generated-earth-planet-in-human-hand-on-sunset-background_37814591.jpg?w=2400&q=82',
+  'gov-logo-mark': 'gov-logo-mark.jpg',
+  'pillar-education':  null,
+  'pillar-government': null,
+  'pillar-business':   null,
+  'pillar-brasa':      null,
+  'welcome-main': null,
+};
+
+// Resolve slug → full R2 URL, or null when no file is registered yet.
+const photoMap = Object.fromEntries(
+  Object.entries(photoFiles).map(([slug, file]) => [slug, file ? R2_BASE + file : null])
+);
+
+// Apply photos to any element with [data-photo-slug] (img.src or background-image).
+// Direct, browser-native fallback: on error, the placeholder src remains visible.
+function applyPhotos() {
+  document.querySelectorAll('[data-photo-slug]').forEach(el => {
+    const slug = el.getAttribute('data-photo-slug');
+    const url = photoMap[slug];
+    if (!url) return;
+    if (el.tagName === 'IMG') {
+      const placeholder = el.src;
+      el.addEventListener('error', () => {
+        console.warn(`[photoMap] R2 load failed for "${slug}" → ${url}. Reverting to placeholder.`);
+        if (el.src !== placeholder) el.src = placeholder;
+      }, { once: true });
+      el.addEventListener('load', () => {
+        console.log(`[photoMap] loaded "${slug}" from R2`);
+      }, { once: true });
+      el.src = url;
+    } else {
+      const probe = new Image();
+      probe.onload = () => { el.style.backgroundImage = `url('${url}')`; };
+      probe.onerror = () => { console.warn(`[photoMap] R2 load failed for "${slug}" → ${url}`); };
+      probe.src = url;
+    }
+  });
+}
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', applyPhotos);
+} else {
+  applyPhotos();
+}
+
+const header = document.getElementById('header');
+const onScroll = () => {
+  if (window.scrollY > 40) header.classList.add('scrolled');
+  else header.classList.remove('scrolled');
+};
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
+const revealEls = document.querySelectorAll('.reveal');
+const io = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('is-visible');
+      io.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.12, rootMargin: '0px 0px -10% 0px' });
+revealEls.forEach((el) => io.observe(el));
+
+const overlay = document.getElementById('searchOverlay');
+const toggle = document.getElementById('searchToggle');
+const close = document.getElementById('searchClose');
+const input = document.getElementById('searchInput');
+
+const openSearch = () => { loadManifest(); overlay.classList.add('is-open'); setTimeout(() => input.focus(), 100); };
+const closeSearch = () => { overlay.classList.remove('is-open'); input.value = ''; renderResults(''); };
+toggle.addEventListener('click', openSearch);
+close.addEventListener('click', closeSearch);
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && overlay.classList.contains('is-open')) closeSearch();
+  if ((e.key === '/' || (e.metaKey && e.key === 'k')) && !overlay.classList.contains('is-open')) {
+    e.preventDefault();
+    openSearch();
+  }
+});
+overlay.addEventListener('click', (e) => { if (e.target === overlay) closeSearch(); });
+
+// ── Catalog search ───────────────────────────────────────────────────
+// Live-filter every catalog destination by label, breadcrumb, or URL.
+// Accent-insensitive (so "movil" matches "Móvil"); all terms must match.
+const _norm = s => (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const _esc = s => (s || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const resultsEl = document.getElementById('searchResults');
+const hintEl = document.querySelector('.search-hint');
+
+const searchIndex = Array.from(document.querySelectorAll('#bills a.utility-tile-face')).map(a => {
+  const label = (
+    (a.querySelector('.utility-tile-label') && a.querySelector('.utility-tile-label').textContent) ||
+    a.getAttribute('aria-label') || a.textContent || ''
+  ).trim();
+  // Breadcrumb = the row heading this tile sits under (Utilities / Government of Costa Rica).
+  let crumb = '';
+  const grid = a.closest('.utility-grid');
+  if (grid) {
+    let h = grid.previousElementSibling;
+    while (h && !(h.classList && h.classList.contains('tile-row-label'))) h = h.previousElementSibling;
+    if (h) crumb = h.textContent.trim();
+  }
+  const href = a.getAttribute('href') || '#';
+  return { href, label, crumb, hay: _norm(label + ' ' + crumb + ' ' + href) };
+});
+
+// ── Service-level manifest (lazy): index second-level services, not just tiles ──
+let serviceIndex = [];
+let _manifestState = 'idle';
+function loadManifest() {
+  if (_manifestState !== 'idle') return;
+  _manifestState = 'loading';
+  fetch('search-index.json').then(r => r.ok ? r.json() : Promise.reject(r.status)).then(rows => {
+    serviceIndex = rows.map(it => {
+      const label = it.label || '', crumb = it.page || '', href = it.url || '#';
+      return { href, label, crumb, hay: _norm(label + ' ' + crumb + ' ' + href) };
+    });
+    _manifestState = 'ready';
+    if (overlay.classList.contains('is-open')) renderResults(input.value);
+  }).catch(() => { _manifestState = 'error'; });
+}
+const SEARCH_MAX = 120;
+function renderResults(q) {
+  if (!resultsEl) return;
+  const nq = _norm((q || '').trim());
+  if (!nq) { resultsEl.innerHTML = ''; if (hintEl) hintEl.style.display = ''; return; }
+  if (hintEl) hintEl.style.display = 'none';
+  const terms = nq.split(/\s+/);
+  const hits = searchIndex.concat(serviceIndex).filter(it => terms.every(t => it.hay.includes(t)));
+  if (!hits.length) {
+    resultsEl.innerHTML = '<p class="search-empty">No matches for &ldquo;' + _esc(q.trim()) + '&rdquo;</p>';
+    return;
+  }
+  const shown = hits.slice(0, SEARCH_MAX);
+  const head = '<p class="search-count">' +
+    (hits.length > SEARCH_MAX ? hits.length + ' matches · showing first ' + SEARCH_MAX
+      : hits.length + (hits.length === 1 ? ' result' : ' results')) + '</p>';
+  resultsEl.innerHTML = head + shown.map(h =>
+    '<a class="search-result" role="option" href="' + _esc(h.href) + '" target="_blank" rel="noopener">' +
+      '<span class="search-result-label">' + _esc(h.label) + '</span>' +
+      (h.crumb ? '<span class="search-result-crumb">' + _esc(h.crumb) + '</span>' : '') +
+    '</a>'
+  ).join('');
+}
+
+input.addEventListener('input', e => renderResults(e.target.value));
+input.addEventListener('keydown', e => {
+  if (e.key === 'Enter') {
+    const first = resultsEl && resultsEl.querySelector('.search-result');
+    if (first) { e.preventDefault(); window.open(first.href, '_blank', 'noopener'); }
+  }
+});
+
+// ── Live catalog counts: keep the signals band honest (computed, never hard-coded) ──
+(function(){
+  const tiles = Array.from(document.querySelectorAll('#bills a.utility-tile-face'));
+  let services = 0;
+  tiles.forEach(a => {
+    const c = a.querySelector('.utility-tile-count');
+    const n = c ? parseInt((c.textContent || '').replace(/[^0-9]/g, ''), 10) : NaN;
+    if (!isNaN(n)) services += n;
+  });
+  const sEl = document.getElementById('sig-services');
+  const cEl = document.getElementById('sig-categories');
+  if (sEl) sEl.textContent = services.toLocaleString('en-US');
+  if (cEl) cEl.textContent = tiles.length.toLocaleString('en-US');
+})();
+
+// ── Deep-link router: open & highlight a service tile addressed as #svc-... ──
+function openToService(id) {
+  const el = document.getElementById(id);
+  if (!el) return false;
+  let p = el.parentElement;
+  while (p) { if (p.tagName === 'DETAILS' && !p.open) p.open = true; p = p.parentElement; }
+  requestAnimationFrame(() => {
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    el.classList.add('svc-flash');
+    setTimeout(() => el.classList.remove('svc-flash'), 2600);
+  });
+  return true;
+}
+function handleServiceHash() {
+  const h = decodeURIComponent((location.hash || '').slice(1));
+  if (h.indexOf('svc-') === 0) openToService(h);
+}
+window.addEventListener('hashchange', handleServiceHash);
+window.addEventListener('load', handleServiceHash);
+handleServiceHash();
+</script>
+</body>
+</html>

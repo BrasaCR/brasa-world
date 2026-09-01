@@ -1,0 +1,128 @@
+[
+  {
+    "label": "Electricity",
+    "page": "Utilities",
+    "url": "providers.html#electricity",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Water & sewerage",
+    "page": "Utilities",
+    "url": "providers.html#water",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "LP gas & fuel",
+    "page": "Utilities",
+    "url": "providers.html#gas-fuel",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Phone service",
+    "page": "Utilities",
+    "url": "providers.html#phone",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Internet & cable",
+    "page": "Utilities",
+    "url": "providers.html#internet",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Waste & sanitation",
+    "page": "Utilities",
+    "url": "providers.html#waste",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Office of the Prime Minister",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Security",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education and Technical and Vocational Training",
+    "page": "Government of The Bahamas",
+    "url": "ministry-catalog.html#education",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health and Wellness",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Works and Family Island Affairs",
+    "page": "Government of The Bahamas",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Housing and Urban Renewal",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism, Investments and Aviation",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Economic Affairs",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture and Marine Resources",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Services, Information and Broadcasting",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Labour and the Public Service",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of the Environment and Natural Resources",
+    "page": "Government of The Bahamas",
+    "url": "https://www.bahamas.gov.bs/",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transport and Energy",
+    "page": "Government of The Bahamas",
+    "url": "ministry-catalog.html#transportation",
+    "verified": "2026-09-01"
+  }
+]

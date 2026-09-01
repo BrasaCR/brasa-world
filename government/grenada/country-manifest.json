@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "slug": "grenada",
+  "code": "GD",
+  "country": "Grenada",
+  "officialName": "Grenada",
+  "brand": "BRASA GD",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.gd/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA GD",
+    "Government of Ecuador": "Government of Grenada",
+    "Made with care in Ecuador": "Made with care in Grenada",
+    "Ecuador": "Grenada"
+  },
+  "sources": [
+    "https://www.gov.gd/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "GRENLEC"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "NAWASA"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Sol Grenada, RUBIS Grenada"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Grenada Solid Waste Management Authority"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of Foreign Affairs, Trade and Export Development",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of National Security, Home Affairs and Public Administration",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Education, Youth, Sports and Culture",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Health, Wellness and Religious Affairs",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Infrastructure and Physical Development",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Agriculture and Lands, Forestry and Marine Resources",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Climate Resilience, the Environment and Renewable Energy",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of Social and Community Development, Housing and Gender Affairs",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministry of Mobilisation, Implementation and Transformation",
+      "href": "https://www.gov.gd/",
+      "abbreviation": "M11"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}

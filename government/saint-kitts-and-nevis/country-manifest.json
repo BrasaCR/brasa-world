@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "slug": "saint-kitts-and-nevis",
+  "code": "KN",
+  "country": "Saint Kitts and Nevis",
+  "officialName": "Federation of Saint Christopher and Nevis",
+  "brand": "BRASA KN",
+  "language": "en",
+  "verified": "2026-09-01",
+  "primaryPortal": "https://www.gov.kn/",
+  "runtimeReplacesHomepageLinks": true,
+  "sourceNamesToReject": [
+    "BRASA EC",
+    "Government of Ecuador",
+    "Made with care in Ecuador",
+    "Ecuador",
+    "presidencia.gob.ec",
+    "arcotel.gob.ec"
+  ],
+  "identityReplacements": {
+    "BRASA EC": "BRASA KN",
+    "Government of Ecuador": "Government of Saint Kitts and Nevis",
+    "Made with care in Ecuador": "Made with care in Saint Kitts and Nevis",
+    "Ecuador": "Saint Kitts and Nevis"
+  },
+  "sources": [
+    "https://www.gov.kn/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "providers.html#electricity",
+      "summary": "SKELEC, NEVLEC"
+    },
+    {
+      "name": "Water & sewerage",
+      "href": "providers.html#water",
+      "summary": "Water Services Department, Nevis Water Department"
+    },
+    {
+      "name": "LP gas & fuel",
+      "href": "providers.html#gas-fuel",
+      "summary": "Sol EC, RUBIS"
+    },
+    {
+      "name": "Phone service",
+      "href": "providers.html#phone",
+      "summary": "Digicel, Flow"
+    },
+    {
+      "name": "Internet & cable",
+      "href": "providers.html#internet",
+      "summary": "Flow, Digicel"
+    },
+    {
+      "name": "Waste & sanitation",
+      "href": "providers.html#waste",
+      "summary": "Solid Waste Management Corporation"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Office of the Prime Minister",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M1"
+    },
+    {
+      "name": "Ministry of Finance and the Public Service",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M2"
+    },
+    {
+      "name": "Ministry of Foreign Affairs",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M3"
+    },
+    {
+      "name": "Ministry of National Security",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M4"
+    },
+    {
+      "name": "Ministry of Education",
+      "href": "ministry-catalog.html#education",
+      "abbreviation": "M5"
+    },
+    {
+      "name": "Ministry of Health",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M6"
+    },
+    {
+      "name": "Ministry of Public Infrastructure, Energy and Utilities",
+      "href": "ministry-catalog.html#transportation",
+      "abbreviation": "M7"
+    },
+    {
+      "name": "Ministry of Agriculture, Fisheries, Marine Resources and Cooperatives",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M8"
+    },
+    {
+      "name": "Ministry of Tourism",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M9"
+    },
+    {
+      "name": "Ministry of Sustainable Development",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M10"
+    },
+    {
+      "name": "Ministry of Social Development and Gender Affairs",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M11"
+    },
+    {
+      "name": "Ministry of Environment, Climate Action and Constituency Empowerment",
+      "href": "https://www.gov.kn/",
+      "abbreviation": "M12"
+    }
+  ],
+  "sharedPages": [
+    "global-hazards.html",
+    "global-health.html",
+    "global-infrastructure.html",
+    "global-stewardship.html",
+    "global-wellbeing.html",
+    "homes-for-citizens.html",
+    "foods-for-citizens.html",
+    "water-for-citizens.html",
+    "medicine-for-citizens.html",
+    "energy-for-citizens.html",
+    "technology-for-citizens.html",
+    "philanthropy-for-citizens.html",
+    "campuses-for-citizens.html",
+    "structure-for-citizens.html"
+  ]
+}
