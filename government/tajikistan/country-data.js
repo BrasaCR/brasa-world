@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Health",
+      "ministry-01-ministry-of-health.html",
       "TJ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Defence",
+      "ministry-02-ministry-of-defence.html",
       "TJ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Justice",
+      "ministry-03-ministry-of-justice.html",
       "TJ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-04-ministry-of-internal-affairs.html",
       "TJ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Tajikistan",
+      "ministry-05-ministry-of-foreign-affairs-of-the-republic-of-tajikistan.html",
       "TJ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Agriculture of Tajikistan",
+      "ministry-06-ministry-of-agriculture-of-tajikistan.html",
       "TJ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Industry and New Technologies of Tajikistan",
+      "ministry-07-ministry-of-industry-and-new-technologies-of-tajikistan.html",
       "TJ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Finance of Tajikistan",
+      "ministry-08-ministry-of-finance-of-tajikistan.html",
       "TJ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Energy and Water Resources of Tajikistan",
+      "ministry-09-ministry-of-energy-and-water-resources-of-tajikistan.html",
       "TJ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Labour, Migration and Population Employment of Tajikistan",
+      "ministry-10-ministry-of-labour-migration-and-population-employment-of-ta.html",
       "TJ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Education and Science of Tajikistan",
+      "ministry-11-ministry-of-education-and-science-of-tajikistan.html",
       "TJ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Health and Social Protection of the Population of Tajikistan",
+      "ministry-12-ministry-of-health-and-social-protection-of-the-population-o.html",
       "TJ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Economic Development and Trade of Tajikistan",
+      "ministry-13-ministry-of-economic-development-and-trade-of-tajikistan.html",
       "TJ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Transport of Tajikistan",
+      "ministry-14-ministry-of-transport-of-tajikistan.html",
       "TJ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Culture of Tajikistan",
+      "ministry-15-ministry-of-culture-of-tajikistan.html",
       "TJ-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "TJ-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "TJ-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "TJ-18"
     ]
   ]
 };

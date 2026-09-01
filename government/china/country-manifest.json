@@ -24,7 +24,8 @@
     "Panama": "China"
   },
   "sources": [
-    "https://www.gov.cn/"
+    "https://www.gov.cn/",
+    "https://english.www.gov.cn/"
   ],
   "utilities": [
     {
@@ -60,112 +61,220 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "General Office of the State Council",
+      "href": "ministry-01-general-office-of-the-state-council.html",
       "abbreviation": "CN-1",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-02-ministry-of-foreign-affairs.html",
       "abbreviation": "CN-2",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of National Defense",
+      "href": "ministry-03-ministry-of-national-defense.html",
       "abbreviation": "CN-3",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "National Development and Reform Commission",
+      "href": "ministry-04-national-development-and-reform-commission.html",
       "abbreviation": "CN-4",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Education",
+      "href": "ministry-05-ministry-of-education.html",
       "abbreviation": "CN-5",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Science and Technology",
+      "href": "ministry-06-ministry-of-science-and-technology.html",
       "abbreviation": "CN-6",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Industry and Information Technology",
+      "href": "ministry-07-ministry-of-industry-and-information-technology.html",
       "abbreviation": "CN-7",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "National Ethnic Affairs Commission",
+      "href": "ministry-08-national-ethnic-affairs-commission.html",
       "abbreviation": "CN-8",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Public Security",
+      "href": "ministry-09-ministry-of-public-security.html",
       "abbreviation": "CN-9",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of State Security",
+      "href": "ministry-10-ministry-of-state-security.html",
       "abbreviation": "CN-10",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Civil Affairs",
+      "href": "ministry-11-ministry-of-civil-affairs.html",
       "abbreviation": "CN-11",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-12-ministry-of-justice.html",
       "abbreviation": "CN-12",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-13-ministry-of-finance.html",
       "abbreviation": "CN-13",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Human Resources and Social Security",
+      "href": "ministry-14-ministry-of-human-resources-and-social-security.html",
       "abbreviation": "CN-14",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Natural Resources",
+      "href": "ministry-15-ministry-of-natural-resources.html",
       "abbreviation": "CN-15",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Ecology and Environment",
+      "href": "ministry-16-ministry-of-ecology-and-environment.html",
       "abbreviation": "CN-16",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Housing and Urban-Rural Development",
+      "href": "ministry-17-ministry-of-housing-and-urban-rural-development.html",
       "abbreviation": "CN-17",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-18-ministry-of-transport.html",
       "abbreviation": "CN-18",
-      "officialHref": "https://www.gov.cn/"
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "href": "ministry-19-ministry-of-water-resources.html",
+      "abbreviation": "CN-19",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Agriculture and Rural Affairs",
+      "href": "ministry-20-ministry-of-agriculture-and-rural-affairs.html",
+      "abbreviation": "CN-20",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Commerce",
+      "href": "ministry-21-ministry-of-commerce.html",
+      "abbreviation": "CN-21",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture and Tourism",
+      "href": "ministry-22-ministry-of-culture-and-tourism.html",
+      "abbreviation": "CN-22",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "National Health Commission",
+      "href": "ministry-23-national-health-commission.html",
+      "abbreviation": "CN-23",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Veterans Affairs",
+      "href": "ministry-24-ministry-of-veterans-affairs.html",
+      "abbreviation": "CN-24",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Emergency Management",
+      "href": "ministry-25-ministry-of-emergency-management.html",
+      "abbreviation": "CN-25",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "People’s Bank of China",
+      "href": "ministry-26-people-s-bank-of-china.html",
+      "abbreviation": "CN-26",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "National Audit Office",
+      "href": "ministry-27-national-audit-office.html",
+      "abbreviation": "CN-27",
+      "officialHref": "https://english.www.gov.cn/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -317,5 +426,11 @@
       "name": "Zhejiang",
       "code": "ZJ"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

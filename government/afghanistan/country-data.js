@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defense",
+      "ministry-01-ministry-of-defense.html",
       "AF-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Economy",
+      "ministry-02-ministry-of-economy.html",
       "AF-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Mines and Petroleum",
+      "ministry-03-ministry-of-mines-and-petroleum.html",
       "AF-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Communications and Information Technology",
+      "ministry-04-ministry-of-communications-and-information-technology.html",
       "AF-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance",
+      "ministry-05-ministry-of-finance.html",
       "AF-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Agriculture, Irrigation and Livestock of Afghanistan",
+      "ministry-06-ministry-of-agriculture-irrigation-and-livestock-of-afghanis.html",
       "AF-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Water and Energy Islamic Emirate of Afganistan",
+      "ministry-07-ministry-of-water-and-energy-islamic-emirate-of-afganistan.html",
       "AF-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education",
+      "ministry-08-ministry-of-education.html",
       "AF-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice",
+      "ministry-09-ministry-of-justice.html",
       "AF-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Foreign Affairs of the Islamic Emirate of Afghanistan",
+      "ministry-10-ministry-of-foreign-affairs-of-the-islamic-emirate-of-afghan.html",
       "AF-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Public Health",
+      "ministry-11-ministry-of-public-health.html",
       "AF-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Counter Narcotics of Afghanistan",
+      "ministry-12-ministry-of-counter-narcotics-of-afghanistan.html",
       "AF-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Women's Affairs",
+      "ministry-13-ministry-of-women-s-affairs.html",
       "AF-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Commerce and Industries",
+      "ministry-14-ministry-of-commerce-and-industries.html",
       "AF-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Hajj and Islamic Affairs",
+      "ministry-15-ministry-of-hajj-and-islamic-affairs.html",
       "AF-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of the Interior Islamic Emirate of Afghanistan (2021)",
+      "ministry-16-ministry-of-the-interior-islamic-emirate-of-afghanistan-2021.html",
       "AF-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Higher Education",
+      "ministry-17-ministry-of-higher-education.html",
       "AF-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Rural Rehabilitation and Development Afghanistan",
+      "ministry-18-ministry-of-rural-rehabilitation-and-development-afghanistan.html",
       "AF-18"
     ]
   ]

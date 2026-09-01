@@ -36,111 +36,231 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Prime Minister’s Office",
     "page": "Government of India",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-prime-minister-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Home Affairs",
     "page": "Government of India",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Finance",
     "page": "Government of India",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of External Affairs",
     "page": "Government of India",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-external-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Defence",
     "page": "Government of India",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Education",
     "page": "Government of India",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Health and Family Welfare",
     "page": "Government of India",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-health-and-family-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Agriculture and Farmers Welfare",
     "page": "Government of India",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-agriculture-and-farmers-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Rural Development",
     "page": "Government of India",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Road Transport and Highways",
     "page": "Government of India",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-road-transport-and-highways.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Railways",
     "page": "Government of India",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-railways.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Civil Aviation",
     "page": "Government of India",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-civil-aviation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Ports, Shipping and Waterways",
     "page": "Government of India",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-ports-shipping-and-waterways.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Housing and Urban Affairs",
     "page": "Government of India",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-housing-and-urban-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Jal Shakti",
     "page": "Government of India",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-jal-shakti.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Environment, Forest and Climate Change",
     "page": "Government of India",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-environment-forest-and-climate-change.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Power",
     "page": "Government of India",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-power.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of New and Renewable Energy",
     "page": "Government of India",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-new-and-renewable-energy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Petroleum and Natural Gas",
+    "page": "Government of India",
+    "url": "ministry-19-ministry-of-petroleum-and-natural-gas.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Coal",
+    "page": "Government of India",
+    "url": "ministry-20-ministry-of-coal.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Mines",
+    "page": "Government of India",
+    "url": "ministry-21-ministry-of-mines.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Commerce and Industry",
+    "page": "Government of India",
+    "url": "ministry-22-ministry-of-commerce-and-industry.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Corporate Affairs",
+    "page": "Government of India",
+    "url": "ministry-23-ministry-of-corporate-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Labour and Employment",
+    "page": "Government of India",
+    "url": "ministry-24-ministry-of-labour-and-employment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Law and Justice",
+    "page": "Government of India",
+    "url": "ministry-25-ministry-of-law-and-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Communications",
+    "page": "Government of India",
+    "url": "ministry-26-ministry-of-communications.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Electronics and Information Technology",
+    "page": "Government of India",
+    "url": "ministry-27-ministry-of-electronics-and-information-technology.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Information and Broadcasting",
+    "page": "Government of India",
+    "url": "ministry-28-ministry-of-information-and-broadcasting.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Culture",
+    "page": "Government of India",
+    "url": "ministry-29-ministry-of-culture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism",
+    "page": "Government of India",
+    "url": "ministry-30-ministry-of-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Justice and Empowerment",
+    "page": "Government of India",
+    "url": "ministry-31-ministry-of-social-justice-and-empowerment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tribal Affairs",
+    "page": "Government of India",
+    "url": "ministry-32-ministry-of-tribal-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Women and Child Development",
+    "page": "Government of India",
+    "url": "ministry-33-ministry-of-women-and-child-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Minority Affairs",
+    "page": "Government of India",
+    "url": "ministry-34-ministry-of-minority-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth Affairs and Sports",
+    "page": "Government of India",
+    "url": "ministry-35-ministry-of-youth-affairs-and-sports.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Skill Development and Entrepreneurship",
+    "page": "Government of India",
+    "url": "ministry-36-ministry-of-skill-development-and-entrepreneurship.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Statistics and Programme Implementation",
+    "page": "Government of India",
+    "url": "ministry-37-ministry-of-statistics-and-programme-implementation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Personnel, Public Grievances and Pensions",
+    "page": "Government of India",
+    "url": "ministry-38-ministry-of-personnel-public-grievances-and-pensions.html",
     "verified": "2026-09-01"
   }
 ]

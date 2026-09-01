@@ -36,111 +36,87 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Cabinet Office",
     "page": "Government of Japan",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-cabinet-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Reconstruction Agency",
     "page": "Government of Japan",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-reconstruction-agency.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Digital Agency",
     "page": "Government of Japan",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-digital-agency.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Internal Affairs and Communications",
     "page": "Government of Japan",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-internal-affairs-and-communications.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Justice",
     "page": "Government of Japan",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Foreign Affairs",
     "page": "Government of Japan",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Finance",
     "page": "Government of Japan",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Education, Culture, Sports, Science and Technology",
     "page": "Government of Japan",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-education-culture-sports-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Health, Labour and Welfare",
     "page": "Government of Japan",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-health-labour-and-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Agriculture, Forestry and Fisheries",
     "page": "Government of Japan",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-agriculture-forestry-and-fisheries.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Economy, Trade and Industry",
     "page": "Government of Japan",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-economy-trade-and-industry.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Land, Infrastructure, Transport and Tourism",
     "page": "Government of Japan",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-land-infrastructure-transport-and-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of the Environment",
     "page": "Government of Japan",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-the-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Defense",
     "page": "Government of Japan",
-    "url": "ministry-14-social-protection-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Head of government and cabinet",
-    "page": "Government of Japan",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Electoral authority",
-    "page": "Government of Japan",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Japan",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Japan",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-14-ministry-of-defense.html",
     "verified": "2026-09-01"
   }
 ]

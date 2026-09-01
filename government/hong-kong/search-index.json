@@ -36,111 +36,117 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Chief Executive’s Office",
     "page": "Government of Hong Kong",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-chief-executive-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Chief Secretary for Administration’s Office",
     "page": "Government of Hong Kong",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-chief-secretary-for-administration-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Financial Secretary’s Office",
     "page": "Government of Hong Kong",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-financial-secretary-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Department of Justice",
     "page": "Government of Hong Kong",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-department-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Civil Service Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-civil-service-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Commerce and Economic Development Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-commerce-and-economic-development-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Constitutional and Mainland Affairs Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-constitutional-and-mainland-affairs-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Culture, Sports and Tourism Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-culture-sports-and-tourism-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Development Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-development-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Education Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-education-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Environment and Ecology Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-environment-and-ecology-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Financial Services and the Treasury Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-financial-services-and-the-treasury-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Health Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-health-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Home and Youth Affairs Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-home-and-youth-affairs-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Housing Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-housing-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Innovation, Technology and Industry Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-innovation-technology-and-industry-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Labour and Welfare Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-labour-and-welfare-bureau.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Security Bureau",
     "page": "Government of Hong Kong",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-security-bureau.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Transport and Logistics Bureau",
+    "page": "Government of Hong Kong",
+    "url": "ministry-19-transport-and-logistics-bureau.html",
     "verified": "2026-09-01"
   }
 ]

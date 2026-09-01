@@ -36,111 +36,153 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Health and Population",
     "page": "Government of Nepal",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-health-and-population.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Education, Science and Technology",
     "page": "Government of Nepal",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-education-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Defence",
     "page": "Government of Nepal",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Health",
     "page": "Government of Nepal",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Law, Justice, and Parliamentary Affairs",
     "page": "Government of Nepal",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-law-justice-and-parliamentary-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Office of the Prime Minister and Council of Ministers",
     "page": "Government of Nepal",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-office-of-the-prime-minister-and-council-of-ministers.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Science, Technology and Environment",
     "page": "Government of Nepal",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-science-technology-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Culture, Tourism and Civil Aviation",
     "page": "Government of Nepal",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-culture-tourism-and-civil-aviation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Energy, Water Resources and Irrigation",
     "page": "Government of Nepal",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-energy-water-resources-and-irrigation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Federal Affairs and General Administration",
     "page": "Government of Nepal",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-federal-affairs-and-general-administration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Peace and Reconstruction",
     "page": "Government of Nepal",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-peace-and-reconstruction.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Youth and Sports",
     "page": "Government of Nepal",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Home Affairs",
     "page": "Government of Nepal",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Internal Affairs and Law",
     "page": "Government of Nepal",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-internal-affairs-and-law.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Agriculture and Livestock Development",
     "page": "Government of Nepal",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-agriculture-and-livestock-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Physical Infrastructure and Transport",
     "page": "Government of Nepal",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-physical-infrastructure-and-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Land Management, Cooperatives and Poverty Alleviation",
     "page": "Government of Nepal",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-land-management-cooperatives-and-poverty-allevia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Women, Children and Senior Citizens",
     "page": "Government of Nepal",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-women-children-and-senior-citizens.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Forests and Environment",
+    "page": "Government of Nepal",
+    "url": "ministry-19-ministry-of-forests-and-environment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Labour, Employment and Social Security",
+    "page": "Government of Nepal",
+    "url": "ministry-20-ministry-of-labour-employment-and-social-security.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Urban Development",
+    "page": "Government of Nepal",
+    "url": "ministry-21-ministry-of-urban-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs",
+    "page": "Government of Nepal",
+    "url": "ministry-22-ministry-of-foreign-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Nepal",
+    "url": "ministry-23-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Water Supply, Irrigation and Energy",
+    "page": "Government of Nepal",
+    "url": "ministry-24-ministry-of-water-supply-irrigation-and-energy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Industry, Agriculture and Cooperatives",
+    "page": "Government of Nepal",
+    "url": "ministry-25-ministry-of-industry-agriculture-and-cooperatives.html",
     "verified": "2026-09-01"
   }
 ]

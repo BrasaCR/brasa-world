@@ -36,111 +36,225 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Cultural Affairs",
     "page": "Government of Bangladesh",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-cultural-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Environment, Forest and Climate Change",
     "page": "Government of Bangladesh",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-environment-forest-and-climate-change.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Industries",
     "page": "Government of Bangladesh",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-industries.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Health and Family Welfare",
     "page": "Government of Bangladesh",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-health-and-family-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Agriculture",
     "page": "Government of Bangladesh",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Planning",
     "page": "Government of Bangladesh",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-planning.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Power, Energy and Mineral Resources",
     "page": "Government of Bangladesh",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-power-energy-and-mineral-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Home Affairs",
     "page": "Government of Bangladesh",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Food",
     "page": "Government of Bangladesh",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-food.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Defence",
     "page": "Government of Bangladesh",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Road Transport and Bridges",
     "page": "Government of Bangladesh",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-road-transport-and-bridges.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Water Resources",
     "page": "Government of Bangladesh",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-water-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Youth and Sports (Bangladesh)",
     "page": "Government of Bangladesh",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-youth-and-sports-bangladesh.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Labour and Employment",
     "page": "Government of Bangladesh",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-labour-and-employment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Religious Affairs",
     "page": "Government of Bangladesh",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-religious-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Railways",
     "page": "Government of Bangladesh",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-railways.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Information and Broadcasting",
     "page": "Government of Bangladesh",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-information-and-broadcasting.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Education",
     "page": "Government of Bangladesh",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Housing and Public Works",
+    "page": "Government of Bangladesh",
+    "url": "ministry-19-ministry-of-housing-and-public-works.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Law, Justice and Parliamentary Affairs",
+    "page": "Government of Bangladesh",
+    "url": "ministry-20-ministry-of-law-justice-and-parliamentary-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Fisheries and Livestock",
+    "page": "Government of Bangladesh",
+    "url": "ministry-21-ministry-of-fisheries-and-livestock.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs",
+    "page": "Government of Bangladesh",
+    "url": "ministry-22-ministry-of-foreign-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Bangladesh",
+    "url": "ministry-23-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Civil Aviation and Tourism",
+    "page": "Government of Bangladesh",
+    "url": "ministry-24-ministry-of-civil-aviation-and-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Land",
+    "page": "Government of Bangladesh",
+    "url": "ministry-25-ministry-of-land.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Primary and Mass Education",
+    "page": "Government of Bangladesh",
+    "url": "ministry-26-ministry-of-primary-and-mass-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Commerce",
+    "page": "Government of Bangladesh",
+    "url": "ministry-27-ministry-of-commerce.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Science and Technology",
+    "page": "Government of Bangladesh",
+    "url": "ministry-28-ministry-of-science-and-technology.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Welfare",
+    "page": "Government of Bangladesh",
+    "url": "ministry-29-ministry-of-social-welfare.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Disaster Management and Relief",
+    "page": "Government of Bangladesh",
+    "url": "ministry-30-ministry-of-disaster-management-and-relief.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Expatriates' Welfare and Overseas Employment",
+    "page": "Government of Bangladesh",
+    "url": "ministry-31-ministry-of-expatriates-welfare-and-overseas-employment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Chittagong Hill Tracts Affairs",
+    "page": "Government of Bangladesh",
+    "url": "ministry-32-ministry-of-chittagong-hill-tracts-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Women and Children Affairs",
+    "page": "Government of Bangladesh",
+    "url": "ministry-33-ministry-of-women-and-children-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Liberation War Affairs",
+    "page": "Government of Bangladesh",
+    "url": "ministry-34-ministry-of-liberation-war-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Shipping",
+    "page": "Government of Bangladesh",
+    "url": "ministry-35-ministry-of-shipping.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Administration",
+    "page": "Government of Bangladesh",
+    "url": "ministry-36-ministry-of-public-administration.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Textiles and Jute",
+    "page": "Government of Bangladesh",
+    "url": "ministry-37-ministry-of-textiles-and-jute.html",
     "verified": "2026-09-01"
   }
 ]

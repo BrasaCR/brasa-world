@@ -24,7 +24,27 @@
     "Panama": "Sri Lanka"
   },
   "sources": [
-    "https://www.gov.lk/"
+    "https://www.gov.lk/",
+    "http://www.tourismmin.gov.lk/",
+    "http://www.treasury.gov.lk/",
+    "http://www.moe.gov.lk/",
+    "http://www.aviationmin.gov.lk/",
+    "http://www.cdjedmin.gov.lk/",
+    "http://www.mfe.gov.lk/",
+    "http://www.plantationindustries.gov.lk/",
+    "http://www.mohsl.gov.lk/",
+    "https://www.defence.lk/",
+    "http://www.uda.lk/",
+    "http://www.mwsd.gov.lk/",
+    "http://www.landmin.gov.lk",
+    "http://www.health.gov.lk/en/",
+    "https://pubsec.gov.lk",
+    "http://www.youthskillsmin.gov.lk/",
+    "http://www.mfa.gov.lk/",
+    "http://www.motr.gov.lk/",
+    "http://www.mope.gov.lk/",
+    "http://www.justiceministry.gov.lk",
+    "http://sportsmin.gov.lk/"
   ],
   "utilities": [
     {
@@ -60,112 +80,164 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Tourism",
+      "href": "ministry-01-ministry-of-tourism.html",
       "abbreviation": "LK-1",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.tourismmin.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Finance and Planning",
+      "href": "ministry-02-ministry-of-finance-and-planning.html",
       "abbreviation": "LK-2",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.treasury.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Education",
+      "href": "ministry-03-ministry-of-education.html",
       "abbreviation": "LK-3",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.moe.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Civil Aviation",
+      "href": "ministry-04-ministry-of-civil-aviation.html",
       "abbreviation": "LK-4",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.aviationmin.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Coconut Development and Janatha Estate Development",
+      "href": "ministry-05-ministry-of-coconut-development-and-janatha-estate-developme.html",
       "abbreviation": "LK-5",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.cdjedmin.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Foreign Employment Promotion and Welfare",
+      "href": "ministry-06-ministry-of-foreign-employment-promotion-and-welfare.html",
       "abbreviation": "LK-6",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.mfe.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Plantation Industries",
+      "href": "ministry-07-ministry-of-plantation-industries.html",
       "abbreviation": "LK-7",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.plantationindustries.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Ports and Highways",
+      "href": "ministry-08-ministry-of-ports-and-highways.html",
       "abbreviation": "LK-8",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.mohsl.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Defence and Urban Development",
+      "href": "ministry-09-ministry-of-defence-and-urban-development.html",
       "abbreviation": "LK-9",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "https://www.defence.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Urban Development",
+      "href": "ministry-10-ministry-of-urban-development.html",
       "abbreviation": "LK-10",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.uda.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry OF City Planning and Water Supply",
+      "href": "ministry-11-ministry-of-city-planning-and-water-supply.html",
       "abbreviation": "LK-11",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.mwsd.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Land and Land Development",
+      "href": "ministry-12-ministry-of-land-and-land-development.html",
       "abbreviation": "LK-12",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.landmin.gov.lk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-13-ministry-of-health.html",
       "abbreviation": "LK-13",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.health.gov.lk/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Public Security",
+      "href": "ministry-14-ministry-of-public-security.html",
       "abbreviation": "LK-14",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "https://pubsec.gov.lk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Youth Affairs and Skills Development",
+      "href": "ministry-15-ministry-of-youth-affairs-and-skills-development.html",
       "abbreviation": "LK-15",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.youthskillsmin.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Foreign Affairs (Sri Lanka)",
+      "href": "ministry-16-ministry-of-foreign-affairs-sri-lanka.html",
       "abbreviation": "LK-16",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.mfa.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Technology and Research",
+      "href": "ministry-17-ministry-of-technology-and-research.html",
       "abbreviation": "LK-17",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.motr.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Power and Energy",
+      "href": "ministry-18-ministry-of-power-and-energy.html",
       "abbreviation": "LK-18",
-      "officialHref": "https://www.gov.lk/"
+      "officialHref": "http://www.mope.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice and Law Reforms",
+      "href": "ministry-19-ministry-of-justice-and-law-reforms.html",
+      "abbreviation": "LK-19",
+      "officialHref": "http://www.justiceministry.gov.lk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Sports",
+      "href": "ministry-20-ministry-of-sports.html",
+      "abbreviation": "LK-20",
+      "officialHref": "http://sportsmin.gov.lk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -221,5 +293,11 @@
       "name": "Uva",
       "code": "8"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Tourism",
+      "ministry-01-ministry-of-tourism.html",
       "LK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance and Planning",
+      "ministry-02-ministry-of-finance-and-planning.html",
       "LK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Education",
+      "ministry-03-ministry-of-education.html",
       "LK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Civil Aviation",
+      "ministry-04-ministry-of-civil-aviation.html",
       "LK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Coconut Development and Janatha Estate Development",
+      "ministry-05-ministry-of-coconut-development-and-janatha-estate-developme.html",
       "LK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Employment Promotion and Welfare",
+      "ministry-06-ministry-of-foreign-employment-promotion-and-welfare.html",
       "LK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Plantation Industries",
+      "ministry-07-ministry-of-plantation-industries.html",
       "LK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Ports and Highways",
+      "ministry-08-ministry-of-ports-and-highways.html",
       "LK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Defence and Urban Development",
+      "ministry-09-ministry-of-defence-and-urban-development.html",
       "LK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Urban Development",
+      "ministry-10-ministry-of-urban-development.html",
       "LK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry OF City Planning and Water Supply",
+      "ministry-11-ministry-of-city-planning-and-water-supply.html",
       "LK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Land and Land Development",
+      "ministry-12-ministry-of-land-and-land-development.html",
       "LK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Health",
+      "ministry-13-ministry-of-health.html",
       "LK-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Public Security",
+      "ministry-14-ministry-of-public-security.html",
       "LK-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Youth Affairs and Skills Development",
+      "ministry-15-ministry-of-youth-affairs-and-skills-development.html",
       "LK-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Foreign Affairs (Sri Lanka)",
+      "ministry-16-ministry-of-foreign-affairs-sri-lanka.html",
       "LK-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Technology and Research",
+      "ministry-17-ministry-of-technology-and-research.html",
       "LK-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Power and Energy",
+      "ministry-18-ministry-of-power-and-energy.html",
       "LK-18"
+    ],
+    [
+      "Ministry of Justice and Law Reforms",
+      "ministry-19-ministry-of-justice-and-law-reforms.html",
+      "LK-19"
+    ],
+    [
+      "Ministry of Sports",
+      "ministry-20-ministry-of-sports.html",
+      "LK-20"
     ]
   ]
 };

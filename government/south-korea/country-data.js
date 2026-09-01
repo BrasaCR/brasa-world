@@ -38,94 +38,114 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Unification",
+      "ministry-01-ministry-of-unification.html",
       "KR-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Patriots' and Veterans' Affairs",
+      "ministry-02-ministry-of-patriots-and-veterans-affairs.html",
       "KR-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Office of the President of South Korea",
+      "ministry-03-office-of-the-president-of-south-korea.html",
       "KR-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Education of the Republic of Korea",
+      "ministry-04-ministry-of-education-of-the-republic-of-korea.html",
       "KR-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Environment",
+      "ministry-05-ministry-of-environment.html",
       "KR-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economy and Finance",
+      "ministry-06-ministry-of-economy-and-finance.html",
       "KR-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Trade, Industry and Resource",
+      "ministry-07-ministry-of-trade-industry-and-resource.html",
       "KR-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Climate, Energy and Environment",
+      "ministry-08-ministry-of-climate-energy-and-environment.html",
       "KR-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice",
+      "ministry-09-ministry-of-justice.html",
       "KR-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of National Defense of South Korea",
+      "ministry-10-ministry-of-national-defense-of-south-korea.html",
       "KR-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Employment and Labor",
+      "ministry-11-ministry-of-employment-and-labor.html",
       "KR-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of the Interior and Safety",
+      "ministry-12-ministry-of-the-interior-and-safety.html",
       "KR-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Gender Equality and Family",
+      "ministry-13-ministry-of-gender-equality-and-family.html",
       "KR-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Science and ICT",
+      "ministry-14-ministry-of-science-and-ict.html",
       "KR-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of SMEs and Startups",
+      "ministry-15-ministry-of-smes-and-startups.html",
       "KR-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Korea",
+      "ministry-16-ministry-of-foreign-affairs-of-the-republic-of-korea.html",
       "KR-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Oceans and Fisheries",
+      "ministry-17-ministry-of-oceans-and-fisheries.html",
       "KR-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Security and Public Administration",
+      "ministry-18-ministry-of-security-and-public-administration.html",
       "KR-18"
+    ],
+    [
+      "Ministry of Agriculture, Food and Rural Affairs",
+      "ministry-19-ministry-of-agriculture-food-and-rural-affairs.html",
+      "KR-19"
+    ],
+    [
+      "Ministry of Health and Welfare",
+      "ministry-20-ministry-of-health-and-welfare.html",
+      "KR-20"
+    ],
+    [
+      "Ministry of Culture, Sports and Tourism",
+      "ministry-21-ministry-of-culture-sports-and-tourism.html",
+      "KR-21"
+    ],
+    [
+      "Ministry of Land, Infrastructure and Transport",
+      "ministry-22-ministry-of-land-infrastructure-and-transport.html",
+      "KR-22"
     ]
   ]
 };

@@ -24,7 +24,28 @@
     "Panama": "Thailand"
   },
   "sources": [
-    "https://www.thaigov.go.th/"
+    "https://www.thaigov.go.th/",
+    "https://www.mfa.go.th/main/",
+    "http://www.mnre.go.th/",
+    "http://www.moac.go.th/",
+    "https://www.energy.go.th/",
+    "http://www.industry.go.th/",
+    "http://www.mof.go.th/",
+    "http://www.mot.go.th/index.html",
+    "http://www.m-culture.go.th/",
+    "http://www.mol.go.th/",
+    "http://www.most.go.th",
+    "http://www.mdes.go.th/",
+    "http://www.moj.go.th/",
+    "https://www.mots.go.th/",
+    "http://www.moe.go.th/",
+    "http://www.most.go.th/",
+    "http://www.opm.go.th/",
+    "http://www.moi.go.th",
+    "https://www.mhesi.go.th/home/",
+    "http://www.moph.go.th/",
+    "http://www.mod.go.th/Home.aspx?lang=en-GB/",
+    "http://www.moc.go.th/"
   ],
   "utilities": [
     {
@@ -60,112 +81,172 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Foreign Affairs of Thailand",
+      "href": "ministry-01-ministry-of-foreign-affairs-of-thailand.html",
       "abbreviation": "TH-1",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "https://www.mfa.go.th/main/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Natural Resources and Environment",
+      "href": "ministry-02-ministry-of-natural-resources-and-environment.html",
       "abbreviation": "TH-2",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.mnre.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Agriculture and Cooperatives",
+      "href": "ministry-03-ministry-of-agriculture-and-cooperatives.html",
       "abbreviation": "TH-3",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.moac.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Energy",
+      "href": "ministry-04-ministry-of-energy.html",
       "abbreviation": "TH-4",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "https://www.energy.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Industry",
+      "href": "ministry-05-ministry-of-industry.html",
       "abbreviation": "TH-5",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.industry.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-06-ministry-of-finance.html",
       "abbreviation": "TH-6",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.mof.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-07-ministry-of-transport.html",
       "abbreviation": "TH-7",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.mot.go.th/index.html",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Culture",
+      "href": "ministry-08-ministry-of-culture.html",
       "abbreviation": "TH-8",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.m-culture.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Labour",
+      "href": "ministry-09-ministry-of-labour.html",
       "abbreviation": "TH-9",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.mol.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Science and Technology",
+      "href": "ministry-10-ministry-of-science-and-technology.html",
       "abbreviation": "TH-10",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.most.go.th",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Digital Economy and Society",
+      "href": "ministry-11-ministry-of-digital-economy-and-society.html",
       "abbreviation": "TH-11",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.mdes.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Justice of Thailand",
+      "href": "ministry-12-ministry-of-justice-of-thailand.html",
       "abbreviation": "TH-12",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.moj.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Tourism and Sports (Thailand)",
+      "href": "ministry-13-ministry-of-tourism-and-sports-thailand.html",
       "abbreviation": "TH-13",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "https://www.mots.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Education of Thailand",
+      "href": "ministry-14-ministry-of-education-of-thailand.html",
       "abbreviation": "TH-14",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.moe.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Science, Technology and Environment",
+      "href": "ministry-15-ministry-of-science-technology-and-environment.html",
       "abbreviation": "TH-15",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.most.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Office of the Prime Minister",
+      "href": "ministry-16-office-of-the-prime-minister.html",
       "abbreviation": "TH-16",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.opm.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Interior of Thailand",
+      "href": "ministry-17-ministry-of-interior-of-thailand.html",
       "abbreviation": "TH-17",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "http://www.moi.go.th",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Higher Education, Science, Research and Innovation",
+      "href": "ministry-18-ministry-of-higher-education-science-research-and-innovation.html",
       "abbreviation": "TH-18",
-      "officialHref": "https://www.thaigov.go.th/"
+      "officialHref": "https://www.mhesi.go.th/home/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Health",
+      "href": "ministry-19-ministry-of-public-health.html",
+      "abbreviation": "TH-19",
+      "officialHref": "http://www.moph.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Defence of Thailand",
+      "href": "ministry-20-ministry-of-defence-of-thailand.html",
+      "abbreviation": "TH-20",
+      "officialHref": "http://www.mod.go.th/Home.aspx?lang=en-GB/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Commerce",
+      "href": "ministry-21-ministry-of-commerce.html",
+      "abbreviation": "TH-21",
+      "officialHref": "http://www.moc.go.th/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -493,5 +574,11 @@
       "name": "Yasothon",
       "code": "35"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

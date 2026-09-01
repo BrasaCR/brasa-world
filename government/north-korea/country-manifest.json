@@ -24,7 +24,11 @@
     "Panama": "North Korea"
   },
   "sources": [
-    "http://www.naenara.com.kp/"
+    "http://www.naenara.com.kp/",
+    "http://www.kftrade.com.kp",
+    "http://www.moph.gov.kp/en/",
+    "http://www.mfa.gov.kp/",
+    "http://www.korart.sca.kp/"
   ],
   "utilities": [
     {
@@ -60,112 +64,268 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Foreign Trade of North Korea",
+      "href": "ministry-01-ministry-of-foreign-trade-of-north-korea.html",
       "abbreviation": "KP-1",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.kftrade.com.kp",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Social Security",
+      "href": "ministry-02-ministry-of-social-security.html",
       "abbreviation": "KP-2",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Commerce",
+      "href": "ministry-03-ministry-of-commerce.html",
       "abbreviation": "KP-3",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Justice of North Korea",
+      "href": "ministry-04-ministry-of-justice-of-north-korea.html",
       "abbreviation": "KP-4",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Labor",
+      "href": "ministry-05-ministry-of-labor.html",
       "abbreviation": "KP-5",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Minister of Machine-Building Industry of North Korea",
+      "href": "ministry-06-minister-of-machine-building-industry-of-north-korea.html",
       "abbreviation": "KP-6",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Finance (North Korea)",
+      "href": "ministry-07-ministry-of-finance-north-korea.html",
       "abbreviation": "KP-7",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Post and Telecommunications",
+      "href": "ministry-08-ministry-of-post-and-telecommunications.html",
       "abbreviation": "KP-8",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Forestry",
+      "href": "ministry-09-ministry-of-forestry.html",
       "abbreviation": "KP-9",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of People's Armed Forces",
+      "href": "ministry-10-ministry-of-people-s-armed-forces.html",
       "abbreviation": "KP-10",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of the Coal Industry of North Korea",
+      "href": "ministry-11-ministry-of-the-coal-industry-of-north-korea.html",
       "abbreviation": "KP-11",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Light Industry",
+      "href": "ministry-12-ministry-of-light-industry.html",
       "abbreviation": "KP-12",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Metal Industry of the Democratic People's Republic of Korea",
+      "href": "ministry-13-ministry-of-metal-industry-of-the-democratic-people-s-republ.html",
       "abbreviation": "KP-13",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Urban Management of the Democratic People's Republic of Korea",
+      "href": "ministry-14-ministry-of-urban-management-of-the-democratic-people-s-repu.html",
       "abbreviation": "KP-14",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Fisheries of North Korea",
+      "href": "ministry-15-ministry-of-fisheries-of-north-korea.html",
       "abbreviation": "KP-15",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Construction and Building-Materials Industry",
+      "href": "ministry-16-ministry-of-construction-and-building-materials-industry.html",
       "abbreviation": "KP-16",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of the Electronics Industry of North Korea",
+      "href": "ministry-17-ministry-of-the-electronics-industry-of-north-korea.html",
       "abbreviation": "KP-17",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Chemical Industry of North Korea",
+      "href": "ministry-18-ministry-of-chemical-industry-of-north-korea.html",
       "abbreviation": "KP-18",
-      "officialHref": "http://www.naenara.com.kp/"
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of the Extraction Industry of North Korea",
+      "href": "ministry-19-ministry-of-the-extraction-industry-of-north-korea.html",
+      "abbreviation": "KP-19",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Land and Environment Protection",
+      "href": "ministry-20-ministry-of-land-and-environment-protection.html",
+      "abbreviation": "KP-20",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Higher Education of North Korea",
+      "href": "ministry-21-ministry-of-higher-education-of-north-korea.html",
+      "abbreviation": "KP-21",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of the Electric Power Industry of North Korea",
+      "href": "ministry-22-ministry-of-the-electric-power-industry-of-north-korea.html",
+      "abbreviation": "KP-22",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Land and Maritime Transport",
+      "href": "ministry-23-ministry-of-land-and-maritime-transport.html",
+      "abbreviation": "KP-23",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Sports of the Democratic People's Republic of Korea",
+      "href": "ministry-24-ministry-of-sports-of-the-democratic-people-s-republic-of-ko.html",
+      "abbreviation": "KP-24",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Korean State Railway",
+      "href": "ministry-25-korean-state-railway.html",
+      "abbreviation": "KP-25",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of State Construction Control",
+      "href": "ministry-26-ministry-of-state-construction-control.html",
+      "abbreviation": "KP-26",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Crude Oil of North Korea",
+      "href": "ministry-27-ministry-of-crude-oil-of-north-korea.html",
+      "abbreviation": "KP-27",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Health of North Korea",
+      "href": "ministry-28-ministry-of-public-health-of-north-korea.html",
+      "abbreviation": "KP-28",
+      "officialHref": "http://www.moph.gov.kp/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs of the Democratic People's Republic of Korea",
+      "href": "ministry-29-ministry-of-foreign-affairs-of-the-democratic-people-s-repub.html",
+      "abbreviation": "KP-29",
+      "officialHref": "http://www.mfa.gov.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture",
+      "href": "ministry-30-ministry-of-culture.html",
+      "abbreviation": "KP-30",
+      "officialHref": "http://www.korart.sca.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Atomic Energy Industry",
+      "href": "ministry-31-ministry-of-atomic-energy-industry.html",
+      "abbreviation": "KP-31",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of State Natural Resources Development",
+      "href": "ministry-32-ministry-of-state-natural-resources-development.html",
+      "abbreviation": "KP-32",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of munitions industry of the Workers' Party of Korea",
+      "href": "ministry-33-ministry-of-munitions-industry-of-the-workers-party-of-korea.html",
+      "abbreviation": "KP-33",
+      "officialHref": "http://www.naenara.com.kp/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -229,5 +389,11 @@
       "name": "Yanggang-do (Yanggang Province)",
       "code": "10"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

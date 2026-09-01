@@ -24,7 +24,8 @@
     "Panama": "Macau"
   },
   "sources": [
-    "https://www.gov.mo/"
+    "https://www.gov.mo/",
+    "https://www.gov.mo/en/entity-page/"
   ],
   "utilities": [
     {
@@ -60,112 +61,52 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Office of the Chief Executive",
+      "href": "ministry-01-office-of-the-chief-executive.html",
       "abbreviation": "MO-1",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Secretariat for Administration and Justice",
+      "href": "ministry-02-secretariat-for-administration-and-justice.html",
       "abbreviation": "MO-2",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Secretariat for Economy and Finance",
+      "href": "ministry-03-secretariat-for-economy-and-finance.html",
       "abbreviation": "MO-3",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Secretariat for Security",
+      "href": "ministry-04-secretariat-for-security.html",
       "abbreviation": "MO-4",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Secretariat for Social Affairs and Culture",
+      "href": "ministry-05-secretariat-for-social-affairs-and-culture.html",
       "abbreviation": "MO-5",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Secretariat for Transport and Public Works",
+      "href": "ministry-06-secretariat-for-transport-and-public-works.html",
       "abbreviation": "MO-6",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
-      "abbreviation": "MO-7",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
-      "abbreviation": "MO-8",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
-      "abbreviation": "MO-9",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
-      "abbreviation": "MO-10",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
-      "abbreviation": "MO-11",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
-      "abbreviation": "MO-12",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "MO-13",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "MO-14",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "MO-15",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "MO-16",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "MO-17",
-      "officialHref": "https://www.gov.mo/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "MO-18",
-      "officialHref": "https://www.gov.mo/"
+      "officialHref": "https://www.gov.mo/en/entity-page/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -189,5 +130,11 @@
       "name": "Macao",
       "code": ""
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs of Thailand",
+      "ministry-01-ministry-of-foreign-affairs-of-thailand.html",
       "TH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Natural Resources and Environment",
+      "ministry-02-ministry-of-natural-resources-and-environment.html",
       "TH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Agriculture and Cooperatives",
+      "ministry-03-ministry-of-agriculture-and-cooperatives.html",
       "TH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Energy",
+      "ministry-04-ministry-of-energy.html",
       "TH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Industry",
+      "ministry-05-ministry-of-industry.html",
       "TH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance",
+      "ministry-06-ministry-of-finance.html",
       "TH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Transport",
+      "ministry-07-ministry-of-transport.html",
       "TH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Culture",
+      "ministry-08-ministry-of-culture.html",
       "TH-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Labour",
+      "ministry-09-ministry-of-labour.html",
       "TH-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Science and Technology",
+      "ministry-10-ministry-of-science-and-technology.html",
       "TH-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Digital Economy and Society",
+      "ministry-11-ministry-of-digital-economy-and-society.html",
       "TH-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Justice of Thailand",
+      "ministry-12-ministry-of-justice-of-thailand.html",
       "TH-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Tourism and Sports (Thailand)",
+      "ministry-13-ministry-of-tourism-and-sports-thailand.html",
       "TH-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Education of Thailand",
+      "ministry-14-ministry-of-education-of-thailand.html",
       "TH-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Science, Technology and Environment",
+      "ministry-15-ministry-of-science-technology-and-environment.html",
       "TH-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Office of the Prime Minister",
+      "ministry-16-office-of-the-prime-minister.html",
       "TH-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Interior of Thailand",
+      "ministry-17-ministry-of-interior-of-thailand.html",
       "TH-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Higher Education, Science, Research and Innovation",
+      "ministry-18-ministry-of-higher-education-science-research-and-innovation.html",
       "TH-18"
+    ],
+    [
+      "Ministry of Public Health",
+      "ministry-19-ministry-of-public-health.html",
+      "TH-19"
+    ],
+    [
+      "Ministry of Defence of Thailand",
+      "ministry-20-ministry-of-defence-of-thailand.html",
+      "TH-20"
+    ],
+    [
+      "Ministry of Commerce",
+      "ministry-21-ministry-of-commerce.html",
+      "TH-21"
     ]
   ]
 };

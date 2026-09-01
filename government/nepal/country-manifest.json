@@ -24,7 +24,32 @@
     "Panama": "Nepal"
   },
   "sources": [
-    "https://www.nepal.gov.np/"
+    "https://www.nepal.gov.np/",
+    "http://mohp.gov.np",
+    "http://moe.gov.np/",
+    "https://mod.gov.np/",
+    "https://moh.koshi.gov.np/",
+    "http://www.moljpa.gov.np/",
+    "https://www.opmcm.gov.np/",
+    "https://moest.gov.np/",
+    "http://tourism.gov.np",
+    "https://www.moewri.gov.np/",
+    "https://mofaga.gov.np/",
+    "http://peace.gov.np/",
+    "https://moys.gov.np/",
+    "https://www.moha.gov.np/",
+    "https://moial.koshi.gov.np/",
+    "https://moald.gov.np/",
+    "http://www.mopit.gov.np/",
+    "https://molcpa.gov.np/home",
+    "https://mowcsc.gov.np/",
+    "http://mfsc.gov.np/",
+    "https://moless.gov.np",
+    "http://moud.gov.np/",
+    "http://www.mofa.gov.np",
+    "http://www.mof.gov.np/",
+    "https://mowsie.koshi.gov.np/",
+    "https://moiac.koshi.gov.np/"
   ],
   "utilities": [
     {
@@ -60,112 +85,204 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Health and Population",
+      "href": "ministry-01-ministry-of-health-and-population.html",
       "abbreviation": "NP-1",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://mohp.gov.np",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Education, Science and Technology",
+      "href": "ministry-02-ministry-of-education-science-and-technology.html",
       "abbreviation": "NP-2",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://moe.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-03-ministry-of-defence.html",
       "abbreviation": "NP-3",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://mod.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-04-ministry-of-health.html",
       "abbreviation": "NP-4",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://moh.koshi.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Law, Justice, and Parliamentary Affairs",
+      "href": "ministry-05-ministry-of-law-justice-and-parliamentary-affairs.html",
       "abbreviation": "NP-5",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://www.moljpa.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "href": "ministry-06-office-of-the-prime-minister-and-council-of-ministers.html",
       "abbreviation": "NP-6",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://www.opmcm.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Science, Technology and Environment",
+      "href": "ministry-07-ministry-of-science-technology-and-environment.html",
       "abbreviation": "NP-7",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://moest.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Culture, Tourism and Civil Aviation",
+      "href": "ministry-08-ministry-of-culture-tourism-and-civil-aviation.html",
       "abbreviation": "NP-8",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://tourism.gov.np",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Energy, Water Resources and Irrigation",
+      "href": "ministry-09-ministry-of-energy-water-resources-and-irrigation.html",
       "abbreviation": "NP-9",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://www.moewri.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Federal Affairs and General Administration",
+      "href": "ministry-10-ministry-of-federal-affairs-and-general-administration.html",
       "abbreviation": "NP-10",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://mofaga.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Peace and Reconstruction",
+      "href": "ministry-11-ministry-of-peace-and-reconstruction.html",
       "abbreviation": "NP-11",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://peace.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Youth and Sports",
+      "href": "ministry-12-ministry-of-youth-and-sports.html",
       "abbreviation": "NP-12",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://moys.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Home Affairs",
+      "href": "ministry-13-ministry-of-home-affairs.html",
       "abbreviation": "NP-13",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://www.moha.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Internal Affairs and Law",
+      "href": "ministry-14-ministry-of-internal-affairs-and-law.html",
       "abbreviation": "NP-14",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://moial.koshi.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Agriculture and Livestock Development",
+      "href": "ministry-15-ministry-of-agriculture-and-livestock-development.html",
       "abbreviation": "NP-15",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://moald.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Physical Infrastructure and Transport",
+      "href": "ministry-16-ministry-of-physical-infrastructure-and-transport.html",
       "abbreviation": "NP-16",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "http://www.mopit.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+      "href": "ministry-17-ministry-of-land-management-cooperatives-and-poverty-allevia.html",
       "abbreviation": "NP-17",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://molcpa.gov.np/home",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Women, Children and Senior Citizens",
+      "href": "ministry-18-ministry-of-women-children-and-senior-citizens.html",
       "abbreviation": "NP-18",
-      "officialHref": "https://www.nepal.gov.np/"
+      "officialHref": "https://mowcsc.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Forests and Environment",
+      "href": "ministry-19-ministry-of-forests-and-environment.html",
+      "abbreviation": "NP-19",
+      "officialHref": "http://mfsc.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Labour, Employment and Social Security",
+      "href": "ministry-20-ministry-of-labour-employment-and-social-security.html",
+      "abbreviation": "NP-20",
+      "officialHref": "https://moless.gov.np",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Urban Development",
+      "href": "ministry-21-ministry-of-urban-development.html",
+      "abbreviation": "NP-21",
+      "officialHref": "http://moud.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-22-ministry-of-foreign-affairs.html",
+      "abbreviation": "NP-22",
+      "officialHref": "http://www.mofa.gov.np",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Finance",
+      "href": "ministry-23-ministry-of-finance.html",
+      "abbreviation": "NP-23",
+      "officialHref": "http://www.mof.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Water Supply, Irrigation and Energy",
+      "href": "ministry-24-ministry-of-water-supply-irrigation-and-energy.html",
+      "abbreviation": "NP-24",
+      "officialHref": "https://mowsie.koshi.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Industry, Agriculture and Cooperatives",
+      "href": "ministry-25-ministry-of-industry-agriculture-and-cooperatives.html",
+      "abbreviation": "NP-25",
+      "officialHref": "https://moiac.koshi.gov.np/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -213,5 +330,11 @@
       "name": "Sudurpashchim Province",
       "code": "7"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

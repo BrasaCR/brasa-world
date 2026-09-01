@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Cabinet Office",
+      "ministry-01-cabinet-office.html",
       "JP-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Reconstruction Agency",
+      "ministry-02-reconstruction-agency.html",
       "JP-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Digital Agency",
+      "ministry-03-digital-agency.html",
       "JP-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Internal Affairs and Communications",
+      "ministry-04-ministry-of-internal-affairs-and-communications.html",
       "JP-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice",
+      "ministry-05-ministry-of-justice.html",
       "JP-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-06-ministry-of-foreign-affairs.html",
       "JP-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance",
+      "ministry-07-ministry-of-finance.html",
       "JP-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education, Culture, Sports, Science and Technology",
+      "ministry-08-ministry-of-education-culture-sports-science-and-technology.html",
       "JP-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health, Labour and Welfare",
+      "ministry-09-ministry-of-health-labour-and-welfare.html",
       "JP-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture, Forestry and Fisheries",
+      "ministry-10-ministry-of-agriculture-forestry-and-fisheries.html",
       "JP-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Economy, Trade and Industry",
+      "ministry-11-ministry-of-economy-trade-and-industry.html",
       "JP-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Land, Infrastructure, Transport and Tourism",
+      "ministry-12-ministry-of-land-infrastructure-transport-and-tourism.html",
       "JP-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of the Environment",
+      "ministry-13-ministry-of-the-environment.html",
       "JP-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Defense",
+      "ministry-14-ministry-of-defense.html",
       "JP-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "JP-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "JP-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "JP-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "JP-18"
     ]
   ]
 };

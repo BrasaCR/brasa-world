@@ -38,94 +38,59 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs of Uzbekistan",
+      "ministry-01-ministry-of-foreign-affairs-of-uzbekistan.html",
       "UZ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Labor and Social Protection of Population",
+      "ministry-02-ministry-of-labor-and-social-protection-of-population.html",
       "UZ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Economy and Finance of Uzbekistan",
+      "ministry-03-ministry-of-economy-and-finance-of-uzbekistan.html",
       "UZ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Public Health of Uzbekistan",
+      "ministry-04-ministry-of-public-health-of-uzbekistan.html",
       "UZ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Preschool Education of the Republic of Uzbekistan",
+      "ministry-05-ministry-of-preschool-education-of-the-republic-of-uzbekista.html",
       "UZ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Tourism and Cultural Heritage",
+      "ministry-06-ministry-of-tourism-and-cultural-heritage.html",
       "UZ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-07-ministry-of-internal-affairs.html",
       "UZ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Preschool an School Education of the Republic of Uzbekistan",
+      "ministry-08-ministry-of-preschool-an-school-education-of-the-republic-of.html",
       "UZ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Construction of the Republic of Uzbekistan",
+      "ministry-09-ministry-of-construction-of-the-republic-of-uzbekistan.html",
       "UZ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Justice",
+      "ministry-10-ministry-of-justice.html",
       "UZ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Defense",
+      "ministry-11-ministry-of-defense.html",
       "UZ-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "UZ-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "UZ-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "UZ-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "UZ-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "UZ-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "UZ-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "UZ-18"
     ]
   ]
 };

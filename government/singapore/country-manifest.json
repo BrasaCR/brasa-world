@@ -24,7 +24,24 @@
     "Panama": "Singapore"
   },
   "sources": [
-    "https://www.gov.sg/"
+    "https://www.gov.sg/",
+    "http://www.mof.gov.sg",
+    "https://www.moe.gov.sg/",
+    "http://www.moh.gov.sg",
+    "http://www.pmo.gov.sg/",
+    "http://www.mcys.gov.sg",
+    "http://www.minlaw.gov.sg",
+    "http://www.msf.gov.sg/",
+    "https://www.mci.gov.sg/",
+    "https://www.mccy.gov.sg",
+    "http://www.mha.gov.sg",
+    "http://www.mnd.gov.sg/",
+    "http://www.mom.gov.sg",
+    "http://www.mfa.gov.sg/",
+    "https://www.mindef.gov.sg",
+    "https://www.mse.gov.sg",
+    "https://www.mot.gov.sg/",
+    "https://www.mti.gov.sg"
   ],
   "utilities": [
     {
@@ -60,112 +77,140 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-01-ministry-of-finance.html",
       "abbreviation": "SG-1",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mof.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Education",
+      "href": "ministry-02-ministry-of-education.html",
       "abbreviation": "SG-2",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.moe.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-03-ministry-of-health.html",
       "abbreviation": "SG-3",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.moh.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Prime Minister's Office",
+      "href": "ministry-04-prime-minister-s-office.html",
       "abbreviation": "SG-4",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.pmo.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Community Development, Youth and Sports",
+      "href": "ministry-05-ministry-of-community-development-youth-and-sports.html",
       "abbreviation": "SG-5",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mcys.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Law",
+      "href": "ministry-06-ministry-of-law.html",
       "abbreviation": "SG-6",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.minlaw.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Social and Family Development",
+      "href": "ministry-07-ministry-of-social-and-family-development.html",
       "abbreviation": "SG-7",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.msf.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Digital Development and Information",
+      "href": "ministry-08-ministry-of-digital-development-and-information.html",
       "abbreviation": "SG-8",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mci.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Culture, Community and Youth",
+      "href": "ministry-09-ministry-of-culture-community-and-youth.html",
       "abbreviation": "SG-9",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mccy.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Home Affairs, Singapore",
+      "href": "ministry-10-ministry-of-home-affairs-singapore.html",
       "abbreviation": "SG-10",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mha.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of National Development",
+      "href": "ministry-11-ministry-of-national-development.html",
       "abbreviation": "SG-11",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mnd.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Manpower",
+      "href": "ministry-12-ministry-of-manpower.html",
       "abbreviation": "SG-12",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mom.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Foreign Affairs of the Republic of Singapore",
+      "href": "ministry-13-ministry-of-foreign-affairs-of-the-republic-of-singapore.html",
       "abbreviation": "SG-13",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "http://www.mfa.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Defence Singapore",
+      "href": "ministry-14-ministry-of-defence-singapore.html",
       "abbreviation": "SG-14",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mindef.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Sustainability and the Environment",
+      "href": "ministry-15-ministry-of-sustainability-and-the-environment.html",
       "abbreviation": "SG-15",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mse.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-16-ministry-of-transport.html",
       "abbreviation": "SG-16",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mot.gov.sg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Trade and Industry",
+      "href": "ministry-17-ministry-of-trade-and-industry.html",
       "abbreviation": "SG-17",
-      "officialHref": "https://www.gov.sg/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "SG-18",
-      "officialHref": "https://www.gov.sg/"
+      "officialHref": "https://www.mti.gov.sg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -205,5 +250,11 @@
       "name": "South West",
       "code": "05"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

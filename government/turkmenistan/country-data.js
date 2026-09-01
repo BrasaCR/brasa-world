@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Sports",
+      "ministry-01-ministry-of-sports.html",
       "TM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Agriculture of Turkmenistan",
+      "ministry-02-ministry-of-agriculture-of-turkmenistan.html",
       "TM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Culture",
+      "ministry-03-ministry-of-culture.html",
       "TM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health",
+      "ministry-04-ministry-of-health.html",
       "TM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of the Textile Industry",
+      "ministry-05-ministry-of-the-textile-industry.html",
       "TM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-06-ministry-of-internal-affairs.html",
       "TM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Construction",
+      "ministry-07-ministry-of-construction.html",
       "TM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Finance and Economy of Turkmenistan",
+      "ministry-08-ministry-of-finance-and-economy-of-turkmenistan.html",
       "TM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "State Committee for Tourism of Turkmenistan",
+      "ministry-09-state-committee-for-tourism-of-turkmenistan.html",
       "TM-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Railways",
+      "ministry-10-ministry-of-railways.html",
       "TM-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Foreign Affairs of Turkmenistan",
+      "ministry-11-ministry-of-foreign-affairs-of-turkmenistan.html",
       "TM-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Defense of Turkmenistan",
+      "ministry-12-ministry-of-defense-of-turkmenistan.html",
       "TM-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Trade and Foreign Economic Relations",
+      "ministry-13-ministry-of-trade-and-foreign-economic-relations.html",
       "TM-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Energy (Turkmenistan)",
+      "ministry-14-ministry-of-energy-turkmenistan.html",
       "TM-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "TM-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "TM-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "TM-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "TM-18"
     ]
   ]
 };

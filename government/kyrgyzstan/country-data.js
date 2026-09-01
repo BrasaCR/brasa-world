@@ -38,94 +38,54 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Emergency Situations of Kyrgyzstan",
+      "ministry-01-ministry-of-emergency-situations-of-kyrgyzstan.html",
       "KG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of the Interior",
+      "ministry-02-ministry-of-the-interior.html",
       "KG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Justice (Kyrgyzstan)",
+      "ministry-03-ministry-of-justice-kyrgyzstan.html",
       "KG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health of Kyrgyzstan",
+      "ministry-04-ministry-of-health-of-kyrgyzstan.html",
       "KG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defense of the Kyrgyz Republic",
+      "ministry-05-ministry-of-defense-of-the-kyrgyz-republic.html",
       "KG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-06-ministry-of-foreign-affairs.html",
       "KG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Digital Development of Kyrgyzstan",
+      "ministry-07-ministry-of-digital-development-of-kyrgyzstan.html",
       "KG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education and Science of the Kyrgyz Republic",
+      "ministry-08-ministry-of-education-and-science-of-the-kyrgyz-republic.html",
       "KG-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture, Food Industry and Melioration",
+      "ministry-09-ministry-of-agriculture-food-industry-and-melioration.html",
       "KG-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Culture, Information and Tourism",
+      "ministry-10-ministry-of-culture-information-and-tourism.html",
       "KG-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "KG-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "KG-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "KG-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "KG-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "KG-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "KG-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "KG-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "KG-18"
     ]
   ]
 };

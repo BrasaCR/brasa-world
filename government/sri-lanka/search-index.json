@@ -36,111 +36,123 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Sri Lanka",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Finance and Planning",
     "page": "Government of Sri Lanka",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-finance-and-planning.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Education",
     "page": "Government of Sri Lanka",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Civil Aviation",
     "page": "Government of Sri Lanka",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-civil-aviation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Coconut Development and Janatha Estate Development",
     "page": "Government of Sri Lanka",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-coconut-development-and-janatha-estate-developme.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Foreign Employment Promotion and Welfare",
     "page": "Government of Sri Lanka",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-foreign-employment-promotion-and-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Plantation Industries",
     "page": "Government of Sri Lanka",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-plantation-industries.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Ports and Highways",
     "page": "Government of Sri Lanka",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-ports-and-highways.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Defence and Urban Development",
     "page": "Government of Sri Lanka",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-defence-and-urban-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Urban Development",
     "page": "Government of Sri Lanka",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-urban-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry OF City Planning and Water Supply",
     "page": "Government of Sri Lanka",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-city-planning-and-water-supply.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Land and Land Development",
     "page": "Government of Sri Lanka",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-land-and-land-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Health",
     "page": "Government of Sri Lanka",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Public Security",
     "page": "Government of Sri Lanka",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-public-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Youth Affairs and Skills Development",
     "page": "Government of Sri Lanka",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-youth-affairs-and-skills-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Foreign Affairs (Sri Lanka)",
     "page": "Government of Sri Lanka",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-foreign-affairs-sri-lanka.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Technology and Research",
     "page": "Government of Sri Lanka",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-technology-and-research.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Power and Energy",
     "page": "Government of Sri Lanka",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-power-and-energy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice and Law Reforms",
+    "page": "Government of Sri Lanka",
+    "url": "ministry-19-ministry-of-justice-and-law-reforms.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Sports",
+    "page": "Government of Sri Lanka",
+    "url": "ministry-20-ministry-of-sports.html",
     "verified": "2026-09-01"
   }
 ]

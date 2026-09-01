@@ -38,94 +38,49 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Health and Sports",
+      "ministry-01-ministry-of-health-and-sports.html",
       "MM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Health",
+      "ministry-02-ministry-of-health.html",
       "MM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence",
+      "ministry-03-ministry-of-defence.html",
       "MM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Communications and Information Technology",
+      "ministry-04-ministry-of-communications-and-information-technology.html",
       "MM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Science and Technology",
+      "ministry-05-ministry-of-science-and-technology.html",
       "MM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Hotels and Tourism",
+      "ministry-06-ministry-of-hotels-and-tourism.html",
       "MM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Commerce",
+      "ministry-07-ministry-of-commerce.html",
       "MM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Foreign Affairs of Myanmar",
+      "ministry-08-ministry-of-foreign-affairs-of-myanmar.html",
       "MM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Education of Myanmar",
+      "ministry-09-ministry-of-education-of-myanmar.html",
       "MM-9"
-    ],
-    [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
-      "MM-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "MM-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "MM-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "MM-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "MM-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "MM-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "MM-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "MM-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "MM-18"
     ]
   ]
 };

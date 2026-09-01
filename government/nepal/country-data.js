@@ -38,94 +38,129 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Health and Population",
+      "ministry-01-ministry-of-health-and-population.html",
       "NP-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education, Science and Technology",
+      "ministry-02-ministry-of-education-science-and-technology.html",
       "NP-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence",
+      "ministry-03-ministry-of-defence.html",
       "NP-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health",
+      "ministry-04-ministry-of-health.html",
       "NP-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Law, Justice, and Parliamentary Affairs",
+      "ministry-05-ministry-of-law-justice-and-parliamentary-affairs.html",
       "NP-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Office of the Prime Minister and Council of Ministers",
+      "ministry-06-office-of-the-prime-minister-and-council-of-ministers.html",
       "NP-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Science, Technology and Environment",
+      "ministry-07-ministry-of-science-technology-and-environment.html",
       "NP-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Culture, Tourism and Civil Aviation",
+      "ministry-08-ministry-of-culture-tourism-and-civil-aviation.html",
       "NP-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Energy, Water Resources and Irrigation",
+      "ministry-09-ministry-of-energy-water-resources-and-irrigation.html",
       "NP-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Federal Affairs and General Administration",
+      "ministry-10-ministry-of-federal-affairs-and-general-administration.html",
       "NP-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Peace and Reconstruction",
+      "ministry-11-ministry-of-peace-and-reconstruction.html",
       "NP-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-12-ministry-of-youth-and-sports.html",
       "NP-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Home Affairs",
+      "ministry-13-ministry-of-home-affairs.html",
       "NP-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Internal Affairs and Law",
+      "ministry-14-ministry-of-internal-affairs-and-law.html",
       "NP-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Agriculture and Livestock Development",
+      "ministry-15-ministry-of-agriculture-and-livestock-development.html",
       "NP-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Physical Infrastructure and Transport",
+      "ministry-16-ministry-of-physical-infrastructure-and-transport.html",
       "NP-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Land Management, Cooperatives and Poverty Alleviation",
+      "ministry-17-ministry-of-land-management-cooperatives-and-poverty-allevia.html",
       "NP-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Women, Children and Senior Citizens",
+      "ministry-18-ministry-of-women-children-and-senior-citizens.html",
       "NP-18"
+    ],
+    [
+      "Ministry of Forests and Environment",
+      "ministry-19-ministry-of-forests-and-environment.html",
+      "NP-19"
+    ],
+    [
+      "Ministry of Labour, Employment and Social Security",
+      "ministry-20-ministry-of-labour-employment-and-social-security.html",
+      "NP-20"
+    ],
+    [
+      "Ministry of Urban Development",
+      "ministry-21-ministry-of-urban-development.html",
+      "NP-21"
+    ],
+    [
+      "Ministry of Foreign Affairs",
+      "ministry-22-ministry-of-foreign-affairs.html",
+      "NP-22"
+    ],
+    [
+      "Ministry of Finance",
+      "ministry-23-ministry-of-finance.html",
+      "NP-23"
+    ],
+    [
+      "Ministry of Water Supply, Irrigation and Energy",
+      "ministry-24-ministry-of-water-supply-irrigation-and-energy.html",
+      "NP-24"
+    ],
+    [
+      "Ministry of Industry, Agriculture and Cooperatives",
+      "ministry-25-ministry-of-industry-agriculture-and-cooperatives.html",
+      "NP-25"
     ]
   ]
 };

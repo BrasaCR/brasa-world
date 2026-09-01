@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Justice and Home Affairs",
+      "ministry-01-ministry-of-justice-and-home-affairs.html",
       "MN-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Energy",
+      "ministry-02-ministry-of-energy.html",
       "MN-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Health",
+      "ministry-03-ministry-of-health.html",
       "MN-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defense",
+      "ministry-04-ministry-of-defense.html",
       "MN-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance (Mongolia)",
+      "ministry-05-ministry-of-finance-mongolia.html",
       "MN-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Labour and Social Protection",
+      "ministry-06-ministry-of-labour-and-social-protection.html",
       "MN-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Education and Science (Mongolia)",
+      "ministry-07-ministry-of-education-and-science-mongolia.html",
       "MN-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Mining and Heavy Industry",
+      "ministry-08-ministry-of-mining-and-heavy-industry.html",
       "MN-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Road and Transport",
+      "ministry-09-ministry-of-road-and-transport.html",
       "MN-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Culture, Sports, Tourism and Youth of Mongolia",
+      "ministry-10-ministry-of-culture-sports-tourism-and-youth-of-mongolia.html",
       "MN-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Food, Agriculture and Light Industry",
+      "ministry-11-ministry-of-food-agriculture-and-light-industry.html",
       "MN-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Digital Development, Innovation and Communications",
+      "ministry-12-ministry-of-digital-development-innovation-and-communication.html",
       "MN-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Environment and Climate Change",
+      "ministry-13-ministry-of-environment-and-climate-change.html",
       "MN-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Urban Development, Construction and Housing",
+      "ministry-14-ministry-of-urban-development-construction-and-housing.html",
       "MN-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Foreign Affairs of Mongolia",
+      "ministry-15-ministry-of-foreign-affairs-of-mongolia.html",
       "MN-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "MN-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "MN-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "MN-18"
     ]
   ]
 };

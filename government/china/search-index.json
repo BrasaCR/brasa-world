@@ -36,111 +36,165 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "General Office of the State Council",
     "page": "Government of China",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-general-office-of-the-state-council.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Foreign Affairs",
     "page": "Government of China",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of National Defense",
     "page": "Government of China",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-national-defense.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "National Development and Reform Commission",
     "page": "Government of China",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-national-development-and-reform-commission.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Education",
     "page": "Government of China",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Science and Technology",
     "page": "Government of China",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Industry and Information Technology",
     "page": "Government of China",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-industry-and-information-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "National Ethnic Affairs Commission",
     "page": "Government of China",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-national-ethnic-affairs-commission.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Public Security",
     "page": "Government of China",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-public-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of State Security",
     "page": "Government of China",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-state-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Civil Affairs",
     "page": "Government of China",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-civil-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Justice",
     "page": "Government of China",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Finance",
     "page": "Government of China",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Human Resources and Social Security",
     "page": "Government of China",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-human-resources-and-social-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Natural Resources",
     "page": "Government of China",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Ecology and Environment",
     "page": "Government of China",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-ecology-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Housing and Urban-Rural Development",
     "page": "Government of China",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-housing-and-urban-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Transport",
     "page": "Government of China",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-transport.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Water Resources",
+    "page": "Government of China",
+    "url": "ministry-19-ministry-of-water-resources.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture and Rural Affairs",
+    "page": "Government of China",
+    "url": "ministry-20-ministry-of-agriculture-and-rural-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Commerce",
+    "page": "Government of China",
+    "url": "ministry-21-ministry-of-commerce.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Culture and Tourism",
+    "page": "Government of China",
+    "url": "ministry-22-ministry-of-culture-and-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "National Health Commission",
+    "page": "Government of China",
+    "url": "ministry-23-national-health-commission.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Veterans Affairs",
+    "page": "Government of China",
+    "url": "ministry-24-ministry-of-veterans-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Emergency Management",
+    "page": "Government of China",
+    "url": "ministry-25-ministry-of-emergency-management.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "People’s Bank of China",
+    "page": "Government of China",
+    "url": "ministry-26-people-s-bank-of-china.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "National Audit Office",
+    "page": "Government of China",
+    "url": "ministry-27-national-audit-office.html",
     "verified": "2026-09-01"
   }
 ]

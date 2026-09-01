@@ -24,7 +24,21 @@
     "Panama": "Turkmenistan"
   },
   "sources": [
-    "https://turkmenistan.gov.tm/"
+    "https://turkmenistan.gov.tm/",
+    "https://sportcom.gov.tm/ru",
+    "http://minagri.gov.tm/",
+    "http://www.medeniyet.gov.tm",
+    "http://www.saglykhm.gov.tm/",
+    "http://turkmentextile.gov.tm/",
+    "https://asuda.gov.tm/?lang=ru",
+    "http://construction.gov.tm/",
+    "https://fineconomic.gov.tm/ru",
+    "http://tourism.gov.tm/",
+    "http://www.railway.gov.tm/",
+    "http://www.mfa.gov.tm/",
+    "http://www.milligosun.gov.tm",
+    "http://www.mintradefer.gov.tm/",
+    "http://minenergo.gov.tm"
   ],
   "utilities": [
     {
@@ -60,112 +74,116 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Sports",
+      "href": "ministry-01-ministry-of-sports.html",
       "abbreviation": "TM-1",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "https://sportcom.gov.tm/ru",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Agriculture of Turkmenistan",
+      "href": "ministry-02-ministry-of-agriculture-of-turkmenistan.html",
       "abbreviation": "TM-2",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://minagri.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Culture",
+      "href": "ministry-03-ministry-of-culture.html",
       "abbreviation": "TM-3",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.medeniyet.gov.tm",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-04-ministry-of-health.html",
       "abbreviation": "TM-4",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.saglykhm.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of the Textile Industry",
+      "href": "ministry-05-ministry-of-the-textile-industry.html",
       "abbreviation": "TM-5",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://turkmentextile.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Internal Affairs",
+      "href": "ministry-06-ministry-of-internal-affairs.html",
       "abbreviation": "TM-6",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "https://asuda.gov.tm/?lang=ru",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Construction",
+      "href": "ministry-07-ministry-of-construction.html",
       "abbreviation": "TM-7",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://construction.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Finance and Economy of Turkmenistan",
+      "href": "ministry-08-ministry-of-finance-and-economy-of-turkmenistan.html",
       "abbreviation": "TM-8",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "https://fineconomic.gov.tm/ru",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "State Committee for Tourism of Turkmenistan",
+      "href": "ministry-09-state-committee-for-tourism-of-turkmenistan.html",
       "abbreviation": "TM-9",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://tourism.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Railways",
+      "href": "ministry-10-ministry-of-railways.html",
       "abbreviation": "TM-10",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.railway.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Foreign Affairs of Turkmenistan",
+      "href": "ministry-11-ministry-of-foreign-affairs-of-turkmenistan.html",
       "abbreviation": "TM-11",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.mfa.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Defense of Turkmenistan",
+      "href": "ministry-12-ministry-of-defense-of-turkmenistan.html",
       "abbreviation": "TM-12",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.milligosun.gov.tm",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Trade and Foreign Economic Relations",
+      "href": "ministry-13-ministry-of-trade-and-foreign-economic-relations.html",
       "abbreviation": "TM-13",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://www.mintradefer.gov.tm/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Energy (Turkmenistan)",
+      "href": "ministry-14-ministry-of-energy-turkmenistan.html",
       "abbreviation": "TM-14",
-      "officialHref": "https://turkmenistan.gov.tm/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "TM-15",
-      "officialHref": "https://turkmenistan.gov.tm/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "TM-16",
-      "officialHref": "https://turkmenistan.gov.tm/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "TM-17",
-      "officialHref": "https://turkmenistan.gov.tm/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "TM-18",
-      "officialHref": "https://turkmenistan.gov.tm/"
+      "officialHref": "http://minenergo.gov.tm",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -209,5 +227,11 @@
       "name": "Mary",
       "code": "M"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

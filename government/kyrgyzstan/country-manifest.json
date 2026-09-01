@@ -24,7 +24,17 @@
     "Panama": "Kyrgyzstan"
   },
   "sources": [
-    "https://www.gov.kg/"
+    "https://www.gov.kg/",
+    "http://en.mes.kg/",
+    "http://www.mvd.kg/",
+    "http://minjust.gov.kg/en/",
+    "http://med.kg/index.php/ru/",
+    "https://mil.gov.kg",
+    "https://mfa.gov.kg/",
+    "https://digital.gov.kg",
+    "http://edu.gov.kg/ru/",
+    "http://www.agroprod.kg",
+    "http://www.minculture.gov.kg"
   ],
   "utilities": [
     {
@@ -60,112 +70,84 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Emergency Situations of Kyrgyzstan",
+      "href": "ministry-01-ministry-of-emergency-situations-of-kyrgyzstan.html",
       "abbreviation": "KG-1",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://en.mes.kg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of the Interior",
+      "href": "ministry-02-ministry-of-the-interior.html",
       "abbreviation": "KG-2",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://www.mvd.kg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Justice (Kyrgyzstan)",
+      "href": "ministry-03-ministry-of-justice-kyrgyzstan.html",
       "abbreviation": "KG-3",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://minjust.gov.kg/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Health of Kyrgyzstan",
+      "href": "ministry-04-ministry-of-health-of-kyrgyzstan.html",
       "abbreviation": "KG-4",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://med.kg/index.php/ru/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Defense of the Kyrgyz Republic",
+      "href": "ministry-05-ministry-of-defense-of-the-kyrgyz-republic.html",
       "abbreviation": "KG-5",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "https://mil.gov.kg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-06-ministry-of-foreign-affairs.html",
       "abbreviation": "KG-6",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "https://mfa.gov.kg/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Digital Development of Kyrgyzstan",
+      "href": "ministry-07-ministry-of-digital-development-of-kyrgyzstan.html",
       "abbreviation": "KG-7",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "https://digital.gov.kg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Education and Science of the Kyrgyz Republic",
+      "href": "ministry-08-ministry-of-education-and-science-of-the-kyrgyz-republic.html",
       "abbreviation": "KG-8",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://edu.gov.kg/ru/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Agriculture, Food Industry and Melioration",
+      "href": "ministry-09-ministry-of-agriculture-food-industry-and-melioration.html",
       "abbreviation": "KG-9",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://www.agroprod.kg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Culture, Information and Tourism",
+      "href": "ministry-10-ministry-of-culture-information-and-tourism.html",
       "abbreviation": "KG-10",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
-      "abbreviation": "KG-11",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
-      "abbreviation": "KG-12",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "KG-13",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "KG-14",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "KG-15",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "KG-16",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "KG-17",
-      "officialHref": "https://www.gov.kg/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "KG-18",
-      "officialHref": "https://www.gov.kg/"
+      "officialHref": "http://www.minculture.gov.kg",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -217,5 +199,11 @@
       "name": "Ysyk-Kol Oblasty (Karakol)",
       "code": "Y"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

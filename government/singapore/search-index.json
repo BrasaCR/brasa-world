@@ -36,111 +36,105 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Finance",
     "page": "Government of Singapore",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Education",
     "page": "Government of Singapore",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Health",
     "page": "Government of Singapore",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Prime Minister's Office",
     "page": "Government of Singapore",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-prime-minister-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Community Development, Youth and Sports",
     "page": "Government of Singapore",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-community-development-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Law",
     "page": "Government of Singapore",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-law.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Social and Family Development",
     "page": "Government of Singapore",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-social-and-family-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Digital Development and Information",
     "page": "Government of Singapore",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-digital-development-and-information.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Culture, Community and Youth",
     "page": "Government of Singapore",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-culture-community-and-youth.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Home Affairs, Singapore",
     "page": "Government of Singapore",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-home-affairs-singapore.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of National Development",
     "page": "Government of Singapore",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-national-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Manpower",
     "page": "Government of Singapore",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-manpower.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Foreign Affairs of the Republic of Singapore",
     "page": "Government of Singapore",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-foreign-affairs-of-the-republic-of-singapore.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Defence Singapore",
     "page": "Government of Singapore",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-defence-singapore.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Sustainability and the Environment",
     "page": "Government of Singapore",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-sustainability-and-the-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Transport",
     "page": "Government of Singapore",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Trade and Industry",
     "page": "Government of Singapore",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Singapore",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-17-ministry-of-trade-and-industry.html",
     "verified": "2026-09-01"
   }
 ]

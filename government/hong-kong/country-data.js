@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Chief Executive’s Office",
+      "ministry-01-chief-executive-s-office.html",
       "HK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Chief Secretary for Administration’s Office",
+      "ministry-02-chief-secretary-for-administration-s-office.html",
       "HK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Financial Secretary’s Office",
+      "ministry-03-financial-secretary-s-office.html",
       "HK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Justice",
+      "ministry-04-department-of-justice.html",
       "HK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Civil Service Bureau",
+      "ministry-05-civil-service-bureau.html",
       "HK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Commerce and Economic Development Bureau",
+      "ministry-06-commerce-and-economic-development-bureau.html",
       "HK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Constitutional and Mainland Affairs Bureau",
+      "ministry-07-constitutional-and-mainland-affairs-bureau.html",
       "HK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Culture, Sports and Tourism Bureau",
+      "ministry-08-culture-sports-and-tourism-bureau.html",
       "HK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Development Bureau",
+      "ministry-09-development-bureau.html",
       "HK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Education Bureau",
+      "ministry-10-education-bureau.html",
       "HK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Environment and Ecology Bureau",
+      "ministry-11-environment-and-ecology-bureau.html",
       "HK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Financial Services and the Treasury Bureau",
+      "ministry-12-financial-services-and-the-treasury-bureau.html",
       "HK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Health Bureau",
+      "ministry-13-health-bureau.html",
       "HK-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Home and Youth Affairs Bureau",
+      "ministry-14-home-and-youth-affairs-bureau.html",
       "HK-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Housing Bureau",
+      "ministry-15-housing-bureau.html",
       "HK-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Innovation, Technology and Industry Bureau",
+      "ministry-16-innovation-technology-and-industry-bureau.html",
       "HK-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Labour and Welfare Bureau",
+      "ministry-17-labour-and-welfare-bureau.html",
       "HK-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Security Bureau",
+      "ministry-18-security-bureau.html",
       "HK-18"
+    ],
+    [
+      "Transport and Logistics Bureau",
+      "ministry-19-transport-and-logistics-bureau.html",
+      "HK-19"
     ]
   ]
 };

@@ -24,7 +24,26 @@
     "Panama": "Kazakhstan"
   },
   "sources": [
-    "https://egov.kz/"
+    "https://egov.kz/",
+    "http://mk.gov.kz/",
+    "https://www.gov.kz/memleket/entities/edu?lang=en",
+    "https://www.gov.kz/memleket/entities/sci?lang=kk",
+    "https://primeminister.kz/ru/government/composition/sultanov",
+    "https://www.gov.kz/memleket/entities/tsm?lang=kk",
+    "http://www.mz.gov.kz/ru",
+    "https://www.gov.kz/memleket/entities/adilet",
+    "http://energo.gov.kz/",
+    "https://primeminister.kz",
+    "http://www.mod.gov.kz/",
+    "http://economy.gov.kz/",
+    "https://www.gov.kz/memleket/entities/water?lang=kk",
+    "http://mvd.gov.kz/",
+    "http://mgov.kz/",
+    "http://www.eco.gov.kz/",
+    "https://www.gov.kz/memleket/entities/mfa",
+    "http://www.minfin.gov.kz",
+    "http://www.mzsr.gov.kz/",
+    "http://mdai.gov.kz/ru"
   ],
   "utilities": [
     {
@@ -60,112 +79,156 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Culture and Sports of Kazakhstan",
+      "href": "ministry-01-ministry-of-culture-and-sports-of-kazakhstan.html",
       "abbreviation": "KZ-1",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://mk.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Education (Kazakhstan)",
+      "href": "ministry-02-ministry-of-education-kazakhstan.html",
       "abbreviation": "KZ-2",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/edu?lang=en",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Science and Higher Education",
+      "href": "ministry-03-ministry-of-science-and-higher-education.html",
       "abbreviation": "KZ-3",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/sci?lang=kk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Trade and Integration",
+      "href": "ministry-04-ministry-of-trade-and-integration.html",
       "abbreviation": "KZ-4",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://primeminister.kz/ru/government/composition/sultanov",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Tourism and Sports of the Republic of Kazakhstan",
+      "href": "ministry-05-ministry-of-tourism-and-sports-of-the-republic-of-kazakhstan.html",
       "abbreviation": "KZ-5",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/tsm?lang=kk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Healthcare of Kazakhstan",
+      "href": "ministry-06-ministry-of-healthcare-of-kazakhstan.html",
       "abbreviation": "KZ-6",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://www.mz.gov.kz/ru",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Justice of the Republic of Kazakhstan",
+      "href": "ministry-07-ministry-of-justice-of-the-republic-of-kazakhstan.html",
       "abbreviation": "KZ-7",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/adilet",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Energy",
+      "href": "ministry-08-ministry-of-energy.html",
       "abbreviation": "KZ-8",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://energo.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Prime Minister's Office",
+      "href": "ministry-09-prime-minister-s-office.html",
       "abbreviation": "KZ-9",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://primeminister.kz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Defense of Kazakhstan",
+      "href": "ministry-10-ministry-of-defense-of-kazakhstan.html",
       "abbreviation": "KZ-10",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://www.mod.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of National Economy",
+      "href": "ministry-11-ministry-of-national-economy.html",
       "abbreviation": "KZ-11",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://economy.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Water Resource and Irrigation of the Republic of Kazakhstan",
+      "href": "ministry-12-ministry-of-water-resource-and-irrigation-of-the-republic-of.html",
       "abbreviation": "KZ-12",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/water?lang=kk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Internal Affairs of Kazakhstan",
+      "href": "ministry-13-ministry-of-internal-affairs-of-kazakhstan.html",
       "abbreviation": "KZ-13",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://mvd.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Agriculture",
+      "href": "ministry-14-ministry-of-agriculture.html",
       "abbreviation": "KZ-14",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://mgov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Ecology and Natural Resources",
+      "href": "ministry-15-ministry-of-ecology-and-natural-resources.html",
       "abbreviation": "KZ-15",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://www.eco.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Foreign Affairs of the Republic of Kazakhstan",
+      "href": "ministry-16-ministry-of-foreign-affairs-of-the-republic-of-kazakhstan.html",
       "abbreviation": "KZ-16",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "https://www.gov.kz/memleket/entities/mfa",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Finance Ministry of Kazakhstan",
+      "href": "ministry-17-finance-ministry-of-kazakhstan.html",
       "abbreviation": "KZ-17",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://www.minfin.gov.kz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan",
+      "href": "ministry-18-ministry-of-labor-and-social-protection-of-population-of-the.html",
       "abbreviation": "KZ-18",
-      "officialHref": "https://egov.kz/"
+      "officialHref": "http://www.mzsr.gov.kz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Digital Development, Innovation and Aerospace Industry",
+      "href": "ministry-19-ministry-of-digital-development-innovation-and-aerospace-ind.html",
+      "abbreviation": "KZ-19",
+      "officialHref": "http://mdai.gov.kz/ru",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -249,5 +312,11 @@
       "name": "Zhambyl",
       "code": "ZHA"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

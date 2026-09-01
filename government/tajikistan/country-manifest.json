@@ -24,7 +24,10 @@
     "Panama": "Tajikistan"
   },
   "sources": [
-    "https://www.president.tj/"
+    "https://www.president.tj/",
+    "http://www.mort.tj",
+    "https://maorif.tj",
+    "https://www.vfarhang.tj"
   ],
   "utilities": [
     {
@@ -60,112 +63,124 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-01-ministry-of-health.html",
       "abbreviation": "TJ-1",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-02-ministry-of-defence.html",
       "abbreviation": "TJ-2",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "http://www.mort.tj",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-03-ministry-of-justice.html",
       "abbreviation": "TJ-3",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Internal Affairs",
+      "href": "ministry-04-ministry-of-internal-affairs.html",
       "abbreviation": "TJ-4",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Foreign Affairs of the Republic of Tajikistan",
+      "href": "ministry-05-ministry-of-foreign-affairs-of-the-republic-of-tajikistan.html",
       "abbreviation": "TJ-5",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Agriculture of Tajikistan",
+      "href": "ministry-06-ministry-of-agriculture-of-tajikistan.html",
       "abbreviation": "TJ-6",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Industry and New Technologies of Tajikistan",
+      "href": "ministry-07-ministry-of-industry-and-new-technologies-of-tajikistan.html",
       "abbreviation": "TJ-7",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Finance of Tajikistan",
+      "href": "ministry-08-ministry-of-finance-of-tajikistan.html",
       "abbreviation": "TJ-8",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Energy and Water Resources of Tajikistan",
+      "href": "ministry-09-ministry-of-energy-and-water-resources-of-tajikistan.html",
       "abbreviation": "TJ-9",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Labour, Migration and Population Employment of Tajikistan",
+      "href": "ministry-10-ministry-of-labour-migration-and-population-employment-of-ta.html",
       "abbreviation": "TJ-10",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Education and Science of Tajikistan",
+      "href": "ministry-11-ministry-of-education-and-science-of-tajikistan.html",
       "abbreviation": "TJ-11",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://maorif.tj",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Health and Social Protection of the Population of Tajikistan",
+      "href": "ministry-12-ministry-of-health-and-social-protection-of-the-population-o.html",
       "abbreviation": "TJ-12",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Economic Development and Trade of Tajikistan",
+      "href": "ministry-13-ministry-of-economic-development-and-trade-of-tajikistan.html",
       "abbreviation": "TJ-13",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Transport of Tajikistan",
+      "href": "ministry-14-ministry-of-transport-of-tajikistan.html",
       "abbreviation": "TJ-14",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.president.tj/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Culture of Tajikistan",
+      "href": "ministry-15-ministry-of-culture-of-tajikistan.html",
       "abbreviation": "TJ-15",
-      "officialHref": "https://www.president.tj/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "TJ-16",
-      "officialHref": "https://www.president.tj/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "TJ-17",
-      "officialHref": "https://www.president.tj/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "TJ-18",
-      "officialHref": "https://www.president.tj/"
+      "officialHref": "https://www.vfarhang.tj",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -201,5 +216,11 @@
       "name": "Sughd",
       "code": "SU"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

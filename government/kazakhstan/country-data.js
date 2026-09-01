@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Culture and Sports of Kazakhstan",
+      "ministry-01-ministry-of-culture-and-sports-of-kazakhstan.html",
       "KZ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education (Kazakhstan)",
+      "ministry-02-ministry-of-education-kazakhstan.html",
       "KZ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Science and Higher Education",
+      "ministry-03-ministry-of-science-and-higher-education.html",
       "KZ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Trade and Integration",
+      "ministry-04-ministry-of-trade-and-integration.html",
       "KZ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Tourism and Sports of the Republic of Kazakhstan",
+      "ministry-05-ministry-of-tourism-and-sports-of-the-republic-of-kazakhstan.html",
       "KZ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Healthcare of Kazakhstan",
+      "ministry-06-ministry-of-healthcare-of-kazakhstan.html",
       "KZ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Justice of the Republic of Kazakhstan",
+      "ministry-07-ministry-of-justice-of-the-republic-of-kazakhstan.html",
       "KZ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Energy",
+      "ministry-08-ministry-of-energy.html",
       "KZ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Prime Minister's Office",
+      "ministry-09-prime-minister-s-office.html",
       "KZ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Defense of Kazakhstan",
+      "ministry-10-ministry-of-defense-of-kazakhstan.html",
       "KZ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of National Economy",
+      "ministry-11-ministry-of-national-economy.html",
       "KZ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Water Resource and Irrigation of the Republic of Kazakhstan",
+      "ministry-12-ministry-of-water-resource-and-irrigation-of-the-republic-of.html",
       "KZ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Internal Affairs of Kazakhstan",
+      "ministry-13-ministry-of-internal-affairs-of-kazakhstan.html",
       "KZ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Agriculture",
+      "ministry-14-ministry-of-agriculture.html",
       "KZ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Ecology and Natural Resources",
+      "ministry-15-ministry-of-ecology-and-natural-resources.html",
       "KZ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Kazakhstan",
+      "ministry-16-ministry-of-foreign-affairs-of-the-republic-of-kazakhstan.html",
       "KZ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Finance Ministry of Kazakhstan",
+      "ministry-17-finance-ministry-of-kazakhstan.html",
       "KZ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan",
+      "ministry-18-ministry-of-labor-and-social-protection-of-population-of-the.html",
       "KZ-18"
+    ],
+    [
+      "Ministry of Digital Development, Innovation and Aerospace Industry",
+      "ministry-19-ministry-of-digital-development-innovation-and-aerospace-ind.html",
+      "KZ-19"
     ]
   ]
 };

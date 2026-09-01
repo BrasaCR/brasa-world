@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Primary Resources and Tourism",
+      "ministry-01-ministry-of-primary-resources-and-tourism.html",
       "BN-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Department of Economic Planning and Development",
+      "ministry-02-department-of-economic-planning-and-development.html",
       "BN-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Energy (Energy and Manpower) and Industry",
+      "ministry-03-ministry-of-energy-energy-and-manpower-and-industry.html",
       "BN-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Religious Affairs",
+      "ministry-04-ministry-of-religious-affairs.html",
       "BN-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance and Economy",
+      "ministry-05-ministry-of-finance-and-economy.html",
       "BN-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Culture, Youth and Sports",
+      "ministry-06-ministry-of-culture-youth-and-sports.html",
       "BN-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Defence Brunei Darussalam",
+      "ministry-07-ministry-of-defence-brunei-darussalam.html",
       "BN-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Prime Minister's Office",
+      "ministry-08-prime-minister-s-office.html",
       "BN-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-09-ministry-of-foreign-affairs.html",
       "BN-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Transport and Infocommunications of Brunei",
+      "ministry-10-ministry-of-transport-and-infocommunications-of-brunei.html",
       "BN-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Development",
+      "ministry-11-ministry-of-development.html",
       "BN-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Home Affairs of Brunei",
+      "ministry-12-ministry-of-home-affairs-of-brunei.html",
       "BN-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Education",
+      "ministry-13-ministry-of-education.html",
       "BN-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Health",
+      "ministry-14-ministry-of-health.html",
       "BN-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "BN-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "BN-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "BN-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "BN-18"
     ]
   ]
 };

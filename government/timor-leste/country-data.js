@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs and Cooperation",
+      "ministry-01-ministry-of-foreign-affairs-and-cooperation.html",
       "TL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education, Youth and Sport",
+      "ministry-02-ministry-of-education-youth-and-sport.html",
       "TL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-03-ministry-of-transport-and-communications.html",
       "TL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health",
+      "ministry-04-ministry-of-health.html",
       "TL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Agriculture and Fisheries",
+      "ministry-05-ministry-of-agriculture-and-fisheries.html",
       "TL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Petroleum and Minerals",
+      "ministry-06-ministry-of-petroleum-and-minerals.html",
       "TL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of State Administration",
+      "ministry-07-ministry-of-state-administration.html",
       "TL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Social Solidarity and Inclusion",
+      "ministry-08-ministry-of-social-solidarity-and-inclusion.html",
       "TL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Higher Education, Science and Culture",
+      "ministry-09-ministry-of-higher-education-science-and-culture.html",
       "TL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Veterans Affairs",
+      "ministry-10-ministry-of-veterans-affairs.html",
       "TL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Public Works",
+      "ministry-11-ministry-of-public-works.html",
       "TL-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Tourism, Trade and Industry",
+      "ministry-12-ministry-of-tourism-trade-and-industry.html",
       "TL-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Defense of East Timor",
+      "ministry-13-ministry-of-defense-of-east-timor.html",
       "TL-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Finance",
+      "ministry-14-ministry-of-finance.html",
       "TL-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice",
+      "ministry-15-ministry-of-justice.html",
       "TL-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of the Interior",
+      "ministry-16-ministry-of-the-interior.html",
       "TL-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "TL-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "TL-18"
     ]
   ]
 };

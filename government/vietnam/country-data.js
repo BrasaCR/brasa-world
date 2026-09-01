@@ -38,94 +38,69 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Culture, Sports and Tourism",
+      "ministry-01-ministry-of-culture-sports-and-tourism.html",
       "VN-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice",
+      "ministry-02-ministry-of-justice.html",
       "VN-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Public Security",
+      "ministry-03-ministry-of-public-security.html",
       "VN-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence of Vietnam",
+      "ministry-04-ministry-of-defence-of-vietnam.html",
       "VN-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Foreign Affairs of the Socialist Republic of Vietnam",
+      "ministry-05-ministry-of-foreign-affairs-of-the-socialist-republic-of-vie.html",
       "VN-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education and Training",
+      "ministry-06-ministry-of-education-and-training.html",
       "VN-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture and Environment of Vietnam",
+      "ministry-07-ministry-of-agriculture-and-environment-of-vietnam.html",
       "VN-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Construction",
+      "ministry-08-ministry-of-construction.html",
       "VN-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Finance",
+      "ministry-09-ministry-of-finance.html",
       "VN-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Health",
+      "ministry-10-ministry-of-health.html",
       "VN-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Science and Technology",
+      "ministry-11-ministry-of-science-and-technology.html",
       "VN-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Home Affairs",
+      "ministry-12-ministry-of-home-affairs.html",
       "VN-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Industry and Trade",
+      "ministry-13-ministry-of-industry-and-trade.html",
       "VN-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "VN-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "VN-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "VN-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "VN-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "VN-18"
     ]
   ]
 };

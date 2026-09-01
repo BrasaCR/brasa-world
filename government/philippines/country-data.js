@@ -38,94 +38,139 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Basic, Higher and Technical Education",
+      "ministry-01-ministry-of-basic-higher-and-technical-education.html",
       "PH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Public Works",
+      "ministry-02-ministry-of-public-works.html",
       "PH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Health",
+      "ministry-03-ministry-of-health.html",
       "PH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Agriculture, Fisheries and Agrarian Reform",
+      "ministry-04-ministry-of-agriculture-fisheries-and-agrarian-reform.html",
       "PH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Health",
+      "ministry-05-department-of-health.html",
       "PH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Agrarian Reform",
+      "ministry-06-department-of-agrarian-reform.html",
       "PH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Justice",
+      "ministry-07-department-of-justice.html",
       "PH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Agriculture",
+      "ministry-08-department-of-agriculture.html",
       "PH-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Bureau of the Treasury",
+      "ministry-09-bureau-of-the-treasury.html",
       "PH-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of Tourism",
+      "ministry-10-department-of-tourism.html",
       "PH-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Department of Finance",
+      "ministry-11-department-of-finance.html",
       "PH-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of National Defense",
+      "ministry-12-department-of-national-defense.html",
       "PH-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Foreign Affairs",
+      "ministry-13-department-of-foreign-affairs.html",
       "PH-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department of Education",
+      "ministry-14-department-of-education.html",
       "PH-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department of Public Works and Highways",
+      "ministry-15-department-of-public-works-and-highways.html",
       "PH-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of Science and Technology",
+      "ministry-16-department-of-science-and-technology.html",
       "PH-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Department of Energy",
+      "ministry-17-department-of-energy.html",
       "PH-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Department of Transportation",
+      "ministry-18-department-of-transportation.html",
       "PH-18"
+    ],
+    [
+      "Department of Migrant Workers",
+      "ministry-19-department-of-migrant-workers.html",
+      "PH-19"
+    ],
+    [
+      "Department of Trade and Industry",
+      "ministry-20-department-of-trade-and-industry.html",
+      "PH-20"
+    ],
+    [
+      "Department of Information and Communications Technology",
+      "ministry-21-department-of-information-and-communications-technology.html",
+      "PH-21"
+    ],
+    [
+      "Department of Environment and Natural Resources",
+      "ministry-22-department-of-environment-and-natural-resources.html",
+      "PH-22"
+    ],
+    [
+      "Department of Human Settlements and Urban Development",
+      "ministry-23-department-of-human-settlements-and-urban-development.html",
+      "PH-23"
+    ],
+    [
+      "Department of the Interior and Local Government",
+      "ministry-24-department-of-the-interior-and-local-government.html",
+      "PH-24"
+    ],
+    [
+      "Department of Budget and Management",
+      "ministry-25-department-of-budget-and-management.html",
+      "PH-25"
+    ],
+    [
+      "Department of Labor and Employment",
+      "ministry-26-department-of-labor-and-employment.html",
+      "PH-26"
+    ],
+    [
+      "Department of Social Welfare and Development",
+      "ministry-27-department-of-social-welfare-and-development.html",
+      "PH-27"
     ]
   ]
 };

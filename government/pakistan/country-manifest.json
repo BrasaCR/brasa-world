@@ -24,7 +24,37 @@
     "Panama": "Pakistan"
   },
   "sources": [
-    "https://www.pakistan.gov.pk/"
+    "https://www.pakistan.gov.pk/",
+    "http://www.mofa.gov.pk",
+    "https://moib.gov.pk",
+    "http://www.mohr.gov.pk",
+    "http://www.mnfsr.gov.pk",
+    "https://ophrd.gov.pk",
+    "https://www.commerce.gov.pk",
+    "https://www.mod.gov.pk",
+    "http://www.statistics.gov.pk/",
+    "https://www.mocc.gov.pk/",
+    "http://www.modp.gov.pk/",
+    "https://www.finance.gov.pk",
+    "https://moip.gov.pk",
+    "https://www.molaw.gov.pk",
+    "http://www.mora.gov.pk",
+    "https://www.railways.gov.pk",
+    "https://safron.gov.pk/",
+    "https://moitt.gov.pk",
+    "http://mowr.gov.pk",
+    "https://ipc.gov.pk",
+    "https://www.kana.gov.pk",
+    "http://www.ead.gov.pk",
+    "http://www.pakistan.gov.pk/ministries/index.jsp?MinID=5&cPath=0",
+    "http://www.mops.gov.pk/",
+    "https://www.pc.gov.pk",
+    "https://www.interior.gov.pk",
+    "https://schools.punjab.gov.pk/",
+    "https://www.nhsrc.gov.pk/",
+    "http://www.communication.gov.pk/",
+    "https://mopa.gov.pk",
+    "http://www.most.gov.pk"
   ],
   "utilities": [
     {
@@ -60,112 +90,244 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-01-ministry-of-foreign-affairs.html",
       "abbreviation": "PK-1",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.mofa.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Information and Broadcasting",
+      "href": "ministry-02-ministry-of-information-and-broadcasting.html",
       "abbreviation": "PK-2",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://moib.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Human Rights (Pakistan)",
+      "href": "ministry-03-ministry-of-human-rights-pakistan.html",
       "abbreviation": "PK-3",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.mohr.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of National Food Security and Research (Pakistan)",
+      "href": "ministry-04-ministry-of-national-food-security-and-research-pakistan.html",
       "abbreviation": "PK-4",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.mnfsr.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Overseas Pakistanis and Human Resource Development",
+      "href": "ministry-05-ministry-of-overseas-pakistanis-and-human-resource-developme.html",
       "abbreviation": "PK-5",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://ophrd.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Commerce",
+      "href": "ministry-06-ministry-of-commerce.html",
       "abbreviation": "PK-6",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.commerce.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-07-ministry-of-defence.html",
       "abbreviation": "PK-7",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.mod.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Statistics",
+      "href": "ministry-08-ministry-of-statistics.html",
       "abbreviation": "PK-8",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.statistics.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Climate Change",
+      "href": "ministry-09-ministry-of-climate-change.html",
       "abbreviation": "PK-9",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.mocc.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Defence Production (Pakistan)",
+      "href": "ministry-10-ministry-of-defence-production-pakistan.html",
       "abbreviation": "PK-10",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.modp.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Finance and Revenue",
+      "href": "ministry-11-ministry-of-finance-and-revenue.html",
       "abbreviation": "PK-11",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.finance.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Industries and Production",
+      "href": "ministry-12-ministry-of-industries-and-production.html",
       "abbreviation": "PK-12",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://moip.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Law and Justice",
+      "href": "ministry-13-ministry-of-law-and-justice.html",
       "abbreviation": "PK-13",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.molaw.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Religious Affairs and Interfaith Harmony (Pakistan)",
+      "href": "ministry-14-ministry-of-religious-affairs-and-interfaith-harmony-pakista.html",
       "abbreviation": "PK-14",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://www.mora.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Railways (Pakistan)",
+      "href": "ministry-15-ministry-of-railways-pakistan.html",
       "abbreviation": "PK-15",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://www.railways.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of States and Frontier Regions",
+      "href": "ministry-16-ministry-of-states-and-frontier-regions.html",
       "abbreviation": "PK-16",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://safron.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Information Technology and Telecommunication",
+      "href": "ministry-17-ministry-of-information-technology-and-telecommunication.html",
       "abbreviation": "PK-17",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "https://moitt.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Water Resources",
+      "href": "ministry-18-ministry-of-water-resources.html",
       "abbreviation": "PK-18",
-      "officialHref": "https://www.pakistan.gov.pk/"
+      "officialHref": "http://mowr.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Inter-Provincial Coordination (Pakistan)",
+      "href": "ministry-19-ministry-of-inter-provincial-coordination-pakistan.html",
+      "abbreviation": "PK-19",
+      "officialHref": "https://ipc.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Kashmir Affairs and Gilgit Baltistan (Pakistan)",
+      "href": "ministry-20-ministry-of-kashmir-affairs-and-gilgit-baltistan-pakistan.html",
+      "abbreviation": "PK-20",
+      "officialHref": "https://www.kana.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economic Affairs",
+      "href": "ministry-21-ministry-of-economic-affairs.html",
+      "abbreviation": "PK-21",
+      "officialHref": "http://www.ead.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Environment",
+      "href": "ministry-22-ministry-of-environment.html",
+      "abbreviation": "PK-22",
+      "officialHref": "http://www.pakistan.gov.pk/ministries/index.jsp?MinID=5&cPath=0",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Maritime Affairs",
+      "href": "ministry-23-ministry-of-maritime-affairs.html",
+      "abbreviation": "PK-23",
+      "officialHref": "http://www.mops.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Planning, Development and Special Initiatives (Pakistan)",
+      "href": "ministry-24-ministry-of-planning-development-and-special-initiatives-pak.html",
+      "abbreviation": "PK-24",
+      "officialHref": "https://www.pc.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Interior",
+      "href": "ministry-25-ministry-of-interior.html",
+      "abbreviation": "PK-25",
+      "officialHref": "https://www.interior.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "School Education Department, Government of the Punjab",
+      "href": "ministry-26-school-education-department-government-of-the-punjab.html",
+      "abbreviation": "PK-26",
+      "officialHref": "https://schools.punjab.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of National Health Services, Regulation and Coordination",
+      "href": "ministry-27-ministry-of-national-health-services-regulation-and-coordina.html",
+      "abbreviation": "PK-27",
+      "officialHref": "https://www.nhsrc.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Communications",
+      "href": "ministry-28-ministry-of-communications.html",
+      "abbreviation": "PK-28",
+      "officialHref": "http://www.communication.gov.pk/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Parliamentary Affairs",
+      "href": "ministry-29-ministry-of-parliamentary-affairs.html",
+      "abbreviation": "PK-29",
+      "officialHref": "https://mopa.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "href": "ministry-30-ministry-of-science-and-technology.html",
+      "abbreviation": "PK-30",
+      "officialHref": "http://www.most.gov.pk",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -217,5 +379,11 @@
       "name": "Federally Administered Tribal Areas",
       "code": "TA"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

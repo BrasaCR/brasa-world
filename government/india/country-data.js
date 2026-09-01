@@ -38,94 +38,194 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "IN-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Home Affairs",
+      "ministry-02-ministry-of-home-affairs.html",
       "IN-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Finance",
+      "ministry-03-ministry-of-finance.html",
       "IN-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of External Affairs",
+      "ministry-04-ministry-of-external-affairs.html",
       "IN-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence",
+      "ministry-05-ministry-of-defence.html",
       "IN-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education",
+      "ministry-06-ministry-of-education.html",
       "IN-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Health and Family Welfare",
+      "ministry-07-ministry-of-health-and-family-welfare.html",
       "IN-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Agriculture and Farmers Welfare",
+      "ministry-08-ministry-of-agriculture-and-farmers-welfare.html",
       "IN-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Rural Development",
+      "ministry-09-ministry-of-rural-development.html",
       "IN-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Road Transport and Highways",
+      "ministry-10-ministry-of-road-transport-and-highways.html",
       "IN-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Railways",
+      "ministry-11-ministry-of-railways.html",
       "IN-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Civil Aviation",
+      "ministry-12-ministry-of-civil-aviation.html",
       "IN-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Ports, Shipping and Waterways",
+      "ministry-13-ministry-of-ports-shipping-and-waterways.html",
       "IN-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Housing and Urban Affairs",
+      "ministry-14-ministry-of-housing-and-urban-affairs.html",
       "IN-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Jal Shakti",
+      "ministry-15-ministry-of-jal-shakti.html",
       "IN-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Environment, Forest and Climate Change",
+      "ministry-16-ministry-of-environment-forest-and-climate-change.html",
       "IN-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Power",
+      "ministry-17-ministry-of-power.html",
       "IN-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of New and Renewable Energy",
+      "ministry-18-ministry-of-new-and-renewable-energy.html",
       "IN-18"
+    ],
+    [
+      "Ministry of Petroleum and Natural Gas",
+      "ministry-19-ministry-of-petroleum-and-natural-gas.html",
+      "IN-19"
+    ],
+    [
+      "Ministry of Coal",
+      "ministry-20-ministry-of-coal.html",
+      "IN-20"
+    ],
+    [
+      "Ministry of Mines",
+      "ministry-21-ministry-of-mines.html",
+      "IN-21"
+    ],
+    [
+      "Ministry of Commerce and Industry",
+      "ministry-22-ministry-of-commerce-and-industry.html",
+      "IN-22"
+    ],
+    [
+      "Ministry of Corporate Affairs",
+      "ministry-23-ministry-of-corporate-affairs.html",
+      "IN-23"
+    ],
+    [
+      "Ministry of Labour and Employment",
+      "ministry-24-ministry-of-labour-and-employment.html",
+      "IN-24"
+    ],
+    [
+      "Ministry of Law and Justice",
+      "ministry-25-ministry-of-law-and-justice.html",
+      "IN-25"
+    ],
+    [
+      "Ministry of Communications",
+      "ministry-26-ministry-of-communications.html",
+      "IN-26"
+    ],
+    [
+      "Ministry of Electronics and Information Technology",
+      "ministry-27-ministry-of-electronics-and-information-technology.html",
+      "IN-27"
+    ],
+    [
+      "Ministry of Information and Broadcasting",
+      "ministry-28-ministry-of-information-and-broadcasting.html",
+      "IN-28"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-29-ministry-of-culture.html",
+      "IN-29"
+    ],
+    [
+      "Ministry of Tourism",
+      "ministry-30-ministry-of-tourism.html",
+      "IN-30"
+    ],
+    [
+      "Ministry of Social Justice and Empowerment",
+      "ministry-31-ministry-of-social-justice-and-empowerment.html",
+      "IN-31"
+    ],
+    [
+      "Ministry of Tribal Affairs",
+      "ministry-32-ministry-of-tribal-affairs.html",
+      "IN-32"
+    ],
+    [
+      "Ministry of Women and Child Development",
+      "ministry-33-ministry-of-women-and-child-development.html",
+      "IN-33"
+    ],
+    [
+      "Ministry of Minority Affairs",
+      "ministry-34-ministry-of-minority-affairs.html",
+      "IN-34"
+    ],
+    [
+      "Ministry of Youth Affairs and Sports",
+      "ministry-35-ministry-of-youth-affairs-and-sports.html",
+      "IN-35"
+    ],
+    [
+      "Ministry of Skill Development and Entrepreneurship",
+      "ministry-36-ministry-of-skill-development-and-entrepreneurship.html",
+      "IN-36"
+    ],
+    [
+      "Ministry of Statistics and Programme Implementation",
+      "ministry-37-ministry-of-statistics-and-programme-implementation.html",
+      "IN-37"
+    ],
+    [
+      "Ministry of Personnel, Public Grievances and Pensions",
+      "ministry-38-ministry-of-personnel-public-grievances-and-pensions.html",
+      "IN-38"
     ]
   ]
 };

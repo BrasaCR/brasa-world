@@ -38,94 +38,89 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance",
+      "ministry-01-ministry-of-finance.html",
       "SG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education",
+      "ministry-02-ministry-of-education.html",
       "SG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Health",
+      "ministry-03-ministry-of-health.html",
       "SG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Prime Minister's Office",
+      "ministry-04-prime-minister-s-office.html",
       "SG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Community Development, Youth and Sports",
+      "ministry-05-ministry-of-community-development-youth-and-sports.html",
       "SG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Law",
+      "ministry-06-ministry-of-law.html",
       "SG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Social and Family Development",
+      "ministry-07-ministry-of-social-and-family-development.html",
       "SG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Digital Development and Information",
+      "ministry-08-ministry-of-digital-development-and-information.html",
       "SG-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Culture, Community and Youth",
+      "ministry-09-ministry-of-culture-community-and-youth.html",
       "SG-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Home Affairs, Singapore",
+      "ministry-10-ministry-of-home-affairs-singapore.html",
       "SG-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of National Development",
+      "ministry-11-ministry-of-national-development.html",
       "SG-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Manpower",
+      "ministry-12-ministry-of-manpower.html",
       "SG-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Singapore",
+      "ministry-13-ministry-of-foreign-affairs-of-the-republic-of-singapore.html",
       "SG-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Defence Singapore",
+      "ministry-14-ministry-of-defence-singapore.html",
       "SG-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Sustainability and the Environment",
+      "ministry-15-ministry-of-sustainability-and-the-environment.html",
       "SG-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport",
+      "ministry-16-ministry-of-transport.html",
       "SG-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Trade and Industry",
+      "ministry-17-ministry-of-trade-and-industry.html",
       "SG-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "SG-18"
     ]
   ]
 };

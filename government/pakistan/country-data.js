@@ -38,94 +38,154 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-01-ministry-of-foreign-affairs.html",
       "PK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Information and Broadcasting",
+      "ministry-02-ministry-of-information-and-broadcasting.html",
       "PK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Human Rights (Pakistan)",
+      "ministry-03-ministry-of-human-rights-pakistan.html",
       "PK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Food Security and Research (Pakistan)",
+      "ministry-04-ministry-of-national-food-security-and-research-pakistan.html",
       "PK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Overseas Pakistanis and Human Resource Development",
+      "ministry-05-ministry-of-overseas-pakistanis-and-human-resource-developme.html",
       "PK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Commerce",
+      "ministry-06-ministry-of-commerce.html",
       "PK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Defence",
+      "ministry-07-ministry-of-defence.html",
       "PK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Statistics",
+      "ministry-08-ministry-of-statistics.html",
       "PK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Climate Change",
+      "ministry-09-ministry-of-climate-change.html",
       "PK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Defence Production (Pakistan)",
+      "ministry-10-ministry-of-defence-production-pakistan.html",
       "PK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Finance and Revenue",
+      "ministry-11-ministry-of-finance-and-revenue.html",
       "PK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Industries and Production",
+      "ministry-12-ministry-of-industries-and-production.html",
       "PK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Law and Justice",
+      "ministry-13-ministry-of-law-and-justice.html",
       "PK-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Religious Affairs and Interfaith Harmony (Pakistan)",
+      "ministry-14-ministry-of-religious-affairs-and-interfaith-harmony-pakista.html",
       "PK-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Railways (Pakistan)",
+      "ministry-15-ministry-of-railways-pakistan.html",
       "PK-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of States and Frontier Regions",
+      "ministry-16-ministry-of-states-and-frontier-regions.html",
       "PK-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Information Technology and Telecommunication",
+      "ministry-17-ministry-of-information-technology-and-telecommunication.html",
       "PK-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Water Resources",
+      "ministry-18-ministry-of-water-resources.html",
       "PK-18"
+    ],
+    [
+      "Ministry of Inter-Provincial Coordination (Pakistan)",
+      "ministry-19-ministry-of-inter-provincial-coordination-pakistan.html",
+      "PK-19"
+    ],
+    [
+      "Ministry of Kashmir Affairs and Gilgit Baltistan (Pakistan)",
+      "ministry-20-ministry-of-kashmir-affairs-and-gilgit-baltistan-pakistan.html",
+      "PK-20"
+    ],
+    [
+      "Ministry of Economic Affairs",
+      "ministry-21-ministry-of-economic-affairs.html",
+      "PK-21"
+    ],
+    [
+      "Ministry of Environment",
+      "ministry-22-ministry-of-environment.html",
+      "PK-22"
+    ],
+    [
+      "Ministry of Maritime Affairs",
+      "ministry-23-ministry-of-maritime-affairs.html",
+      "PK-23"
+    ],
+    [
+      "Ministry of Planning, Development and Special Initiatives (Pakistan)",
+      "ministry-24-ministry-of-planning-development-and-special-initiatives-pak.html",
+      "PK-24"
+    ],
+    [
+      "Ministry of Interior",
+      "ministry-25-ministry-of-interior.html",
+      "PK-25"
+    ],
+    [
+      "School Education Department, Government of the Punjab",
+      "ministry-26-school-education-department-government-of-the-punjab.html",
+      "PK-26"
+    ],
+    [
+      "Ministry of National Health Services, Regulation and Coordination",
+      "ministry-27-ministry-of-national-health-services-regulation-and-coordina.html",
+      "PK-27"
+    ],
+    [
+      "Ministry of Communications",
+      "ministry-28-ministry-of-communications.html",
+      "PK-28"
+    ],
+    [
+      "Ministry of Parliamentary Affairs",
+      "ministry-29-ministry-of-parliamentary-affairs.html",
+      "PK-29"
+    ],
+    [
+      "Ministry of Science and Technology",
+      "ministry-30-ministry-of-science-and-technology.html",
+      "PK-30"
     ]
   ]
 };
