@@ -129,5 +129,136 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Antigua Island",
+      "code": "01"
+    },
+    {
+      "name": "Barbuda Island",
+      "code": "02"
+    },
+    {
+      "name": "Bird Island",
+      "code": "04"
+    },
+    {
+      "name": "Bishop Island",
+      "code": "05"
+    },
+    {
+      "name": "Blake Island",
+      "code": "06"
+    },
+    {
+      "name": "Crump Island",
+      "code": "09"
+    },
+    {
+      "name": "Dulcina Island",
+      "code": "10"
+    },
+    {
+      "name": "Exchange Island",
+      "code": "11"
+    },
+    {
+      "name": "Five Islands",
+      "code": "12"
+    },
+    {
+      "name": "Great Bird Island",
+      "code": "13"
+    },
+    {
+      "name": "Green Island",
+      "code": "14"
+    },
+    {
+      "name": "Guiana Island",
+      "code": "15"
+    },
+    {
+      "name": "Hawes Island",
+      "code": "17"
+    },
+    {
+      "name": "Hells Gate Island",
+      "code": "16"
+    },
+    {
+      "name": "Henry Island",
+      "code": "18"
+    },
+    {
+      "name": "Johnson Island",
+      "code": "19"
+    },
+    {
+      "name": "Kid Island",
+      "code": "20"
+    },
+    {
+      "name": "Lobster Island",
+      "code": "22"
+    },
+    {
+      "name": "Maiden Island",
+      "code": "24"
+    },
+    {
+      "name": "Moor Island",
+      "code": "25"
+    },
+    {
+      "name": "Nanny Island",
+      "code": "26"
+    },
+    {
+      "name": "Pelican Island",
+      "code": "27"
+    },
+    {
+      "name": "Prickly Pear Island",
+      "code": "28"
+    },
+    {
+      "name": "Rabbit Island",
+      "code": "29"
+    },
+    {
+      "name": "Red Head Island",
+      "code": "31"
+    },
+    {
+      "name": "Redonda Island",
+      "code": "03"
+    },
+    {
+      "name": "Sandy Island",
+      "code": "32"
+    },
+    {
+      "name": "Smith Island",
+      "code": "33"
+    },
+    {
+      "name": "The Sisters",
+      "code": "34"
+    },
+    {
+      "name": "Vernon Island",
+      "code": "35"
+    },
+    {
+      "name": "Wicked Will Island",
+      "code": "36"
+    },
+    {
+      "name": "York Island",
+      "code": "37"
+    }
   ]
 }

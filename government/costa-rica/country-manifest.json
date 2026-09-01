@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "slug": "costa-rica",
+  "code": "CR",
+  "country": "Costa Rica",
+  "officialName": "Republic of Costa Rica",
+  "brand": "BRASA CR",
+  "language": "en",
+  "verified": "2026-08-26",
+  "primaryPortal": "https://www.gob.go.cr/",
+  "sources": [
+    "https://www.gob.go.cr/",
+    "https://www.presidencia.go.cr/"
+  ],
+  "utilities": [
+    {
+      "name": "Electricity",
+      "href": "electricity.html",
+      "summary": "Country-specific provider directory"
+    },
+    {
+      "name": "Water and sewerage",
+      "href": "water-and-sewerage.html",
+      "summary": "Country-specific provider directory"
+    },
+    {
+      "name": "LP gas and fuel",
+      "href": "lp-gas-and-fuel.html",
+      "summary": "Country-specific provider directory"
+    },
+    {
+      "name": "Phone service",
+      "href": "phone-service.html",
+      "summary": "Country-specific provider directory"
+    },
+    {
+      "name": "Internet and cable",
+      "href": "internet-and-cable.html",
+      "summary": "Country-specific provider directory"
+    },
+    {
+      "name": "Waste and sanitation",
+      "href": "waste.html",
+      "summary": "Country-specific provider directory"
+    }
+  ],
+  "ministries": [
+    {
+      "name": "Ministerio de Agricultura y Ganadería",
+      "href": "min-of-agricultura.html",
+      "abbreviation": "MAG",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Ambiente y Energía",
+      "href": "min-of-amb-ener.html",
+      "abbreviation": "MINAE",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Comercio Exterior",
+      "href": "min-of-comex.html",
+      "abbreviation": "COMEX",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Cultura y Juventud",
+      "href": "min-of-cultura.html",
+      "abbreviation": "MCJ",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Educación Pública",
+      "href": "min-of-education.html",
+      "abbreviation": "MEP",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Hacienda",
+      "href": "min-of-hacienda.html",
+      "abbreviation": "MH",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Justicia y Paz",
+      "href": "min-of-justicia.html",
+      "abbreviation": "MJP",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Economía, Industria y Comercio",
+      "href": "min-of-meic.html",
+      "abbreviation": "MEIC",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones",
+      "href": "min-of-micitt.html",
+      "abbreviation": "MICITT",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Planificación Nacional y Política Económica",
+      "href": "min-of-mideplan.html",
+      "abbreviation": "MIDEPLAN",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores y Culto",
+      "href": "min-of-rree.html",
+      "abbreviation": "RREE",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "href": "min-of-salud.html",
+      "abbreviation": "MS",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Seguridad Pública",
+      "href": "min-of-seguridad.html",
+      "abbreviation": "MSP",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Trabajo y Seguridad Social",
+      "href": "min-of-trabajo.html",
+      "abbreviation": "MTSS",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Obras Públicas y Transportes",
+      "href": "min-of-transportes.html",
+      "abbreviation": "MOPT",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Instituto Costarricense de Turismo",
+      "href": "min-of-turismo.html",
+      "abbreviation": "ICT",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Vivienda y Asentamientos Humanos",
+      "href": "min-of-vivienda.html",
+      "abbreviation": "MIVAH",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Ministerio de Gobernación y Policía",
+      "href": "min-of-gobernacion.html",
+      "abbreviation": "MGP",
+      "officialHref": "https://www.gob.go.cr/"
+    },
+    {
+      "name": "Presidencia de la República",
+      "href": "presidencia.html",
+      "abbreviation": "PRESIDENCIA",
+      "officialHref": "https://www.gob.go.cr/"
+    }
+  ],
+  "sharedPages": [],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Alajuela",
+      "code": "2"
+    },
+    {
+      "name": "Cartago",
+      "code": "3"
+    },
+    {
+      "name": "Guanacaste",
+      "code": "5"
+    },
+    {
+      "name": "Heredia",
+      "code": "4"
+    },
+    {
+      "name": "Limón",
+      "code": "7"
+    },
+    {
+      "name": "Puntarenas",
+      "code": "6"
+    },
+    {
+      "name": "San José",
+      "code": "1"
+    }
+  ]
+}

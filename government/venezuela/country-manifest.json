@@ -219,5 +219,108 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Dependencias Federales",
+      "code": "W"
+    },
+    {
+      "name": "Distrito Federal",
+      "code": "A"
+    },
+    {
+      "name": "Amazonas",
+      "code": "Z"
+    },
+    {
+      "name": "Anzoátegui",
+      "code": "B"
+    },
+    {
+      "name": "Apure",
+      "code": "C"
+    },
+    {
+      "name": "Aragua",
+      "code": "D"
+    },
+    {
+      "name": "Barinas",
+      "code": "E"
+    },
+    {
+      "name": "Bolívar",
+      "code": "F"
+    },
+    {
+      "name": "Carabobo",
+      "code": "G"
+    },
+    {
+      "name": "Cojedes",
+      "code": "H"
+    },
+    {
+      "name": "Delta Amacuro",
+      "code": "Y"
+    },
+    {
+      "name": "Falcón",
+      "code": "I"
+    },
+    {
+      "name": "Guárico",
+      "code": "J"
+    },
+    {
+      "name": "Lara",
+      "code": "K"
+    },
+    {
+      "name": "Mérida",
+      "code": "L"
+    },
+    {
+      "name": "Miranda",
+      "code": "M"
+    },
+    {
+      "name": "Monagas",
+      "code": "N"
+    },
+    {
+      "name": "Nueva Esparta",
+      "code": "O"
+    },
+    {
+      "name": "Portuguesa",
+      "code": "P"
+    },
+    {
+      "name": "Sucre",
+      "code": "R"
+    },
+    {
+      "name": "Táchira",
+      "code": "S"
+    },
+    {
+      "name": "Trujillo",
+      "code": "T"
+    },
+    {
+      "name": "Vargas",
+      "code": "X"
+    },
+    {
+      "name": "Yaracuy",
+      "code": "U"
+    },
+    {
+      "name": "Zulia",
+      "code": "V"
+    }
   ]
 }

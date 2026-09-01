@@ -170,5 +170,72 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Artemisa",
+      "code": "15"
+    },
+    {
+      "name": "Camagüey",
+      "code": "09"
+    },
+    {
+      "name": "Ciego de Ávila",
+      "code": "08"
+    },
+    {
+      "name": "Cienfuegos",
+      "code": "06"
+    },
+    {
+      "name": "Granma",
+      "code": "12"
+    },
+    {
+      "name": "Guantánamo",
+      "code": "14"
+    },
+    {
+      "name": "Holguín",
+      "code": "11"
+    },
+    {
+      "name": "Isla de la Juventud",
+      "code": "99"
+    },
+    {
+      "name": "La Habana",
+      "code": "03"
+    },
+    {
+      "name": "Las Tunas",
+      "code": "10"
+    },
+    {
+      "name": "Matanzas",
+      "code": "04"
+    },
+    {
+      "name": "Mayabeque",
+      "code": "16"
+    },
+    {
+      "name": "Pinar del Río",
+      "code": "01"
+    },
+    {
+      "name": "Sancti Spíritus",
+      "code": "07"
+    },
+    {
+      "name": "Santiago de Cuba",
+      "code": "13"
+    },
+    {
+      "name": "Villa Clara",
+      "code": "05"
+    }
   ]
 }

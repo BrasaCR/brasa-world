@@ -177,5 +177,80 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Alto Paraguay",
+      "code": "16"
+    },
+    {
+      "name": "Alto Parana",
+      "code": "10"
+    },
+    {
+      "name": "Amambay",
+      "code": "13"
+    },
+    {
+      "name": "Asuncion",
+      "code": "ASU"
+    },
+    {
+      "name": "Caaguazu",
+      "code": "5"
+    },
+    {
+      "name": "Caazapa",
+      "code": "6"
+    },
+    {
+      "name": "Canindeyu",
+      "code": "14"
+    },
+    {
+      "name": "Central",
+      "code": "11"
+    },
+    {
+      "name": "Concepcion",
+      "code": "1"
+    },
+    {
+      "name": "Cordillera",
+      "code": "3"
+    },
+    {
+      "name": "Boqueron",
+      "code": "17"
+    },
+    {
+      "name": "Guaira",
+      "code": "4"
+    },
+    {
+      "name": "Itapua",
+      "code": "7"
+    },
+    {
+      "name": "Misiones",
+      "code": "8"
+    },
+    {
+      "name": "Neembucu",
+      "code": "12"
+    },
+    {
+      "name": "Paraguari",
+      "code": "9"
+    },
+    {
+      "name": "Presidente Hayes",
+      "code": "15"
+    },
+    {
+      "name": "San Pedro",
+      "code": "2"
+    }
   ]
 }

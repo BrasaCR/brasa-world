@@ -196,5 +196,140 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Amazonas",
+      "code": "AMA"
+    },
+    {
+      "name": "Antioquia",
+      "code": "ANT"
+    },
+    {
+      "name": "Arauca",
+      "code": "ARA"
+    },
+    {
+      "name": "Archipiélago de San Andrés",
+      "code": "SAP"
+    },
+    {
+      "name": "Atlántico",
+      "code": "ATL"
+    },
+    {
+      "name": "Bogotá D.C.",
+      "code": "DC"
+    },
+    {
+      "name": "Bolívar",
+      "code": "BOL"
+    },
+    {
+      "name": "Boyacá",
+      "code": "BOY"
+    },
+    {
+      "name": "Caldas",
+      "code": "CAL"
+    },
+    {
+      "name": "Caquetá",
+      "code": "CAQ"
+    },
+    {
+      "name": "Casanare",
+      "code": "CAS"
+    },
+    {
+      "name": "Cauca",
+      "code": "CAU"
+    },
+    {
+      "name": "Cesar",
+      "code": "CES"
+    },
+    {
+      "name": "Chocó",
+      "code": "CHO"
+    },
+    {
+      "name": "Córdoba",
+      "code": "COR"
+    },
+    {
+      "name": "Cundinamarca",
+      "code": "CUN"
+    },
+    {
+      "name": "Guainía",
+      "code": "GUA"
+    },
+    {
+      "name": "Guaviare",
+      "code": "GUV"
+    },
+    {
+      "name": "Huila",
+      "code": "HUI"
+    },
+    {
+      "name": "La Guajira",
+      "code": "LAG"
+    },
+    {
+      "name": "Magdalena",
+      "code": "MAG"
+    },
+    {
+      "name": "Meta",
+      "code": "MET"
+    },
+    {
+      "name": "Nariño",
+      "code": "NAR"
+    },
+    {
+      "name": "Norte de Santander",
+      "code": "NSA"
+    },
+    {
+      "name": "Putumayo",
+      "code": "PUT"
+    },
+    {
+      "name": "Quindío",
+      "code": "QUI"
+    },
+    {
+      "name": "Risaralda",
+      "code": "RIS"
+    },
+    {
+      "name": "Santander",
+      "code": "SAN"
+    },
+    {
+      "name": "Sucre",
+      "code": "SUC"
+    },
+    {
+      "name": "Tolima",
+      "code": "TOL"
+    },
+    {
+      "name": "Valle del Cauca",
+      "code": "VAC"
+    },
+    {
+      "name": "Vaupés",
+      "code": "VAU"
+    },
+    {
+      "name": "Vichada",
+      "code": "VID"
+    }
   ]
 }

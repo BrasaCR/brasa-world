@@ -183,5 +183,60 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Bocas del Toro",
+      "code": "1"
+    },
+    {
+      "name": "Chiriquí",
+      "code": "4"
+    },
+    {
+      "name": "Coclé",
+      "code": "2"
+    },
+    {
+      "name": "Colón",
+      "code": "3"
+    },
+    {
+      "name": "Darién",
+      "code": "5"
+    },
+    {
+      "name": "Emberá",
+      "code": "EM"
+    },
+    {
+      "name": "Herrera",
+      "code": "6"
+    },
+    {
+      "name": "Kuna Yala",
+      "code": "KY"
+    },
+    {
+      "name": "Los Santos",
+      "code": "7"
+    },
+    {
+      "name": "Ngäbe-Buglé",
+      "code": "NB"
+    },
+    {
+      "name": "Panamá",
+      "code": "8"
+    },
+    {
+      "name": "Panamá Oeste",
+      "code": "10"
+    },
+    {
+      "name": "Veraguas",
+      "code": "9"
+    }
   ]
 }

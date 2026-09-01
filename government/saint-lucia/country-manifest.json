@@ -141,5 +141,48 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Anse-la-Raye",
+      "code": "01"
+    },
+    {
+      "name": "Canaries",
+      "code": "12"
+    },
+    {
+      "name": "Castries",
+      "code": "02"
+    },
+    {
+      "name": "Choiseul",
+      "code": "03"
+    },
+    {
+      "name": "Dennery",
+      "code": "05"
+    },
+    {
+      "name": "Gros Islet",
+      "code": "06"
+    },
+    {
+      "name": "Laborie",
+      "code": "07"
+    },
+    {
+      "name": "Micoud",
+      "code": "08"
+    },
+    {
+      "name": "Soufriere",
+      "code": "10"
+    },
+    {
+      "name": "Vieux Fort",
+      "code": "11"
+    }
   ]
 }

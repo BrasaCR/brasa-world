@@ -200,5 +200,104 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Azuay",
+      "code": "A"
+    },
+    {
+      "name": "Bolívar",
+      "code": "B"
+    },
+    {
+      "name": "Cañar",
+      "code": "F"
+    },
+    {
+      "name": "Carchi",
+      "code": "C"
+    },
+    {
+      "name": "Chimborazo",
+      "code": "H"
+    },
+    {
+      "name": "Cotopaxi",
+      "code": "X"
+    },
+    {
+      "name": "El Oro",
+      "code": "O"
+    },
+    {
+      "name": "Esmeraldas",
+      "code": "E"
+    },
+    {
+      "name": "Galápagos",
+      "code": "W"
+    },
+    {
+      "name": "Guayas",
+      "code": "G"
+    },
+    {
+      "name": "Imbabura",
+      "code": "I"
+    },
+    {
+      "name": "Loja",
+      "code": "L"
+    },
+    {
+      "name": "Los Ríos",
+      "code": "R"
+    },
+    {
+      "name": "Manabí",
+      "code": "M"
+    },
+    {
+      "name": "Morona-Santiago",
+      "code": "S"
+    },
+    {
+      "name": "Napo",
+      "code": "N"
+    },
+    {
+      "name": "Orellana",
+      "code": "D"
+    },
+    {
+      "name": "Pastaza",
+      "code": "Y"
+    },
+    {
+      "name": "Pichincha",
+      "code": "P"
+    },
+    {
+      "name": "Santa Elena",
+      "code": "SE"
+    },
+    {
+      "name": "Santo Domingo de los Tsáchilas",
+      "code": "SD"
+    },
+    {
+      "name": "Sucumbíos",
+      "code": "U"
+    },
+    {
+      "name": "Tungurahua",
+      "code": "T"
+    },
+    {
+      "name": "Zamora-Chinchipe",
+      "code": "Z"
+    }
   ]
 }

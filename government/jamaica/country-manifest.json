@@ -165,5 +165,64 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Clarendon",
+      "code": "13"
+    },
+    {
+      "name": "Hanover",
+      "code": "09"
+    },
+    {
+      "name": "Kingston",
+      "code": "01"
+    },
+    {
+      "name": "Manchester",
+      "code": "12"
+    },
+    {
+      "name": "Portland",
+      "code": "04"
+    },
+    {
+      "name": "Saint Andrew",
+      "code": "02"
+    },
+    {
+      "name": "Saint Ann",
+      "code": "06"
+    },
+    {
+      "name": "Saint Catherine",
+      "code": "14"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "code": "11"
+    },
+    {
+      "name": "Saint James",
+      "code": "08"
+    },
+    {
+      "name": "Saint Mary",
+      "code": "05"
+    },
+    {
+      "name": "Saint Thomas",
+      "code": "03"
+    },
+    {
+      "name": "Trelawny",
+      "code": "07"
+    },
+    {
+      "name": "Westmoreland",
+      "code": "10"
+    }
   ]
 }

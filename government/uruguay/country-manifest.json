@@ -159,5 +159,84 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Artigas",
+      "code": "AR"
+    },
+    {
+      "name": "Canelones",
+      "code": "CA"
+    },
+    {
+      "name": "Cerro Largo",
+      "code": "CL"
+    },
+    {
+      "name": "Colonia",
+      "code": "CO"
+    },
+    {
+      "name": "Durazno",
+      "code": "DU"
+    },
+    {
+      "name": "Flores",
+      "code": "FS"
+    },
+    {
+      "name": "Florida",
+      "code": "FD"
+    },
+    {
+      "name": "Lavalleja",
+      "code": "LA"
+    },
+    {
+      "name": "Maldonado",
+      "code": "MA"
+    },
+    {
+      "name": "Montevideo",
+      "code": "MO"
+    },
+    {
+      "name": "Paysandú",
+      "code": "PA"
+    },
+    {
+      "name": "Río Negro",
+      "code": "RN"
+    },
+    {
+      "name": "Rivera",
+      "code": "RV"
+    },
+    {
+      "name": "Rocha",
+      "code": "RO"
+    },
+    {
+      "name": "Salto",
+      "code": "SA"
+    },
+    {
+      "name": "San José",
+      "code": "SJ"
+    },
+    {
+      "name": "Soriano",
+      "code": "SO"
+    },
+    {
+      "name": "Tacuarembó",
+      "code": "TA"
+    },
+    {
+      "name": "Treinta y Tres",
+      "code": "TT"
+    }
   ]
 }

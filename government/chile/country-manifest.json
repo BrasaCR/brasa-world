@@ -225,5 +225,72 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Aisén del General Carlos Ibáñez del Campo",
+      "code": "AI"
+    },
+    {
+      "name": "Antofagasta",
+      "code": "AN"
+    },
+    {
+      "name": "Araucanía",
+      "code": "AR"
+    },
+    {
+      "name": "Arica y Parinacota",
+      "code": "AP"
+    },
+    {
+      "name": "Atacama",
+      "code": "AT"
+    },
+    {
+      "name": "Bío-Bío",
+      "code": "BI"
+    },
+    {
+      "name": "Coquimbo",
+      "code": "CO"
+    },
+    {
+      "name": "Libertador General Bernardo O'Higgins",
+      "code": "LI"
+    },
+    {
+      "name": "Los Lagos",
+      "code": "LL"
+    },
+    {
+      "name": "Los Ríos",
+      "code": "LR"
+    },
+    {
+      "name": "Magallanes y Antartica Chilena",
+      "code": "MA"
+    },
+    {
+      "name": "Maule",
+      "code": "ML"
+    },
+    {
+      "name": "Ñuble",
+      "code": "NB"
+    },
+    {
+      "name": "Región Metropolitana de Santiago",
+      "code": "RM"
+    },
+    {
+      "name": "Tarapacá",
+      "code": "TA"
+    },
+    {
+      "name": "Valparaíso",
+      "code": "VS"
+    }
   ]
 }

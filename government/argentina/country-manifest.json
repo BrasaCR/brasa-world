@@ -135,5 +135,104 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Buenos Aires",
+      "code": "B"
+    },
+    {
+      "name": "Capital Federal",
+      "code": "C"
+    },
+    {
+      "name": "Catamarca",
+      "code": "K"
+    },
+    {
+      "name": "Chaco",
+      "code": "H"
+    },
+    {
+      "name": "Chubut",
+      "code": "U"
+    },
+    {
+      "name": "Córdoba",
+      "code": "X"
+    },
+    {
+      "name": "Corrientes",
+      "code": "W"
+    },
+    {
+      "name": "Entre Ríos",
+      "code": "E"
+    },
+    {
+      "name": "Formosa",
+      "code": "P"
+    },
+    {
+      "name": "Jujuy",
+      "code": "Y"
+    },
+    {
+      "name": "La Pampa",
+      "code": "L"
+    },
+    {
+      "name": "La Rioja",
+      "code": "F"
+    },
+    {
+      "name": "Mendoza",
+      "code": "M"
+    },
+    {
+      "name": "Misiones",
+      "code": "N"
+    },
+    {
+      "name": "Neuquén",
+      "code": "Q"
+    },
+    {
+      "name": "Río Negro",
+      "code": "R"
+    },
+    {
+      "name": "Salta",
+      "code": "A"
+    },
+    {
+      "name": "San Juan",
+      "code": "J"
+    },
+    {
+      "name": "San Luis",
+      "code": "D"
+    },
+    {
+      "name": "Santa Cruz",
+      "code": "Z"
+    },
+    {
+      "name": "Santa Fe",
+      "code": "S"
+    },
+    {
+      "name": "Santiago del Estero",
+      "code": "G"
+    },
+    {
+      "name": "Tierra del Fuego",
+      "code": "V"
+    },
+    {
+      "name": "Tucumán",
+      "code": "T"
+    }
   ]
 }

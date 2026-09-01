@@ -147,5 +147,16 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Saint Kitts",
+      "code": "K"
+    },
+    {
+      "name": "Nevis",
+      "code": "N"
+    }
   ]
 }

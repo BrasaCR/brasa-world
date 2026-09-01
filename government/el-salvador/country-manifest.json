@@ -177,5 +177,64 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Ahuachapán",
+      "code": "AH"
+    },
+    {
+      "name": "Cabañas",
+      "code": "CA"
+    },
+    {
+      "name": "Cuscatlán",
+      "code": "CU"
+    },
+    {
+      "name": "Chalatenango",
+      "code": "CH"
+    },
+    {
+      "name": "La Libertad",
+      "code": "LI"
+    },
+    {
+      "name": "La Paz",
+      "code": "PA"
+    },
+    {
+      "name": "La Unión",
+      "code": "UN"
+    },
+    {
+      "name": "Morazán",
+      "code": "MO"
+    },
+    {
+      "name": "San Miguel",
+      "code": "SM"
+    },
+    {
+      "name": "San Salvador",
+      "code": "SS"
+    },
+    {
+      "name": "Santa Ana",
+      "code": "SA"
+    },
+    {
+      "name": "San Vicente",
+      "code": "SV"
+    },
+    {
+      "name": "Sonsonate",
+      "code": "SO"
+    },
+    {
+      "name": "Usulután",
+      "code": "US"
+    }
   ]
 }

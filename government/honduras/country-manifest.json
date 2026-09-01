@@ -163,5 +163,80 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Atlántida",
+      "code": "AT"
+    },
+    {
+      "name": "Choluteca",
+      "code": "CH"
+    },
+    {
+      "name": "Colón",
+      "code": "CL"
+    },
+    {
+      "name": "Comayagua",
+      "code": "CM"
+    },
+    {
+      "name": "Copán",
+      "code": "CP"
+    },
+    {
+      "name": "Cortés",
+      "code": "CR"
+    },
+    {
+      "name": "El Paraíso",
+      "code": "EP"
+    },
+    {
+      "name": "Francisco Morazán",
+      "code": "FM"
+    },
+    {
+      "name": "Gracias a Dios",
+      "code": "GD"
+    },
+    {
+      "name": "Intibucá",
+      "code": "IN"
+    },
+    {
+      "name": "Islas de la Bahía",
+      "code": "IB"
+    },
+    {
+      "name": "La Paz",
+      "code": "LP"
+    },
+    {
+      "name": "Lempira",
+      "code": "LE"
+    },
+    {
+      "name": "Ocotepeque",
+      "code": "OC"
+    },
+    {
+      "name": "Olancho",
+      "code": "OL"
+    },
+    {
+      "name": "Santa Bárbara",
+      "code": "SB"
+    },
+    {
+      "name": "Valle",
+      "code": "VA"
+    },
+    {
+      "name": "Yoro",
+      "code": "YO"
+    }
   ]
 }

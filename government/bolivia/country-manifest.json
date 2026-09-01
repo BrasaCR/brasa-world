@@ -165,5 +165,44 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Beni",
+      "code": "BE"
+    },
+    {
+      "name": "Chuquisaca",
+      "code": "CH"
+    },
+    {
+      "name": "Cochabamba",
+      "code": "CB"
+    },
+    {
+      "name": "La Paz",
+      "code": "LP"
+    },
+    {
+      "name": "Oruro",
+      "code": "OR"
+    },
+    {
+      "name": "Pando",
+      "code": "PD"
+    },
+    {
+      "name": "Potosí",
+      "code": "PT"
+    },
+    {
+      "name": "Santa Cruz",
+      "code": "SC"
+    },
+    {
+      "name": "Tarija",
+      "code": "TJ"
+    }
   ]
 }

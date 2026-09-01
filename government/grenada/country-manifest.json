@@ -141,5 +141,36 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Saint Andrew",
+      "code": "01"
+    },
+    {
+      "name": "Saint David",
+      "code": "02"
+    },
+    {
+      "name": "Saint George",
+      "code": "03"
+    },
+    {
+      "name": "Saint John",
+      "code": "04"
+    },
+    {
+      "name": "Saint Mark",
+      "code": "05"
+    },
+    {
+      "name": "Saint Patrick",
+      "code": "06"
+    },
+    {
+      "name": "Southern Grenadine Islands",
+      "code": "10"
+    }
   ]
 }

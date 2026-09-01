@@ -165,5 +165,168 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Acklins Island",
+      "code": "01"
+    },
+    {
+      "name": "Berry Islands",
+      "code": "22"
+    },
+    {
+      "name": "Bimini",
+      "code": "02"
+    },
+    {
+      "name": "Black Point",
+      "code": "23"
+    },
+    {
+      "name": "Cat Island",
+      "code": "03"
+    },
+    {
+      "name": "Central Abaco",
+      "code": "24"
+    },
+    {
+      "name": "Crooked Island and Long Cay",
+      "code": "28"
+    },
+    {
+      "name": "East Grand Bahama",
+      "code": "29"
+    },
+    {
+      "name": "Exuma",
+      "code": "04"
+    },
+    {
+      "name": "Freeport",
+      "code": "05"
+    },
+    {
+      "name": "Fresh Creek",
+      "code": "06"
+    },
+    {
+      "name": "Governor's Harbour",
+      "code": "07"
+    },
+    {
+      "name": "Green Turtle Cay",
+      "code": "08"
+    },
+    {
+      "name": "Harbour Island",
+      "code": "09"
+    },
+    {
+      "name": "High Rock",
+      "code": "10"
+    },
+    {
+      "name": "Inagua",
+      "code": "11"
+    },
+    {
+      "name": "Kemps Bay",
+      "code": "12"
+    },
+    {
+      "name": "Long Island",
+      "code": "13"
+    },
+    {
+      "name": "Marsh Harbour",
+      "code": "14"
+    },
+    {
+      "name": "Mayaguana",
+      "code": "15"
+    },
+    {
+      "name": "Moore’s Island",
+      "code": "40"
+    },
+    {
+      "name": "New Providence",
+      "code": "16"
+    },
+    {
+      "name": "Nichollstown and Berry Islands",
+      "code": "17"
+    },
+    {
+      "name": "North Abaco",
+      "code": "42"
+    },
+    {
+      "name": "North Andros",
+      "code": "41"
+    },
+    {
+      "name": "North Eleuthera",
+      "code": "33"
+    },
+    {
+      "name": "Ragged Island",
+      "code": "18"
+    },
+    {
+      "name": "Rock Sound",
+      "code": "19"
+    },
+    {
+      "name": "San Salvador and Rum Cay",
+      "code": "20"
+    },
+    {
+      "name": "Sandy Point",
+      "code": "21"
+    },
+    {
+      "name": "South Abaco",
+      "code": "35"
+    },
+    {
+      "name": "South Andros",
+      "code": "36"
+    },
+    {
+      "name": "South Eleuthera",
+      "code": "37"
+    },
+    {
+      "name": "West Grand Bahama",
+      "code": "39"
+    },
+    {
+      "name": "Central Andros",
+      "code": "43"
+    },
+    {
+      "name": "Central Eleuthera",
+      "code": "44"
+    },
+    {
+      "name": "Grand Cay",
+      "code": "45"
+    },
+    {
+      "name": "Hope Town",
+      "code": "46"
+    },
+    {
+      "name": "Mangrove Cay",
+      "code": "47"
+    },
+    {
+      "name": "Spanish Wells",
+      "code": "48"
+    }
   ]
 }

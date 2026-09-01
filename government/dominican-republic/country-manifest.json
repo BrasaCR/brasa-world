@@ -218,5 +218,44 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Cibao Central",
+      "code": "02"
+    },
+    {
+      "name": "Del Valle",
+      "code": "37"
+    },
+    {
+      "name": "Distrito Nacional",
+      "code": "01"
+    },
+    {
+      "name": "Enriquillo",
+      "code": "38"
+    },
+    {
+      "name": "Norcentral",
+      "code": "04"
+    },
+    {
+      "name": "Nordeste",
+      "code": "33"
+    },
+    {
+      "name": "Noroeste",
+      "code": "34"
+    },
+    {
+      "name": "Norte",
+      "code": "35"
+    },
+    {
+      "name": "Valdesia",
+      "code": "42"
+    }
   ]
 }

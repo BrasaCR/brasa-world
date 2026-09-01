@@ -190,5 +190,112 @@
     "philanthropy-for-citizens.html",
     "campuses-for-citizens.html",
     "structure-for-citizens.html"
+  ],
+  "region": "americas",
+  "administrativeRegions": [
+    {
+      "name": "Amazonas",
+      "code": "AMA"
+    },
+    {
+      "name": "Ancash",
+      "code": "ANC"
+    },
+    {
+      "name": "Apurimac",
+      "code": "APU"
+    },
+    {
+      "name": "Arequipa",
+      "code": "ARE"
+    },
+    {
+      "name": "Ayacucho",
+      "code": "AYA"
+    },
+    {
+      "name": "Cajamarca",
+      "code": "CAJ"
+    },
+    {
+      "name": "Callao",
+      "code": "CAL"
+    },
+    {
+      "name": "Cusco",
+      "code": "CUS"
+    },
+    {
+      "name": "Huancavelica",
+      "code": "HUV"
+    },
+    {
+      "name": "Huanuco",
+      "code": "HUC"
+    },
+    {
+      "name": "Ica",
+      "code": "ICA"
+    },
+    {
+      "name": "Junin",
+      "code": "JUN"
+    },
+    {
+      "name": "La Libertad",
+      "code": "LAL"
+    },
+    {
+      "name": "Lambayeque",
+      "code": "LAM"
+    },
+    {
+      "name": "Lima",
+      "code": "LIM"
+    },
+    {
+      "name": "Loreto",
+      "code": "LOR"
+    },
+    {
+      "name": "Madre de Dios",
+      "code": "MDD"
+    },
+    {
+      "name": "Moquegua",
+      "code": "MOQ"
+    },
+    {
+      "name": "Municipalidad Metropolitana de Lima",
+      "code": "LMA"
+    },
+    {
+      "name": "Pasco",
+      "code": "PAS"
+    },
+    {
+      "name": "Piura",
+      "code": "PIU"
+    },
+    {
+      "name": "Puno",
+      "code": "PUN"
+    },
+    {
+      "name": "San Martin",
+      "code": "SAM"
+    },
+    {
+      "name": "Tacna",
+      "code": "TAC"
+    },
+    {
+      "name": "Tumbes",
+      "code": "TUM"
+    },
+    {
+      "name": "Ucayali",
+      "code": "UCA"
+    }
   ]
 }
