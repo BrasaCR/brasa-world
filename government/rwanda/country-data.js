@@ -38,94 +38,114 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "ministry of Interior",
+      "ministry-01-ministry-of-interior.html",
       "RW-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Youth and Arts",
+      "ministry-02-ministry-of-youth-and-arts.html",
       "RW-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Sports",
+      "ministry-03-ministry-of-sports.html",
       "RW-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Disaster Management and Refugee Affairs",
+      "ministry-04-ministry-of-disaster-management-and-refugee-affairs.html",
       "RW-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Local Government",
+      "ministry-05-ministry-of-local-government.html",
       "RW-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of ICT & Innovation",
+      "ministry-06-ministry-of-ict-innovation.html",
       "RW-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Rwandan Ministry of Agricultural",
+      "ministry-07-rwandan-ministry-of-agricultural.html",
       "RW-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of trade and industry",
+      "ministry-08-ministry-of-trade-and-industry.html",
       "RW-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry in charge of Emergency Management Rwanda",
+      "ministry-09-ministry-in-charge-of-emergency-management-rwanda.html",
       "RW-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Natural Resources",
+      "ministry-10-ministry-of-natural-resources.html",
       "RW-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Infrastructure of Rwanda",
+      "ministry-11-ministry-of-infrastructure-of-rwanda.html",
       "RW-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation of the Republic of Rwanda",
+      "ministry-12-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "RW-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Justice",
+      "ministry-13-ministry-of-justice.html",
       "RW-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of National Unity & Civic Engagement",
+      "ministry-14-ministry-of-national-unity-civic-engagement.html",
       "RW-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Environment",
+      "ministry-15-ministry-of-environment.html",
       "RW-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Gender and Family Promotion",
+      "ministry-16-ministry-of-gender-and-family-promotion.html",
       "RW-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Agriculture and Animal Resources",
+      "ministry-17-ministry-of-agriculture-and-animal-resources.html",
       "RW-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Defence",
+      "ministry-18-ministry-of-defence.html",
       "RW-18"
+    ],
+    [
+      "Ministry of Public Service and Labour",
+      "ministry-19-ministry-of-public-service-and-labour.html",
+      "RW-19"
+    ],
+    [
+      "Rwandan Ministry of Education",
+      "ministry-20-rwandan-ministry-of-education.html",
+      "RW-20"
+    ],
+    [
+      "Ministry of Health of Rwanda",
+      "ministry-21-ministry-of-health-of-rwanda.html",
+      "RW-21"
+    ],
+    [
+      "Ministry of Finance and Economic Planning",
+      "ministry-22-ministry-of-finance-and-economic-planning.html",
+      "RW-22"
     ]
   ]
 };

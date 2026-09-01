@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance and National Planning - Zambia",
+      "ministry-01-ministry-of-finance-and-national-planning-zambia.html",
       "ZM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Technology and Science",
+      "ministry-02-ministry-of-technology-and-science.html",
       "ZM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence (Zambia)",
+      "ministry-03-ministry-of-defence-zambia.html",
       "ZM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Gender",
+      "ministry-04-ministry-of-gender.html",
       "ZM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Community Development, Mother and Child Health",
+      "ministry-05-ministry-of-community-development-mother-and-child-health.html",
       "ZM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Higher Education",
+      "ministry-06-ministry-of-higher-education.html",
       "ZM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture (Zambia)",
+      "ministry-07-ministry-of-agriculture-zambia.html",
       "ZM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Home Affairs (Zambia)",
+      "ministry-08-ministry-of-home-affairs-zambia.html",
       "ZM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Mines and Minerals Development",
+      "ministry-09-ministry-of-mines-and-minerals-development.html",
       "ZM-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Local Government (Zambia)",
+      "ministry-10-ministry-of-local-government-zambia.html",
       "ZM-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture and Livestock",
+      "ministry-11-ministry-of-agriculture-and-livestock.html",
       "ZM-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Commerce, Trade and Industry",
+      "ministry-12-ministry-of-commerce-trade-and-industry.html",
       "ZM-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Labour and Social Security",
+      "ministry-13-ministry-of-labour-and-social-security.html",
       "ZM-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Health",
+      "ministry-14-ministry-of-health.html",
       "ZM-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "ZM-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "ZM-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "ZM-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "ZM-18"
     ]
   ]
 };

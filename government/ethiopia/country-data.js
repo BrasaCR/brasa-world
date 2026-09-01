@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Youth and Sport",
+      "ministry-01-ministry-of-youth-and-sport.html",
       "ET-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Women and Social Affairs",
+      "ministry-02-ministry-of-women-and-social-affairs.html",
       "ET-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Culture and Tourism",
+      "ministry-03-ministry-of-culture-and-tourism.html",
       "ET-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Water and Energy",
+      "ministry-04-ministry-of-water-and-energy.html",
       "ET-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Innovation and Technology (MinT)",
+      "ministry-05-ministry-of-innovation-and-technology-mint.html",
       "ET-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of National Defense",
+      "ministry-06-ministry-of-national-defense.html",
       "ET-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Science and Technology, Ethiopia",
+      "ministry-07-ministry-of-science-and-technology-ethiopia.html",
       "ET-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Peace (Ethiopia)",
+      "ministry-08-ministry-of-peace-ethiopia.html",
       "ET-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Finance and Economic Development",
+      "ministry-09-ministry-of-finance-and-economic-development.html",
       "ET-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture and Natural Resource",
+      "ministry-10-ministry-of-agriculture-and-natural-resource.html",
       "ET-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Urban Development,Housing and Construction",
+      "ministry-11-ministry-of-urban-development-housing-and-construction.html",
       "ET-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Health of Ethopia",
+      "ministry-12-ministry-of-health-of-ethopia.html",
       "ET-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Education (Ethiopia)",
+      "ministry-13-ministry-of-education-ethiopia.html",
       "ET-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Communication and Information Technology",
+      "ministry-14-ministry-of-communication-and-information-technology.html",
       "ET-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Transport and Communications",
+      "ministry-15-ministry-of-transport-and-communications.html",
       "ET-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Science and Higher Education",
+      "ministry-16-ministry-of-science-and-higher-education.html",
       "ET-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+      "ministry-17-ministry-of-foreign-affairs-of-the-federal-democratic-republ.html",
       "ET-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Labor and Social Affairs",
+      "ministry-18-ministry-of-labor-and-social-affairs.html",
       "ET-18"
+    ],
+    [
+      "Ministry of Mines and Petroleum",
+      "ministry-19-ministry-of-mines-and-petroleum.html",
+      "ET-19"
+    ],
+    [
+      "Ministry of Agriculture and Rural Development policy of Ethiopia",
+      "ministry-20-ministry-of-agriculture-and-rural-development-policy-of-ethi.html",
+      "ET-20"
     ]
   ]
 };

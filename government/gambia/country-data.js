@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defence",
+      "ministry-01-ministry-of-defence.html",
       "GM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Public Service",
+      "ministry-02-ministry-of-public-service.html",
       "GM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Basic and Secondary Education",
+      "ministry-03-ministry-of-basic-and-secondary-education.html",
       "GM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Agriculture, Livestock and Food Security",
+      "ministry-04-ministry-of-agriculture-livestock-and-food-security.html",
       "GM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Fisheries and Water Resources",
+      "ministry-05-ministry-of-fisheries-and-water-resources.html",
       "GM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Affairs, International Cooperation and Gambians Abroad",
+      "ministry-06-ministry-of-foreign-affairs-international-cooperation-and-ga.html",
       "GM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Environment, Climate Change & Natural Resources",
+      "ministry-07-ministry-of-environment-climate-change-natural-resources.html",
       "GM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Higher Education, Research, Science and Technology",
+      "ministry-08-ministry-of-higher-education-research-science-and-technology.html",
       "GM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-09-ministry-of-youth-and-sports.html",
       "GM-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Tourism and Culture",
+      "ministry-10-ministry-of-tourism-and-culture.html",
       "GM-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Petroleum, Energy and Mines",
+      "ministry-11-ministry-of-petroleum-energy-and-mines.html",
       "GM-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Trade, Industry, Regional Integration and Employment",
+      "ministry-12-ministry-of-trade-industry-regional-integration-and-employme.html",
       "GM-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Gender, Children and Social Welfare",
+      "ministry-13-ministry-of-gender-children-and-social-welfare.html",
       "GM-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Transport Works and Infrastructure",
+      "ministry-14-ministry-of-transport-works-and-infrastructure.html",
       "GM-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Lands and Regional Government",
+      "ministry-15-ministry-of-lands-and-regional-government.html",
       "GM-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Communications & Digital Economy",
+      "ministry-16-ministry-of-communications-digital-economy.html",
       "GM-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Information, Media and Broadcasting Services",
+      "ministry-17-ministry-of-information-media-and-broadcasting-services.html",
       "GM-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Attorney General’s Chambers and Ministry of Justice",
+      "ministry-18-attorney-general-s-chambers-and-ministry-of-justice.html",
       "GM-18"
+    ],
+    [
+      "Ministry of Finance and Economic Affairs",
+      "ministry-19-ministry-of-finance-and-economic-affairs.html",
+      "GM-19"
+    ],
+    [
+      "Ministry of Interior",
+      "ministry-20-ministry-of-interior.html",
+      "GM-20"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-21-ministry-of-health.html",
+      "GM-21"
     ]
   ]
 };

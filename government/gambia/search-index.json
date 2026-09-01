@@ -36,111 +36,129 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Defence",
     "page": "Government of Gambia",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Public Service",
     "page": "Government of Gambia",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-public-service.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Basic and Secondary Education",
     "page": "Government of Gambia",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-basic-and-secondary-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Agriculture, Livestock and Food Security",
     "page": "Government of Gambia",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-agriculture-livestock-and-food-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Fisheries and Water Resources",
     "page": "Government of Gambia",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-fisheries-and-water-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Foreign Affairs, International Cooperation and Gambians Abroad",
     "page": "Government of Gambia",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-foreign-affairs-international-cooperation-and-ga.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Environment, Climate Change & Natural Resources",
     "page": "Government of Gambia",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-environment-climate-change-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Higher Education, Research, Science and Technology",
     "page": "Government of Gambia",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-higher-education-research-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Youth and Sports",
     "page": "Government of Gambia",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Tourism and Culture",
     "page": "Government of Gambia",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-tourism-and-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Petroleum, Energy and Mines",
     "page": "Government of Gambia",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-petroleum-energy-and-mines.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Trade, Industry, Regional Integration and Employment",
     "page": "Government of Gambia",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-trade-industry-regional-integration-and-employme.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Gender, Children and Social Welfare",
     "page": "Government of Gambia",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-gender-children-and-social-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Transport Works and Infrastructure",
     "page": "Government of Gambia",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-transport-works-and-infrastructure.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Lands and Regional Government",
     "page": "Government of Gambia",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-lands-and-regional-government.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Communications & Digital Economy",
     "page": "Government of Gambia",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-communications-digital-economy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Information, Media and Broadcasting Services",
     "page": "Government of Gambia",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-information-media-and-broadcasting-services.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Attorney General’s Chambers and Ministry of Justice",
     "page": "Government of Gambia",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-attorney-general-s-chambers-and-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance and Economic Affairs",
+    "page": "Government of Gambia",
+    "url": "ministry-19-ministry-of-finance-and-economic-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Interior",
+    "page": "Government of Gambia",
+    "url": "ministry-20-ministry-of-interior.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health",
+    "page": "Government of Gambia",
+    "url": "ministry-21-ministry-of-health.html",
     "verified": "2026-09-01"
   }
 ]

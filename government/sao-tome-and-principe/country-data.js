@@ -38,94 +38,64 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "ST-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs, Cooperation and Communities",
+      "ministry-02-ministry-of-foreign-affairs-cooperation-and-communities.html",
       "ST-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence and Internal Administration",
+      "ministry-03-ministry-of-defence-and-internal-administration.html",
       "ST-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice, Public Administration and Human Rights",
+      "ministry-04-ministry-of-justice-public-administration-and-human-rights.html",
       "ST-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Planning, Finance and Blue Economy",
+      "ministry-05-ministry-of-planning-finance-and-blue-economy.html",
       "ST-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Infrastructure and Natural Resources",
+      "ministry-06-ministry-of-infrastructure-and-natural-resources.html",
       "ST-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture, Fisheries and Rural Development",
+      "ministry-07-ministry-of-agriculture-fisheries-and-rural-development.html",
       "ST-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education, Culture and Science",
+      "ministry-08-ministry-of-education-culture-and-science.html",
       "ST-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health and Women’s Affairs",
+      "ministry-09-ministry-of-health-and-women-s-affairs.html",
       "ST-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Labour, Solidarity and Social Security",
+      "ministry-10-ministry-of-labour-solidarity-and-social-security.html",
       "ST-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-11-ministry-of-youth-and-sports.html",
       "ST-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Tourism and Culture",
+      "ministry-12-ministry-of-tourism-and-culture.html",
       "ST-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "ST-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "ST-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "ST-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "ST-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "ST-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "ST-18"
     ]
   ]
 };

@@ -38,94 +38,139 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Endowment and Religious Affairs",
+      "ministry-01-ministry-of-endowment-and-religious-affairs.html",
       "SO-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Telecommunications",
+      "ministry-02-ministry-of-telecommunications.html",
       "SO-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation of the Federal Republic of Somalia",
+      "ministry-03-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "SO-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Ports",
+      "ministry-04-ministry-of-ports.html",
       "SO-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Religious Affairs of Somalia",
+      "ministry-05-ministry-of-religious-affairs-of-somalia.html",
       "SO-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Constitutional Affairs",
+      "ministry-06-ministry-of-constitutional-affairs.html",
       "SO-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Aviation of Somalia",
+      "ministry-07-ministry-of-aviation-of-somalia.html",
       "SO-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Marine Resources",
+      "ministry-08-ministry-of-marine-resources.html",
       "SO-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Finance and Planning (Somalia)",
+      "ministry-09-ministry-of-finance-and-planning-somalia.html",
       "SO-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Information, Posts and Telecommunication (Somalia)",
+      "ministry-10-ministry-of-information-posts-and-telecommunication-somalia.html",
       "SO-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Interior and Security (Somalia)",
+      "ministry-11-ministry-of-interior-and-security-somalia.html",
       "SO-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Foreign Affairs of Somalia",
+      "ministry-12-ministry-of-foreign-affairs-of-somalia.html",
       "SO-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Reconstruction (Somalia)",
+      "ministry-13-ministry-of-reconstruction-somalia.html",
       "SO-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Natural Resources (Somalia)",
+      "ministry-14-ministry-of-natural-resources-somalia.html",
       "SO-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Education (Somalia)",
+      "ministry-15-ministry-of-education-somalia.html",
       "SO-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Human Rights",
+      "ministry-16-ministry-of-human-rights.html",
       "SO-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Agriculture of Federal Republic of Somalia",
+      "ministry-17-ministry-of-agriculture-of-federal-republic-of-somalia.html",
       "SO-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Planning and International Cooperation (Somalia)",
+      "ministry-18-ministry-of-planning-and-international-cooperation-somalia.html",
       "SO-18"
+    ],
+    [
+      "Ministry of Youth and Sports",
+      "ministry-19-ministry-of-youth-and-sports.html",
+      "SO-19"
+    ],
+    [
+      "Ministry of Internal Security",
+      "ministry-20-ministry-of-internal-security.html",
+      "SO-20"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-21-ministry-of-health.html",
+      "SO-21"
+    ],
+    [
+      "Ministry of Education, Culture and Higher Education",
+      "ministry-22-ministry-of-education-culture-and-higher-education.html",
+      "SO-22"
+    ],
+    [
+      "Ministry of Defence",
+      "ministry-23-ministry-of-defence.html",
+      "SO-23"
+    ],
+    [
+      "Ministry of Civil Aviation",
+      "ministry-24-ministry-of-civil-aviation.html",
+      "SO-24"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-25-ministry-of-justice.html",
+      "SO-25"
+    ],
+    [
+      "Ministry of Environment and Climate Change of Somalia",
+      "ministry-26-ministry-of-environment-and-climate-change-of-somalia.html",
+      "SO-26"
+    ],
+    [
+      "Ministry of Industry and Trade",
+      "ministry-27-ministry-of-industry-and-trade.html",
+      "SO-27"
     ]
   ]
 };

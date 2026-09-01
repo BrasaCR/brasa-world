@@ -24,7 +24,23 @@
     "Panama": "Uganda"
   },
   "sources": [
-    "https://www.gou.go.ug/"
+    "https://www.gou.go.ug/",
+    "http://opm.go.ug/",
+    "http://www.agriculture.go.ug/",
+    "http://www.mwe.go.ug/",
+    "http://www.molg.go.ug/",
+    "http://www.sti.go.ug/",
+    "http://www.ict.go.ug/",
+    "http://www.finance.go.ug/",
+    "http://www.mtti.go.ug/",
+    "https://www.health.go.ug",
+    "http://www.energyandminerals.go.ug/",
+    "http://www.mofa.go.ug",
+    "http://www.mtic.go.ug/",
+    "https://opm.go.ug/disaster-preparedness-and-management/",
+    "http://www.mia.go.ug/",
+    "http://www.education.go.ug/",
+    "http://mlhud.go.ug/"
   ],
   "utilities": [
     {
@@ -60,112 +76,140 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry for Karamoja",
+      "href": "ministry-01-ministry-for-karamoja.html",
       "abbreviation": "UG-1",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://opm.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Agriculture, Animal Industry and Fisheries",
+      "href": "ministry-02-ministry-of-agriculture-animal-industry-and-fisheries.html",
       "abbreviation": "UG-2",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.agriculture.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Water and Environment",
+      "href": "ministry-03-ministry-of-water-and-environment.html",
       "abbreviation": "UG-3",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.mwe.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Local Government",
+      "href": "ministry-04-ministry-of-local-government.html",
       "abbreviation": "UG-4",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.molg.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Science, Technology and Innovation",
+      "href": "ministry-05-ministry-of-science-technology-and-innovation.html",
       "abbreviation": "UG-5",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.sti.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Information and Communications Technology",
+      "href": "ministry-06-ministry-of-information-and-communications-technology.html",
       "abbreviation": "UG-6",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.ict.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Finance, Planning and Economic Development",
+      "href": "ministry-07-ministry-of-finance-planning-and-economic-development.html",
       "abbreviation": "UG-7",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.finance.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Trade, Tourism and Industry",
+      "href": "ministry-08-ministry-of-trade-tourism-and-industry.html",
       "abbreviation": "UG-8",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.mtti.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-09-ministry-of-health.html",
       "abbreviation": "UG-9",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "https://www.health.go.ug",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Energy and Mineral Development",
+      "href": "ministry-10-ministry-of-energy-and-mineral-development.html",
       "abbreviation": "UG-10",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.energyandminerals.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Foreign Affairs of the Republic of Uganda",
+      "href": "ministry-11-ministry-of-foreign-affairs-of-the-republic-of-uganda.html",
       "abbreviation": "UG-11",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.mofa.go.ug",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Trade, Industry and Cooperatives",
+      "href": "ministry-12-ministry-of-trade-industry-and-cooperatives.html",
       "abbreviation": "UG-12",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.mtic.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Relief and Disaster Preparedness",
+      "href": "ministry-13-ministry-of-relief-and-disaster-preparedness.html",
       "abbreviation": "UG-13",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "https://opm.go.ug/disaster-preparedness-and-management/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Internal Affairs",
+      "href": "ministry-14-ministry-of-internal-affairs.html",
       "abbreviation": "UG-14",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.mia.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Education and Sports",
+      "href": "ministry-15-ministry-of-education-and-sports.html",
       "abbreviation": "UG-15",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://www.education.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Lands, Housing and Urban Development",
+      "href": "ministry-16-ministry-of-lands-housing-and-urban-development.html",
       "abbreviation": "UG-16",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://mlhud.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Disaster Preparedness and Refugees",
+      "href": "ministry-17-ministry-of-disaster-preparedness-and-refugees.html",
       "abbreviation": "UG-17",
-      "officialHref": "https://www.gou.go.ug/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "UG-18",
-      "officialHref": "https://www.gou.go.ug/"
+      "officialHref": "http://opm.go.ug/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -509,5 +553,11 @@
       "name": "Yumbe",
       "code": "313"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

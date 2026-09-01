@@ -38,94 +38,44 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defence",
+      "ministry-01-ministry-of-defence.html",
       "MG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice of Madagascar",
+      "ministry-02-ministry-of-justice-of-madagascar.html",
       "MG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "MG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Industry, Trade and Crafts of Madagascar",
+      "ministry-04-ministry-of-industry-trade-and-crafts-of-madagascar.html",
       "MG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Agriculture and Food Sovereignty",
+      "ministry-05-ministry-of-agriculture-and-food-sovereignty.html",
       "MG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of National Education and Scientific Research",
+      "ministry-06-ministry-of-national-education-and-scientific-research.html",
       "MG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Public Health",
+      "ministry-07-ministry-of-public-health.html",
       "MG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Interior and Decentralization",
+      "ministry-08-ministry-of-interior-and-decentralization.html",
       "MG-8"
-    ],
-    [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
-      "MG-9"
-    ],
-    [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
-      "MG-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "MG-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "MG-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "MG-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "MG-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "MG-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "MG-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "MG-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "MG-18"
     ]
   ]
 };

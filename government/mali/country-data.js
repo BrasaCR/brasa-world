@@ -38,94 +38,124 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "ML-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation",
+      "ministry-02-ministry-of-foreign-affairs-and-international-cooperation.html",
       "ML-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence and Veterans Affairs",
+      "ministry-03-ministry-of-defence-and-veterans-affairs.html",
       "ML-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Security and Civil Protection",
+      "ministry-04-ministry-of-security-and-civil-protection.html",
       "ML-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice and Human Rights",
+      "ministry-05-ministry-of-justice-and-human-rights.html",
       "ML-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Territorial Administration and Decentralization",
+      "ministry-06-ministry-of-territorial-administration-and-decentralization.html",
       "ML-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Economy and Finance",
+      "ministry-07-ministry-of-economy-and-finance.html",
       "ML-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of National Education",
+      "ministry-08-ministry-of-national-education.html",
       "ML-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-09-ministry-of-higher-education-and-scientific-research.html",
       "ML-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Health and Social Development",
+      "ministry-10-ministry-of-health-and-social-development.html",
       "ML-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture",
+      "ministry-11-ministry-of-agriculture.html",
       "ML-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Livestock and Fisheries",
+      "ministry-12-ministry-of-livestock-and-fisheries.html",
       "ML-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Energy and Water",
+      "ministry-13-ministry-of-energy-and-water.html",
       "ML-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Mines",
+      "ministry-14-ministry-of-mines.html",
       "ML-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Transport and Infrastructure",
+      "ministry-15-ministry-of-transport-and-infrastructure.html",
       "ML-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Communication, Digital Economy and Administrative Modernization",
+      "ministry-16-ministry-of-communication-digital-economy-and-administrative.html",
       "ML-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Environment, Sanitation and Sustainable Development",
+      "ministry-17-ministry-of-environment-sanitation-and-sustainable-developme.html",
       "ML-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Industry and Trade",
+      "ministry-18-ministry-of-industry-and-trade.html",
       "ML-18"
+    ],
+    [
+      "Ministry of Labour, Public Service and Social Dialogue",
+      "ministry-19-ministry-of-labour-public-service-and-social-dialogue.html",
+      "ML-19"
+    ],
+    [
+      "Ministry of Urban Planning, Housing and Land Affairs",
+      "ministry-20-ministry-of-urban-planning-housing-and-land-affairs.html",
+      "ML-20"
+    ],
+    [
+      "Ministry of Women, Children and the Family",
+      "ministry-21-ministry-of-women-children-and-the-family.html",
+      "ML-21"
+    ],
+    [
+      "Ministry of Youth and Sports",
+      "ministry-22-ministry-of-youth-and-sports.html",
+      "ML-22"
+    ],
+    [
+      "Ministry of Culture, Handicrafts, Hospitality and Tourism",
+      "ministry-23-ministry-of-culture-handicrafts-hospitality-and-tourism.html",
+      "ML-23"
+    ],
+    [
+      "Ministry of Religious Affairs, Worship and Customs",
+      "ministry-24-ministry-of-religious-affairs-worship-and-customs.html",
+      "ML-24"
     ]
   ]
 };

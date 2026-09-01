@@ -24,7 +24,26 @@
     "Panama": "Morocco"
   },
   "sources": [
-    "https://www.maroc.ma/"
+    "https://www.maroc.ma/",
+    "https://www.mcinet.gov.ma/",
+    "http://www.equipement.gov.ma/",
+    "https://www.madrastna.ma/fr-FR/",
+    "https://mjcc.gov.ma",
+    "https://social.gov.ma",
+    "https://www.habous.gov.ma",
+    "https://mtaess.gov.ma/fr/tourisme/",
+    "http://www.agriculture.gov.ma/en/",
+    "http://www.mtedd.gov.ma/",
+    "https://miepeec.gov.ma/",
+    "http://www.sgg.gov.ma",
+    "https://www.enssup.gov.ma",
+    "http://www.finances.gov.ma",
+    "http://www.justice.gov.ma/",
+    "https://diplomatie.ma/",
+    "https://www.sante.gov.ma",
+    "https://www.transport.gov.ma/fr",
+    "http://www.mincom.gov.ma",
+    "http://www.sante.gov.ma"
   ],
   "utilities": [
     {
@@ -60,112 +79,300 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Industry and Trade",
+      "href": "ministry-01-ministry-of-industry-and-trade.html",
       "abbreviation": "MA-1",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.mcinet.gov.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Equipment and Water",
+      "href": "ministry-02-ministry-of-equipment-and-water.html",
       "abbreviation": "MA-2",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "http://www.equipement.gov.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of National Education",
+      "href": "ministry-03-ministry-of-national-education.html",
       "abbreviation": "MA-3",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.madrastna.ma/fr-FR/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Youth, Culture and Communication",
+      "href": "ministry-04-ministry-of-youth-culture-and-communication.html",
       "abbreviation": "MA-4",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://mjcc.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Solidarity, Women, Family and Social Development",
+      "href": "ministry-05-ministry-of-solidarity-women-family-and-social-development.html",
       "abbreviation": "MA-5",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://social.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Interior",
+      "href": "ministry-06-ministry-of-interior.html",
       "abbreviation": "MA-6",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Youth and Sports (Morocco)",
+      "href": "ministry-07-ministry-of-youth-and-sports-morocco.html",
       "abbreviation": "MA-7",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Endowments and Islamic Affairs of Morocco",
+      "href": "ministry-08-ministry-of-endowments-and-islamic-affairs-of-morocco.html",
       "abbreviation": "MA-8",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.habous.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Tourism, Handicrafts and Social and Solidarity Economy",
+      "href": "ministry-09-ministry-of-tourism-handicrafts-and-social-and-solidarity-ec.html",
       "abbreviation": "MA-9",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://mtaess.gov.ma/fr/tourisme/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Economic Inclusion, Small Business, Employment and Skills",
+      "href": "ministry-10-ministry-of-economic-inclusion-small-business-employment-and.html",
       "abbreviation": "MA-10",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Agriculture, Maritime Fisheries, Rural Development and Water and Forests of Morocco",
+      "href": "ministry-11-ministry-of-agriculture-maritime-fisheries-rural-development.html",
       "abbreviation": "MA-11",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "http://www.agriculture.gov.ma/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Solidarity, Social Integration and Family",
+      "href": "ministry-12-ministry-of-solidarity-social-integration-and-family.html",
       "abbreviation": "MA-12",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of National Territory Planning, Land Planning, Housing and City Policy",
+      "href": "ministry-13-ministry-of-national-territory-planning-land-planning-housin.html",
       "abbreviation": "MA-13",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry Delegate to the Minister of the Economy and Finance, in charge of the Budget",
+      "href": "ministry-14-ministry-delegate-to-the-minister-of-the-economy-and-finance.html",
       "abbreviation": "MA-14",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry Delegate to the Head of Government in charge of Relations with Parliament, Government Spokesperson",
+      "href": "ministry-15-ministry-delegate-to-the-head-of-government-in-charge-of-rel.html",
       "abbreviation": "MA-15",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry Delegate to the Head of Government in charge of the National Defense Administration",
+      "href": "ministry-16-ministry-delegate-to-the-head-of-government-in-charge-of-the.html",
       "abbreviation": "MA-16",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry Delegate to the Head of Government in charge of Investment, Convergence and the Evaluation of Public Policies",
+      "href": "ministry-17-ministry-delegate-to-the-head-of-government-in-charge-of-inv.html",
       "abbreviation": "MA-17",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Secretary of State to the Minister of Industry and Trade, in charge of Foreign Trade",
+      "href": "ministry-18-secretary-of-state-to-the-minister-of-industry-and-trade-in-.html",
       "abbreviation": "MA-18",
-      "officialHref": "https://www.maroc.ma/"
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry Delegate to the Head of Government in charge of Digital Transition and Administrative Reform",
+      "href": "ministry-19-ministry-delegate-to-the-head-of-government-in-charge-of-dig.html",
+      "abbreviation": "MA-19",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretary of State to the Minister of National Territory Planning, Land Planning, Housing and City Policy, in charge of Housing",
+      "href": "ministry-20-secretary-of-state-to-the-minister-of-national-territory-pla.html",
+      "abbreviation": "MA-20",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretary of State to the Minister of Agriculture, Rural Development, Water and Forests, in charge of Maritime Fisheries",
+      "href": "ministry-21-secretary-of-state-to-the-minister-of-agriculture-rural-deve.html",
+      "abbreviation": "MA-21",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretary of State to the Minister of Solidarity, Social Integration and Family, in charge of Social Integration",
+      "href": "ministry-22-secretary-of-state-to-the-minister-of-solidarity-social-inte.html",
+      "abbreviation": "MA-22",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretary of State to the Minister of Economic Inclusion, Small Business, Employment and Skills, in charge of Employment",
+      "href": "ministry-23-secretary-of-state-to-the-minister-of-economic-inclusion-sma.html",
+      "abbreviation": "MA-23",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretary of State to the Minister of Tourism, Handicrafts and Social and Solidarity Economy, in charge of Handicrafts and Social and Solidarity Economy",
+      "href": "ministry-24-secretary-of-state-to-the-minister-of-tourism-handicrafts-an.html",
+      "abbreviation": "MA-24",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Energy Transition and Sustainable Development",
+      "href": "ministry-25-ministry-of-energy-transition-and-sustainable-development.html",
+      "abbreviation": "MA-25",
+      "officialHref": "http://www.mtedd.gov.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economic Inclusion, Small Business, Jobs and Skills of Morocco",
+      "href": "ministry-26-ministry-of-economic-inclusion-small-business-jobs-and-skill.html",
+      "abbreviation": "MA-26",
+      "officialHref": "https://miepeec.gov.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "General Secretariat of the Government of Morocco",
+      "href": "ministry-27-general-secretariat-of-the-government-of-morocco.html",
+      "abbreviation": "MA-27",
+      "officialHref": "http://www.sgg.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Higher Education, Scientific Research and Innovation",
+      "href": "ministry-28-ministry-of-higher-education-scientific-research-and-innovat.html",
+      "abbreviation": "MA-28",
+      "officialHref": "https://www.enssup.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economy and Finance (Morocco)",
+      "href": "ministry-29-ministry-of-economy-and-finance-morocco.html",
+      "abbreviation": "MA-29",
+      "officialHref": "http://www.finances.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice (Morocco)",
+      "href": "ministry-30-ministry-of-justice-morocco.html",
+      "abbreviation": "MA-30",
+      "officialHref": "http://www.justice.gov.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates",
+      "href": "ministry-31-ministry-of-foreign-affairs-african-cooperation-and-moroccan.html",
+      "abbreviation": "MA-31",
+      "officialHref": "https://diplomatie.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health and Social Protection",
+      "href": "ministry-32-ministry-of-health-and-social-protection.html",
+      "abbreviation": "MA-32",
+      "officialHref": "https://www.sante.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Transport and Logistics",
+      "href": "ministry-33-ministry-of-transport-and-logistics.html",
+      "abbreviation": "MA-33",
+      "officialHref": "https://www.transport.gov.ma/fr",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Communications",
+      "href": "ministry-34-ministry-of-communications.html",
+      "abbreviation": "MA-34",
+      "officialHref": "http://www.mincom.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health",
+      "href": "ministry-35-ministry-of-health.html",
+      "abbreviation": "MA-35",
+      "officialHref": "http://www.sante.gov.ma",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture and Communication",
+      "href": "ministry-36-ministry-of-culture-and-communication.html",
+      "abbreviation": "MA-36",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Investment, Convergence and Evaluation of Public Policies",
+      "href": "ministry-37-ministry-of-investment-convergence-and-evaluation-of-public-.html",
+      "abbreviation": "MA-37",
+      "officialHref": "https://www.maroc.ma/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -233,5 +440,11 @@
       "name": "Dakhla-Oued Ed-Dahab",
       "code": "MA-12"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Education, Science and Technology",
+      "ministry-01-ministry-of-education-science-and-technology.html",
       "KE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry Of Information, Communications And The Digital Economy",
+      "ministry-02-ministry-of-information-communications-and-the-digital-econo.html",
       "KE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Sports, Culture and the Arts",
+      "ministry-03-ministry-of-sports-culture-and-the-arts.html",
       "KE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence",
+      "ministry-04-ministry-of-defence.html",
       "KE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Investments, Trade and Industry",
+      "ministry-05-ministry-of-investments-trade-and-industry.html",
       "KE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry Of Gender, Culture, The Arts and Heritage",
+      "ministry-06-ministry-of-gender-culture-the-arts-and-heritage.html",
       "KE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Labour, Social Security and Services",
+      "ministry-07-ministry-of-labour-social-security-and-services.html",
       "KE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Mining",
+      "ministry-08-ministry-of-mining.html",
       "KE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Foreign and Diaspora Affairs of the Republic of Kenya",
+      "ministry-09-ministry-of-foreign-and-diaspora-affairs-of-the-republic-of-.html",
       "KE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry Of Environment, Climate Change And Forestry",
+      "ministry-10-ministry-of-environment-climate-change-and-forestry.html",
       "KE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Finance",
+      "ministry-11-ministry-of-finance.html",
       "KE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Interior and National Administration",
+      "ministry-12-ministry-of-interior-and-national-administration.html",
       "KE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of roads and transport",
+      "ministry-13-ministry-of-roads-and-transport.html",
       "KE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Health",
+      "ministry-14-ministry-of-health.html",
       "KE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Agriculture and Livestock Development",
+      "ministry-15-ministry-of-agriculture-and-livestock-development.html",
       "KE-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "KE-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "KE-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "KE-18"
     ]
   ]
 };

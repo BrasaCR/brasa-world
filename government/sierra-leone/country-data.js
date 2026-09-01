@@ -38,94 +38,59 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs and International Relations of Sierra Leone",
+      "ministry-01-ministry-of-foreign-affairs-and-international-relations-of-s.html",
       "SL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Local Government and Rural Development of Sierra Leone",
+      "ministry-02-ministry-of-local-government-and-rural-development-of-sierra.html",
       "SL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Information and Communication of Sierra Leone",
+      "ministry-03-ministry-of-information-and-communication-of-sierra-leone.html",
       "SL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Lands, Country Planning and the Environment of Sierra Leone",
+      "ministry-04-ministry-of-lands-country-planning-and-the-environment-of-si.html",
       "SL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance and Economic Development of Sierra Leone",
+      "ministry-05-ministry-of-finance-and-economic-development-of-sierra-leone.html",
       "SL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education of Sierra Leone",
+      "ministry-06-ministry-of-education-of-sierra-leone.html",
       "SL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture, Forestry and Food Security",
+      "ministry-07-ministry-of-agriculture-forestry-and-food-security.html",
       "SL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Political and Public Affairs of Sierra Leone",
+      "ministry-08-ministry-of-political-and-public-affairs-of-sierra-leone.html",
       "SL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Mineral Resources of Sierra Leone",
+      "ministry-09-ministry-of-mineral-resources-of-sierra-leone.html",
       "SL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Defence and National Security of Sierra Leone",
+      "ministry-10-ministry-of-defence-and-national-security-of-sierra-leone.html",
       "SL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health and Sanitation",
+      "ministry-11-ministry-of-health-and-sanitation.html",
       "SL-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "SL-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "SL-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "SL-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "SL-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "SL-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "SL-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "SL-18"
     ]
   ]
 };

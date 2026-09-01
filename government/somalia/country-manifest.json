@@ -24,7 +24,28 @@
     "Panama": "Somalia"
   },
   "sources": [
-    "https://www.somalia.gov.so/"
+    "https://www.somalia.gov.so/",
+    "https://moct.gov.so/",
+    "http://www.mfa.somaligov.net",
+    "https://mpmt.gov.so/en/",
+    "https://mera.gov.so/",
+    "https://www.moca.gov.so/",
+    "https://motca.gov.so/en/",
+    "https://mfmr.gov.so/en/",
+    "http://www.mof.gov.so",
+    "http://moi.gov.so",
+    "https://moifar.gov.so/en/",
+    "http://moesomalia.net/english/",
+    "https://mfhrd.gov.so/en/",
+    "https://moa.gov.so/",
+    "http://www.mopic.gov.so",
+    "http://moys.gov.so/",
+    "https://www.mois.gov.so/",
+    "https://moh.gov.so",
+    "http://www.moesomalia.net",
+    "http://mod.gov.so",
+    "https://moj.gov.so/",
+    "https://moci.gov.so/"
   ],
   "utilities": [
     {
@@ -60,112 +81,220 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Endowment and Religious Affairs",
+      "href": "ministry-01-ministry-of-endowment-and-religious-affairs.html",
       "abbreviation": "SO-1",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Telecommunications",
+      "href": "ministry-02-ministry-of-telecommunications.html",
       "abbreviation": "SO-2",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://moct.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Foreign Affairs and International Cooperation of the Federal Republic of Somalia",
+      "href": "ministry-03-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "abbreviation": "SO-3",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "http://www.mfa.somaligov.net",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Ports",
+      "href": "ministry-04-ministry-of-ports.html",
       "abbreviation": "SO-4",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://mpmt.gov.so/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Religious Affairs of Somalia",
+      "href": "ministry-05-ministry-of-religious-affairs-of-somalia.html",
       "abbreviation": "SO-5",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://mera.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Constitutional Affairs",
+      "href": "ministry-06-ministry-of-constitutional-affairs.html",
       "abbreviation": "SO-6",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://www.moca.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Aviation of Somalia",
+      "href": "ministry-07-ministry-of-aviation-of-somalia.html",
       "abbreviation": "SO-7",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://motca.gov.so/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Marine Resources",
+      "href": "ministry-08-ministry-of-marine-resources.html",
       "abbreviation": "SO-8",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://mfmr.gov.so/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Finance and Planning (Somalia)",
+      "href": "ministry-09-ministry-of-finance-and-planning-somalia.html",
       "abbreviation": "SO-9",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "http://www.mof.gov.so",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Information, Posts and Telecommunication (Somalia)",
+      "href": "ministry-10-ministry-of-information-posts-and-telecommunication-somalia.html",
       "abbreviation": "SO-10",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "http://moi.gov.so",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Interior and Security (Somalia)",
+      "href": "ministry-11-ministry-of-interior-and-security-somalia.html",
       "abbreviation": "SO-11",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://moifar.gov.so/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Foreign Affairs of Somalia",
+      "href": "ministry-12-ministry-of-foreign-affairs-of-somalia.html",
       "abbreviation": "SO-12",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Reconstruction (Somalia)",
+      "href": "ministry-13-ministry-of-reconstruction-somalia.html",
       "abbreviation": "SO-13",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Natural Resources (Somalia)",
+      "href": "ministry-14-ministry-of-natural-resources-somalia.html",
       "abbreviation": "SO-14",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Education (Somalia)",
+      "href": "ministry-15-ministry-of-education-somalia.html",
       "abbreviation": "SO-15",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "http://moesomalia.net/english/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Human Rights",
+      "href": "ministry-16-ministry-of-human-rights.html",
       "abbreviation": "SO-16",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://mfhrd.gov.so/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Agriculture of Federal Republic of Somalia",
+      "href": "ministry-17-ministry-of-agriculture-of-federal-republic-of-somalia.html",
       "abbreviation": "SO-17",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "https://moa.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Planning and International Cooperation (Somalia)",
+      "href": "ministry-18-ministry-of-planning-and-international-cooperation-somalia.html",
       "abbreviation": "SO-18",
-      "officialHref": "https://www.somalia.gov.so/"
+      "officialHref": "http://www.mopic.gov.so",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Youth and Sports",
+      "href": "ministry-19-ministry-of-youth-and-sports.html",
+      "abbreviation": "SO-19",
+      "officialHref": "http://moys.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Internal Security",
+      "href": "ministry-20-ministry-of-internal-security.html",
+      "abbreviation": "SO-20",
+      "officialHref": "https://www.mois.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health",
+      "href": "ministry-21-ministry-of-health.html",
+      "abbreviation": "SO-21",
+      "officialHref": "https://moh.gov.so",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Education, Culture and Higher Education",
+      "href": "ministry-22-ministry-of-education-culture-and-higher-education.html",
+      "abbreviation": "SO-22",
+      "officialHref": "http://www.moesomalia.net",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Defence",
+      "href": "ministry-23-ministry-of-defence.html",
+      "abbreviation": "SO-23",
+      "officialHref": "http://mod.gov.so",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Civil Aviation",
+      "href": "ministry-24-ministry-of-civil-aviation.html",
+      "abbreviation": "SO-24",
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "ministry-25-ministry-of-justice.html",
+      "abbreviation": "SO-25",
+      "officialHref": "https://moj.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Environment and Climate Change of Somalia",
+      "href": "ministry-26-ministry-of-environment-and-climate-change-of-somalia.html",
+      "abbreviation": "SO-26",
+      "officialHref": "https://www.somalia.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Industry and Trade",
+      "href": "ministry-27-ministry-of-industry-and-trade.html",
+      "abbreviation": "SO-27",
+      "officialHref": "https://moci.gov.so/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -257,5 +386,11 @@
       "name": "Woqooyi Galbeed",
       "code": "WO"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

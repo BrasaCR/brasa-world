@@ -24,7 +24,11 @@
     "Panama": "Niger"
   },
   "sources": [
-    "https://www.gouvernement.ne/"
+    "https://www.gouvernement.ne/",
+    "http://www.msp.ne/index.php/",
+    "http://www.promotionfemme.gouv.ne/",
+    "http://www.education.gouv.ne/",
+    "http://www.justice.gouv.ne/"
   ],
   "utilities": [
     {
@@ -60,112 +64,388 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Culture and Communication",
+      "href": "ministry-01-ministry-of-culture-and-communication.html",
       "abbreviation": "NE-1",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Rural Economy",
+      "href": "ministry-02-ministry-of-rural-economy.html",
       "abbreviation": "NE-2",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Hydraulics and Environment",
+      "href": "ministry-03-ministry-of-hydraulics-and-environment.html",
       "abbreviation": "NE-3",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Public Works, Transport, Mines and Urban Planning",
+      "href": "ministry-04-ministry-of-public-works-transport-mines-and-urban-planning.html",
       "abbreviation": "NE-4",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Rural Development",
+      "href": "ministry-05-ministry-of-rural-development.html",
       "abbreviation": "NE-5",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of National Education, Higher Education and Research",
+      "href": "ministry-06-ministry-of-national-education-higher-education-and-research.html",
       "abbreviation": "NE-6",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Finances and Planning",
+      "href": "ministry-07-ministry-of-finances-and-planning.html",
       "abbreviation": "NE-7",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Commerce, Industry and Crafts",
+      "href": "ministry-08-ministry-of-commerce-industry-and-crafts.html",
       "abbreviation": "NE-8",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Youth, Sports and Culture",
+      "href": "ministry-09-ministry-of-youth-sports-and-culture.html",
       "abbreviation": "NE-9",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Social Development, Population and Advancement of Women",
+      "href": "ministry-10-ministry-of-social-development-population-and-advancement-of.html",
       "abbreviation": "NE-10",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Planning and Regional Planning",
+      "href": "ministry-11-ministry-of-planning-and-regional-planning.html",
       "abbreviation": "NE-11",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Agriculture and Livestock",
+      "href": "ministry-12-ministry-of-agriculture-and-livestock.html",
       "abbreviation": "NE-12",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Civil Service and Labor",
+      "href": "ministry-13-ministry-of-civil-service-and-labor.html",
       "abbreviation": "NE-13",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Development",
+      "href": "ministry-14-ministry-of-development.html",
       "abbreviation": "NE-14",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Agriculture and Environment",
+      "href": "ministry-15-ministry-of-agriculture-and-environment.html",
       "abbreviation": "NE-15",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Social Development, Population, Advancement of Women and Child Protection",
+      "href": "ministry-16-ministry-of-social-development-population-advancement-of-wom.html",
       "abbreviation": "NE-16",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Public Health and Social Affairs",
+      "href": "ministry-17-ministry-of-public-health-and-social-affairs.html",
       "abbreviation": "NE-17",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Higher Education, Research and Technology",
+      "href": "ministry-18-ministry-of-higher-education-research-and-technology.html",
       "abbreviation": "NE-18",
-      "officialHref": "https://www.gouvernement.ne/"
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Development and Cooperation",
+      "href": "ministry-19-ministry-of-development-and-cooperation.html",
+      "abbreviation": "NE-19",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Health, Social Affairs and the Status of Women",
+      "href": "ministry-20-ministry-of-public-health-social-affairs-and-the-status-of-w.html",
+      "abbreviation": "NE-20",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Health and the Fight against Endemics",
+      "href": "ministry-21-ministry-of-public-health-and-the-fight-against-endemics.html",
+      "abbreviation": "NE-21",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Hydraulics, Environment and Combating Desertification",
+      "href": "ministry-22-ministry-of-hydraulics-environment-and-combating-desertifica.html",
+      "abbreviation": "NE-22",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Secondary and Higher Education, Research and Technology",
+      "href": "ministry-23-ministry-of-secondary-and-higher-education-research-and-tech.html",
+      "abbreviation": "NE-23",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Finance, Economic Reforms and Privatization",
+      "href": "ministry-24-ministry-of-finance-economic-reforms-and-privatization.html",
+      "abbreviation": "NE-24",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of National Education and Vocational Training",
+      "href": "ministry-25-ministry-of-national-education-and-vocational-training.html",
+      "abbreviation": "NE-25",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Mines and Energy",
+      "href": "ministry-26-ministry-of-mines-and-energy.html",
+      "abbreviation": "NE-26",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Works, Mines and Urban Planning",
+      "href": "ministry-27-ministry-of-public-works-mines-and-urban-planning.html",
+      "abbreviation": "NE-27",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Animal Resources",
+      "href": "ministry-28-ministry-of-animal-resources.html",
+      "abbreviation": "NE-28",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Communication, Culture, Youth and Sports",
+      "href": "ministry-29-ministry-of-communication-culture-youth-and-sports.html",
+      "abbreviation": "NE-29",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Trade, Industry and Transport",
+      "href": "ministry-30-ministry-of-trade-industry-and-transport.html",
+      "abbreviation": "NE-30",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "href": "ministry-31-ministry-of-water-resources.html",
+      "abbreviation": "NE-31",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Secondary and Higher Education and Scientific Research",
+      "href": "ministry-32-ministry-of-secondary-and-higher-education-and-scientific-re.html",
+      "abbreviation": "NE-32",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Vocational and Technical Training, Responsible for Youth Employment",
+      "href": "ministry-33-ministry-of-vocational-and-technical-training-responsible-fo.html",
+      "abbreviation": "NE-33",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Higher Education, Research and Innovation",
+      "href": "ministry-34-ministry-of-higher-education-research-and-innovation.html",
+      "abbreviation": "NE-34",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Rural Economy and Climate",
+      "href": "ministry-35-ministry-of-rural-economy-and-climate.html",
+      "abbreviation": "NE-35",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Agricultural Development",
+      "href": "ministry-36-ministry-of-agricultural-development.html",
+      "abbreviation": "NE-36",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Middle and Higher Education and Scientific Research",
+      "href": "ministry-37-ministry-of-middle-and-higher-education-and-scientific-resea.html",
+      "abbreviation": "NE-37",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Youth, Sports and Francophone Games",
+      "href": "ministry-38-ministry-of-youth-sports-and-francophone-games.html",
+      "abbreviation": "NE-38",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Works, Transport and Urban Planning",
+      "href": "ministry-39-ministry-of-public-works-transport-and-urban-planning.html",
+      "abbreviation": "NE-39",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Equipment and Infrastructure",
+      "href": "ministry-40-ministry-of-equipment-and-infrastructure.html",
+      "abbreviation": "NE-40",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Mines, Geology and Hydraulics",
+      "href": "ministry-41-ministry-of-mines-geology-and-hydraulics.html",
+      "abbreviation": "NE-41",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Public Health",
+      "href": "ministry-42-ministry-of-public-health.html",
+      "abbreviation": "NE-42",
+      "officialHref": "http://www.msp.ne/index.php/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for the Promotion of Women and the Protection of Children",
+      "href": "ministry-43-ministry-for-the-promotion-of-women-and-the-protection-of-ch.html",
+      "abbreviation": "NE-43",
+      "officialHref": "http://www.promotionfemme.gouv.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of National Education",
+      "href": "ministry-44-ministry-of-national-education.html",
+      "abbreviation": "NE-44",
+      "officialHref": "http://www.education.gouv.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "ministry-45-ministry-of-justice.html",
+      "abbreviation": "NE-45",
+      "officialHref": "http://www.justice.gouv.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs, Cooperation and African Integration",
+      "href": "ministry-46-ministry-of-foreign-affairs-cooperation-and-african-integrat.html",
+      "abbreviation": "NE-46",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Interior, Public Safety and Decentralization",
+      "href": "ministry-47-ministry-of-interior-public-safety-and-decentralization.html",
+      "abbreviation": "NE-47",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Posts, Telecommunications and Digital Economy of the Republic of Niger",
+      "href": "ministry-48-ministry-of-posts-telecommunications-and-digital-economy-of-.html",
+      "abbreviation": "NE-48",
+      "officialHref": "https://www.gouvernement.ne/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -217,5 +497,11 @@
       "name": "Zinder",
       "code": "7"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

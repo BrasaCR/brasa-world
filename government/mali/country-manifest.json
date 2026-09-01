@@ -24,7 +24,13 @@
     "Panama": "Mali"
   },
   "sources": [
-    "https://www.primature.gov.ml/"
+    "https://www.primature.gov.ml/",
+    "https://energie.gouv.ml/",
+    "http://www.finances.gouv.ml/",
+    "http://www.environnement.gov.ml/",
+    "https://www.enseignementsuperieur.gouv.ml/",
+    "https://communication.gouv.ml/",
+    "http://www.sante.gov.ml/"
   ],
   "utilities": [
     {
@@ -60,112 +66,196 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Prime Minister’s Office",
+      "href": "ministry-01-prime-minister-s-office.html",
       "abbreviation": "ML-1",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Foreign Affairs and International Cooperation",
+      "href": "ministry-02-ministry-of-foreign-affairs-and-international-cooperation.html",
       "abbreviation": "ML-2",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Defence and Veterans Affairs",
+      "href": "ministry-03-ministry-of-defence-and-veterans-affairs.html",
       "abbreviation": "ML-3",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Security and Civil Protection",
+      "href": "ministry-04-ministry-of-security-and-civil-protection.html",
       "abbreviation": "ML-4",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Justice and Human Rights",
+      "href": "ministry-05-ministry-of-justice-and-human-rights.html",
       "abbreviation": "ML-5",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Territorial Administration and Decentralization",
+      "href": "ministry-06-ministry-of-territorial-administration-and-decentralization.html",
       "abbreviation": "ML-6",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Economy and Finance",
+      "href": "ministry-07-ministry-of-economy-and-finance.html",
       "abbreviation": "ML-7",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of National Education",
+      "href": "ministry-08-ministry-of-national-education.html",
       "abbreviation": "ML-8",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Higher Education and Scientific Research",
+      "href": "ministry-09-ministry-of-higher-education-and-scientific-research.html",
       "abbreviation": "ML-9",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Health and Social Development",
+      "href": "ministry-10-ministry-of-health-and-social-development.html",
       "abbreviation": "ML-10",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Agriculture",
+      "href": "ministry-11-ministry-of-agriculture.html",
       "abbreviation": "ML-11",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Livestock and Fisheries",
+      "href": "ministry-12-ministry-of-livestock-and-fisheries.html",
       "abbreviation": "ML-12",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Energy and Water",
+      "href": "ministry-13-ministry-of-energy-and-water.html",
       "abbreviation": "ML-13",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Mines",
+      "href": "ministry-14-ministry-of-mines.html",
       "abbreviation": "ML-14",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Transport and Infrastructure",
+      "href": "ministry-15-ministry-of-transport-and-infrastructure.html",
       "abbreviation": "ML-15",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Communication, Digital Economy and Administrative Modernization",
+      "href": "ministry-16-ministry-of-communication-digital-economy-and-administrative.html",
       "abbreviation": "ML-16",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Environment, Sanitation and Sustainable Development",
+      "href": "ministry-17-ministry-of-environment-sanitation-and-sustainable-developme.html",
       "abbreviation": "ML-17",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Industry and Trade",
+      "href": "ministry-18-ministry-of-industry-and-trade.html",
       "abbreviation": "ML-18",
-      "officialHref": "https://www.primature.gov.ml/"
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Labour, Public Service and Social Dialogue",
+      "href": "ministry-19-ministry-of-labour-public-service-and-social-dialogue.html",
+      "abbreviation": "ML-19",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Urban Planning, Housing and Land Affairs",
+      "href": "ministry-20-ministry-of-urban-planning-housing-and-land-affairs.html",
+      "abbreviation": "ML-20",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Women, Children and the Family",
+      "href": "ministry-21-ministry-of-women-children-and-the-family.html",
+      "abbreviation": "ML-21",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Youth and Sports",
+      "href": "ministry-22-ministry-of-youth-and-sports.html",
+      "abbreviation": "ML-22",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture, Handicrafts, Hospitality and Tourism",
+      "href": "ministry-23-ministry-of-culture-handicrafts-hospitality-and-tourism.html",
+      "abbreviation": "ML-23",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Religious Affairs, Worship and Customs",
+      "href": "ministry-24-ministry-of-religious-affairs-worship-and-customs.html",
+      "abbreviation": "ML-24",
+      "officialHref": "https://www.primature.gov.ml/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -229,5 +319,11 @@
       "name": "Ménaka",
       "code": "10"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Office of the President",
+      "ministry-01-office-of-the-president.html",
       "ER-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-02-ministry-of-foreign-affairs.html",
       "ER-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Defence",
+      "ministry-03-ministry-of-defence.html",
       "ER-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice",
+      "ministry-04-ministry-of-justice.html",
       "ER-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance and National Development",
+      "ministry-05-ministry-of-finance-and-national-development.html",
       "ER-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Local Government",
+      "ministry-06-ministry-of-local-government.html",
       "ER-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture",
+      "ministry-07-ministry-of-agriculture.html",
       "ER-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Marine Resources",
+      "ministry-08-ministry-of-marine-resources.html",
       "ER-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Energy and Mines",
+      "ministry-09-ministry-of-energy-and-mines.html",
       "ER-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Trade and Industry",
+      "ministry-10-ministry-of-trade-and-industry.html",
       "ER-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-11-ministry-of-transport-and-communications.html",
       "ER-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Public Works",
+      "ministry-12-ministry-of-public-works.html",
       "ER-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Education",
+      "ministry-13-ministry-of-education.html",
       "ER-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Health",
+      "ministry-14-ministry-of-health.html",
       "ER-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Labour and Human Welfare",
+      "ministry-15-ministry-of-labour-and-human-welfare.html",
       "ER-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Information",
+      "ministry-16-ministry-of-information.html",
       "ER-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Tourism",
+      "ministry-17-ministry-of-tourism.html",
       "ER-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Land, Water and Environment",
+      "ministry-18-ministry-of-land-water-and-environment.html",
       "ER-18"
     ]
   ]

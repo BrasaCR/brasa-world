@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "CF-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs, Francophonie and Central Africans Abroad",
+      "ministry-02-ministry-of-foreign-affairs-francophonie-and-central-african.html",
       "CF-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of National Defence and Army Reconstruction",
+      "ministry-03-ministry-of-national-defence-and-army-reconstruction.html",
       "CF-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Interior and Public Security",
+      "ministry-04-ministry-of-the-interior-and-public-security.html",
       "CF-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice, Human Rights and Good Governance",
+      "ministry-05-ministry-of-justice-human-rights-and-good-governance.html",
       "CF-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance and Budget",
+      "ministry-06-ministry-of-finance-and-budget.html",
       "CF-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Economy, Planning and International Cooperation",
+      "ministry-07-ministry-of-economy-planning-and-international-cooperation.html",
       "CF-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of National Education",
+      "ministry-08-ministry-of-national-education.html",
       "CF-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Higher Education, Scientific Research and Technological Innovation",
+      "ministry-09-ministry-of-higher-education-scientific-research-and-technol.html",
       "CF-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Health and Population",
+      "ministry-10-ministry-of-health-and-population.html",
       "CF-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture and Rural Development",
+      "ministry-11-ministry-of-agriculture-and-rural-development.html",
       "CF-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Livestock and Animal Health",
+      "ministry-12-ministry-of-livestock-and-animal-health.html",
       "CF-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Mines and Geology",
+      "ministry-13-ministry-of-mines-and-geology.html",
       "CF-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Energy and Hydraulic Resources",
+      "ministry-14-ministry-of-energy-and-hydraulic-resources.html",
       "CF-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Public Works and Road Maintenance",
+      "ministry-15-ministry-of-public-works-and-road-maintenance.html",
       "CF-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport and Civil Aviation",
+      "ministry-16-ministry-of-transport-and-civil-aviation.html",
       "CF-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Environment and Sustainable Development",
+      "ministry-17-ministry-of-environment-and-sustainable-development.html",
       "CF-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Humanitarian Action and National Reconciliation",
+      "ministry-18-ministry-of-humanitarian-action-and-national-reconciliation.html",
       "CF-18"
+    ],
+    [
+      "Ministry of Public Service and Administrative Reform",
+      "ministry-19-ministry-of-public-service-and-administrative-reform.html",
+      "CF-19"
+    ],
+    [
+      "Ministry of Communication and Media",
+      "ministry-20-ministry-of-communication-and-media.html",
+      "CF-20"
     ]
   ]
 };

@@ -36,111 +36,135 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "ministry of Interior",
     "page": "Government of Rwanda",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Youth and Arts",
     "page": "Government of Rwanda",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-youth-and-arts.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Sports",
     "page": "Government of Rwanda",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Disaster Management and Refugee Affairs",
     "page": "Government of Rwanda",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-disaster-management-and-refugee-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Local Government",
     "page": "Government of Rwanda",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-local-government.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of ICT & Innovation",
     "page": "Government of Rwanda",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-ict-innovation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Rwandan Ministry of Agricultural",
     "page": "Government of Rwanda",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-rwandan-ministry-of-agricultural.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of trade and industry",
     "page": "Government of Rwanda",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-trade-and-industry.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry in charge of Emergency Management Rwanda",
     "page": "Government of Rwanda",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-in-charge-of-emergency-management-rwanda.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Natural Resources",
     "page": "Government of Rwanda",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Infrastructure of Rwanda",
     "page": "Government of Rwanda",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-infrastructure-of-rwanda.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Foreign Affairs and International Cooperation of the Republic of Rwanda",
     "page": "Government of Rwanda",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-foreign-affairs-and-international-cooperation-of.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Justice",
     "page": "Government of Rwanda",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of National Unity & Civic Engagement",
     "page": "Government of Rwanda",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-national-unity-civic-engagement.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Environment",
     "page": "Government of Rwanda",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Gender and Family Promotion",
     "page": "Government of Rwanda",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-gender-and-family-promotion.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Agriculture and Animal Resources",
     "page": "Government of Rwanda",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-agriculture-and-animal-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Defence",
     "page": "Government of Rwanda",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-defence.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Service and Labour",
+    "page": "Government of Rwanda",
+    "url": "ministry-19-ministry-of-public-service-and-labour.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Rwandan Ministry of Education",
+    "page": "Government of Rwanda",
+    "url": "ministry-20-rwandan-ministry-of-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health of Rwanda",
+    "page": "Government of Rwanda",
+    "url": "ministry-21-ministry-of-health-of-rwanda.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance and Economic Planning",
+    "page": "Government of Rwanda",
+    "url": "ministry-22-ministry-of-finance-and-economic-planning.html",
     "verified": "2026-09-01"
   }
 ]

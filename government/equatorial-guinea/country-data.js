@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "GQ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs, International Cooperation and Diaspora",
+      "ministry-02-ministry-of-foreign-affairs-international-cooperation-and-di.html",
       "GQ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of National Defence",
+      "ministry-03-ministry-of-national-defence.html",
       "GQ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Security",
+      "ministry-04-ministry-of-national-security.html",
       "GQ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice, Religious Affairs and Penitentiary Institutions",
+      "ministry-05-ministry-of-justice-religious-affairs-and-penitentiary-insti.html",
       "GQ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance, Planning and Economic Development",
+      "ministry-06-ministry-of-finance-planning-and-economic-development.html",
       "GQ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Education, Science and Vocational Training",
+      "ministry-07-ministry-of-education-science-and-vocational-training.html",
       "GQ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health and Social Welfare",
+      "ministry-08-ministry-of-health-and-social-welfare.html",
       "GQ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture, Livestock, Forests and Environment",
+      "ministry-09-ministry-of-agriculture-livestock-forests-and-environment.html",
       "GQ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Mines and Hydrocarbons",
+      "ministry-10-ministry-of-mines-and-hydrocarbons.html",
       "GQ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Electricity and Renewable Energy",
+      "ministry-11-ministry-of-electricity-and-renewable-energy.html",
       "GQ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Public Works, Housing and Urban Planning",
+      "ministry-12-ministry-of-public-works-housing-and-urban-planning.html",
       "GQ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Transport, Telecommunications and Postal Systems",
+      "ministry-13-ministry-of-transport-telecommunications-and-postal-systems.html",
       "GQ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Trade, Industry and Business Promotion",
+      "ministry-14-ministry-of-trade-industry-and-business-promotion.html",
       "GQ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Labour, Employment Promotion and Social Security",
+      "ministry-15-ministry-of-labour-employment-promotion-and-social-security.html",
       "GQ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Fisheries and Water Resources",
+      "ministry-16-ministry-of-fisheries-and-water-resources.html",
       "GQ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Tourism and Culture",
+      "ministry-17-ministry-of-tourism-and-culture.html",
       "GQ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Public Administration and Administrative Reform",
+      "ministry-18-ministry-of-public-administration-and-administrative-reform.html",
       "GQ-18"
     ]
   ]

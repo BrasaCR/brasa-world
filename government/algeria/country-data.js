@@ -38,94 +38,164 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-01-ministry-of-youth-and-sports.html",
       "DZ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Relations with Parliament of Algeria",
+      "ministry-02-ministry-of-relations-with-parliament-of-algeria.html",
       "DZ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-03-ministry-of-higher-education-and-scientific-research.html",
       "DZ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Tourism and Handicrafts (Algeria)",
+      "ministry-04-ministry-of-tourism-and-handicrafts-algeria.html",
       "DZ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Public Works",
+      "ministry-05-ministry-of-public-works.html",
       "DZ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Fishing of Algeria",
+      "ministry-06-ministry-of-fishing-of-algeria.html",
       "DZ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Youth (Algeria)",
+      "ministry-07-ministry-of-youth-algeria.html",
       "DZ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Agriculture, Rural Development and Fishing",
+      "ministry-08-ministry-of-agriculture-rural-development-and-fishing.html",
       "DZ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Communication (Algeria)",
+      "ministry-09-ministry-of-communication-algeria.html",
       "DZ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of trade",
+      "ministry-10-ministry-of-trade.html",
       "DZ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Housing, Urban Planning and the City",
+      "ministry-11-ministry-of-housing-urban-planning-and-the-city.html",
       "DZ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Post and Telecommunications",
+      "ministry-12-ministry-of-post-and-telecommunications.html",
       "DZ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Labour, Employment and Social Security",
+      "ministry-13-ministry-of-labour-employment-and-social-security.html",
       "DZ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Transport Ministry of Algeria",
+      "ministry-14-transport-ministry-of-algeria.html",
       "DZ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministère de la Santé",
+      "ministry-15-ministere-de-la-sante.html",
       "DZ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Industry and Mines",
+      "ministry-16-ministry-of-industry-and-mines.html",
       "DZ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of the Environment and Quality of Life",
+      "ministry-17-ministry-of-the-environment-and-quality-of-life.html",
       "DZ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of training and vocational education",
+      "ministry-18-ministry-of-training-and-vocational-education.html",
       "DZ-18"
+    ],
+    [
+      "Ministry of Health of Algeria",
+      "ministry-19-ministry-of-health-of-algeria.html",
+      "DZ-19"
+    ],
+    [
+      "Ministry of Religious Affairs and Endowments",
+      "ministry-20-ministry-of-religious-affairs-and-endowments.html",
+      "DZ-20"
+    ],
+    [
+      "Ministry of Agriculture and Rural Development",
+      "ministry-21-ministry-of-agriculture-and-rural-development.html",
+      "DZ-21"
+    ],
+    [
+      "Ministry of Water Resources",
+      "ministry-22-ministry-of-water-resources.html",
+      "DZ-22"
+    ],
+    [
+      "Ministry of Mujahidin",
+      "ministry-23-ministry-of-mujahidin.html",
+      "DZ-23"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-24-ministry-of-culture.html",
+      "DZ-24"
+    ],
+    [
+      "Ministry of National Solidarity (Algeria)",
+      "ministry-25-ministry-of-national-solidarity-algeria.html",
+      "DZ-25"
+    ],
+    [
+      "Ministry of Foreign Affairs of Algeria",
+      "ministry-26-ministry-of-foreign-affairs-of-algeria.html",
+      "DZ-26"
+    ],
+    [
+      "Ministry of the Interior of Algeria",
+      "ministry-27-ministry-of-the-interior-of-algeria.html",
+      "DZ-27"
+    ],
+    [
+      "Ministry of National Education",
+      "ministry-28-ministry-of-national-education.html",
+      "DZ-28"
+    ],
+    [
+      "Ministry of Finance",
+      "ministry-29-ministry-of-finance.html",
+      "DZ-29"
+    ],
+    [
+      "Ministry of National Defense (Algeria)",
+      "ministry-30-ministry-of-national-defense-algeria.html",
+      "DZ-30"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-31-ministry-of-justice.html",
+      "DZ-31"
+    ],
+    [
+      "Ministry of Energy and Mining",
+      "ministry-32-ministry-of-energy-and-mining.html",
+      "DZ-32"
     ]
   ]
 };

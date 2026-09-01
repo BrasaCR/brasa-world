@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Minister of Mines, Oil and Energy",
+      "ministry-01-minister-of-mines-oil-and-energy.html",
       "CI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of the Environment and Sustainable Development",
+      "ministry-02-ministry-of-the-environment-and-sustainable-development.html",
       "CI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Côte d'Ivoire",
+      "ministry-03-ministry-of-foreign-affairs-of-the-republic-of-cote-d-ivoire.html",
       "CI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence",
+      "ministry-04-ministry-of-defence.html",
       "CI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Public Service and Modernization of Administration",
+      "ministry-05-ministry-of-public-service-and-modernization-of-administrati.html",
       "CI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Tourism and Leisure",
+      "ministry-06-ministry-of-tourism-and-leisure.html",
       "CI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of National Education and Literacy and Vocational Training",
+      "ministry-07-ministry-of-national-education-and-literacy-and-vocational-t.html",
       "CI-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of water and forests",
+      "ministry-08-ministry-of-water-and-forests.html",
       "CI-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of National Education and Technical Training",
+      "ministry-09-ministry-of-national-education-and-technical-training.html",
       "CI-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Health and the Fight against AIDS",
+      "ministry-10-ministry-of-health-and-the-fight-against-aids.html",
       "CI-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-11-ministry-of-higher-education-and-scientific-research.html",
       "CI-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Transport",
+      "ministry-12-ministry-of-transport.html",
       "CI-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Secretariat of State for Technical Education and Vocational Training",
+      "ministry-13-secretariat-of-state-for-technical-education-and-vocational-.html",
       "CI-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Agriculture of Côte d'Ivoire",
+      "ministry-14-ministry-of-agriculture-of-cote-d-ivoire.html",
       "CI-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of the Economy and Finance",
+      "ministry-15-ministry-of-the-economy-and-finance.html",
       "CI-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of the Interior",
+      "ministry-16-ministry-of-the-interior.html",
       "CI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "CI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "CI-18"
     ]
   ]
 };

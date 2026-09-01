@@ -24,7 +24,24 @@
     "Panama": "Guinea"
   },
   "sources": [
-    "https://gouvernement.gov.gn/"
+    "https://gouvernement.gov.gn/",
+    "https://affairesreligieuses.gov.gn/",
+    "https://metfp.gov.gn/",
+    "https://habitat.gov.gn/",
+    "https://mjs.gov.gn/",
+    "https://magel.gov.gn/",
+    "https://mepua.gov.gn/",
+    "https://mic.gov.gn/",
+    "https://mpfe.gov.gn/",
+    "https://mae.gov.gn/",
+    "https://www.mesrs.gov.gn/",
+    "https://mehh.gov.gn/",
+    "http://mines.gov.gn/en/",
+    "https://mcipme.gov.gn/",
+    "http://www.peches.gov.gn/",
+    "https://mpten.gov.gn/",
+    "https://sante.gov.gn/",
+    "https://matd.gov.gn/"
   ],
   "utilities": [
     {
@@ -60,112 +77,308 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Budget (Guinea)",
+      "href": "ministry-01-ministry-of-budget-guinea.html",
       "abbreviation": "GN-1",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of the Environment and Sustainable Development",
+      "href": "ministry-02-ministry-of-the-environment-and-sustainable-development.html",
       "abbreviation": "GN-2",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Planning and Economic Development of Guinea",
+      "href": "ministry-03-ministry-of-planning-and-economic-development-of-guinea.html",
       "abbreviation": "GN-3",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Energy of Guinea",
+      "href": "ministry-04-ministry-of-energy-of-guinea.html",
       "abbreviation": "GN-4",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Livestock and Animal Production of Guinea",
+      "href": "ministry-05-ministry-of-livestock-and-animal-production-of-guinea.html",
       "abbreviation": "GN-5",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Industry and SMEs of Guinea",
+      "href": "ministry-06-ministry-of-industry-and-smes-of-guinea.html",
       "abbreviation": "GN-6",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Public Service, State Reform and Modernization of Guinea",
+      "href": "ministry-07-ministry-of-public-service-state-reform-and-modernization-of.html",
       "abbreviation": "GN-7",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Sports, Culture and Historical Heritage of Guinea",
+      "href": "ministry-08-ministry-of-sports-culture-and-historical-heritage-of-guinea.html",
       "abbreviation": "GN-8",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Security and Civil Protection of Guinea",
+      "href": "ministry-09-ministry-of-security-and-civil-protection-of-guinea.html",
       "abbreviation": "GN-9",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Public Works of Guinea",
+      "href": "ministry-10-ministry-of-public-works-of-guinea.html",
       "abbreviation": "GN-10",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "General Secretariat of Religious Affairs of Guinea",
+      "href": "ministry-11-general-secretariat-of-religious-affairs-of-guinea.html",
       "abbreviation": "GN-11",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://affairesreligieuses.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Technical Education and Vocational Training of Guinea",
+      "href": "ministry-12-ministry-of-technical-education-and-vocational-training-of-g.html",
       "abbreviation": "GN-12",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://metfp.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Urban Affairs and and Spatial Planning (Guinea)",
+      "href": "ministry-13-ministry-of-urban-affairs-and-and-spatial-planning-guinea.html",
       "abbreviation": "GN-13",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://habitat.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Youth and Sport of Guinea",
+      "href": "ministry-14-ministry-of-youth-and-sport-of-guinea.html",
       "abbreviation": "GN-14",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://mjs.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Women's Rights and Empowerment of Guinea",
+      "href": "ministry-15-ministry-of-women-s-rights-and-empowerment-of-guinea.html",
       "abbreviation": "GN-15",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry in charge of Investments and Public-Private Partnership",
+      "href": "ministry-16-ministry-in-charge-of-investments-and-public-private-partner.html",
       "abbreviation": "GN-16",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of National Unity and Citizenship",
+      "href": "ministry-17-ministry-of-national-unity-and-citizenship.html",
       "abbreviation": "GN-17",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Minister of Administrative Modernization and the Civil Service",
+      "href": "ministry-18-minister-of-administrative-modernization-and-the-civil-servi.html",
       "abbreviation": "GN-18",
-      "officialHref": "https://gouvernement.gov.gn/"
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of African Cooperation and Integration",
+      "href": "ministry-19-ministry-of-african-cooperation-and-integration.html",
+      "abbreviation": "GN-19",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Hydraulics and Sanitation of Guinea",
+      "href": "ministry-20-ministry-of-hydraulics-and-sanitation-of-guinea.html",
+      "abbreviation": "GN-20",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Agriculture and Livestock of Guinea",
+      "href": "ministry-21-ministry-of-agriculture-and-livestock-of-guinea.html",
+      "abbreviation": "GN-21",
+      "officialHref": "https://magel.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Pre-University Education and Literacy of Guinea",
+      "href": "ministry-22-ministry-of-pre-university-education-and-literacy-of-guinea.html",
+      "abbreviation": "GN-22",
+      "officialHref": "https://mepua.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Information and Communication of Guinea",
+      "href": "ministry-23-ministry-of-information-and-communication-of-guinea.html",
+      "abbreviation": "GN-23",
+      "officialHref": "https://mic.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for the Promotion of Women, Children and Vulnerable Persons",
+      "href": "ministry-24-ministry-for-the-promotion-of-women-children-and-vulnerable-.html",
+      "abbreviation": "GN-24",
+      "officialHref": "https://mpfe.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs, International Cooperation, African Integration and Guineans Abroad",
+      "href": "ministry-25-ministry-of-foreign-affairs-international-cooperation-africa.html",
+      "abbreviation": "GN-25",
+      "officialHref": "https://mae.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Higher Education and Scientific Research",
+      "href": "ministry-26-ministry-of-higher-education-and-scientific-research.html",
+      "abbreviation": "GN-26",
+      "officialHref": "https://www.mesrs.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Minister of Sanitation, Water Resources and Hydrocarbons",
+      "href": "ministry-27-minister-of-sanitation-water-resources-and-hydrocarbons.html",
+      "abbreviation": "GN-27",
+      "officialHref": "https://mehh.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Mines and Geology",
+      "href": "ministry-28-ministry-of-mines-and-geology.html",
+      "abbreviation": "GN-28",
+      "officialHref": "http://mines.gov.gn/en/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Transport",
+      "href": "ministry-29-ministry-of-transport.html",
+      "abbreviation": "GN-29",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Minister of Social Affairs of Guinea",
+      "href": "ministry-30-minister-of-social-affairs-of-guinea.html",
+      "abbreviation": "GN-30",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Industry and Commerce",
+      "href": "ministry-31-ministry-of-industry-and-commerce.html",
+      "abbreviation": "GN-31",
+      "officialHref": "https://mcipme.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Fisheries, Aquaculture and the Maritime Economy of Guinea",
+      "href": "ministry-32-ministry-of-fisheries-aquaculture-and-the-maritime-economy-o.html",
+      "abbreviation": "GN-32",
+      "officialHref": "http://www.peches.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture, Tourism and Handicrafts",
+      "href": "ministry-33-ministry-of-culture-tourism-and-handicrafts.html",
+      "abbreviation": "GN-33",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Infrastructure",
+      "href": "ministry-34-ministry-of-infrastructure.html",
+      "abbreviation": "GN-34",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Posts, Telecoms and Digital Economy of Guinea",
+      "href": "ministry-35-ministry-of-posts-telecoms-and-digital-economy-of-guinea.html",
+      "abbreviation": "GN-35",
+      "officialHref": "https://mpten.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health and Public Hygiene",
+      "href": "ministry-36-ministry-of-health-and-public-hygiene.html",
+      "abbreviation": "GN-36",
+      "officialHref": "https://sante.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Territorial Administration and Decentralization of Guinea",
+      "href": "ministry-37-ministry-of-territorial-administration-and-decentralization-.html",
+      "abbreviation": "GN-37",
+      "officialHref": "https://matd.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Planning and International Cooperation",
+      "href": "ministry-38-ministry-of-planning-and-international-cooperation.html",
+      "abbreviation": "GN-38",
+      "officialHref": "https://gouvernement.gov.gn/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -217,5 +430,11 @@
       "name": "Nzérékoré",
       "code": "N"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

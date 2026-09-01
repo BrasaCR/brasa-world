@@ -36,111 +36,129 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Prime Minister’s Office",
     "page": "Government of Mauritius",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-prime-minister-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Finance",
     "page": "Government of Mauritius",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Foreign Affairs, Regional Integration and International Trade",
     "page": "Government of Mauritius",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-foreign-affairs-regional-integration-and-interna.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Defence and Home Affairs",
     "page": "Government of Mauritius",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-defence-and-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Attorney-General’s Office",
     "page": "Government of Mauritius",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-attorney-general-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Education, Tertiary Education, Science and Technology",
     "page": "Government of Mauritius",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-education-tertiary-education-science-and-technol.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Health and Wellness",
     "page": "Government of Mauritius",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-health-and-wellness.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Agro-Industry, Food Security, Blue Economy and Fisheries",
     "page": "Government of Mauritius",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-agro-industry-food-security-blue-economy-and-fis.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Energy and Public Utilities",
     "page": "Government of Mauritius",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-energy-and-public-utilities.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of National Infrastructure",
     "page": "Government of Mauritius",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-national-infrastructure.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Land Transport",
     "page": "Government of Mauritius",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-land-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Information Technology, Communication and Innovation",
     "page": "Government of Mauritius",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-information-technology-communication-and-innovat.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Local Government",
     "page": "Government of Mauritius",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-local-government.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Environment, Solid Waste Management and Climate Change",
     "page": "Government of Mauritius",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-environment-solid-waste-management-and-climate-c.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Labour and Industrial Relations",
     "page": "Government of Mauritius",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-labour-and-industrial-relations.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Social Integration, Social Security and National Solidarity",
     "page": "Government of Mauritius",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-social-integration-social-security-and-national-.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Gender Equality and Family Welfare",
     "page": "Government of Mauritius",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-gender-equality-and-family-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Mauritius",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Arts and Culture",
+    "page": "Government of Mauritius",
+    "url": "ministry-19-ministry-of-arts-and-culture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth and Sports",
+    "page": "Government of Mauritius",
+    "url": "ministry-20-ministry-of-youth-and-sports.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Service and Administrative Reforms",
+    "page": "Government of Mauritius",
+    "url": "ministry-21-ministry-of-public-service-and-administrative-reforms.html",
     "verified": "2026-09-01"
   }
 ]

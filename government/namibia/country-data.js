@@ -38,94 +38,139 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Health and Social Services",
+      "ministry-01-ministry-of-health-and-social-services.html",
       "NA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs of Namibia",
+      "ministry-02-ministry-of-foreign-affairs-of-namibia.html",
       "NA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Education",
+      "ministry-03-ministry-of-education.html",
       "NA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Finance",
+      "ministry-04-ministry-of-finance.html",
       "NA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Mines and Energy",
+      "ministry-05-ministry-of-mines-and-energy.html",
       "NA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Environment and Tourism",
+      "ministry-06-ministry-of-environment-and-tourism.html",
       "NA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of the Interior",
+      "ministry-07-ministry-of-the-interior.html",
       "NA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Fisheries and Marine Resources",
+      "ministry-08-ministry-of-fisheries-and-marine-resources.html",
       "NA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Gender Equality and Child Welfare",
+      "ministry-09-ministry-of-gender-equality-and-child-welfare.html",
       "NA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Sport, Youth and National Services",
+      "ministry-10-ministry-of-sport-youth-and-national-services.html",
       "NA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Veterans Affairs of Namibia",
+      "ministry-11-ministry-of-veterans-affairs-of-namibia.html",
       "NA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Urban and Rural Development",
+      "ministry-12-ministry-of-urban-and-rural-development.html",
       "NA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Trade and Industry",
+      "ministry-13-ministry-of-trade-and-industry.html",
       "NA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Labour",
+      "ministry-14-ministry-of-labour.html",
       "NA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Higher Education",
+      "ministry-15-ministry-of-higher-education.html",
       "NA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Education, Arts & Culture",
+      "ministry-16-ministry-of-education-arts-culture.html",
       "NA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Justice",
+      "ministry-17-ministry-of-justice.html",
       "NA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Defence of Namibia",
+      "ministry-18-ministry-of-defence-of-namibia.html",
       "NA-18"
+    ],
+    [
+      "Ministry of Agriculture, Water and Forestry of Namibia",
+      "ministry-19-ministry-of-agriculture-water-and-forestry-of-namibia.html",
+      "NA-19"
+    ],
+    [
+      "Ministry of Works and Transport",
+      "ministry-20-ministry-of-works-and-transport.html",
+      "NA-20"
+    ],
+    [
+      "National Planning Commission of Namibia",
+      "ministry-21-national-planning-commission-of-namibia.html",
+      "NA-21"
+    ],
+    [
+      "Ministry of Security of Namibia",
+      "ministry-22-ministry-of-security-of-namibia.html",
+      "NA-22"
+    ],
+    [
+      "Ministry of Information and Communication Technology",
+      "ministry-23-ministry-of-information-and-communication-technology.html",
+      "NA-23"
+    ],
+    [
+      "Ministry of Home Affairs",
+      "ministry-24-ministry-of-home-affairs.html",
+      "NA-24"
+    ],
+    [
+      "Ministry of Safety and Security",
+      "ministry-25-ministry-of-safety-and-security.html",
+      "NA-25"
+    ],
+    [
+      "Ministry of Youth and Sport",
+      "ministry-26-ministry-of-youth-and-sport.html",
+      "NA-26"
+    ],
+    [
+      "Ministry of Veteran Affairs",
+      "ministry-27-ministry-of-veteran-affairs.html",
+      "NA-27"
     ]
   ]
 };

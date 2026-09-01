@@ -38,94 +38,134 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Arts and Culture of Burkina Faso",
+      "ministry-01-ministry-of-arts-and-culture-of-burkina-faso.html",
       "BF-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Territorial Administration and Decentralisation of Burkina Faso",
+      "ministry-02-ministry-of-territorial-administration-and-decentralisation-.html",
       "BF-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Environment of Burkina Faso",
+      "ministry-03-ministry-of-environment-of-burkina-faso.html",
       "BF-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Family and Solidarity (Burkina Faso)",
+      "ministry-04-ministry-of-family-and-solidarity-burkina-faso.html",
       "BF-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Communication, Culture, Arts and Tourism of Burkina Faso",
+      "ministry-05-ministry-of-communication-culture-arts-and-tourism-of-burkin.html",
       "BF-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of War and Patriotic Defence",
+      "ministry-06-ministry-of-war-and-patriotic-defence.html",
       "BF-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Servants of the People",
+      "ministry-07-ministry-of-servants-of-the-people.html",
       "BF-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of the Environment, Green Economy, and Climate Change of Burkina Faso",
+      "ministry-08-ministry-of-the-environment-green-economy-and-climate-change.html",
       "BF-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Sports, Youth, and Employment",
+      "ministry-09-ministry-of-sports-youth-and-employment.html",
       "BF-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture",
+      "ministry-10-ministry-of-agriculture.html",
       "BF-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Security",
+      "ministry-11-ministry-of-security.html",
       "BF-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of National Education, Literacy and Promotion of National Languages",
+      "ministry-12-ministry-of-national-education-literacy-and-promotion-of-nat.html",
       "BF-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Health of Burkina Faso",
+      "ministry-13-ministry-of-health-of-burkina-faso.html",
       "BF-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Justice",
+      "ministry-14-ministry-of-justice.html",
       "BF-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Digital Transition, Post, and Electronic Communications",
+      "ministry-15-ministry-of-digital-transition-post-and-electronic-communica.html",
       "BF-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-16-ministry-of-foreign-affairs.html",
       "BF-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Higher Education of Burkina Faso",
+      "ministry-17-ministry-of-higher-education-of-burkina-faso.html",
       "BF-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Territorial Administration of Bukina Faso",
+      "ministry-18-ministry-of-territorial-administration-of-bukina-faso.html",
       "BF-18"
+    ],
+    [
+      "Ministry of Energy and Mines of Bukina Faso",
+      "ministry-19-ministry-of-energy-and-mines-of-bukina-faso.html",
+      "BF-19"
+    ],
+    [
+      "Ministry of Transport of Bukina Faso",
+      "ministry-20-ministry-of-transport-of-bukina-faso.html",
+      "BF-20"
+    ],
+    [
+      "Ministry of Finance and Economy of Bukina Faso",
+      "ministry-21-ministry-of-finance-and-economy-of-bukina-faso.html",
+      "BF-21"
+    ],
+    [
+      "Ministry of Urban Planning and Housing of Bukina Faso",
+      "ministry-22-ministry-of-urban-planning-and-housing-of-bukina-faso.html",
+      "BF-22"
+    ],
+    [
+      "Ministry of Industry and Commerce of Burkina Faso",
+      "ministry-23-ministry-of-industry-and-commerce-of-burkina-faso.html",
+      "BF-23"
+    ],
+    [
+      "Ministry of Youth and Employment of Bukina Faso",
+      "ministry-24-ministry-of-youth-and-employment-of-bukina-faso.html",
+      "BF-24"
+    ],
+    [
+      "Ministry of Infrastructure of Bukina Faso",
+      "ministry-25-ministry-of-infrastructure-of-bukina-faso.html",
+      "BF-25"
+    ],
+    [
+      "Ministry of Water of Bukina Faso",
+      "ministry-26-ministry-of-water-of-bukina-faso.html",
+      "BF-26"
     ]
   ]
 };

@@ -38,94 +38,129 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Department of Mineral Resources and Energy",
+      "ministry-01-department-of-mineral-resources-and-energy.html",
       "ZA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Department of Health",
+      "ministry-02-department-of-health.html",
       "ZA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Department of Agriculture, Land Reform and Rural Development",
+      "ministry-03-department-of-agriculture-land-reform-and-rural-development.html",
       "ZA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Sports, Arts and Culture",
+      "ministry-04-department-of-sports-arts-and-culture.html",
       "ZA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Defence",
+      "ministry-05-department-of-defence.html",
       "ZA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Employment and Labour",
+      "ministry-06-department-of-employment-and-labour.html",
       "ZA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Tourism",
+      "ministry-07-department-of-tourism.html",
       "ZA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Public Service and Administration",
+      "ministry-08-department-of-public-service-and-administration.html",
       "ZA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department of Communications and Digital Technologies",
+      "ministry-09-department-of-communications-and-digital-technologies.html",
       "ZA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of Basic Education",
+      "ministry-10-department-of-basic-education.html",
       "ZA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "National Treasury",
+      "ministry-11-national-treasury.html",
       "ZA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of Social Development",
+      "ministry-12-department-of-social-development.html",
       "ZA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Transport",
+      "ministry-13-department-of-transport.html",
       "ZA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department of Home Affairs",
+      "ministry-14-department-of-home-affairs.html",
       "ZA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department of Human Settlements",
+      "ministry-15-department-of-human-settlements.html",
       "ZA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of International Relations and Cooperation of South Africa",
+      "ministry-16-department-of-international-relations-and-cooperation-of-sou.html",
       "ZA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Department of Higher Education and Training",
+      "ministry-17-department-of-higher-education-and-training.html",
       "ZA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Department of Public Works and Infrastructure",
+      "ministry-18-department-of-public-works-and-infrastructure.html",
       "ZA-18"
+    ],
+    [
+      "Department of Science and Innovation",
+      "ministry-19-department-of-science-and-innovation.html",
+      "ZA-19"
+    ],
+    [
+      "Department of Forestry, Fisheries and the Environment",
+      "ministry-20-department-of-forestry-fisheries-and-the-environment.html",
+      "ZA-20"
+    ],
+    [
+      "Department of Water and Sanitation",
+      "ministry-21-department-of-water-and-sanitation.html",
+      "ZA-21"
+    ],
+    [
+      "Department of Trade and Industry and Competition",
+      "ministry-22-department-of-trade-and-industry-and-competition.html",
+      "ZA-22"
+    ],
+    [
+      "Department of Justice and Constitutional Development",
+      "ministry-23-department-of-justice-and-constitutional-development.html",
+      "ZA-23"
+    ],
+    [
+      "Department of Military Veterans",
+      "ministry-24-department-of-military-veterans.html",
+      "ZA-24"
+    ],
+    [
+      "Department of Telecommunications and Postal Services",
+      "ministry-25-department-of-telecommunications-and-postal-services.html",
+      "ZA-25"
     ]
   ]
 };

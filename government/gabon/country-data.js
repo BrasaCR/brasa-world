@@ -38,94 +38,129 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Office of the President",
+      "ministry-01-office-of-the-president.html",
       "GA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Office of the Prime Minister",
+      "ministry-02-office-of-the-prime-minister.html",
       "GA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "GA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Defence",
+      "ministry-04-ministry-of-national-defence.html",
       "GA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of the Interior and Security",
+      "ministry-05-ministry-of-the-interior-and-security.html",
       "GA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Justice and Human Rights",
+      "ministry-06-ministry-of-justice-and-human-rights.html",
       "GA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Economy and Finance",
+      "ministry-07-ministry-of-economy-and-finance.html",
       "GA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Budget and Public Accounts",
+      "ministry-08-ministry-of-budget-and-public-accounts.html",
       "GA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of National Education and Civic Training",
+      "ministry-09-ministry-of-national-education-and-civic-training.html",
       "GA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Higher Education, Scientific Research and Technological Innovation",
+      "ministry-10-ministry-of-higher-education-scientific-research-and-technol.html",
       "GA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health",
+      "ministry-11-ministry-of-health.html",
       "GA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Agriculture, Livestock and Rural Development",
+      "ministry-12-ministry-of-agriculture-livestock-and-rural-development.html",
       "GA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Water and Forests",
+      "ministry-13-ministry-of-water-and-forests.html",
       "GA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Oil and Gas",
+      "ministry-14-ministry-of-oil-and-gas.html",
       "GA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Mines",
+      "ministry-15-ministry-of-mines.html",
       "GA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Energy and Hydraulic Resources",
+      "ministry-16-ministry-of-energy-and-hydraulic-resources.html",
       "GA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Public Works",
+      "ministry-17-ministry-of-public-works.html",
       "GA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Transport and Merchant Marine",
+      "ministry-18-ministry-of-transport-and-merchant-marine.html",
       "GA-18"
+    ],
+    [
+      "Ministry of Digital Economy and New Information Technologies",
+      "ministry-19-ministry-of-digital-economy-and-new-information-technologies.html",
+      "GA-19"
+    ],
+    [
+      "Ministry of Environment, Climate and Sustainable Development",
+      "ministry-20-ministry-of-environment-climate-and-sustainable-development.html",
+      "GA-20"
+    ],
+    [
+      "Ministry of Labour and the Civil Service",
+      "ministry-21-ministry-of-labour-and-the-civil-service.html",
+      "GA-21"
+    ],
+    [
+      "Ministry of Industry and Commerce",
+      "ministry-22-ministry-of-industry-and-commerce.html",
+      "GA-22"
+    ],
+    [
+      "Ministry of Tourism and Handicrafts",
+      "ministry-23-ministry-of-tourism-and-handicrafts.html",
+      "GA-23"
+    ],
+    [
+      "Ministry of Culture, Youth, Sports and the Arts",
+      "ministry-24-ministry-of-culture-youth-sports-and-the-arts.html",
+      "GA-24"
+    ],
+    [
+      "Ministry of Social Affairs and Women’s Rights",
+      "ministry-25-ministry-of-social-affairs-and-women-s-rights.html",
+      "GA-25"
     ]
   ]
 };

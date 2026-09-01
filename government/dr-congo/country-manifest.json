@@ -24,7 +24,9 @@
     "Panama": "Democratic Republic of the Congo"
   },
   "sources": [
-    "https://www.primature.gouv.cd/"
+    "https://www.primature.gouv.cd/",
+    "https://www.minisanterdc.cd/",
+    "https://sgptntic.gouv.cd/"
   ],
   "utilities": [
     {
@@ -60,112 +62,100 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of the Environment and Conservation of Nature",
+      "href": "ministry-01-ministry-of-the-environment-and-conservation-of-nature.html",
       "abbreviation": "CD-1",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Hydrocarbons (Democratic Republic of Congo)",
+      "href": "ministry-02-ministry-of-hydrocarbons-democratic-republic-of-congo.html",
       "abbreviation": "CD-2",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Foreign Trade (Democratic Republic of Congo)",
+      "href": "ministry-03-ministry-of-foreign-trade-democratic-republic-of-congo.html",
       "abbreviation": "CD-3",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Planning (Democratic Republic of Congo)",
+      "href": "ministry-04-ministry-of-planning-democratic-republic-of-congo.html",
       "abbreviation": "CD-4",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Defense and Veterans Affairs (Democratic Republic of Congo)",
+      "href": "ministry-05-ministry-of-defense-and-veterans-affairs-democratic-republic.html",
       "abbreviation": "CD-5",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Finance of the Democratic Republic of the Congo",
+      "href": "ministry-06-ministry-of-finance-of-the-democratic-republic-of-the-congo.html",
       "abbreviation": "CD-6",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of the Interior and Security",
+      "href": "ministry-07-ministry-of-the-interior-and-security.html",
       "abbreviation": "CD-7",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Public Health (Democratic Republic of Congo)",
+      "href": "ministry-08-ministry-of-public-health-democratic-republic-of-congo.html",
       "abbreviation": "CD-8",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.minisanterdc.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-09-ministry-of-justice.html",
       "abbreviation": "CD-9",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Scientific Research and Technology",
+      "href": "ministry-10-ministry-of-scientific-research-and-technology.html",
       "abbreviation": "CD-10",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Gender",
+      "href": "ministry-11-ministry-of-gender.html",
       "abbreviation": "CD-11",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://www.primature.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Telecommunications and New Information and Communication Technologies (DRC",
+      "href": "ministry-12-ministry-of-telecommunications-and-new-information-and-commu.html",
       "abbreviation": "CD-12",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "CD-13",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "CD-14",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "CD-15",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "CD-16",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "CD-17",
-      "officialHref": "https://www.primature.gouv.cd/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "CD-18",
-      "officialHref": "https://www.primature.gouv.cd/"
+      "officialHref": "https://sgptntic.gouv.cd/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -229,5 +219,11 @@
       "name": "Sud-Kivu",
       "code": "SK"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

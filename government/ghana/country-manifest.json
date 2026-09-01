@@ -24,7 +24,41 @@
     "Panama": "Ghana"
   },
   "sources": [
-    "https://www.ghana.gov.gh/"
+    "https://www.ghana.gov.gh/",
+    "https://mcra.gov.gh/",
+    "https://www.mot.gov.gh/",
+    "https://mfa.gov.gh/",
+    "https://mopa.gov.gh/",
+    "https://www.melr.gov.gh/",
+    "https://www.mofad.gov.gh/",
+    "https://www.mwh.gov.gh/",
+    "https://www.mint.gov.gh/",
+    "https://www.mlgcra.gov.gh/",
+    "https://www.grda.gov.gh/",
+    "https://www.energymin.gov.gh/",
+    "https://moi.gov.gh/",
+    "https://mod.gov.gh/",
+    "https://mojagd.gov.gh/",
+    "https://www.moh.gov.gh/",
+    "https://moys.gov.gh/",
+    "https://moti.gov.gh/",
+    "https://moe.gov.gh/",
+    "https://mrh.gov.gh/",
+    "https://imccod.gov.gh/",
+    "https://mswr.gov.gh/",
+    "http://www.mlnr.gov.gh/",
+    "https://www.mlgrd.gov.gh/",
+    "https://moc.gov.gh/",
+    "https://mesti.gov.gh/",
+    "https://www.govgh.org/ministries/29b04a5f96",
+    "https://www.mfa.gov.gh/",
+    "https://www.zicds.gov.gh/",
+    "https://www.msdi.gov.gh/",
+    "http://mome.gov.gh/",
+    "https://www.mogcsp.gov.gh/",
+    "https://mofa.gov.gh/",
+    "https://www.motac.gov.gh/",
+    "https://www.mofep.gov.gh/"
   ],
   "utilities": [
     {
@@ -60,112 +94,308 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry for Chieftaincy and Traditional Affairs",
+      "href": "ministry-01-ministry-for-chieftaincy-and-traditional-affairs.html",
       "abbreviation": "GH-1",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://mcra.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of National Security",
+      "href": "ministry-02-ministry-of-national-security.html",
       "abbreviation": "GH-2",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.ghana.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-03-ministry-of-transport.html",
       "abbreviation": "GH-3",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.mot.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Foreign Affairs and Regional Integration of the Republic of Ghana",
+      "href": "ministry-04-ministry-of-foreign-affairs-and-regional-integration-of-the-.html",
       "abbreviation": "GH-4",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://mfa.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Parliamentary Affairs",
+      "href": "ministry-05-ministry-of-parliamentary-affairs.html",
       "abbreviation": "GH-5",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://mopa.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Employment and Labour Relations",
+      "href": "ministry-06-ministry-of-employment-and-labour-relations.html",
       "abbreviation": "GH-6",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.melr.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Fisheries and Aquaculture Development",
+      "href": "ministry-07-ministry-of-fisheries-and-aquaculture-development.html",
       "abbreviation": "GH-7",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.mofad.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Works and Housing",
+      "href": "ministry-08-ministry-of-works-and-housing.html",
       "abbreviation": "GH-8",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.mwh.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Interior",
+      "href": "ministry-09-ministry-of-interior.html",
       "abbreviation": "GH-9",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.mint.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry for Chieftaincy and Religious Affairs",
+      "href": "ministry-10-ministry-for-chieftaincy-and-religious-affairs.html",
       "abbreviation": "GH-10",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.mlgcra.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Railway Development (Ghana)",
+      "href": "ministry-11-ministry-of-railway-development-ghana.html",
       "abbreviation": "GH-11",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.grda.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Energy and Petroleum",
+      "href": "ministry-12-ministry-of-energy-and-petroleum.html",
       "abbreviation": "GH-12",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.energymin.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Information",
+      "href": "ministry-13-ministry-of-information.html",
       "abbreviation": "GH-13",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://moi.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-14-ministry-of-defence.html",
       "abbreviation": "GH-14",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://mod.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Communication, Digital Technology and Innovations",
+      "href": "ministry-15-ministry-of-communication-digital-technology-and-innovations.html",
       "abbreviation": "GH-15",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.ghana.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-16-ministry-of-justice.html",
       "abbreviation": "GH-16",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://mojagd.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-17-ministry-of-health.html",
       "abbreviation": "GH-17",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://www.moh.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Youth and Sports",
+      "href": "ministry-18-ministry-of-youth-and-sports.html",
       "abbreviation": "GH-18",
-      "officialHref": "https://www.ghana.gov.gh/"
+      "officialHref": "https://moys.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for Trade and Industry",
+      "href": "ministry-19-ministry-for-trade-and-industry.html",
+      "abbreviation": "GH-19",
+      "officialHref": "https://moti.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Education of Ghana",
+      "href": "ministry-20-ministry-of-education-of-ghana.html",
+      "abbreviation": "GH-20",
+      "officialHref": "https://moe.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Roads and Highways",
+      "href": "ministry-21-ministry-of-roads-and-highways.html",
+      "abbreviation": "GH-21",
+      "officialHref": "https://mrh.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Inter-Ministerial Cordinating Committee on Decentralization",
+      "href": "ministry-22-inter-ministerial-cordinating-committee-on-decentralization.html",
+      "abbreviation": "GH-22",
+      "officialHref": "https://imccod.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Sanitation and Water Resources",
+      "href": "ministry-23-ministry-of-sanitation-and-water-resources.html",
+      "abbreviation": "GH-23",
+      "officialHref": "https://mswr.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Energy and Green Transition",
+      "href": "ministry-24-ministry-of-energy-and-green-transition.html",
+      "abbreviation": "GH-24",
+      "officialHref": "https://www.energymin.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Lands and Natural Resources",
+      "href": "ministry-25-ministry-of-lands-and-natural-resources.html",
+      "abbreviation": "GH-25",
+      "officialHref": "http://www.mlnr.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Local Government and Rural Development",
+      "href": "ministry-26-ministry-of-local-government-and-rural-development.html",
+      "abbreviation": "GH-26",
+      "officialHref": "https://www.mlgrd.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Communication and Technology",
+      "href": "ministry-27-ministry-of-communication-and-technology.html",
+      "abbreviation": "GH-27",
+      "officialHref": "https://moc.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Environment, Science, Technology and Innovation",
+      "href": "ministry-28-ministry-of-environment-science-technology-and-innovation.html",
+      "abbreviation": "GH-28",
+      "officialHref": "https://mesti.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Aviation",
+      "href": "ministry-29-ministry-of-aviation.html",
+      "abbreviation": "GH-29",
+      "officialHref": "https://www.govgh.org/ministries/29b04a5f96",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice and Attorney-General's Office",
+      "href": "ministry-30-ministry-of-justice-and-attorney-general-s-office.html",
+      "abbreviation": "GH-30",
+      "officialHref": "https://mojagd.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Foreign Affairs and Regional Integration",
+      "href": "ministry-31-ministry-of-foreign-affairs-and-regional-integration.html",
+      "abbreviation": "GH-31",
+      "officialHref": "https://www.mfa.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Inner City and Zongo Development",
+      "href": "ministry-32-ministry-of-inner-city-and-zongo-development.html",
+      "abbreviation": "GH-32",
+      "officialHref": "https://www.zicds.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Special Development Initiatives",
+      "href": "ministry-33-ministry-of-special-development-initiatives.html",
+      "abbreviation": "GH-33",
+      "officialHref": "https://www.msdi.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Monitoring and Evaluation",
+      "href": "ministry-34-ministry-of-monitoring-and-evaluation.html",
+      "abbreviation": "GH-34",
+      "officialHref": "http://mome.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Women and Children's Affairs",
+      "href": "ministry-35-ministry-of-women-and-children-s-affairs.html",
+      "abbreviation": "GH-35",
+      "officialHref": "https://www.mogcsp.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Food and Agriculture of Ghana",
+      "href": "ministry-36-ministry-of-food-and-agriculture-of-ghana.html",
+      "abbreviation": "GH-36",
+      "officialHref": "https://mofa.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Tourism, Arts & Culture (MoTAC) Ghana",
+      "href": "ministry-37-ministry-of-tourism-arts-culture-motac-ghana.html",
+      "abbreviation": "GH-37",
+      "officialHref": "https://www.motac.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Finance and Economic Planning",
+      "href": "ministry-38-ministry-of-finance-and-economic-planning.html",
+      "abbreviation": "GH-38",
+      "officialHref": "https://www.mofep.gov.gh/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -249,5 +479,11 @@
       "name": "Western North",
       "code": "WN"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

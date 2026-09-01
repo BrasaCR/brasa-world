@@ -36,111 +36,267 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Federal Ministry of Agriculture and Rural Development",
     "page": "Government of Nigeria",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-federal-ministry-of-agriculture-and-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Finance",
     "page": "Government of Nigeria",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Education, Science and Technology",
     "page": "Government of Nigeria",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-education-science-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Federal Ministry of Agriculture and Food Security",
     "page": "Government of Nigeria",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-federal-ministry-of-agriculture-and-food-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Foreign Affairs of the Federal Republic of Nigeria",
     "page": "Government of Nigeria",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-foreign-affairs-of-the-federal-republic-of-niger.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Interior",
     "page": "Government of Nigeria",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Power",
     "page": "Government of Nigeria",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-power.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Federal Ministry of Health",
     "page": "Government of Nigeria",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-federal-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Federal Ministry of Defence",
     "page": "Government of Nigeria",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-federal-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Nigerian Federal Ministry of Aviation",
     "page": "Government of Nigeria",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-nigerian-federal-ministry-of-aviation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Nigerian Federal Ministry of Information and Communications",
     "page": "Government of Nigeria",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-nigerian-federal-ministry-of-information-and-communications.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Nigerian Ministry of Science & Technology",
     "page": "Government of Nigeria",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-nigerian-ministry-of-science-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Federal Ministry of Water Resources and Sanitation",
     "page": "Government of Nigeria",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-federal-ministry-of-water-resources-and-sanitation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Federal Ministry of Livestock Development",
     "page": "Government of Nigeria",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-federal-ministry-of-livestock-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Federal Ministry of Labour, Employment and Productivity",
     "page": "Government of Nigeria",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-federal-ministry-of-labour-employment-and-productivity.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Nigerian Federal Ministry of Education",
     "page": "Government of Nigeria",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-nigerian-federal-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Solid Minerals Development",
     "page": "Government of Nigeria",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-solid-minerals-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Federal Ministry of Communication and Digital Economy",
     "page": "Government of Nigeria",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-federal-ministry-of-communication-and-digital-economy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Marine and Blue Economy",
+    "page": "Government of Nigeria",
+    "url": "ministry-19-federal-ministry-of-marine-and-blue-economy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Petroleum Resources",
+    "page": "Government of Nigeria",
+    "url": "ministry-20-federal-ministry-of-petroleum-resources.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Environment of Nigeria",
+    "page": "Government of Nigeria",
+    "url": "ministry-21-federal-ministry-of-environment-of-nigeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Budget and Economic Planning",
+    "page": "Government of Nigeria",
+    "url": "ministry-22-federal-ministry-of-budget-and-economic-planning.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Humanitarian Affairs and Poverty Reduction",
+    "page": "Government of Nigeria",
+    "url": "ministry-23-federal-ministry-of-humanitarian-affairs-and-poverty-reducti.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Nigerian Ministry of Women Affairs",
+    "page": "Government of Nigeria",
+    "url": "ministry-24-nigerian-ministry-of-women-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transportation",
+    "page": "Government of Nigeria",
+    "url": "ministry-25-ministry-of-transportation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "National Planning Commission of Nigeria",
+    "page": "Government of Nigeria",
+    "url": "ministry-26-national-planning-commission-of-nigeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Agriculture",
+    "page": "Government of Nigeria",
+    "url": "ministry-27-federal-ministry-of-agriculture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Nigerian Federal Ministry of Justice",
+    "page": "Government of Nigeria",
+    "url": "ministry-28-nigerian-federal-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Nigerian Ministry of Defence",
+    "page": "Government of Nigeria",
+    "url": "ministry-29-nigerian-ministry-of-defence.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Labour and Employment",
+    "page": "Government of Nigeria",
+    "url": "ministry-30-federal-ministry-of-labour-and-employment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of the Federal Capital Territory",
+    "page": "Government of Nigeria",
+    "url": "ministry-31-ministry-of-the-federal-capital-territory.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "National Population Commission Abuja Nigeria",
+    "page": "Government of Nigeria",
+    "url": "ministry-32-national-population-commission-abuja-nigeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Nipost Bwari",
+    "page": "Government of Nigeria",
+    "url": "ministry-33-nipost-bwari.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Dan Auta, Agric Extension Agent And Horticulture Consultant",
+    "page": "Government of Nigeria",
+    "url": "ministry-34-dan-auta-agric-extension-agent-and-horticulture-consultant.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Home Affairs, Information And Culture",
+    "page": "Government of Nigeria",
+    "url": "ministry-35-ministry-of-home-affairs-information-and-culture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "JAMB OFFICE YOLA",
+    "page": "Government of Nigeria",
+    "url": "ministry-36-jamb-office-yola.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Land and Survey yola",
+    "page": "Government of Nigeria",
+    "url": "ministry-37-ministry-of-land-and-survey-yola.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal ministry of works and housing",
+    "page": "Government of Nigeria",
+    "url": "ministry-38-federal-ministry-of-works-and-housing.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Capital Territory Administration",
+    "page": "Government of Nigeria",
+    "url": "ministry-39-federal-capital-territory-administration.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Art, Culture, Tourism and the Creative Economy",
+    "page": "Government of Nigeria",
+    "url": "ministry-40-ministry-of-art-culture-tourism-and-the-creative-economy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Sustainable Development Goals and Nigeria",
+    "page": "Government of Nigeria",
+    "url": "ministry-41-sustainable-development-goals-and-nigeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Special Duties & Intergovernmental Affairs",
+    "page": "Government of Nigeria",
+    "url": "ministry-42-federal-ministry-of-special-duties-intergovernmental-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Environment and Forest Resources",
+    "page": "Government of Nigeria",
+    "url": "ministry-43-ministry-of-environment-and-forest-resources.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Federal Ministry of Science and Technology",
+    "page": "Government of Nigeria",
+    "url": "ministry-44-federal-ministry-of-science-and-technology.html",
     "verified": "2026-09-01"
   }
 ]

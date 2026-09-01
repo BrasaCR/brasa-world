@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "GW-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs, International Cooperation and Communities",
+      "ministry-02-ministry-of-foreign-affairs-international-cooperation-and-co.html",
       "GW-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of National Defence and Freedom Fighters",
+      "ministry-03-ministry-of-national-defence-and-freedom-fighters.html",
       "GW-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Interior and Public Order",
+      "ministry-04-ministry-of-the-interior-and-public-order.html",
       "GW-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice and Human Rights",
+      "ministry-05-ministry-of-justice-and-human-rights.html",
       "GW-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economy, Planning and Regional Integration",
+      "ministry-06-ministry-of-economy-planning-and-regional-integration.html",
       "GW-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance",
+      "ministry-07-ministry-of-finance.html",
       "GW-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of National Education and Higher Education",
+      "ministry-08-ministry-of-national-education-and-higher-education.html",
       "GW-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Public Health",
+      "ministry-09-ministry-of-public-health.html",
       "GW-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture and Rural Development",
+      "ministry-10-ministry-of-agriculture-and-rural-development.html",
       "GW-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Fisheries and Maritime Economy",
+      "ministry-11-ministry-of-fisheries-and-maritime-economy.html",
       "GW-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Natural Resources and Energy",
+      "ministry-12-ministry-of-natural-resources-and-energy.html",
       "GW-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Public Works, Housing and Urban Planning",
+      "ministry-13-ministry-of-public-works-housing-and-urban-planning.html",
       "GW-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-14-ministry-of-transport-and-communications.html",
       "GW-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Territorial Administration and Local Government",
+      "ministry-15-ministry-of-territorial-administration-and-local-government.html",
       "GW-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Public Administration, Labour and Social Security",
+      "ministry-16-ministry-of-public-administration-labour-and-social-security.html",
       "GW-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Women, Family and Social Solidarity",
+      "ministry-17-ministry-of-women-family-and-social-solidarity.html",
       "GW-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Environment and Biodiversity",
+      "ministry-18-ministry-of-environment-and-biodiversity.html",
       "GW-18"
+    ],
+    [
+      "Ministry of Culture, Youth and Sports",
+      "ministry-19-ministry-of-culture-youth-and-sports.html",
+      "GW-19"
+    ],
+    [
+      "Ministry of Tourism and Handicrafts",
+      "ministry-20-ministry-of-tourism-and-handicrafts.html",
+      "GW-20"
     ]
   ]
 };

@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of the Interior, Community Development and Public Security of Burundi",
+      "ministry-01-ministry-of-the-interior-community-development-and-public-se.html",
       "BI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance, Budget and Digital Economy of Burundi",
+      "ministry-02-ministry-of-finance-budget-and-digital-economy-of-burundi.html",
       "BI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Mining and Energy Resources, Industry, Trade and Tourism of Burundi",
+      "ministry-03-ministry-of-mining-and-energy-resources-industry-trade-and-t.html",
       "BI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Defence and Veterans of Burundi",
+      "ministry-04-ministry-of-national-defence-and-veterans-of-burundi.html",
       "BI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of National Education and Scientific Research of Burundi",
+      "ministry-05-ministry-of-national-education-and-scientific-research-of-bu.html",
       "BI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Labour, Public Service and Social Security of Burundi",
+      "ministry-06-ministry-of-labour-public-service-and-social-security-of-bur.html",
       "BI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Infrastructure, Social Housing, Transport and Equipment of Burundi",
+      "ministry-07-ministry-of-infrastructure-social-housing-transport-and-equi.html",
       "BI-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Youth, Sports and Culture of Burundi",
+      "ministry-08-ministry-of-youth-sports-and-culture-of-burundi.html",
       "BI-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Communication and Media of Burundi",
+      "ministry-09-ministry-of-communication-and-media-of-burundi.html",
       "BI-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Energy and Mines of Burundi",
+      "ministry-10-ministry-of-energy-and-mines-of-burundi.html",
       "BI-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Public Security of Burundi",
+      "ministry-11-ministry-of-public-security-of-burundi.html",
       "BI-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Foreign Affairs, Regional Integration and Development Cooperation of Burundi",
+      "ministry-12-ministry-of-foreign-affairs-regional-integration-and-develop.html",
       "BI-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Environment, Agriculture and Livestock of Burundi",
+      "ministry-13-ministry-of-environment-agriculture-and-livestock-of-burundi.html",
       "BI-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Public Health of Burundi",
+      "ministry-14-ministry-of-public-health-of-burundi.html",
       "BI-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice, Human Rights and Gender of Burundi",
+      "ministry-15-ministry-of-justice-human-rights-and-gender-of-burundi.html",
       "BI-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "BI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "BI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "BI-18"
     ]
   ]
 };

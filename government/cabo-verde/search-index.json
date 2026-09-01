@@ -36,111 +36,99 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Prime Minister’s Office",
     "page": "Government of Cabo Verde",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-prime-minister-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Finance",
     "page": "Government of Cabo Verde",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Foreign Affairs, Cooperation and Regional Integration",
     "page": "Government of Cabo Verde",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-foreign-affairs-cooperation-and-regional-integra.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Internal Administration",
     "page": "Government of Cabo Verde",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-internal-administration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Justice",
     "page": "Government of Cabo Verde",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of National Defence",
     "page": "Government of Cabo Verde",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-national-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Education",
     "page": "Government of Cabo Verde",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Health",
     "page": "Government of Cabo Verde",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Agriculture and Environment",
     "page": "Government of Cabo Verde",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-agriculture-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Industry, Commerce and Energy",
     "page": "Government of Cabo Verde",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-industry-commerce-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Infrastructure, Spatial Planning and Housing",
     "page": "Government of Cabo Verde",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-infrastructure-spatial-planning-and-housing.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Tourism and Transport",
     "page": "Government of Cabo Verde",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-tourism-and-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Culture and Creative Industries",
     "page": "Government of Cabo Verde",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-culture-and-creative-industries.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Family, Inclusion and Social Development",
     "page": "Government of Cabo Verde",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-family-inclusion-and-social-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Modernization of the State and Public Administration",
     "page": "Government of Cabo Verde",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-modernization-of-the-state-and-public-administra.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Sport and Youth",
     "page": "Government of Cabo Verde",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Cabo Verde",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Cabo Verde",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-16-ministry-of-sport-and-youth.html",
     "verified": "2026-09-01"
   }
 ]

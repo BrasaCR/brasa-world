@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "CV-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance",
+      "ministry-02-ministry-of-finance.html",
       "CV-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs, Cooperation and Regional Integration",
+      "ministry-03-ministry-of-foreign-affairs-cooperation-and-regional-integra.html",
       "CV-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Internal Administration",
+      "ministry-04-ministry-of-internal-administration.html",
       "CV-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice",
+      "ministry-05-ministry-of-justice.html",
       "CV-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of National Defence",
+      "ministry-06-ministry-of-national-defence.html",
       "CV-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Education",
+      "ministry-07-ministry-of-education.html",
       "CV-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health",
+      "ministry-08-ministry-of-health.html",
       "CV-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture and Environment",
+      "ministry-09-ministry-of-agriculture-and-environment.html",
       "CV-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Industry, Commerce and Energy",
+      "ministry-10-ministry-of-industry-commerce-and-energy.html",
       "CV-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Infrastructure, Spatial Planning and Housing",
+      "ministry-11-ministry-of-infrastructure-spatial-planning-and-housing.html",
       "CV-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Tourism and Transport",
+      "ministry-12-ministry-of-tourism-and-transport.html",
       "CV-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Culture and Creative Industries",
+      "ministry-13-ministry-of-culture-and-creative-industries.html",
       "CV-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Family, Inclusion and Social Development",
+      "ministry-14-ministry-of-family-inclusion-and-social-development.html",
       "CV-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Modernization of the State and Public Administration",
+      "ministry-15-ministry-of-modernization-of-the-state-and-public-administra.html",
       "CV-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Sport and Youth",
+      "ministry-16-ministry-of-sport-and-youth.html",
       "CV-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "CV-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "CV-18"
     ]
   ]
 };

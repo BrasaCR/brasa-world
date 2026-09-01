@@ -38,94 +38,89 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Health",
+      "ministry-01-ministry-of-health.html",
       "SC-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "President's Office",
+      "ministry-02-president-s-office.html",
       "SC-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Vice-President's Office",
+      "ministry-03-vice-president-s-office.html",
       "SC-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry for Local Government and Inner Islands",
+      "ministry-04-ministry-for-local-government-and-inner-islands.html",
       "SC-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Fisheries, Agriculture and Blue Economy",
+      "ministry-05-ministry-of-fisheries-agriculture-and-blue-economy.html",
       "SC-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-06-ministry-of-foreign-affairs.html",
       "SC-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance, Economic Planning, Trade and Investment",
+      "ministry-07-ministry-of-finance-economic-planning-trade-and-investment.html",
       "SC-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Transport, Ports and Civil Aviation",
+      "ministry-08-ministry-of-transport-ports-and-civil-aviation.html",
       "SC-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Homeland Security and Civil Affairs",
+      "ministry-09-ministry-of-homeland-security-and-civil-affairs.html",
       "SC-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Industry and Enterprise",
+      "ministry-10-ministry-of-industry-and-enterprise.html",
       "SC-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry for Youth and Sport",
+      "ministry-11-ministry-for-youth-and-sport.html",
       "SC-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Employment & Human Resource Planning",
+      "ministry-12-ministry-of-employment-human-resource-planning.html",
       "SC-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry for Tourism and Culture",
+      "ministry-13-ministry-for-tourism-and-culture.html",
       "SC-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Foreign Affairs and the Diaspora",
+      "ministry-14-ministry-of-foreign-affairs-and-the-diaspora.html",
       "SC-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Social Affairs, Family and Equality",
+      "ministry-15-ministry-of-social-affairs-family-and-equality.html",
       "SC-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Environment, Climate, Energy and Natural Resources",
+      "ministry-16-ministry-of-environment-climate-energy-and-natural-resources.html",
       "SC-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Education and Human Resource Development",
+      "ministry-17-ministry-of-education-and-human-resource-development.html",
       "SC-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "SC-18"
     ]
   ]
 };

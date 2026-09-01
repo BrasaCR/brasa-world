@@ -24,7 +24,14 @@
     "Panama": "Libya"
   },
   "sources": [
-    "https://pm.gov.ly/"
+    "https://pm.gov.ly/",
+    "https://www.agriculture.gov.ly",
+    "https://csc.gov.ly/en/portfolio/ministry-of-defense/",
+    "http://www.foreign.gov.ly/ar/index.php#",
+    "http://aladel.gov.ly/",
+    "http://www.highereducation.gov.ly/",
+    "https://moi.gov.ly/",
+    "https://tve.gov.ly/"
   ],
   "utilities": [
     {
@@ -60,112 +67,108 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Agriculture and Livestock (Libya)",
+      "href": "ministry-01-ministry-of-agriculture-and-livestock-libya.html",
       "abbreviation": "LY-1",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://www.agriculture.gov.ly",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-02-ministry-of-defence.html",
       "abbreviation": "LY-2",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://csc.gov.ly/en/portfolio/ministry-of-defense/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Foreign Affairs and International Cooperation of the State of Libya",
+      "href": "ministry-03-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "abbreviation": "LY-3",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "http://www.foreign.gov.ly/ar/index.php#",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Justice (Libya)",
+      "href": "ministry-04-ministry-of-justice-libya.html",
       "abbreviation": "LY-4",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "http://aladel.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Higher Education and Scientific Research",
+      "href": "ministry-05-ministry-of-higher-education-and-scientific-research.html",
       "abbreviation": "LY-5",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "http://www.highereducation.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Internal Affairs of Libya",
+      "href": "ministry-06-ministry-of-internal-affairs-of-libya.html",
       "abbreviation": "LY-6",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://moi.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-07-ministry-of-finance.html",
       "abbreviation": "LY-7",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Technical and Vocational Education",
+      "href": "ministry-08-ministry-of-technical-and-vocational-education.html",
       "abbreviation": "LY-8",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://tve.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Social Affairs",
+      "href": "ministry-09-ministry-of-social-affairs.html",
       "abbreviation": "LY-9",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Oil and Gas",
+      "href": "ministry-10-ministry-of-oil-and-gas.html",
       "abbreviation": "LY-10",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Economy and Trade of Libya",
+      "href": "ministry-11-ministry-of-economy-and-trade-of-libya.html",
       "abbreviation": "LY-11",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Youth",
+      "href": "ministry-12-ministry-of-youth.html",
       "abbreviation": "LY-12",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Culture of Libya",
+      "href": "ministry-13-ministry-of-culture-of-libya.html",
       "abbreviation": "LY-13",
-      "officialHref": "https://pm.gov.ly/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "LY-14",
-      "officialHref": "https://pm.gov.ly/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "LY-15",
-      "officialHref": "https://pm.gov.ly/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "LY-16",
-      "officialHref": "https://pm.gov.ly/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "LY-17",
-      "officialHref": "https://pm.gov.ly/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "LY-18",
-      "officialHref": "https://pm.gov.ly/"
+      "officialHref": "https://pm.gov.ly/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -273,5 +276,11 @@
       "name": "Wādī ash Shāţiʾ",
       "code": "WS"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

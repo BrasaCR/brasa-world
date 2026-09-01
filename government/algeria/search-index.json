@@ -36,111 +36,195 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Youth and Sports",
     "page": "Government of Algeria",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Relations with Parliament of Algeria",
     "page": "Government of Algeria",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-relations-with-parliament-of-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Higher Education and Scientific Research",
     "page": "Government of Algeria",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-higher-education-and-scientific-research.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Tourism and Handicrafts (Algeria)",
     "page": "Government of Algeria",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-tourism-and-handicrafts-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Public Works",
     "page": "Government of Algeria",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-public-works.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Fishing of Algeria",
     "page": "Government of Algeria",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-fishing-of-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Youth (Algeria)",
     "page": "Government of Algeria",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-youth-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Agriculture, Rural Development and Fishing",
     "page": "Government of Algeria",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-agriculture-rural-development-and-fishing.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Communication (Algeria)",
     "page": "Government of Algeria",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-communication-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of trade",
     "page": "Government of Algeria",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Housing, Urban Planning and the City",
     "page": "Government of Algeria",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-housing-urban-planning-and-the-city.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Post and Telecommunications",
     "page": "Government of Algeria",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-post-and-telecommunications.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Labour, Employment and Social Security",
     "page": "Government of Algeria",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-labour-employment-and-social-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Transport Ministry of Algeria",
     "page": "Government of Algeria",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-transport-ministry-of-algeria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministère de la Santé",
     "page": "Government of Algeria",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministere-de-la-sante.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Industry and Mines",
     "page": "Government of Algeria",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-industry-and-mines.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of the Environment and Quality of Life",
     "page": "Government of Algeria",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-the-environment-and-quality-of-life.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of training and vocational education",
     "page": "Government of Algeria",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-training-and-vocational-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health of Algeria",
+    "page": "Government of Algeria",
+    "url": "ministry-19-ministry-of-health-of-algeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Religious Affairs and Endowments",
+    "page": "Government of Algeria",
+    "url": "ministry-20-ministry-of-religious-affairs-and-endowments.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture and Rural Development",
+    "page": "Government of Algeria",
+    "url": "ministry-21-ministry-of-agriculture-and-rural-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Water Resources",
+    "page": "Government of Algeria",
+    "url": "ministry-22-ministry-of-water-resources.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Mujahidin",
+    "page": "Government of Algeria",
+    "url": "ministry-23-ministry-of-mujahidin.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Culture",
+    "page": "Government of Algeria",
+    "url": "ministry-24-ministry-of-culture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Solidarity (Algeria)",
+    "page": "Government of Algeria",
+    "url": "ministry-25-ministry-of-national-solidarity-algeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs of Algeria",
+    "page": "Government of Algeria",
+    "url": "ministry-26-ministry-of-foreign-affairs-of-algeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of the Interior of Algeria",
+    "page": "Government of Algeria",
+    "url": "ministry-27-ministry-of-the-interior-of-algeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Education",
+    "page": "Government of Algeria",
+    "url": "ministry-28-ministry-of-national-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Algeria",
+    "url": "ministry-29-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Defense (Algeria)",
+    "page": "Government of Algeria",
+    "url": "ministry-30-ministry-of-national-defense-algeria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice",
+    "page": "Government of Algeria",
+    "url": "ministry-31-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Energy and Mining",
+    "page": "Government of Algeria",
+    "url": "ministry-32-ministry-of-energy-and-mining.html",
     "verified": "2026-09-01"
   }
 ]

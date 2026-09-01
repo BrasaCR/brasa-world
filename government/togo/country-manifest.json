@@ -24,7 +24,24 @@
     "Panama": "Togo"
   },
   "sources": [
-    "https://service-public.gouv.tg/"
+    "https://service-public.gouv.tg/",
+    "https://actionsociale.gouv.tg/",
+    "https://minjustg.com/",
+    "https://infrastructure.gouv.tg/",
+    "https://justice.gouv.tg",
+    "https://securite.gouv.tg/",
+    "https://communication.gouv.tg",
+    "https://numerique.gouv.tg",
+    "https://transports.gouv.tg",
+    "https://agriculture.gouv.tg",
+    "https://devbase.gouv.tg",
+    "https://education.gouv.tg",
+    "https://transports.gouv.tg/",
+    "https://defense.gouv.tg/",
+    "https://urbanisme.gouv.tg/",
+    "https://togoleseministryofhealthlome.myewebsite.com/",
+    "http://agriculture.gouv.tg/fr",
+    "https://territoire.gouv.tg/"
   ],
   "utilities": [
     {
@@ -60,112 +77,260 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Mines and Energy",
+      "href": "ministry-01-ministry-of-mines-and-energy.html",
       "abbreviation": "TG-1",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Social Action, Solidarity and the Promotion of Women (Togo)",
+      "href": "ministry-02-ministry-of-social-action-solidarity-and-the-promotion-of-wo.html",
       "abbreviation": "TG-2",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://actionsociale.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Justice and Legislation (Togo)",
+      "href": "ministry-03-ministry-of-justice-and-legislation-togo.html",
       "abbreviation": "TG-3",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://minjustg.com/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Infrastructure and Transport of Togo",
+      "href": "ministry-04-ministry-of-infrastructure-and-transport-of-togo.html",
       "abbreviation": "TG-4",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://infrastructure.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Justice (Togo)",
+      "href": "ministry-05-ministry-of-justice-togo.html",
       "abbreviation": "TG-5",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://justice.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Mines and Energy Resources of Togo",
+      "href": "ministry-06-ministry-of-mines-and-energy-resources-of-togo.html",
       "abbreviation": "TG-6",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Sports and Recreation of  Togo",
+      "href": "ministry-07-ministry-of-sports-and-recreation-of-togo.html",
       "abbreviation": "TG-7",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Grassroots Development, Financial Inclusion, Youth, and Youth Employment of Togo",
+      "href": "ministry-08-ministry-of-grassroots-development-financial-inclusion-youth.html",
       "abbreviation": "TG-8",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Human Rights, Citizenship Training and Relations with the Institutions of the Republic (Togo)",
+      "href": "ministry-09-ministry-of-human-rights-citizenship-training-and-relations-.html",
       "abbreviation": "TG-9",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Social Action, Solidarity and the Promotion of Women of Togo",
+      "href": "ministry-10-ministry-of-social-action-solidarity-and-the-promotion-of-wo.html",
       "abbreviation": "TG-10",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Grassroots Development and Social and Solidarity Economy (Togo)",
+      "href": "ministry-11-ministry-of-grassroots-development-and-social-and-solidarity.html",
       "abbreviation": "TG-11",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of industy and investment promotions togo",
+      "href": "ministry-12-ministry-of-industy-and-investment-promotions-togo.html",
       "abbreviation": "TG-12",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Security of Togo",
+      "href": "ministry-13-ministry-of-security-of-togo.html",
       "abbreviation": "TG-13",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://securite.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Communication of Togo",
+      "href": "ministry-14-ministry-of-communication-of-togo.html",
       "abbreviation": "TG-14",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://communication.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Public Service Efficiency and Digital Transformation of Togo",
+      "href": "ministry-15-ministry-of-public-service-efficiency-and-digital-transforma.html",
       "abbreviation": "TG-15",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://numerique.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Health, Public Hygiene, Universal Health Coverage and Insurance of Togo",
+      "href": "ministry-16-ministry-of-health-public-hygiene-universal-health-coverage-.html",
       "abbreviation": "TG-16",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://transports.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Public Service and Social Dialogue of Togo",
+      "href": "ministry-17-ministry-of-public-service-and-social-dialogue-of-togo.html",
       "abbreviation": "TG-17",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://transports.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Environment, Forest Resources, Coastal Protection and Climate Change of Togo",
+      "href": "ministry-18-ministry-of-environment-forest-resources-coastal-protection-.html",
       "abbreviation": "TG-18",
-      "officialHref": "https://service-public.gouv.tg/"
+      "officialHref": "https://agriculture.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Grassroots Development and Social and Solidarity Economy of Togo",
+      "href": "ministry-19-ministry-of-grassroots-development-and-social-and-solidarity.html",
+      "abbreviation": "TG-19",
+      "officialHref": "https://devbase.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of National Education of Togo",
+      "href": "ministry-20-ministry-of-national-education-of-togo.html",
+      "abbreviation": "TG-20",
+      "officialHref": "https://education.gouv.tg",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Relations with Parliament and Institutions of Togo",
+      "href": "ministry-21-ministry-of-relations-with-parliament-and-institutions-of-to.html",
+      "abbreviation": "TG-21",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Territorial Administration, Local Governance and Customary Affairs of Togo",
+      "href": "ministry-22-ministry-of-territorial-administration-local-governance-and-.html",
+      "abbreviation": "TG-22",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Agriculture, Fisheries, Animal Resources and Food Sovereignty of Togo",
+      "href": "ministry-23-ministry-of-agriculture-fisheries-animal-resources-and-food-.html",
+      "abbreviation": "TG-23",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economy and Strategic Watch of Togo",
+      "href": "ministry-24-ministry-of-economy-and-strategic-watch-of-togo.html",
+      "abbreviation": "TG-24",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Tourism, Culture and Arts of Togo",
+      "href": "ministry-25-ministry-of-tourism-culture-and-arts-of-togo.html",
+      "abbreviation": "TG-25",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Solidarities, Gender, Family and Child Protection of Togo",
+      "href": "ministry-26-ministry-of-solidarities-gender-family-and-child-protection-.html",
+      "abbreviation": "TG-26",
+      "officialHref": "https://service-public.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Transport of Togo",
+      "href": "ministry-27-ministry-of-transport-of-togo.html",
+      "abbreviation": "TG-27",
+      "officialHref": "https://transports.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of National Defence of Togo",
+      "href": "ministry-28-ministry-of-national-defence-of-togo.html",
+      "abbreviation": "TG-28",
+      "officialHref": "https://defense.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Territorial Planning, Urbanism and Housing",
+      "href": "ministry-29-ministry-of-territorial-planning-urbanism-and-housing.html",
+      "abbreviation": "TG-29",
+      "officialHref": "https://urbanisme.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Togolese Ministry of Health",
+      "href": "ministry-30-togolese-ministry-of-health.html",
+      "abbreviation": "TG-30",
+      "officialHref": "https://togoleseministryofhealthlome.myewebsite.com/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministère de l'Agriculture, de l'Elevage et de l'Hydraulique",
+      "href": "ministry-31-ministere-de-l-agriculture-de-l-elevage-et-de-l-hydraulique.html",
+      "abbreviation": "TG-31",
+      "officialHref": "http://agriculture.gouv.tg/fr",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Internal Affairs of Togo",
+      "href": "ministry-32-ministry-of-internal-affairs-of-togo.html",
+      "abbreviation": "TG-32",
+      "officialHref": "https://territoire.gouv.tg/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -205,5 +370,11 @@
       "name": "Savannes",
       "code": "S"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

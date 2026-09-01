@@ -36,111 +36,135 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Office of the President and Cabinet",
     "page": "Government of Malawi",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-office-of-the-president-and-cabinet.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Finance and Economic Affairs",
     "page": "Government of Malawi",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-finance-and-economic-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Foreign Affairs",
     "page": "Government of Malawi",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Defence",
     "page": "Government of Malawi",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Homeland Security",
     "page": "Government of Malawi",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-homeland-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Justice",
     "page": "Government of Malawi",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Education",
     "page": "Government of Malawi",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Health",
     "page": "Government of Malawi",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Agriculture",
     "page": "Government of Malawi",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Water and Sanitation",
     "page": "Government of Malawi",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-water-and-sanitation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Energy",
     "page": "Government of Malawi",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Mining",
     "page": "Government of Malawi",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-mining.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Transport and Public Works",
     "page": "Government of Malawi",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-transport-and-public-works.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Local Government, Unity and Culture",
     "page": "Government of Malawi",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-local-government-unity-and-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Lands",
     "page": "Government of Malawi",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-lands.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Trade and Industry",
     "page": "Government of Malawi",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-trade-and-industry.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Malawi",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Natural Resources and Climate Change",
     "page": "Government of Malawi",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-natural-resources-and-climate-change.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Labour",
+    "page": "Government of Malawi",
+    "url": "ministry-19-ministry-of-labour.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Gender, Community Development and Social Welfare",
+    "page": "Government of Malawi",
+    "url": "ministry-20-ministry-of-gender-community-development-and-social-welfare.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth and Sports",
+    "page": "Government of Malawi",
+    "url": "ministry-21-ministry-of-youth-and-sports.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Information and Digitalisation",
+    "page": "Government of Malawi",
+    "url": "ministry-22-ministry-of-information-and-digitalisation.html",
     "verified": "2026-09-01"
   }
 ]

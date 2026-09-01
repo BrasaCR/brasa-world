@@ -36,111 +36,87 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of National Defense",
     "page": "Government of Mauritania",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-national-defense.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Social Action, Children and Families",
     "page": "Government of Mauritania",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-social-action-children-and-families.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Petroleum, Mines and Energy",
     "page": "Government of Mauritania",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-petroleum-mines-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Foreign Affairs, Cooperation and Mauritanians Abroad",
     "page": "Government of Mauritania",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-foreign-affairs-cooperation-and-mauritanians-abr.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of the Interior and Decentralization",
     "page": "Government of Mauritania",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-the-interior-and-decentralization.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Justice",
     "page": "Government of Mauritania",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Islamic Affairs and Original Education",
     "page": "Government of Mauritania",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-islamic-affairs-and-original-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Economy and Sustainable Development",
     "page": "Government of Mauritania",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-economy-and-sustainable-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of National Education and Reform of Education System",
     "page": "Government of Mauritania",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-national-education-and-reform-of-education-syste.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Public Service and Labor",
     "page": "Government of Mauritania",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-public-service-and-labor.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Digital Transformation, Innovation, and Modernisation of Administration",
     "page": "Government of Mauritania",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-digital-transformation-innovation-and-modernisat.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Finance",
     "page": "Government of Mauritania",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Social Affairs, Childhood and Family Affairs",
     "page": "Government of Mauritania",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-social-affairs-childhood-and-family-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Health",
     "page": "Government of Mauritania",
-    "url": "ministry-14-social-protection-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Head of government and cabinet",
-    "page": "Government of Mauritania",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Electoral authority",
-    "page": "Government of Mauritania",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Mauritania",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Mauritania",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-14-ministry-of-health.html",
     "verified": "2026-09-01"
   }
 ]

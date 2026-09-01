@@ -38,94 +38,134 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Women's Affairs",
+      "ministry-01-ministry-of-women-s-affairs.html",
       "TN-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of State Domains and Land Affairs",
+      "ministry-02-ministry-of-state-domains-and-land-affairs.html",
       "TN-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Interior",
+      "ministry-03-ministry-of-interior.html",
       "TN-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Finance",
+      "ministry-04-ministry-of-finance.html",
       "TN-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Transport",
+      "ministry-05-ministry-of-transport.html",
       "TN-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Industry, Energy and Mines of Tunisia",
+      "ministry-06-ministry-of-industry-energy-and-mines-of-tunisia.html",
       "TN-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture",
+      "ministry-07-ministry-of-agriculture.html",
       "TN-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Defence",
+      "ministry-08-ministry-of-defence.html",
       "TN-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Cabinet of the Head of Government",
+      "ministry-09-cabinet-of-the-head-of-government.html",
       "TN-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Commerce",
+      "ministry-10-ministry-of-commerce.html",
       "TN-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-11-ministry-of-youth-and-sports.html",
       "TN-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Social Affairs",
+      "ministry-12-ministry-of-social-affairs.html",
       "TN-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Tourism",
+      "ministry-13-ministry-of-tourism.html",
       "TN-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Environment",
+      "ministry-14-ministry-of-environment.html",
       "TN-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-15-ministry-of-higher-education-and-scientific-research.html",
       "TN-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Communication Technologies",
+      "ministry-16-ministry-of-communication-technologies.html",
       "TN-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Economy and Planning (Tunisia)",
+      "ministry-17-ministry-of-economy-and-planning-tunisia.html",
       "TN-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Education of Tunisia",
+      "ministry-18-ministry-of-education-of-tunisia.html",
       "TN-18"
+    ],
+    [
+      "Ministry of Foreign Affairs of Tunisia",
+      "ministry-19-ministry-of-foreign-affairs-of-tunisia.html",
+      "TN-19"
+    ],
+    [
+      "Ministry of Information and Communication Technologies",
+      "ministry-20-ministry-of-information-and-communication-technologies.html",
+      "TN-20"
+    ],
+    [
+      "Ministry of Equipment",
+      "ministry-21-ministry-of-equipment.html",
+      "TN-21"
+    ],
+    [
+      "Ministry of Religious Affairs",
+      "ministry-22-ministry-of-religious-affairs.html",
+      "TN-22"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-23-ministry-of-justice.html",
+      "TN-23"
+    ],
+    [
+      "Ministry of Employment",
+      "ministry-24-ministry-of-employment.html",
+      "TN-24"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-25-ministry-of-culture.html",
+      "TN-25"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-26-ministry-of-health.html",
+      "TN-26"
     ]
   ]
 };

@@ -38,94 +38,54 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance and Development Planning",
+      "ministry-01-ministry-of-finance-and-development-planning.html",
       "LR-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Labour, Liberia",
+      "ministry-02-ministry-of-labour-liberia.html",
       "LR-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Transport",
+      "ministry-03-ministry-of-transport.html",
       "LR-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Finance",
+      "ministry-04-ministry-of-finance.html",
       "LR-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-05-ministry-of-foreign-affairs.html",
       "LR-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of National Defense",
+      "ministry-06-ministry-of-national-defense.html",
       "LR-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Posts and Telecommunications",
+      "ministry-07-ministry-of-posts-and-telecommunications.html",
       "LR-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Gender and Development",
+      "ministry-08-ministry-of-gender-and-development.html",
       "LR-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health and Social Welfare, Liberia",
+      "ministry-09-ministry-of-health-and-social-welfare-liberia.html",
       "LR-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture, Liberia",
+      "ministry-10-ministry-of-agriculture-liberia.html",
       "LR-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "LR-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "LR-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "LR-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "LR-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "LR-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "LR-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "LR-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "LR-18"
     ]
   ]
 };

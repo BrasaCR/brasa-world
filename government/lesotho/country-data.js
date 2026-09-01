@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "LS-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Defence and National Security",
+      "ministry-02-ministry-of-defence-and-national-security.html",
       "LS-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and International Relations",
+      "ministry-03-ministry-of-foreign-affairs-and-international-relations.html",
       "LS-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Local Government, Chieftainship, Home Affairs and Police",
+      "ministry-04-ministry-of-local-government-chieftainship-home-affairs-and-.html",
       "LS-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Law and Justice",
+      "ministry-05-ministry-of-law-and-justice.html",
       "LS-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance and Development Planning",
+      "ministry-06-ministry-of-finance-and-development-planning.html",
       "LS-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Public Service, Labour and Employment",
+      "ministry-07-ministry-of-public-service-labour-and-employment.html",
       "LS-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education and Training",
+      "ministry-08-ministry-of-education-and-training.html",
       "LS-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health",
+      "ministry-09-ministry-of-health.html",
       "LS-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture, Food Security and Nutrition",
+      "ministry-10-ministry-of-agriculture-food-security-and-nutrition.html",
       "LS-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Energy",
+      "ministry-11-ministry-of-energy.html",
       "LS-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Natural Resources",
+      "ministry-12-ministry-of-natural-resources.html",
       "LS-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Public Works and Transport",
+      "ministry-13-ministry-of-public-works-and-transport.html",
       "LS-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Information, Communications, Science, Technology and Innovation",
+      "ministry-14-ministry-of-information-communications-science-technology-an.html",
       "LS-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Trade, Industry and Business Development",
+      "ministry-15-ministry-of-trade-industry-and-business-development.html",
       "LS-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Tourism, Sports, Arts and Culture",
+      "ministry-16-ministry-of-tourism-sports-arts-and-culture.html",
       "LS-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Gender, Youth and Social Development",
+      "ministry-17-ministry-of-gender-youth-and-social-development.html",
       "LS-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Environment and Forestry",
+      "ministry-18-ministry-of-environment-and-forestry.html",
       "LS-18"
     ]
   ]

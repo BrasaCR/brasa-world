@@ -24,7 +24,11 @@
     "Panama": "Sierra Leone"
   },
   "sources": [
-    "https://statehouse.gov.sl/"
+    "https://statehouse.gov.sl/",
+    "http://maffs.gov.sl/",
+    "http://www.slminerals.org",
+    "http://www.mod.gov.sl/",
+    "https://mohs.gov.sl/"
   ],
   "utilities": [
     {
@@ -60,112 +64,92 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Foreign Affairs and International Relations of Sierra Leone",
+      "href": "ministry-01-ministry-of-foreign-affairs-and-international-relations-of-s.html",
       "abbreviation": "SL-1",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Local Government and Rural Development of Sierra Leone",
+      "href": "ministry-02-ministry-of-local-government-and-rural-development-of-sierra.html",
       "abbreviation": "SL-2",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Information and Communication of Sierra Leone",
+      "href": "ministry-03-ministry-of-information-and-communication-of-sierra-leone.html",
       "abbreviation": "SL-3",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Lands, Country Planning and the Environment of Sierra Leone",
+      "href": "ministry-04-ministry-of-lands-country-planning-and-the-environment-of-si.html",
       "abbreviation": "SL-4",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Finance and Economic Development of Sierra Leone",
+      "href": "ministry-05-ministry-of-finance-and-economic-development-of-sierra-leone.html",
       "abbreviation": "SL-5",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Education of Sierra Leone",
+      "href": "ministry-06-ministry-of-education-of-sierra-leone.html",
       "abbreviation": "SL-6",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Agriculture, Forestry and Food Security",
+      "href": "ministry-07-ministry-of-agriculture-forestry-and-food-security.html",
       "abbreviation": "SL-7",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "http://maffs.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Political and Public Affairs of Sierra Leone",
+      "href": "ministry-08-ministry-of-political-and-public-affairs-of-sierra-leone.html",
       "abbreviation": "SL-8",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://statehouse.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Mineral Resources of Sierra Leone",
+      "href": "ministry-09-ministry-of-mineral-resources-of-sierra-leone.html",
       "abbreviation": "SL-9",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "http://www.slminerals.org",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Defence and National Security of Sierra Leone",
+      "href": "ministry-10-ministry-of-defence-and-national-security-of-sierra-leone.html",
       "abbreviation": "SL-10",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "http://www.mod.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Health and Sanitation",
+      "href": "ministry-11-ministry-of-health-and-sanitation.html",
       "abbreviation": "SL-11",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
-      "abbreviation": "SL-12",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "SL-13",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "SL-14",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "SL-15",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "SL-16",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "SL-17",
-      "officialHref": "https://statehouse.gov.sl/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "SL-18",
-      "officialHref": "https://statehouse.gov.sl/"
+      "officialHref": "https://mohs.gov.sl/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -201,5 +185,11 @@
       "name": "Western",
       "code": "W"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

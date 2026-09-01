@@ -38,94 +38,54 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defence",
+      "ministry-01-ministry-of-defence.html",
       "DJ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Interior ministry of Djibouti",
+      "ministry-02-interior-ministry-of-djibouti.html",
       "DJ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Agriculture, Livestock, & Fisheries",
+      "ministry-03-ministry-of-agriculture-livestock-fisheries.html",
       "DJ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Youth and Culture Djibouti",
+      "ministry-04-ministry-of-youth-and-culture-djibouti.html",
       "DJ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "ministry of energy & water djibouti",
+      "ministry-05-ministry-of-energy-water-djibouti.html",
       "DJ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Women and Family",
+      "ministry-06-ministry-of-women-and-family.html",
       "DJ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Justice & Penal Affairs (Djibouti)",
+      "ministry-07-ministry-of-justice-penal-affairs-djibouti.html",
       "DJ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation of Djibouti",
+      "ministry-08-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "DJ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Economy and Finances",
+      "ministry-09-ministry-of-economy-and-finances.html",
       "DJ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Economy and Finance",
+      "ministry-10-ministry-of-economy-and-finance.html",
       "DJ-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "DJ-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "DJ-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "DJ-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "DJ-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "DJ-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "DJ-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "DJ-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "DJ-18"
     ]
   ]
 };

@@ -60,112 +60,132 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Prime Minister’s Office",
+      "href": "ministry-01-prime-minister-s-office.html",
       "abbreviation": "CV-1",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-02-ministry-of-finance.html",
       "abbreviation": "CV-2",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Foreign Affairs, Cooperation and Regional Integration",
+      "href": "ministry-03-ministry-of-foreign-affairs-cooperation-and-regional-integra.html",
       "abbreviation": "CV-3",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Internal Administration",
+      "href": "ministry-04-ministry-of-internal-administration.html",
       "abbreviation": "CV-4",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-05-ministry-of-justice.html",
       "abbreviation": "CV-5",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of National Defence",
+      "href": "ministry-06-ministry-of-national-defence.html",
       "abbreviation": "CV-6",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Education",
+      "href": "ministry-07-ministry-of-education.html",
       "abbreviation": "CV-7",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-08-ministry-of-health.html",
       "abbreviation": "CV-8",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Agriculture and Environment",
+      "href": "ministry-09-ministry-of-agriculture-and-environment.html",
       "abbreviation": "CV-9",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Industry, Commerce and Energy",
+      "href": "ministry-10-ministry-of-industry-commerce-and-energy.html",
       "abbreviation": "CV-10",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Infrastructure, Spatial Planning and Housing",
+      "href": "ministry-11-ministry-of-infrastructure-spatial-planning-and-housing.html",
       "abbreviation": "CV-11",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Tourism and Transport",
+      "href": "ministry-12-ministry-of-tourism-and-transport.html",
       "abbreviation": "CV-12",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Culture and Creative Industries",
+      "href": "ministry-13-ministry-of-culture-and-creative-industries.html",
       "abbreviation": "CV-13",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Family, Inclusion and Social Development",
+      "href": "ministry-14-ministry-of-family-inclusion-and-social-development.html",
       "abbreviation": "CV-14",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Modernization of the State and Public Administration",
+      "href": "ministry-15-ministry-of-modernization-of-the-state-and-public-administra.html",
       "abbreviation": "CV-15",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Sport and Youth",
+      "href": "ministry-16-ministry-of-sport-and-youth.html",
       "abbreviation": "CV-16",
-      "officialHref": "https://www.governo.cv/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "CV-17",
-      "officialHref": "https://www.governo.cv/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "CV-18",
-      "officialHref": "https://www.governo.cv/"
+      "officialHref": "https://www.governo.cv/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -261,5 +281,11 @@
       "name": "Tarrafal de São Nicolau",
       "code": "TS"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

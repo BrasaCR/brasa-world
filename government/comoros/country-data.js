@@ -38,94 +38,69 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "President’s Office",
+      "ministry-01-president-s-office.html",
       "KM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation",
+      "ministry-02-ministry-of-foreign-affairs-and-international-cooperation.html",
       "KM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Justice, Islamic Affairs and Public Administration",
+      "ministry-03-ministry-of-justice-islamic-affairs-and-public-administratio.html",
       "KM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Interior, Information and Decentralization",
+      "ministry-04-ministry-of-the-interior-information-and-decentralization.html",
       "KM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance, Budget and Banking Sector",
+      "ministry-05-ministry-of-finance-budget-and-banking-sector.html",
       "KM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economy, Industry and Investment",
+      "ministry-06-ministry-of-economy-industry-and-investment.html",
       "KM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of National Education, Scientific Research and Training",
+      "ministry-07-ministry-of-national-education-scientific-research-and-train.html",
       "KM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health, Social Protection and Gender",
+      "ministry-08-ministry-of-health-social-protection-and-gender.html",
       "KM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture, Fisheries and Environment",
+      "ministry-09-ministry-of-agriculture-fisheries-and-environment.html",
       "KM-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Energy, Water and Hydrocarbons",
+      "ministry-10-ministry-of-energy-water-and-hydrocarbons.html",
       "KM-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Transport and Tourism",
+      "ministry-11-ministry-of-transport-and-tourism.html",
       "KM-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Land Planning and Urban Development",
+      "ministry-12-ministry-of-land-planning-and-urban-development.html",
       "KM-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Youth, Employment, Labour, Sports and Culture",
+      "ministry-13-ministry-of-youth-employment-labour-sports-and-culture.html",
       "KM-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "KM-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "KM-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "KM-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "KM-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "KM-18"
     ]
   ]
 };

@@ -36,111 +36,189 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Defence",
     "page": "Government of Zimbabwe",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Public Works",
     "page": "Government of Zimbabwe",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-public-works.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Industry and Commerce",
     "page": "Government of Zimbabwe",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-industry-and-commerce.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Justice and Legal Affairs",
     "page": "Government of Zimbabwe",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-justice-and-legal-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Agriculture",
     "page": "Government of Zimbabwe",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Zimbabwe",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Home Affairs",
     "page": "Government of Zimbabwe",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Women Affairs, Community, Small and Medium Enterprises Development (Zimbabwe)",
     "page": "Government of Zimbabwe",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-women-affairs-community-small-and-medium-enterpr.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Environment",
     "page": "Government of Zimbabwe",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Information and Communications Technology",
     "page": "Government of Zimbabwe",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-information-and-communications-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Sport, Arts and Recreation",
     "page": "Government of Zimbabwe",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-sport-arts-and-recreation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Science and Technology Development (Zimbabwe)",
     "page": "Government of Zimbabwe",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-science-and-technology-development-zimbabwe.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Water Resources and Development",
     "page": "Government of Zimbabwe",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-water-resources-and-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Energy and Power Development",
     "page": "Government of Zimbabwe",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-energy-and-power-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Regional Integration and International Cooperation",
     "page": "Government of Zimbabwe",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-regional-integration-and-international-cooperati.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Economic Planning and Investment Promotion",
     "page": "Government of Zimbabwe",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-economic-planning-and-investment-promotion.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Constitutional and Parliamentary Affairs",
     "page": "Government of Zimbabwe",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-constitutional-and-parliamentary-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Education, Sport and Culture",
     "page": "Government of Zimbabwe",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-education-sport-and-culture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Higher and Tertiary Education",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-19-ministry-of-higher-and-tertiary-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Service, Labour and Social Welfare",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-20-ministry-of-public-service-labour-and-social-welfare.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Lands and Land Resettlement",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-21-ministry-of-lands-and-land-resettlement.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Information and Publicity",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-22-ministry-of-information-and-publicity.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Mines and Mining Development",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-23-ministry-of-mines-and-mining-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of National Housing and Social Amenities",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-24-ministry-of-national-housing-and-social-amenities.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of State Enterprise and Parastatals",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-25-ministry-of-state-enterprise-and-parastatals.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transport and Infrastructural Development",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-26-ministry-of-transport-and-infrastructural-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Lands and Rural Resettlement",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-27-ministry-of-lands-and-rural-resettlement.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture Mechanisation and Irrigation Development",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-28-ministry-of-agriculture-mechanisation-and-irrigation-develop.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health and Child Welfare",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-29-ministry-of-health-and-child-welfare.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs of the Republic of Zimbabwe",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-30-ministry-of-foreign-affairs-of-the-republic-of-zimbabwe.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Higher Education, Science and Technology",
+    "page": "Government of Zimbabwe",
+    "url": "ministry-31-ministry-of-higher-education-science-and-technology.html",
     "verified": "2026-09-01"
   }
 ]

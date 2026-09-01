@@ -38,94 +38,194 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry for Chieftaincy and Traditional Affairs",
+      "ministry-01-ministry-for-chieftaincy-and-traditional-affairs.html",
       "GH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of National Security",
+      "ministry-02-ministry-of-national-security.html",
       "GH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Transport",
+      "ministry-03-ministry-of-transport.html",
       "GH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Foreign Affairs and Regional Integration of the Republic of Ghana",
+      "ministry-04-ministry-of-foreign-affairs-and-regional-integration-of-the-.html",
       "GH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Parliamentary Affairs",
+      "ministry-05-ministry-of-parliamentary-affairs.html",
       "GH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Employment and Labour Relations",
+      "ministry-06-ministry-of-employment-and-labour-relations.html",
       "GH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Fisheries and Aquaculture Development",
+      "ministry-07-ministry-of-fisheries-and-aquaculture-development.html",
       "GH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Works and Housing",
+      "ministry-08-ministry-of-works-and-housing.html",
       "GH-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Interior",
+      "ministry-09-ministry-of-interior.html",
       "GH-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry for Chieftaincy and Religious Affairs",
+      "ministry-10-ministry-for-chieftaincy-and-religious-affairs.html",
       "GH-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Railway Development (Ghana)",
+      "ministry-11-ministry-of-railway-development-ghana.html",
       "GH-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Energy and Petroleum",
+      "ministry-12-ministry-of-energy-and-petroleum.html",
       "GH-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Information",
+      "ministry-13-ministry-of-information.html",
       "GH-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Defence",
+      "ministry-14-ministry-of-defence.html",
       "GH-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Communication, Digital Technology and Innovations",
+      "ministry-15-ministry-of-communication-digital-technology-and-innovations.html",
       "GH-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Justice",
+      "ministry-16-ministry-of-justice.html",
       "GH-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Health",
+      "ministry-17-ministry-of-health.html",
       "GH-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-18-ministry-of-youth-and-sports.html",
       "GH-18"
+    ],
+    [
+      "Ministry for Trade and Industry",
+      "ministry-19-ministry-for-trade-and-industry.html",
+      "GH-19"
+    ],
+    [
+      "Ministry of Education of Ghana",
+      "ministry-20-ministry-of-education-of-ghana.html",
+      "GH-20"
+    ],
+    [
+      "Ministry of Roads and Highways",
+      "ministry-21-ministry-of-roads-and-highways.html",
+      "GH-21"
+    ],
+    [
+      "Inter-Ministerial Cordinating Committee on Decentralization",
+      "ministry-22-inter-ministerial-cordinating-committee-on-decentralization.html",
+      "GH-22"
+    ],
+    [
+      "Ministry of Sanitation and Water Resources",
+      "ministry-23-ministry-of-sanitation-and-water-resources.html",
+      "GH-23"
+    ],
+    [
+      "Ministry of Energy and Green Transition",
+      "ministry-24-ministry-of-energy-and-green-transition.html",
+      "GH-24"
+    ],
+    [
+      "Ministry of Lands and Natural Resources",
+      "ministry-25-ministry-of-lands-and-natural-resources.html",
+      "GH-25"
+    ],
+    [
+      "Ministry of Local Government and Rural Development",
+      "ministry-26-ministry-of-local-government-and-rural-development.html",
+      "GH-26"
+    ],
+    [
+      "Ministry of Communication and Technology",
+      "ministry-27-ministry-of-communication-and-technology.html",
+      "GH-27"
+    ],
+    [
+      "Ministry of Environment, Science, Technology and Innovation",
+      "ministry-28-ministry-of-environment-science-technology-and-innovation.html",
+      "GH-28"
+    ],
+    [
+      "Ministry of Aviation",
+      "ministry-29-ministry-of-aviation.html",
+      "GH-29"
+    ],
+    [
+      "Ministry of Justice and Attorney-General's Office",
+      "ministry-30-ministry-of-justice-and-attorney-general-s-office.html",
+      "GH-30"
+    ],
+    [
+      "Ministry of Foreign Affairs and Regional Integration",
+      "ministry-31-ministry-of-foreign-affairs-and-regional-integration.html",
+      "GH-31"
+    ],
+    [
+      "Ministry of Inner City and Zongo Development",
+      "ministry-32-ministry-of-inner-city-and-zongo-development.html",
+      "GH-32"
+    ],
+    [
+      "Ministry of Special Development Initiatives",
+      "ministry-33-ministry-of-special-development-initiatives.html",
+      "GH-33"
+    ],
+    [
+      "Ministry of Monitoring and Evaluation",
+      "ministry-34-ministry-of-monitoring-and-evaluation.html",
+      "GH-34"
+    ],
+    [
+      "Ministry of Women and Children's Affairs",
+      "ministry-35-ministry-of-women-and-children-s-affairs.html",
+      "GH-35"
+    ],
+    [
+      "Ministry of Food and Agriculture of Ghana",
+      "ministry-36-ministry-of-food-and-agriculture-of-ghana.html",
+      "GH-36"
+    ],
+    [
+      "Ministry of Tourism, Arts & Culture (MoTAC) Ghana",
+      "ministry-37-ministry-of-tourism-arts-culture-motac-ghana.html",
+      "GH-37"
+    ],
+    [
+      "Ministry of Finance and Economic Planning",
+      "ministry-38-ministry-of-finance-and-economic-planning.html",
+      "GH-38"
     ]
   ]
 };

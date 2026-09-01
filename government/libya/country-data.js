@@ -38,94 +38,69 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Agriculture and Livestock (Libya)",
+      "ministry-01-ministry-of-agriculture-and-livestock-libya.html",
       "LY-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Defence",
+      "ministry-02-ministry-of-defence.html",
       "LY-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation of the State of Libya",
+      "ministry-03-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "LY-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice (Libya)",
+      "ministry-04-ministry-of-justice-libya.html",
       "LY-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-05-ministry-of-higher-education-and-scientific-research.html",
       "LY-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Internal Affairs of Libya",
+      "ministry-06-ministry-of-internal-affairs-of-libya.html",
       "LY-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance",
+      "ministry-07-ministry-of-finance.html",
       "LY-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Technical and Vocational Education",
+      "ministry-08-ministry-of-technical-and-vocational-education.html",
       "LY-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Social Affairs",
+      "ministry-09-ministry-of-social-affairs.html",
       "LY-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Oil and Gas",
+      "ministry-10-ministry-of-oil-and-gas.html",
       "LY-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Economy and Trade of Libya",
+      "ministry-11-ministry-of-economy-and-trade-of-libya.html",
       "LY-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Youth",
+      "ministry-12-ministry-of-youth.html",
       "LY-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Culture of Libya",
+      "ministry-13-ministry-of-culture-of-libya.html",
       "LY-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "LY-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "LY-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "LY-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "LY-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "LY-18"
     ]
   ]
 };

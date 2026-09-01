@@ -36,111 +36,231 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Posts and Telecommunications",
     "page": "Government of Cameroon",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-posts-and-telecommunications.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Trade",
     "page": "Government of Cameroon",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Public Health",
     "page": "Government of Cameroon",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-public-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Basic Education",
     "page": "Government of Cameroon",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-basic-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Sports in Cameroon",
     "page": "Government of Cameroon",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-sports-in-cameroon.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Agriculture and rural development",
     "page": "Government of Cameroon",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-agriculture-and-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Communication",
     "page": "Government of Cameroon",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-communication.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Economy, Planning and Regional Development",
     "page": "Government of Cameroon",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-economy-planning-and-regional-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of the Environment, Nature Protection and Sustainable Development",
     "page": "Government of Cameroon",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-the-environment-nature-protection-and-sustainabl.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Housing and Urban Development",
     "page": "Government of Cameroon",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-housing-and-urban-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Forests and Wildlife",
     "page": "Government of Cameroon",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-forests-and-wildlife.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Public Procurement",
     "page": "Government of Cameroon",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-public-procurement.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of small and medium-sized enterprises, social economy and handicrafts",
     "page": "Government of Cameroon",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-small-and-medium-sized-enterprises-social-econom.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Decentralization and Local Development",
     "page": "Government of Cameroon",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-decentralization-and-local-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of External Relations",
     "page": "Government of Cameroon",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-external-relations.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Labour and Social Security",
     "page": "Government of Cameroon",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-labour-and-social-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Territorial Administration",
     "page": "Government of Cameroon",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-territorial-administration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Scientific Research and Innovation",
     "page": "Government of Cameroon",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-scientific-research-and-innovation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Mines, Industry and Technological Development",
+    "page": "Government of Cameroon",
+    "url": "ministry-19-ministry-of-mines-industry-and-technological-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Livestock, Fisheries and Animal Industries",
+    "page": "Government of Cameroon",
+    "url": "ministry-20-ministry-of-livestock-fisheries-and-animal-industries.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transport of Cameroon",
+    "page": "Government of Cameroon",
+    "url": "ministry-21-ministry-of-transport-of-cameroon.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice of Cameroon",
+    "page": "Government of Cameroon",
+    "url": "ministry-22-ministry-of-justice-of-cameroon.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Affairs",
+    "page": "Government of Cameroon",
+    "url": "ministry-23-ministry-of-social-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Cameroon",
+    "url": "ministry-24-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Works",
+    "page": "Government of Cameroon",
+    "url": "ministry-25-ministry-of-public-works.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Defence",
+    "page": "Government of Cameroon",
+    "url": "ministry-26-ministry-of-defence.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Higher Education",
+    "page": "Government of Cameroon",
+    "url": "ministry-27-ministry-of-higher-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Service and Administrative Reform",
+    "page": "Government of Cameroon",
+    "url": "ministry-28-ministry-of-public-service-and-administrative-reform.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Arts and Culture of Cameroon",
+    "page": "Government of Cameroon",
+    "url": "ministry-29-ministry-of-arts-and-culture-of-cameroon.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism and Leisure",
+    "page": "Government of Cameroon",
+    "url": "ministry-30-ministry-of-tourism-and-leisure.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth and Civic Education",
+    "page": "Government of Cameroon",
+    "url": "ministry-31-ministry-of-youth-and-civic-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of State Property, Surveys and Land Tenure",
+    "page": "Government of Cameroon",
+    "url": "ministry-32-ministry-of-state-property-surveys-and-land-tenure.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Water and Energy",
+    "page": "Government of Cameroon",
+    "url": "ministry-33-ministry-of-water-and-energy.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Employment and Vocational Training",
+    "page": "Government of Cameroon",
+    "url": "ministry-34-ministry-of-employment-and-vocational-training.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Secondary Education",
+    "page": "Government of Cameroon",
+    "url": "ministry-35-ministry-of-secondary-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for the Promotion of Women and the Family",
+    "page": "Government of Cameroon",
+    "url": "ministry-36-ministry-for-the-promotion-of-women-and-the-family.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry in charge of Relations with the Assemblies",
+    "page": "Government of Cameroon",
+    "url": "ministry-37-ministry-in-charge-of-relations-with-the-assemblies.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Supreme State Audit",
+    "page": "Government of Cameroon",
+    "url": "ministry-38-supreme-state-audit.html",
     "verified": "2026-09-01"
   }
 ]

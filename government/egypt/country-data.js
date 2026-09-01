@@ -38,94 +38,179 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Awqaf",
+      "ministry-01-ministry-of-awqaf.html",
       "EG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Wizārat al-Zirāʿa al-Miṣriyya",
+      "ministry-02-wizarat-al-zira-a-al-misriyya.html",
       "EG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Communications and Information Technology",
+      "ministry-03-ministry-of-communications-and-information-technology.html",
       "EG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Education",
+      "ministry-04-ministry-of-education.html",
       "EG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Information",
+      "ministry-05-ministry-of-information.html",
       "EG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance",
+      "ministry-06-ministry-of-finance.html",
       "EG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Justice",
+      "ministry-07-ministry-of-justice.html",
       "EG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Investment",
+      "ministry-08-ministry-of-investment.html",
       "EG-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Foreign Affairs of Egypt",
+      "ministry-09-ministry-of-foreign-affairs-of-egypt.html",
       "EG-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Environment",
+      "ministry-10-ministry-of-environment.html",
       "EG-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Petroleum and Mineral Resources",
+      "ministry-11-ministry-of-petroleum-and-mineral-resources.html",
       "EG-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of State for Antiquities",
+      "ministry-12-ministry-of-state-for-antiquities.html",
       "EG-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Health and Population",
+      "ministry-13-ministry-of-health-and-population.html",
       "EG-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Social Solidarity",
+      "ministry-14-ministry-of-social-solidarity.html",
       "EG-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Higher Education and Scientific Research (Egypt)",
+      "ministry-15-ministry-of-higher-education-and-scientific-research-egypt.html",
       "EG-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-16-ministry-of-youth-and-sports.html",
       "EG-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Tourism and Antiquities",
+      "ministry-17-ministry-of-tourism-and-antiquities.html",
       "EG-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Parliamentary Affairs",
+      "ministry-18-ministry-of-parliamentary-affairs.html",
       "EG-18"
+    ],
+    [
+      "Ministry of Transportation",
+      "ministry-19-ministry-of-transportation.html",
+      "EG-19"
+    ],
+    [
+      "Ministry of Interior (Egypt)",
+      "ministry-20-ministry-of-interior-egypt.html",
+      "EG-20"
+    ],
+    [
+      "Ministry of Trade and Industry",
+      "ministry-21-ministry-of-trade-and-industry.html",
+      "EG-21"
+    ],
+    [
+      "Ministry of Agriculture and Land Reclamation of Egypt",
+      "ministry-22-ministry-of-agriculture-and-land-reclamation-of-egypt.html",
+      "EG-22"
+    ],
+    [
+      "Ministry of Water Resources and Irrigation",
+      "ministry-23-ministry-of-water-resources-and-irrigation.html",
+      "EG-23"
+    ],
+    [
+      "Ministry of Immigration and Expatriates Affairs",
+      "ministry-24-ministry-of-immigration-and-expatriates-affairs.html",
+      "EG-24"
+    ],
+    [
+      "Ministry of Manpower",
+      "ministry-25-ministry-of-manpower.html",
+      "EG-25"
+    ],
+    [
+      "Ministry of Defence of Egypt",
+      "ministry-26-ministry-of-defence-of-egypt.html",
+      "EG-26"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-27-ministry-of-culture.html",
+      "EG-27"
+    ],
+    [
+      "Ministry of International Cooperation",
+      "ministry-28-ministry-of-international-cooperation.html",
+      "EG-28"
+    ],
+    [
+      "Ministry of Electricity and Renewable Energy",
+      "ministry-29-ministry-of-electricity-and-renewable-energy.html",
+      "EG-29"
+    ],
+    [
+      "Ministry of Military Production (Egypt)",
+      "ministry-30-ministry-of-military-production-egypt.html",
+      "EG-30"
+    ],
+    [
+      "Ministry of Housing",
+      "ministry-31-ministry-of-housing.html",
+      "EG-31"
+    ],
+    [
+      "Ministry of Planning and Economic Development",
+      "ministry-32-ministry-of-planning-and-economic-development.html",
+      "EG-32"
+    ],
+    [
+      "Ministry of Supply and Internal Trade of Egypt",
+      "ministry-33-ministry-of-supply-and-internal-trade-of-egypt.html",
+      "EG-33"
+    ],
+    [
+      "Ministry of Local Development",
+      "ministry-34-ministry-of-local-development.html",
+      "EG-34"
+    ],
+    [
+      "Ministry of Civil Aviation",
+      "ministry-35-ministry-of-civil-aviation.html",
+      "EG-35"
     ]
   ]
 };

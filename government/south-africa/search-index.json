@@ -36,111 +36,153 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Department of Mineral Resources and Energy",
     "page": "Government of South Africa",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-department-of-mineral-resources-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Department of Health",
     "page": "Government of South Africa",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-department-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Department of Agriculture, Land Reform and Rural Development",
     "page": "Government of South Africa",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-department-of-agriculture-land-reform-and-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Department of Sports, Arts and Culture",
     "page": "Government of South Africa",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-department-of-sports-arts-and-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Department of Defence",
     "page": "Government of South Africa",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-department-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Department of Employment and Labour",
     "page": "Government of South Africa",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-department-of-employment-and-labour.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Department of Tourism",
     "page": "Government of South Africa",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-department-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Department of Public Service and Administration",
     "page": "Government of South Africa",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-department-of-public-service-and-administration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Department of Communications and Digital Technologies",
     "page": "Government of South Africa",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-department-of-communications-and-digital-technologies.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Department of Basic Education",
     "page": "Government of South Africa",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-department-of-basic-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "National Treasury",
     "page": "Government of South Africa",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-national-treasury.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Department of Social Development",
     "page": "Government of South Africa",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-department-of-social-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Department of Transport",
     "page": "Government of South Africa",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-department-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Department of Home Affairs",
     "page": "Government of South Africa",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-department-of-home-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Department of Human Settlements",
     "page": "Government of South Africa",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-department-of-human-settlements.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Department of International Relations and Cooperation of South Africa",
     "page": "Government of South Africa",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-department-of-international-relations-and-cooperation-of-sou.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Department of Higher Education and Training",
     "page": "Government of South Africa",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-department-of-higher-education-and-training.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Department of Public Works and Infrastructure",
     "page": "Government of South Africa",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-department-of-public-works-and-infrastructure.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Science and Innovation",
+    "page": "Government of South Africa",
+    "url": "ministry-19-department-of-science-and-innovation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Forestry, Fisheries and the Environment",
+    "page": "Government of South Africa",
+    "url": "ministry-20-department-of-forestry-fisheries-and-the-environment.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Water and Sanitation",
+    "page": "Government of South Africa",
+    "url": "ministry-21-department-of-water-and-sanitation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Trade and Industry and Competition",
+    "page": "Government of South Africa",
+    "url": "ministry-22-department-of-trade-and-industry-and-competition.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Justice and Constitutional Development",
+    "page": "Government of South Africa",
+    "url": "ministry-23-department-of-justice-and-constitutional-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Military Veterans",
+    "page": "Government of South Africa",
+    "url": "ministry-24-department-of-military-veterans.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Telecommunications and Postal Services",
+    "page": "Government of South Africa",
+    "url": "ministry-25-department-of-telecommunications-and-postal-services.html",
     "verified": "2026-09-01"
   }
 ]

@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Agriculture of Eswatini",
+      "ministry-01-ministry-of-agriculture-of-eswatini.html",
       "SZ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education & Training of Eswatini",
+      "ministry-02-ministry-of-education-training-of-eswatini.html",
       "SZ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Finance of Eswatini",
+      "ministry-03-ministry-of-finance-of-eswatini.html",
       "SZ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Foreign Affairs and International Cooperation of Eswatini",
+      "ministry-04-ministry-of-foreign-affairs-and-international-cooperation-of.html",
       "SZ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Housing & Urban Development of Eswatini",
+      "ministry-05-ministry-of-housing-urban-development-of-eswatini.html",
       "SZ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Labour & Social Security of Eswatini",
+      "ministry-06-ministry-of-labour-social-security-of-eswatini.html",
       "SZ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Public Service of Eswatini",
+      "ministry-07-ministry-of-public-service-of-eswatini.html",
       "SZ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Sports, Culture & Youth Affairs of Eswatini",
+      "ministry-08-ministry-of-sports-culture-youth-affairs-of-eswatini.html",
       "SZ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Commerce of Eswatini",
+      "ministry-09-ministry-of-commerce-of-eswatini.html",
       "SZ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Public Works & Transport of Eswatini",
+      "ministry-10-ministry-of-public-works-transport-of-eswatini.html",
       "SZ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health of Eswatini",
+      "ministry-11-ministry-of-health-of-eswatini.html",
       "SZ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Tinkhundla Administration of Eswatini",
+      "ministry-12-ministry-of-tinkhundla-administration-of-eswatini.html",
       "SZ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "The Prime Minister's Office of Eswatini",
+      "ministry-13-the-prime-minister-s-office-of-eswatini.html",
       "SZ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "The Deputy Prime Minister's Office of Eswatini",
+      "ministry-14-the-deputy-prime-minister-s-office-of-eswatini.html",
       "SZ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Home Affairs of Eswatini",
+      "ministry-15-ministry-of-home-affairs-of-eswatini.html",
       "SZ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Economic Planning & Development of Eswatini",
+      "ministry-16-ministry-of-economic-planning-development-of-eswatini.html",
       "SZ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Tourism & Environmental Affairs of Eswatini",
+      "ministry-17-ministry-of-tourism-environmental-affairs-of-eswatini.html",
       "SZ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Natural Resources & Energy of Eswatini",
+      "ministry-18-ministry-of-natural-resources-energy-of-eswatini.html",
       "SZ-18"
+    ],
+    [
+      "Ministry of Justice & Constitutional Affairs of Eswatini",
+      "ministry-19-ministry-of-justice-constitutional-affairs-of-eswatini.html",
+      "SZ-19"
+    ],
+    [
+      "Ministry of Information, Communications & Technology of Eswatini",
+      "ministry-20-ministry-of-information-communications-technology-of-eswatin.html",
+      "SZ-20"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-21-ministry-of-health.html",
+      "SZ-21"
     ]
   ]
 };
