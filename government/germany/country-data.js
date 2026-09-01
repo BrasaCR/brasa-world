@@ -38,94 +38,89 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Federal Chancellery",
+      "ministry-01-federal-chancellery.html",
       "DE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Federal Foreign Office",
+      "ministry-02-federal-foreign-office.html",
       "DE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Federal Ministry of Finance",
+      "ministry-03-federal-ministry-of-finance.html",
       "DE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Federal Ministry of the Interior",
+      "ministry-04-federal-ministry-of-the-interior.html",
       "DE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Federal Ministry of Justice and Consumer Protection",
+      "ministry-05-federal-ministry-of-justice-and-consumer-protection.html",
       "DE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Federal Ministry of Defence",
+      "ministry-06-federal-ministry-of-defence.html",
       "DE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Federal Ministry for Economic Affairs and Energy",
+      "ministry-07-federal-ministry-for-economic-affairs-and-energy.html",
       "DE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Federal Ministry of Labour and Social Affairs",
+      "ministry-08-federal-ministry-of-labour-and-social-affairs.html",
       "DE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Federal Ministry for Research, Technology and Space",
+      "ministry-09-federal-ministry-for-research-technology-and-space.html",
       "DE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Federal Ministry for Digital Transformation and Government Modernisation",
+      "ministry-10-federal-ministry-for-digital-transformation-and-government-m.html",
       "DE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Federal Ministry of Transport",
+      "ministry-11-federal-ministry-of-transport.html",
       "DE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety",
+      "ministry-12-federal-ministry-for-the-environment-climate-action-nature-c.html",
       "DE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Federal Ministry of Health",
+      "ministry-13-federal-ministry-of-health.html",
       "DE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Federal Ministry of Education, Family Affairs, Senior Citizens, Women and Youth",
+      "ministry-14-federal-ministry-of-education-family-affairs-senior-citizens.html",
       "DE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Federal Ministry of Food, Agriculture and Regional Identity",
+      "ministry-15-federal-ministry-of-food-agriculture-and-regional-identity.html",
       "DE-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Federal Ministry for Economic Cooperation and Development",
+      "ministry-16-federal-ministry-for-economic-cooperation-and-development.html",
       "DE-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Federal Ministry for Housing, Urban Development and Building",
+      "ministry-17-federal-ministry-for-housing-urban-development-and-building.html",
       "DE-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "DE-18"
     ]
   ]
 };

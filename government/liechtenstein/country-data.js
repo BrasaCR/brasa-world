@@ -38,94 +38,39 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Justice",
+      "ministry-01-ministry-of-justice.html",
       "LI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry for Foreign Affairs, Education and Culture",
+      "ministry-02-ministry-for-foreign-affairs-education-and-culture.html",
       "LI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Infrastructure, Economy and Sport",
+      "ministry-03-ministry-of-infrastructure-economy-and-sport.html",
       "LI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry for Society and Culture",
+      "ministry-04-ministry-for-society-and-culture.html",
       "LI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of the Interior, Economy and Environment",
+      "ministry-05-ministry-of-the-interior-economy-and-environment.html",
       "LI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of General Government Affairs and Finance",
+      "ministry-06-ministry-of-general-government-affairs-and-finance.html",
       "LI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Foreign Affairs, Education and Sport",
+      "ministry-07-ministry-of-foreign-affairs-education-and-sport.html",
       "LI-7"
-    ],
-    [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
-      "LI-8"
-    ],
-    [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
-      "LI-9"
-    ],
-    [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
-      "LI-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "LI-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "LI-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "LI-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "LI-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "LI-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "LI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "LI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "LI-18"
     ]
   ]
 };

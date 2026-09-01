@@ -36,111 +36,129 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Internal Affairs",
     "page": "Government of Russia",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-internal-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Civil Defence, Emergencies and Disaster Relief",
     "page": "Government of Russia",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-civil-defence-emergencies-and-disaster-relief.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Foreign Affairs",
     "page": "Government of Russia",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Defence",
     "page": "Government of Russia",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Justice",
     "page": "Government of Russia",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Health",
     "page": "Government of Russia",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Culture",
     "page": "Government of Russia",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Science and Higher Education",
     "page": "Government of Russia",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-science-and-higher-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Natural Resources and Environment",
     "page": "Government of Russia",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-natural-resources-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Industry and Trade",
     "page": "Government of Russia",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-industry-and-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Education",
     "page": "Government of Russia",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry for the Development of the Russian Far East and Arctic",
     "page": "Government of Russia",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-for-the-development-of-the-russian-far-east-and-arc.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Agriculture",
     "page": "Government of Russia",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Sport",
     "page": "Government of Russia",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-sport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Construction, Housing and Utilities",
     "page": "Government of Russia",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-construction-housing-and-utilities.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Transport",
     "page": "Government of Russia",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Labour and Social Protection",
     "page": "Government of Russia",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-labour-and-social-protection.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Finance",
     "page": "Government of Russia",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Digital Development, Communications and Mass Media",
+    "page": "Government of Russia",
+    "url": "ministry-19-ministry-of-digital-development-communications-and-mass-medi.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Economic Development",
+    "page": "Government of Russia",
+    "url": "ministry-20-ministry-of-economic-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Energy",
+    "page": "Government of Russia",
+    "url": "ministry-21-ministry-of-energy.html",
     "verified": "2026-09-01"
   }
 ]

@@ -36,111 +36,105 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Federal Chancellery",
     "page": "Government of Germany",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-federal-chancellery.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Federal Foreign Office",
     "page": "Government of Germany",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-federal-foreign-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Federal Ministry of Finance",
     "page": "Government of Germany",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-federal-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Federal Ministry of the Interior",
     "page": "Government of Germany",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-federal-ministry-of-the-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Federal Ministry of Justice and Consumer Protection",
     "page": "Government of Germany",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-federal-ministry-of-justice-and-consumer-protection.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Federal Ministry of Defence",
     "page": "Government of Germany",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-federal-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Federal Ministry for Economic Affairs and Energy",
     "page": "Government of Germany",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-federal-ministry-for-economic-affairs-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Federal Ministry of Labour and Social Affairs",
     "page": "Government of Germany",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-federal-ministry-of-labour-and-social-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Federal Ministry for Research, Technology and Space",
     "page": "Government of Germany",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-federal-ministry-for-research-technology-and-space.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Federal Ministry for Digital Transformation and Government Modernisation",
     "page": "Government of Germany",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-federal-ministry-for-digital-transformation-and-government-m.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Federal Ministry of Transport",
     "page": "Government of Germany",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-federal-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety",
     "page": "Government of Germany",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-federal-ministry-for-the-environment-climate-action-nature-c.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Federal Ministry of Health",
     "page": "Government of Germany",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-federal-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Federal Ministry of Education, Family Affairs, Senior Citizens, Women and Youth",
     "page": "Government of Germany",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-federal-ministry-of-education-family-affairs-senior-citizens.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Federal Ministry of Food, Agriculture and Regional Identity",
     "page": "Government of Germany",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-federal-ministry-of-food-agriculture-and-regional-identity.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Federal Ministry for Economic Cooperation and Development",
     "page": "Government of Germany",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-federal-ministry-for-economic-cooperation-and-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Federal Ministry for Housing, Urban Development and Building",
     "page": "Government of Germany",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Germany",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-17-federal-ministry-for-housing-urban-development-and-building.html",
     "verified": "2026-09-01"
   }
 ]

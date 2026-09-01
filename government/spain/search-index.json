@@ -36,111 +36,135 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Foreign Affairs, European Union and Cooperation",
     "page": "Government of Spain",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-foreign-affairs-european-union-and-cooperation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of the Presidency, Justice and Parliamentary Relations",
     "page": "Government of Spain",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-the-presidency-justice-and-parliamentary-relatio.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Defence",
     "page": "Government of Spain",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Finance",
     "page": "Government of Spain",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of the Interior",
     "page": "Government of Spain",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-the-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Transport and Sustainable Mobility",
     "page": "Government of Spain",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-transport-and-sustainable-mobility.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Education, Vocational Training and Sports",
     "page": "Government of Spain",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-education-vocational-training-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Labour and Social Economy",
     "page": "Government of Spain",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-labour-and-social-economy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Industry and Tourism",
     "page": "Government of Spain",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-industry-and-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Agriculture, Fisheries and Food",
     "page": "Government of Spain",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-agriculture-fisheries-and-food.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Territorial Policy and Democratic Memory",
     "page": "Government of Spain",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-territorial-policy-and-democratic-memory.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry for Ecological Transition and Demographic Challenge",
     "page": "Government of Spain",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-for-ecological-transition-and-demographic-challenge.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Housing and Urban Agenda",
     "page": "Government of Spain",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-housing-and-urban-agenda.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Culture",
     "page": "Government of Spain",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Economy, Trade and Business",
     "page": "Government of Spain",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-economy-trade-and-business.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Health",
     "page": "Government of Spain",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Social Rights, Consumer Affairs and 2030 Agenda",
     "page": "Government of Spain",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-social-rights-consumer-affairs-and-2030-agenda.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Science, Innovation and Universities",
     "page": "Government of Spain",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-science-innovation-and-universities.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Equality",
+    "page": "Government of Spain",
+    "url": "ministry-19-ministry-of-equality.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Inclusion, Social Security and Migration",
+    "page": "Government of Spain",
+    "url": "ministry-20-ministry-of-inclusion-social-security-and-migration.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for Digital Transformation and Public Administration",
+    "page": "Government of Spain",
+    "url": "ministry-21-ministry-for-digital-transformation-and-public-administratio.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth and Children",
+    "page": "Government of Spain",
+    "url": "ministry-22-ministry-of-youth-and-children.html",
     "verified": "2026-09-01"
   }
 ]

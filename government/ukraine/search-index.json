@@ -36,111 +36,141 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Culture of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-culture-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Strategic Industries of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-strategic-industries-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Finance of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-finance-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of National Unity of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-national-unity-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Agrarian Policy of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-agrarian-policy-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Environmental Protection and Natural Resources",
     "page": "Government of Ukraine",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-environmental-protection-and-natural-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Housing and Communal Services of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-housing-and-communal-services-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Youth and Sports of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-youth-and-sports-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Internal Affairs of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-internal-affairs-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Digital Transformation of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-digital-transformation-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry for Veterans Affairs",
     "page": "Government of Ukraine",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-for-veterans-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry for Development of Communities and Territories of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-for-development-of-communities-and-territories-of-u.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Healthcare of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-healthcare-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Foreign Affairs of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-foreign-affairs-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Education and Science of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-education-and-science-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Social Policy",
     "page": "Government of Ukraine",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-social-policy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Justice of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-justice-of-ukraine.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Defence of Ukraine",
     "page": "Government of Ukraine",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-defence-of-ukraine.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Economy of Ukraine",
+    "page": "Government of Ukraine",
+    "url": "ministry-19-ministry-of-economy-of-ukraine.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Energy of Ukraine",
+    "page": "Government of Ukraine",
+    "url": "ministry-20-ministry-of-energy-of-ukraine.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Q4294649",
+    "page": "Government of Ukraine",
+    "url": "ministry-21-q4294649.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Office of the President of Ukraine",
+    "page": "Government of Ukraine",
+    "url": "ministry-22-office-of-the-president-of-ukraine.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Secretariat of Cabinet of Ministers (Ukraine)",
+    "page": "Government of Ukraine",
+    "url": "ministry-23-secretariat-of-cabinet-of-ministers-ukraine.html",
     "verified": "2026-09-01"
   }
 ]

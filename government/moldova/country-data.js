@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Environment",
+      "ministry-01-ministry-of-environment.html",
       "MD-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Agriculture and Food Industry of Moldova",
+      "ministry-02-ministry-of-agriculture-and-food-industry-of-moldova.html",
       "MD-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Infrastructure and Regional Development",
+      "ministry-03-ministry-of-infrastructure-and-regional-development.html",
       "MD-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Labor, Family and Social Protection",
+      "ministry-04-ministry-of-labor-family-and-social-protection.html",
       "MD-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Economy of Moldova",
+      "ministry-05-ministry-of-economy-of-moldova.html",
       "MD-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education and Research",
+      "ministry-06-ministry-of-education-and-research.html",
       "MD-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-07-ministry-of-foreign-affairs.html",
       "MD-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Finance",
+      "ministry-08-ministry-of-finance.html",
       "MD-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice",
+      "ministry-09-ministry-of-justice.html",
       "MD-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Culture",
+      "ministry-10-ministry-of-culture.html",
       "MD-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health",
+      "ministry-11-ministry-of-health.html",
       "MD-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Defense",
+      "ministry-12-ministry-of-defense.html",
       "MD-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-13-ministry-of-internal-affairs.html",
       "MD-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of State Security",
+      "ministry-14-ministry-of-state-security.html",
       "MD-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Youth and Sports",
+      "ministry-15-ministry-of-youth-and-sports.html",
       "MD-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport and Roads Infrastructure",
+      "ministry-16-ministry-of-transport-and-roads-infrastructure.html",
       "MD-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "MD-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "MD-18"
     ]
   ]
 };

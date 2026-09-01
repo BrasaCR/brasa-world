@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Deputy Ministry of Research, Innovation and Digital Policy (Cyprus)",
+      "ministry-01-deputy-ministry-of-research-innovation-and-digital-policy-cy.html",
       "CY-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Presidency of Ministry",
+      "ministry-02-presidency-of-ministry.html",
       "CY-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Deputy Ministry of Social Welfare (Cyprus)",
+      "ministry-03-deputy-ministry-of-social-welfare-cyprus.html",
       "CY-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Deputy Ministry of Shipping (Cyprus)",
+      "ministry-04-deputy-ministry-of-shipping-cyprus.html",
       "CY-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Labour and Social Insurance of Cyprus",
+      "ministry-05-ministry-of-labour-and-social-insurance-of-cyprus.html",
       "CY-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Labour, Welfare and Social Insurance",
+      "ministry-06-ministry-of-labour-welfare-and-social-insurance.html",
       "CY-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of the Interior",
+      "ministry-07-ministry-of-the-interior.html",
       "CY-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Deputy Ministry Of Tourism (Cyprus)",
+      "ministry-08-deputy-ministry-of-tourism-cyprus.html",
       "CY-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Transport, Communications and Works",
+      "ministry-09-ministry-of-transport-communications-and-works.html",
       "CY-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Health of Cyprus",
+      "ministry-10-ministry-of-health-of-cyprus.html",
       "CY-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Deputy Ministry of Culture of Cyprus",
+      "ministry-11-deputy-ministry-of-culture-of-cyprus.html",
       "CY-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Energy, Commerce and Industry",
+      "ministry-12-ministry-of-energy-commerce-and-industry.html",
       "CY-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Education, Sports and Youth",
+      "ministry-13-ministry-of-education-sports-and-youth.html",
       "CY-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Defense",
+      "ministry-14-ministry-of-defense.html",
       "CY-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice and Public Order",
+      "ministry-15-ministry-of-justice-and-public-order.html",
       "CY-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Agriculture, Rural Development and Environment",
+      "ministry-16-ministry-of-agriculture-rural-development-and-environment.html",
       "CY-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Finance",
+      "ministry-17-ministry-of-finance.html",
       "CY-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Foreign Affairs of Cyprus",
+      "ministry-18-ministry-of-foreign-affairs-of-cyprus.html",
       "CY-18"
     ]
   ]

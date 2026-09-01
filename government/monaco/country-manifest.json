@@ -24,7 +24,8 @@
     "Panama": "Monaco"
   },
   "sources": [
-    "https://www.gouv.mc/"
+    "https://www.gouv.mc/",
+    "http://www.gouv.mc/Gouvernement-et-Institutions/Le-Gouvernement/Departement-des-Relations-Exterieures-et-de-la-Cooperation"
   ],
   "utilities": [
     {
@@ -60,112 +61,52 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of State",
+      "href": "ministry-01-ministry-of-state.html",
       "abbreviation": "MC-1",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Department of the Interior",
+      "href": "ministry-02-department-of-the-interior.html",
       "abbreviation": "MC-2",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Department of Finance and Economy",
+      "href": "ministry-03-department-of-finance-and-economy.html",
       "abbreviation": "MC-3",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Department of Health and Social Affairs",
+      "href": "ministry-04-department-of-health-and-social-affairs.html",
       "abbreviation": "MC-4",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Department of Public Works, the Environment and Urban Development",
+      "href": "ministry-05-department-of-public-works-the-environment-and-urban-develop.html",
       "abbreviation": "MC-5",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Department of External Relations and Cooperation",
+      "href": "ministry-06-department-of-external-relations-and-cooperation.html",
       "abbreviation": "MC-6",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
-      "abbreviation": "MC-7",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
-      "abbreviation": "MC-8",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
-      "abbreviation": "MC-9",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
-      "abbreviation": "MC-10",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
-      "abbreviation": "MC-11",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
-      "abbreviation": "MC-12",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "MC-13",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "MC-14",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "MC-15",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "MC-16",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "MC-17",
-      "officialHref": "https://www.gouv.mc/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "MC-18",
-      "officialHref": "https://www.gouv.mc/"
+      "officialHref": "https://www.gouv.mc/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -253,5 +194,11 @@
       "name": "Vallon de la Rousse",
       "code": "VR"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defence of Kosovo",
+      "ministry-01-ministry-of-defence-of-kosovo.html",
       "XK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs and Diaspora of the Republic of Kosovo",
+      "ministry-02-ministry-of-foreign-affairs-and-diaspora-of-the-republic-of-.html",
       "XK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Education, Science and Technology",
+      "ministry-03-ministry-of-education-science-and-technology.html",
       "XK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Culture, Youth and Sport of Kosovo",
+      "ministry-04-ministry-of-culture-youth-and-sport-of-kosovo.html",
       "XK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance (Kosovo)",
+      "ministry-05-ministry-of-finance-kosovo.html",
       "XK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economy",
+      "ministry-06-ministry-of-economy.html",
       "XK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Industry, Entrepreneurship, and Trade of Kosovo",
+      "ministry-07-ministry-of-industry-entrepreneurship-and-trade-of-kosovo.html",
       "XK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Internal Affairs of Kosovo",
+      "ministry-08-ministry-of-internal-affairs-of-kosovo.html",
       "XK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Regional Development of Kosovo",
+      "ministry-09-ministry-of-regional-development-of-kosovo.html",
       "XK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Environment and Spatial Planning and Infrastructure of Kosovo",
+      "ministry-10-ministry-of-environment-and-spatial-planning-and-infrastruct.html",
       "XK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health of Kosovo",
+      "ministry-11-ministry-of-health-of-kosovo.html",
       "XK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Labour and Social Welfare of Kosovo",
+      "ministry-12-ministry-of-labour-and-social-welfare-of-kosovo.html",
       "XK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Justice",
+      "ministry-13-ministry-of-justice.html",
       "XK-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Economy and Finance of Kosovo",
+      "ministry-14-ministry-of-economy-and-finance-of-kosovo.html",
       "XK-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "XK-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "XK-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "XK-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "XK-18"
     ]
   ]
 };

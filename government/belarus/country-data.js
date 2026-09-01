@@ -38,94 +38,119 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Internal Affairs of the Republic of Belarus",
+      "ministry-01-ministry-of-internal-affairs-of-the-republic-of-belarus.html",
       "BY-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice of the Republic of Belarus",
+      "ministry-02-ministry-of-justice-of-the-republic-of-belarus.html",
       "BY-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Communications and Informatization of the Republic of Belarus",
+      "ministry-03-ministry-of-communications-and-informatization-of-the-republ.html",
       "BY-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Public Health of the Republic of Belarus",
+      "ministry-04-ministry-of-public-health-of-the-republic-of-belarus.html",
       "BY-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence of the Republic of Belarus",
+      "ministry-05-ministry-of-defence-of-the-republic-of-belarus.html",
       "BY-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Emergency Situations of the Republic of Belarus",
+      "ministry-06-ministry-of-emergency-situations-of-the-republic-of-belarus.html",
       "BY-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Culture of the Republic of Belarus",
+      "ministry-07-ministry-of-culture-of-the-republic-of-belarus.html",
       "BY-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Finance of the Republic of Belarus",
+      "ministry-08-ministry-of-finance-of-the-republic-of-belarus.html",
       "BY-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Energy of the Republic of Belarus",
+      "ministry-09-ministry-of-energy-of-the-republic-of-belarus.html",
       "BY-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Information of the Republic of Belarus",
+      "ministry-10-ministry-of-information-of-the-republic-of-belarus.html",
       "BY-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture and Food of the Republic of Belarus",
+      "ministry-11-ministry-of-agriculture-and-food-of-the-republic-of-belarus.html",
       "BY-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Education of the Republic of Belarus",
+      "ministry-12-ministry-of-education-of-the-republic-of-belarus.html",
       "BY-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Architecture and Construction of the Republic of Belarus",
+      "ministry-13-ministry-of-architecture-and-construction-of-the-republic-of.html",
       "BY-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Antimonopoly Regulation and Trade of the Republic of Belarus",
+      "ministry-14-ministry-of-antimonopoly-regulation-and-trade-of-the-republi.html",
       "BY-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Housing and Communal Services of the Republic of Belarus",
+      "ministry-15-ministry-of-housing-and-communal-services-of-the-republic-of.html",
       "BY-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Forestry of the Republic of Belarus",
+      "ministry-16-ministry-of-forestry-of-the-republic-of-belarus.html",
       "BY-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Industry of the Republic of Belarus",
+      "ministry-17-ministry-of-industry-of-the-republic-of-belarus.html",
       "BY-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Taxes and Duties of the Republic of Belarus",
+      "ministry-18-ministry-of-taxes-and-duties-of-the-republic-of-belarus.html",
       "BY-18"
+    ],
+    [
+      "Ministry of Natural Resources and Environmental Protection of the Republic of Belarus",
+      "ministry-19-ministry-of-natural-resources-and-environmental-protection-o.html",
+      "BY-19"
+    ],
+    [
+      "Ministry of Transport and Communications of the Republic of Belarus",
+      "ministry-20-ministry-of-transport-and-communications-of-the-republic-of-.html",
+      "BY-20"
+    ],
+    [
+      "Ministry of Economy of the Republic of Belarus",
+      "ministry-21-ministry-of-economy-of-the-republic-of-belarus.html",
+      "BY-21"
+    ],
+    [
+      "Ministry of Labour and Social Protection of the Republic of Belarus",
+      "ministry-22-ministry-of-labour-and-social-protection-of-the-republic-of-.html",
+      "BY-22"
+    ],
+    [
+      "Ministry of Sports of the Republic of Belarus",
+      "ministry-23-ministry-of-sports-of-the-republic-of-belarus.html",
+      "BY-23"
     ]
   ]
 };

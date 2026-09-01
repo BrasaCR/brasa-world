@@ -38,94 +38,69 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of the State of Denmark",
+      "ministry-01-ministry-of-the-state-of-denmark.html",
       "DK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Societal Safety and Emergency Management",
+      "ministry-02-ministry-of-societal-safety-and-emergency-management.html",
       "DK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Tax Ministry of Denmark",
+      "ministry-03-tax-ministry-of-denmark.html",
       "DK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Implementation of the Green Three-Partite Agreement",
+      "ministry-04-ministry-of-the-implementation-of-the-green-three-partite-ag.html",
       "DK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence of Denmark",
+      "ministry-05-ministry-of-defence-of-denmark.html",
       "DK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Culture",
+      "ministry-06-ministry-of-culture.html",
       "DK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Justice",
+      "ministry-07-ministry-of-justice.html",
       "DK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Industry, Business and Financial Affairs",
+      "ministry-08-ministry-of-industry-business-and-financial-affairs.html",
       "DK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Transport of Denmark",
+      "ministry-09-ministry-of-transport-of-denmark.html",
       "DK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Energy, Utilities, and Climate",
+      "ministry-10-ministry-of-energy-utilities-and-climate.html",
       "DK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Foreign Affairs of Denmark",
+      "ministry-11-ministry-of-foreign-affairs-of-denmark.html",
       "DK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Finance of Denmark",
+      "ministry-12-ministry-of-finance-of-denmark.html",
       "DK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Children, Senior Citizens & Housing",
+      "ministry-13-ministry-of-children-senior-citizens-housing.html",
       "DK-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "DK-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "DK-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "DK-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "DK-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "DK-18"
     ]
   ]
 };

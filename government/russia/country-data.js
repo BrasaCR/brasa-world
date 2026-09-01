@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-01-ministry-of-internal-affairs.html",
       "RU-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Civil Defence, Emergencies and Disaster Relief",
+      "ministry-02-ministry-of-civil-defence-emergencies-and-disaster-relief.html",
       "RU-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "RU-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence",
+      "ministry-04-ministry-of-defence.html",
       "RU-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice",
+      "ministry-05-ministry-of-justice.html",
       "RU-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Health",
+      "ministry-06-ministry-of-health.html",
       "RU-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Culture",
+      "ministry-07-ministry-of-culture.html",
       "RU-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Science and Higher Education",
+      "ministry-08-ministry-of-science-and-higher-education.html",
       "RU-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Natural Resources and Environment",
+      "ministry-09-ministry-of-natural-resources-and-environment.html",
       "RU-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Industry and Trade",
+      "ministry-10-ministry-of-industry-and-trade.html",
       "RU-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Education",
+      "ministry-11-ministry-of-education.html",
       "RU-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry for the Development of the Russian Far East and Arctic",
+      "ministry-12-ministry-for-the-development-of-the-russian-far-east-and-arc.html",
       "RU-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Agriculture",
+      "ministry-13-ministry-of-agriculture.html",
       "RU-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Sport",
+      "ministry-14-ministry-of-sport.html",
       "RU-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Construction, Housing and Utilities",
+      "ministry-15-ministry-of-construction-housing-and-utilities.html",
       "RU-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport",
+      "ministry-16-ministry-of-transport.html",
       "RU-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Labour and Social Protection",
+      "ministry-17-ministry-of-labour-and-social-protection.html",
       "RU-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Finance",
+      "ministry-18-ministry-of-finance.html",
       "RU-18"
+    ],
+    [
+      "Ministry of Digital Development, Communications and Mass Media",
+      "ministry-19-ministry-of-digital-development-communications-and-mass-medi.html",
+      "RU-19"
+    ],
+    [
+      "Ministry of Economic Development",
+      "ministry-20-ministry-of-economic-development.html",
+      "RU-20"
+    ],
+    [
+      "Ministry of Energy",
+      "ministry-21-ministry-of-energy.html",
+      "RU-21"
     ]
   ]
 };

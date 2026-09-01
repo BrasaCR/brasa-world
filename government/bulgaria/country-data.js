@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Environment and Water",
+      "ministry-01-ministry-of-environment-and-water.html",
       "BG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Tourism",
+      "ministry-02-ministry-of-tourism.html",
       "BG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs of Bulgaria",
+      "ministry-03-ministry-of-foreign-affairs-of-bulgaria.html",
       "BG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence of Bulgaria",
+      "ministry-04-ministry-of-defence-of-bulgaria.html",
       "BG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Youth and Sports of Bulgaria",
+      "ministry-05-ministry-of-youth-and-sports-of-bulgaria.html",
       "BG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Health of Bulgaria",
+      "ministry-06-ministry-of-health-of-bulgaria.html",
       "BG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Labour and Social Policy",
+      "ministry-07-ministry-of-labour-and-social-policy.html",
       "BG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Culture of Bulgaria",
+      "ministry-08-ministry-of-culture-of-bulgaria.html",
       "BG-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Transport, Information Technology and Communications",
+      "ministry-09-ministry-of-transport-information-technology-and-communicati.html",
       "BG-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Energy of Bulgaria",
+      "ministry-10-ministry-of-energy-of-bulgaria.html",
       "BG-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Interior of Bulgaria",
+      "ministry-11-ministry-of-interior-of-bulgaria.html",
       "BG-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Justice",
+      "ministry-12-ministry-of-justice.html",
       "BG-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Education and Science of Bulgaria",
+      "ministry-13-ministry-of-education-and-science-of-bulgaria.html",
       "BG-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Agriculture, Food and Forestry",
+      "ministry-14-ministry-of-agriculture-food-and-forestry.html",
       "BG-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Electronic Government",
+      "ministry-15-ministry-of-electronic-government.html",
       "BG-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Finance",
+      "ministry-16-ministry-of-finance.html",
       "BG-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Regional Development and Public Works",
+      "ministry-17-ministry-of-regional-development-and-public-works.html",
       "BG-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Innovation and Digital Transformation",
+      "ministry-18-ministry-of-innovation-and-digital-transformation.html",
       "BG-18"
+    ],
+    [
+      "Ministry of Economy and Industry",
+      "ministry-19-ministry-of-economy-and-industry.html",
+      "BG-19"
+    ],
+    [
+      "Ministry of Innovation and Growth",
+      "ministry-20-ministry-of-innovation-and-growth.html",
+      "BG-20"
     ]
   ]
 };

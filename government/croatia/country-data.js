@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Construction and Spatial Planning",
+      "ministry-01-ministry-of-construction-and-spatial-planning.html",
       "HR-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign and European Affairs",
+      "ministry-02-ministry-of-foreign-and-european-affairs.html",
       "HR-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Labour and Pension System (Croatia)",
+      "ministry-03-ministry-of-labour-and-pension-system-croatia.html",
       "HR-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of State Property",
+      "ministry-04-ministry-of-state-property.html",
       "HR-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of the Interior of Croatia",
+      "ministry-05-ministry-of-the-interior-of-croatia.html",
       "HR-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Tourism and Sports",
+      "ministry-06-ministry-of-tourism-and-sports.html",
       "HR-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Environmental and Nature Protection",
+      "ministry-07-ministry-of-environmental-and-nature-protection.html",
       "HR-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Economy",
+      "ministry-08-ministry-of-economy.html",
       "HR-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Regional Development and EU Funds",
+      "ministry-09-ministry-of-regional-development-and-eu-funds.html",
       "HR-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Maritime Affairs, Transport and Infrastructure",
+      "ministry-10-ministry-of-maritime-affairs-transport-and-infrastructure.html",
       "HR-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health of Croatia",
+      "ministry-11-ministry-of-health-of-croatia.html",
       "HR-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Finance of the Republic of Croatia",
+      "ministry-12-ministry-of-finance-of-the-republic-of-croatia.html",
       "HR-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Science and Education",
+      "ministry-13-ministry-of-science-and-education.html",
       "HR-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Culture and Media of the Republic of Croatia",
+      "ministry-14-ministry-of-culture-and-media-of-the-republic-of-croatia.html",
       "HR-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice, Public Administration and Digital Transformation",
+      "ministry-15-ministry-of-justice-public-administration-and-digital-transf.html",
       "HR-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Central State office for Croats Abroad",
+      "ministry-16-central-state-office-for-croats-abroad.html",
       "HR-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Defence",
+      "ministry-17-ministry-of-defence.html",
       "HR-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Public Administration",
+      "ministry-18-ministry-of-public-administration.html",
       "HR-18"
+    ],
+    [
+      "Ministry of Agriculture of Croatia",
+      "ministry-19-ministry-of-agriculture-of-croatia.html",
+      "HR-19"
+    ],
+    [
+      "Ministry of Veteran Affairs",
+      "ministry-20-ministry-of-veteran-affairs.html",
+      "HR-20"
+    ],
+    [
+      "Ministry of Justice, Administration and Local Government: Prison Administration (HR)",
+      "ministry-21-ministry-of-justice-administration-and-local-government-pris.html",
+      "HR-21"
     ]
   ]
 };

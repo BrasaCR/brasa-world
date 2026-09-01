@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of the Interior",
+      "ministry-01-ministry-of-the-interior.html",
       "SI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Infrastructure",
+      "ministry-02-ministry-of-infrastructure.html",
       "SI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Health",
+      "ministry-03-ministry-of-health.html",
       "SI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Agriculture, Forestry and Food",
+      "ministry-04-ministry-of-agriculture-forestry-and-food.html",
       "SI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance",
+      "ministry-05-ministry-of-finance.html",
       "SI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Public Administration",
+      "ministry-06-ministry-of-public-administration.html",
       "SI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Economic Development and Technology",
+      "ministry-07-ministry-of-economic-development-and-technology.html",
       "SI-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Labour, Family, Social Affairs and Equal Opportunities",
+      "ministry-08-ministry-of-labour-family-social-affairs-and-equal-opportuni.html",
       "SI-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Foreign Affairs of Slovenia",
+      "ministry-09-ministry-of-foreign-affairs-of-slovenia.html",
       "SI-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Education Science and Sport",
+      "ministry-10-ministry-of-education-science-and-sport.html",
       "SI-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Culture of Slovenia",
+      "ministry-11-ministry-of-culture-of-slovenia.html",
       "SI-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of the Environment and Spatial Planning",
+      "ministry-12-ministry-of-the-environment-and-spatial-planning.html",
       "SI-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Higher Education Science, and Technology",
+      "ministry-13-ministry-of-higher-education-science-and-technology.html",
       "SI-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Defence of Slovenia",
+      "ministry-14-ministry-of-defence-of-slovenia.html",
       "SI-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "SI-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "SI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "SI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "SI-18"
     ]
   ]
 };

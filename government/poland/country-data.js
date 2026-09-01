@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Chancellery of the Prime Minister",
+      "ministry-01-chancellery-of-the-prime-minister.html",
       "PL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance",
+      "ministry-02-ministry-of-finance.html",
       "PL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "PL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Defence",
+      "ministry-04-ministry-of-national-defence.html",
       "PL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of the Interior and Administration",
+      "ministry-05-ministry-of-the-interior-and-administration.html",
       "PL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Justice",
+      "ministry-06-ministry-of-justice.html",
       "PL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of National Education",
+      "ministry-07-ministry-of-national-education.html",
       "PL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Science and Higher Education",
+      "ministry-08-ministry-of-science-and-higher-education.html",
       "PL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health",
+      "ministry-09-ministry-of-health.html",
       "PL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Family, Labour and Social Policy",
+      "ministry-10-ministry-of-family-labour-and-social-policy.html",
       "PL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture and Rural Development",
+      "ministry-11-ministry-of-agriculture-and-rural-development.html",
       "PL-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Climate and Environment",
+      "ministry-12-ministry-of-climate-and-environment.html",
       "PL-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Infrastructure",
+      "ministry-13-ministry-of-infrastructure.html",
       "PL-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Development and Technology",
+      "ministry-14-ministry-of-development-and-technology.html",
       "PL-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Digital Affairs",
+      "ministry-15-ministry-of-digital-affairs.html",
       "PL-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Culture and National Heritage",
+      "ministry-16-ministry-of-culture-and-national-heritage.html",
       "PL-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Sport and Tourism",
+      "ministry-17-ministry-of-sport-and-tourism.html",
       "PL-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of State Assets",
+      "ministry-18-ministry-of-state-assets.html",
       "PL-18"
+    ],
+    [
+      "Ministry of Funds and Regional Policy",
+      "ministry-19-ministry-of-funds-and-regional-policy.html",
+      "PL-19"
     ]
   ]
 };

@@ -36,111 +36,87 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Finance",
     "page": "Government of Albania",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Internal Affairs",
     "page": "Government of Albania",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-internal-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Education",
     "page": "Government of Albania",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Justice",
     "page": "Government of Albania",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Defence",
     "page": "Government of Albania",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Environment",
     "page": "Government of Albania",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Tourism, Culture and Sports",
     "page": "Government of Albania",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-tourism-culture-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Health and Social Protection",
     "page": "Government of Albania",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-health-and-social-protection.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Agriculture and Rural Development",
     "page": "Government of Albania",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-agriculture-and-rural-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Economy and Innovation of Albania",
     "page": "Government of Albania",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-economy-and-innovation-of-albania.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Infrastructure and Energy",
     "page": "Government of Albania",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-infrastructure-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Public Works, Transportation and Telecommunications",
     "page": "Government of Albania",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-public-works-transportation-and-telecommunicatio.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Foreign Affairs of Albania",
     "page": "Government of Albania",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-foreign-affairs-of-albania.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Tourism, Cultural Affairs, Youth and Sports",
     "page": "Government of Albania",
-    "url": "ministry-14-social-protection-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Head of government and cabinet",
-    "page": "Government of Albania",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Electoral authority",
-    "page": "Government of Albania",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Albania",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Albania",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-14-ministry-of-tourism-cultural-affairs-youth-and-sports.html",
     "verified": "2026-09-01"
   }
 ]

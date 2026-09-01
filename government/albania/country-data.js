@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance",
+      "ministry-01-ministry-of-finance.html",
       "AL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-02-ministry-of-internal-affairs.html",
       "AL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Education",
+      "ministry-03-ministry-of-education.html",
       "AL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice",
+      "ministry-04-ministry-of-justice.html",
       "AL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence",
+      "ministry-05-ministry-of-defence.html",
       "AL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Environment",
+      "ministry-06-ministry-of-environment.html",
       "AL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Tourism, Culture and Sports",
+      "ministry-07-ministry-of-tourism-culture-and-sports.html",
       "AL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health and Social Protection",
+      "ministry-08-ministry-of-health-and-social-protection.html",
       "AL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture and Rural Development",
+      "ministry-09-ministry-of-agriculture-and-rural-development.html",
       "AL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Economy and Innovation of Albania",
+      "ministry-10-ministry-of-economy-and-innovation-of-albania.html",
       "AL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Infrastructure and Energy",
+      "ministry-11-ministry-of-infrastructure-and-energy.html",
       "AL-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Public Works, Transportation and Telecommunications",
+      "ministry-12-ministry-of-public-works-transportation-and-telecommunicatio.html",
       "AL-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs of Albania",
+      "ministry-13-ministry-of-foreign-affairs-of-albania.html",
       "AL-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Tourism, Cultural Affairs, Youth and Sports",
+      "ministry-14-ministry-of-tourism-cultural-affairs-youth-and-sports.html",
       "AL-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "AL-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "AL-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "AL-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "AL-18"
     ]
   ]
 };

@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry for the economy, european funds and lands",
+      "ministry-01-ministry-for-the-economy-european-funds-and-lands.html",
       "MT-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry for the National Heritage, The Arts and Local Government",
+      "ministry-02-ministry-for-the-national-heritage-the-arts-and-local-govern.html",
       "MT-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry for Foreign and European Affairs and Trade",
+      "ministry-03-ministry-for-foreign-and-european-affairs-and-trade.html",
       "MT-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry for inclusion, voluntary organisations and consumer rights",
+      "ministry-04-ministry-for-inclusion-voluntary-organisations-and-consumer-.html",
       "MT-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry for Social Policy and Children's Rights",
+      "ministry-05-ministry-for-social-policy-and-children-s-rights.html",
       "MT-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry for home affairs, security, reforms and equality",
+      "ministry-06-ministry-for-home-affairs-security-reforms-and-equality.html",
       "MT-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry for Agriculture, Fisheries and Animal Rights",
+      "ministry-07-ministry-for-agriculture-fisheries-and-animal-rights.html",
       "MT-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry for Social and Affordable Accommodation",
+      "ministry-08-ministry-for-social-and-affordable-accommodation.html",
       "MT-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry For The Environment, Energy And Enterprise",
+      "ministry-09-ministry-for-the-environment-energy-and-enterprise.html",
       "MT-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry For Finance And Employment",
+      "ministry-10-ministry-for-finance-and-employment.html",
       "MT-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry For Education, Sport, Youth, Research And Innovation",
+      "ministry-11-ministry-for-education-sport-youth-research-and-innovation.html",
       "MT-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry For Public Works And Planning",
+      "ministry-12-ministry-for-public-works-and-planning.html",
       "MT-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry For Justice",
+      "ministry-13-ministry-for-justice.html",
       "MT-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry For Active Ageing",
+      "ministry-14-ministry-for-active-ageing.html",
       "MT-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry for Health",
+      "ministry-15-ministry-for-health.html",
       "MT-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry for Tourism",
+      "ministry-16-ministry-for-tourism.html",
       "MT-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry for Transport, Infrastructure and Capital Projects",
+      "ministry-17-ministry-for-transport-infrastructure-and-capital-projects.html",
       "MT-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry for Finance",
+      "ministry-18-ministry-for-finance.html",
       "MT-18"
+    ],
+    [
+      "Ministry of Foreign Affairs of the Republic of Malta",
+      "ministry-19-ministry-of-foreign-affairs-of-the-republic-of-malta.html",
+      "MT-19"
+    ],
+    [
+      "Ministry for Gozo",
+      "ministry-20-ministry-for-gozo.html",
+      "MT-20"
     ]
   ]
 };

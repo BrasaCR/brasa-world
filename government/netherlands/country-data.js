@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of General Affairs",
+      "ministry-01-ministry-of-general-affairs.html",
       "NL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of the Interior and Kingdom Relations",
+      "ministry-02-ministry-of-the-interior-and-kingdom-relations.html",
       "NL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "NL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence",
+      "ministry-04-ministry-of-defence.html",
       "NL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Economic Affairs",
+      "ministry-05-ministry-of-economic-affairs.html",
       "NL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Climate Policy and Green Growth",
+      "ministry-06-ministry-of-climate-policy-and-green-growth.html",
       "NL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance",
+      "ministry-07-ministry-of-finance.html",
       "NL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Infrastructure and Water Management",
+      "ministry-08-ministry-of-infrastructure-and-water-management.html",
       "NL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice and Security",
+      "ministry-09-ministry-of-justice-and-security.html",
       "NL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture, Fisheries, Food Security and Nature",
+      "ministry-10-ministry-of-agriculture-fisheries-food-security-and-nature.html",
       "NL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Education, Culture and Science",
+      "ministry-11-ministry-of-education-culture-and-science.html",
       "NL-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Social Affairs and Employment",
+      "ministry-12-ministry-of-social-affairs-and-employment.html",
       "NL-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Health, Welfare and Sport",
+      "ministry-13-ministry-of-health-welfare-and-sport.html",
       "NL-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Housing and Spatial Planning",
+      "ministry-14-ministry-of-housing-and-spatial-planning.html",
       "NL-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Asylum and Migration",
+      "ministry-15-ministry-of-asylum-and-migration.html",
       "NL-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "NL-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "NL-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "NL-18"
     ]
   ]
 };

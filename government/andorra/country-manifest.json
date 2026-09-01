@@ -24,7 +24,13 @@
     "Panama": "Andorra"
   },
   "sources": [
-    "https://www.govern.ad/"
+    "https://www.govern.ad/",
+    "https://www.turisme.ad/",
+    "https://www.educacio.ad/",
+    "https://www.govern.ad/ministra-de-cultura-joventut-i-esports",
+    "http://www.exteriors.ad/ca/",
+    "https://www.mobilitat.ad/ca/",
+    "http://finances.ad"
   ],
   "utilities": [
     {
@@ -60,112 +66,52 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Tourism of Andorra",
+      "href": "ministry-01-ministry-of-tourism-of-andorra.html",
       "abbreviation": "AD-1",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "https://www.turisme.ad/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Education and Higher Education of Andorra",
+      "href": "ministry-02-ministry-of-education-and-higher-education-of-andorra.html",
       "abbreviation": "AD-2",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "https://www.educacio.ad/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Culture and Sports of Andorra",
+      "href": "ministry-03-ministry-of-culture-and-sports-of-andorra.html",
       "abbreviation": "AD-3",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "https://www.govern.ad/ministra-de-cultura-joventut-i-esports",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-04-ministry-of-foreign-affairs.html",
       "abbreviation": "AD-4",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "http://www.exteriors.ad/ca/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Territorial Planning of Andorra",
+      "href": "ministry-05-ministry-of-territorial-planning-of-andorra.html",
       "abbreviation": "AD-5",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "https://www.mobilitat.ad/ca/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Finance of Andorra",
+      "href": "ministry-06-ministry-of-finance-of-andorra.html",
       "abbreviation": "AD-6",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
-      "abbreviation": "AD-7",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
-      "abbreviation": "AD-8",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
-      "abbreviation": "AD-9",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
-      "abbreviation": "AD-10",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
-      "abbreviation": "AD-11",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
-      "abbreviation": "AD-12",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
-      "abbreviation": "AD-13",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
-      "abbreviation": "AD-14",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
-      "abbreviation": "AD-15",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "AD-16",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "AD-17",
-      "officialHref": "https://www.govern.ad/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "AD-18",
-      "officialHref": "https://www.govern.ad/"
+      "officialHref": "http://finances.ad",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -213,5 +159,11 @@
       "name": "Sant Julià de Lòria",
       "code": "06"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

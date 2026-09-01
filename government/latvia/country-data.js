@@ -38,94 +38,74 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Welfare",
+      "ministry-01-ministry-of-welfare.html",
       "LV-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Culture of the Republic of Latvia",
+      "ministry-02-ministry-of-culture-of-the-republic-of-latvia.html",
       "LV-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Environmental Protection and Regional Development",
+      "ministry-03-ministry-of-environmental-protection-and-regional-developmen.html",
       "LV-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Interior of the Republic of Latvia",
+      "ministry-04-ministry-of-the-interior-of-the-republic-of-latvia.html",
       "LV-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-05-ministry-of-foreign-affairs.html",
       "LV-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Climate and Energy of Latvia",
+      "ministry-06-ministry-of-climate-and-energy-of-latvia.html",
       "LV-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Education and Science",
+      "ministry-07-ministry-of-education-and-science.html",
       "LV-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Economics",
+      "ministry-08-ministry-of-economics.html",
       "LV-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Finance",
+      "ministry-09-ministry-of-finance.html",
       "LV-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Justice",
+      "ministry-10-ministry-of-justice.html",
       "LV-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture",
+      "ministry-11-ministry-of-agriculture.html",
       "LV-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Defence of Latvia",
+      "ministry-12-ministry-of-defence-of-latvia.html",
       "LV-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Health",
+      "ministry-13-ministry-of-health.html",
       "LV-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Transport",
+      "ministry-14-ministry-of-transport.html",
       "LV-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "LV-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "LV-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "LV-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "LV-18"
     ]
   ]
 };

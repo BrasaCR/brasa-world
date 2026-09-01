@@ -38,94 +38,119 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Culture of Ukraine",
+      "ministry-01-ministry-of-culture-of-ukraine.html",
       "UA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Strategic Industries of Ukraine",
+      "ministry-02-ministry-of-strategic-industries-of-ukraine.html",
       "UA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Finance of Ukraine",
+      "ministry-03-ministry-of-finance-of-ukraine.html",
       "UA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Unity of Ukraine",
+      "ministry-04-ministry-of-national-unity-of-ukraine.html",
       "UA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Agrarian Policy of Ukraine",
+      "ministry-05-ministry-of-agrarian-policy-of-ukraine.html",
       "UA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Environmental Protection and Natural Resources",
+      "ministry-06-ministry-of-environmental-protection-and-natural-resources.html",
       "UA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Housing and Communal Services of Ukraine",
+      "ministry-07-ministry-of-housing-and-communal-services-of-ukraine.html",
       "UA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Youth and Sports of Ukraine",
+      "ministry-08-ministry-of-youth-and-sports-of-ukraine.html",
       "UA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Internal Affairs of Ukraine",
+      "ministry-09-ministry-of-internal-affairs-of-ukraine.html",
       "UA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Digital Transformation of Ukraine",
+      "ministry-10-ministry-of-digital-transformation-of-ukraine.html",
       "UA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry for Veterans Affairs",
+      "ministry-11-ministry-for-veterans-affairs.html",
       "UA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry for Development of Communities and Territories of Ukraine",
+      "ministry-12-ministry-for-development-of-communities-and-territories-of-u.html",
       "UA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Healthcare of Ukraine",
+      "ministry-13-ministry-of-healthcare-of-ukraine.html",
       "UA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Foreign Affairs of Ukraine",
+      "ministry-14-ministry-of-foreign-affairs-of-ukraine.html",
       "UA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Education and Science of Ukraine",
+      "ministry-15-ministry-of-education-and-science-of-ukraine.html",
       "UA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Social Policy",
+      "ministry-16-ministry-of-social-policy.html",
       "UA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Justice of Ukraine",
+      "ministry-17-ministry-of-justice-of-ukraine.html",
       "UA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Defence of Ukraine",
+      "ministry-18-ministry-of-defence-of-ukraine.html",
       "UA-18"
+    ],
+    [
+      "Ministry of Economy of Ukraine",
+      "ministry-19-ministry-of-economy-of-ukraine.html",
+      "UA-19"
+    ],
+    [
+      "Ministry of Energy of Ukraine",
+      "ministry-20-ministry-of-energy-of-ukraine.html",
+      "UA-20"
+    ],
+    [
+      "Q4294649",
+      "ministry-21-q4294649.html",
+      "UA-21"
+    ],
+    [
+      "Office of the President of Ukraine",
+      "ministry-22-office-of-the-president-of-ukraine.html",
+      "UA-22"
+    ],
+    [
+      "Secretariat of Cabinet of Ministers (Ukraine)",
+      "ministry-23-secretariat-of-cabinet-of-ministers-ukraine.html",
+      "UA-23"
     ]
   ]
 };

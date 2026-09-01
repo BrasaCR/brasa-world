@@ -36,111 +36,87 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Welfare",
     "page": "Government of Latvia",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-welfare.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Culture of the Republic of Latvia",
     "page": "Government of Latvia",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-culture-of-the-republic-of-latvia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Environmental Protection and Regional Development",
     "page": "Government of Latvia",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-environmental-protection-and-regional-developmen.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of the Interior of the Republic of Latvia",
     "page": "Government of Latvia",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-the-interior-of-the-republic-of-latvia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Foreign Affairs",
     "page": "Government of Latvia",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Climate and Energy of Latvia",
     "page": "Government of Latvia",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-climate-and-energy-of-latvia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Education and Science",
     "page": "Government of Latvia",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-education-and-science.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Economics",
     "page": "Government of Latvia",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-economics.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Finance",
     "page": "Government of Latvia",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Justice",
     "page": "Government of Latvia",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Agriculture",
     "page": "Government of Latvia",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-agriculture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Defence of Latvia",
     "page": "Government of Latvia",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-defence-of-latvia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Health",
     "page": "Government of Latvia",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Transport",
     "page": "Government of Latvia",
-    "url": "ministry-14-social-protection-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Head of government and cabinet",
-    "page": "Government of Latvia",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Electoral authority",
-    "page": "Government of Latvia",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Latvia",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Latvia",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-14-ministry-of-transport.html",
     "verified": "2026-09-01"
   }
 ]

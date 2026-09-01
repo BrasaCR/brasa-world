@@ -24,7 +24,25 @@
     "Panama": "Ireland"
   },
   "sources": [
-    "https://www.gov.ie/"
+    "https://www.gov.ie/",
+    "https://www.gov.ie/ga/an-roinn-fiontar-turasóireachta-agus-fostaíochta/",
+    "https://www.gov.ie/en/department-of-the-taoiseach/",
+    "https://www.gov.ie/en/organisation/department-of-finance/",
+    "https://www.gov.ie/en/organisation/department-of-agriculture-food-and-the-marine/",
+    "https://www.gov.ie/en/organisation/department-of-transport/",
+    "https://www.gov.ie/en/organisation/department-of-education/",
+    "https://www.gov.ie/en/organisation/department-of-higher-education-innovation-and-science/",
+    "https://www.gov.ie/en/organisation/department-of-foreign-affairs/",
+    "https://www.gov.ie/en/organisation/department-of-rural-and-community-development/",
+    "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform/",
+    "https://www.gov.ie/en/organisation/department-of-health/",
+    "https://www.gov.ie/en/department-of-culture-communications-and-sport/",
+    "https://www.gov.ie/en/organisation/department-of-defence/",
+    "https://www.gov.ie/en/organisation/department-of-housing-local-government-and-heritage/",
+    "https://www.gov.ie/en/department-of-children-disability-and-equality/",
+    "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/",
+    "https://www.gov.ie/en/organisation/department-of-social-protection/",
+    "https://www.gov.ie/en/organisation/department-of-justice/"
   ],
   "utilities": [
     {
@@ -60,112 +78,148 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Department of Enterprise, Trade and Employment",
+      "href": "ministry-01-department-of-enterprise-trade-and-employment.html",
       "abbreviation": "IE-1",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/ga/an-roinn-fiontar-turasóireachta-agus-fostaíochta/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Department of the Taoiseach",
+      "href": "ministry-02-department-of-the-taoiseach.html",
       "abbreviation": "IE-2",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/department-of-the-taoiseach/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Department of Finance of Ireland",
+      "href": "ministry-03-department-of-finance-of-ireland.html",
       "abbreviation": "IE-3",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-finance/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Department of Agriculture, Food and the Marine",
+      "href": "ministry-04-department-of-agriculture-food-and-the-marine.html",
       "abbreviation": "IE-4",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-agriculture-food-and-the-marine/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Department of Transport of Ireland",
+      "href": "ministry-05-department-of-transport-of-ireland.html",
       "abbreviation": "IE-5",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-transport/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Department of Education of Ireland",
+      "href": "ministry-06-department-of-education-of-ireland.html",
       "abbreviation": "IE-6",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-education/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Department of Further and Higher Education, Research, Innovation and Science",
+      "href": "ministry-07-department-of-further-and-higher-education-research-innovati.html",
       "abbreviation": "IE-7",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-higher-education-innovation-and-science/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Department of Foreign Affairs of Ireland",
+      "href": "ministry-08-department-of-foreign-affairs-of-ireland.html",
       "abbreviation": "IE-8",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-foreign-affairs/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Department of Rural and Community Development",
+      "href": "ministry-09-department-of-rural-and-community-development.html",
       "abbreviation": "IE-9",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-rural-and-community-development/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Department of Public Expenditure, National Development Plan Delivery and Reform",
+      "href": "ministry-10-department-of-public-expenditure-national-development-plan-d.html",
       "abbreviation": "IE-10",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Department of Health of Ireland",
+      "href": "ministry-11-department-of-health-of-ireland.html",
       "abbreviation": "IE-11",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-health/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Department of Culture, Communications and Sport",
+      "href": "ministry-12-department-of-culture-communications-and-sport.html",
       "abbreviation": "IE-12",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/department-of-culture-communications-and-sport/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Department of Defence of Ireland",
+      "href": "ministry-13-department-of-defence-of-ireland.html",
       "abbreviation": "IE-13",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-defence/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Department of Housing, Local Government and Heritage",
+      "href": "ministry-14-department-of-housing-local-government-and-heritage.html",
       "abbreviation": "IE-14",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-housing-local-government-and-heritage/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Department of Children, Disability and Equality",
+      "href": "ministry-15-department-of-children-disability-and-equality.html",
       "abbreviation": "IE-15",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/department-of-children-disability-and-equality/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Department of Climate, Energy and the Environment",
+      "href": "ministry-16-department-of-climate-energy-and-the-environment.html",
       "abbreviation": "IE-16",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Department of Social Protection",
+      "href": "ministry-17-department-of-social-protection.html",
       "abbreviation": "IE-17",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-social-protection/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Department of Justice of Ireland",
+      "href": "ministry-18-department-of-justice-of-ireland.html",
       "abbreviation": "IE-18",
-      "officialHref": "https://www.gov.ie/"
+      "officialHref": "https://www.gov.ie/en/organisation/department-of-justice/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -289,5 +343,11 @@
       "name": "Wicklow",
       "code": "WW"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -36,111 +36,123 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry for the economy, european funds and lands",
     "page": "Government of Malta",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-for-the-economy-european-funds-and-lands.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry for the National Heritage, The Arts and Local Government",
     "page": "Government of Malta",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-for-the-national-heritage-the-arts-and-local-govern.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry for Foreign and European Affairs and Trade",
     "page": "Government of Malta",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-for-foreign-and-european-affairs-and-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry for inclusion, voluntary organisations and consumer rights",
     "page": "Government of Malta",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-for-inclusion-voluntary-organisations-and-consumer-.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry for Social Policy and Children's Rights",
     "page": "Government of Malta",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-for-social-policy-and-children-s-rights.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry for home affairs, security, reforms and equality",
     "page": "Government of Malta",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-for-home-affairs-security-reforms-and-equality.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry for Agriculture, Fisheries and Animal Rights",
     "page": "Government of Malta",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-for-agriculture-fisheries-and-animal-rights.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry for Social and Affordable Accommodation",
     "page": "Government of Malta",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-for-social-and-affordable-accommodation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry For The Environment, Energy And Enterprise",
     "page": "Government of Malta",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-for-the-environment-energy-and-enterprise.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry For Finance And Employment",
     "page": "Government of Malta",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-for-finance-and-employment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry For Education, Sport, Youth, Research And Innovation",
     "page": "Government of Malta",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-for-education-sport-youth-research-and-innovation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry For Public Works And Planning",
     "page": "Government of Malta",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-for-public-works-and-planning.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry For Justice",
     "page": "Government of Malta",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-for-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry For Active Ageing",
     "page": "Government of Malta",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-for-active-ageing.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry for Health",
     "page": "Government of Malta",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-for-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry for Tourism",
     "page": "Government of Malta",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-for-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry for Transport, Infrastructure and Capital Projects",
     "page": "Government of Malta",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-for-transport-infrastructure-and-capital-projects.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry for Finance",
     "page": "Government of Malta",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-for-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs of the Republic of Malta",
+    "page": "Government of Malta",
+    "url": "ministry-19-ministry-of-foreign-affairs-of-the-republic-of-malta.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for Gozo",
+    "page": "Government of Malta",
+    "url": "ministry-20-ministry-for-gozo.html",
     "verified": "2026-09-01"
   }
 ]

@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Federal Ministry of the Interior",
+      "ministry-01-federal-ministry-of-the-interior.html",
       "AT-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Federal Ministry of Families and Youth",
+      "ministry-02-federal-ministry-of-families-and-youth.html",
       "AT-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Federal Ministry of Justice",
+      "ministry-03-federal-ministry-of-justice.html",
       "AT-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry for Housing, Arts, Culture, Media and Sport",
+      "ministry-04-ministry-for-housing-arts-culture-media-and-sport.html",
       "AT-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Federal Ministry of Women, Science and Research",
+      "ministry-05-federal-ministry-of-women-science-and-research.html",
       "AT-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Federal Ministry of Defence",
+      "ministry-06-federal-ministry-of-defence.html",
       "AT-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Federal Ministry of Education",
+      "ministry-07-federal-ministry-of-education.html",
       "AT-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Federal Ministry for European and International Affairs",
+      "ministry-08-federal-ministry-for-european-and-international-affairs.html",
       "AT-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Federal Ministry of Finance",
+      "ministry-09-federal-ministry-of-finance.html",
       "AT-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology",
+      "ministry-10-federal-ministry-for-climate-action-environment-energy-mobil.html",
       "AT-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Federal Ministry of Agriculture, Forestry, Environment, Regions and Water Management",
+      "ministry-11-federal-ministry-of-agriculture-forestry-environment-regions.html",
       "AT-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Federal Chancellery of Austria",
+      "ministry-12-federal-chancellery-of-austria.html",
       "AT-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Federal Ministry of Economy, Energy and Tourism",
+      "ministry-13-federal-ministry-of-economy-energy-and-tourism.html",
       "AT-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Federal Ministry of Sustainability and Tourism",
+      "ministry-14-federal-ministry-of-sustainability-and-tourism.html",
       "AT-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Federal Ministry for Economic Affairs, Family and Youth",
+      "ministry-15-federal-ministry-for-economic-affairs-family-and-youth.html",
       "AT-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Federal Ministry for Arts, Culture, the Civil Service and Sport",
+      "ministry-16-federal-ministry-for-arts-culture-the-civil-service-and-spor.html",
       "AT-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Federal Ministry of Health",
+      "ministry-17-federal-ministry-of-health.html",
       "AT-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Federal Ministry of Labour, Social Affairs, Health, Care and Consumer Protection",
+      "ministry-18-federal-ministry-of-labour-social-affairs-health-care-and-co.html",
       "AT-18"
     ]
   ]

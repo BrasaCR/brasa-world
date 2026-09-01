@@ -36,111 +36,129 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Cabinet Office",
     "page": "Government of United Kingdom",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-cabinet-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "HM Treasury",
     "page": "Government of United Kingdom",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-hm-treasury.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Foreign, Commonwealth & Development Office",
     "page": "Government of United Kingdom",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-foreign-commonwealth-development-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Home Office",
     "page": "Government of United Kingdom",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-home-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Defence",
     "page": "Government of United Kingdom",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Justice",
     "page": "Government of United Kingdom",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Department for Education",
     "page": "Government of United Kingdom",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-department-for-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Department of Health and Social Care",
     "page": "Government of United Kingdom",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-department-of-health-and-social-care.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Department for Transport",
     "page": "Government of United Kingdom",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-department-for-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Department for Work and Pensions",
     "page": "Government of United Kingdom",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-department-for-work-and-pensions.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Department for Business and Trade",
     "page": "Government of United Kingdom",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-department-for-business-and-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Department for Energy Security and Net Zero",
     "page": "Government of United Kingdom",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-department-for-energy-security-and-net-zero.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Department for Science, Innovation and Technology",
     "page": "Government of United Kingdom",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-department-for-science-innovation-and-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Department for Environment, Food & Rural Affairs",
     "page": "Government of United Kingdom",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-department-for-environment-food-rural-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Department for Culture, Media and Sport",
     "page": "Government of United Kingdom",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-department-for-culture-media-and-sport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Department for Housing, Communities and Local Government",
     "page": "Government of United Kingdom",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-department-for-housing-communities-and-local-government.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Northern Ireland Office",
     "page": "Government of United Kingdom",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-northern-ireland-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Scotland Office",
     "page": "Government of United Kingdom",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-scotland-office.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Wales Office",
+    "page": "Government of United Kingdom",
+    "url": "ministry-19-wales-office.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Office of the Advocate General for Scotland",
+    "page": "Government of United Kingdom",
+    "url": "ministry-20-office-of-the-advocate-general-for-scotland.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Attorney General’s Office",
+    "page": "Government of United Kingdom",
+    "url": "ministry-21-attorney-general-s-office.html",
     "verified": "2026-09-01"
   }
 ]

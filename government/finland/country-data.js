@@ -38,94 +38,64 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Agriculture and Forestry",
+      "ministry-01-ministry-of-agriculture-and-forestry.html",
       "FI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice",
+      "ministry-02-ministry-of-justice.html",
       "FI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Finance",
+      "ministry-03-ministry-of-finance.html",
       "FI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of the Environment",
+      "ministry-04-ministry-of-the-environment.html",
       "FI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Social Affairs and Health",
+      "ministry-05-ministry-of-social-affairs-and-health.html",
       "FI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Prime Minister's Office",
+      "ministry-06-prime-minister-s-office.html",
       "FI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Foreign Affairs of Finland",
+      "ministry-07-ministry-of-foreign-affairs-of-finland.html",
       "FI-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education and Culture",
+      "ministry-08-ministry-of-education-and-culture.html",
       "FI-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-09-ministry-of-transport-and-communications.html",
       "FI-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Economic Affairs and Employment",
+      "ministry-10-ministry-of-economic-affairs-and-employment.html",
       "FI-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of the Interior of Finland",
+      "ministry-11-ministry-of-the-interior-of-finland.html",
       "FI-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Defence of Finland",
+      "ministry-12-ministry-of-defence-of-finland.html",
       "FI-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "FI-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "FI-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "FI-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "FI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "FI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "FI-18"
     ]
   ]
 };

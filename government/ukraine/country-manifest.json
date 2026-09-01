@@ -24,7 +24,29 @@
     "Panama": "Ukraine"
   },
   "sources": [
-    "https://diia.gov.ua/"
+    "https://diia.gov.ua/",
+    "https://mcip.gov.ua/en/",
+    "https://mspu.gov.ua/",
+    "http://www.mof.gov.ua",
+    "https://unity.gov.ua/en/",
+    "http://minagro.gov.ua/",
+    "https://mepr.gov.ua/",
+    "http://www.minregionbud.gov.ua",
+    "https://mms.gov.ua/",
+    "http://www.mvs.gov.ua/",
+    "https://thedigital.gov.ua/",
+    "http://mva.gov.ua",
+    "https://mindev.gov.ua/",
+    "http://www.moz.gov.ua",
+    "https://mfa.gov.ua/",
+    "https://mon.gov.ua/",
+    "http://msp.gov.ua/",
+    "http://www.minjust.gov.ua",
+    "https://mod.gov.ua/",
+    "https://me.gov.ua/",
+    "http://www.menr.gov.ua/",
+    "https://www.president.gov.ua/administration",
+    "http://www.kmu.gov.ua/control/uk/publish/article?&art_id=246386344&cat_id=244824300"
   ],
   "utilities": [
     {
@@ -60,112 +82,188 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Culture of Ukraine",
+      "href": "ministry-01-ministry-of-culture-of-ukraine.html",
       "abbreviation": "UA-1",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mcip.gov.ua/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Strategic Industries of Ukraine",
+      "href": "ministry-02-ministry-of-strategic-industries-of-ukraine.html",
       "abbreviation": "UA-2",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mspu.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Finance of Ukraine",
+      "href": "ministry-03-ministry-of-finance-of-ukraine.html",
       "abbreviation": "UA-3",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://www.mof.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of National Unity of Ukraine",
+      "href": "ministry-04-ministry-of-national-unity-of-ukraine.html",
       "abbreviation": "UA-4",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://unity.gov.ua/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Agrarian Policy of Ukraine",
+      "href": "ministry-05-ministry-of-agrarian-policy-of-ukraine.html",
       "abbreviation": "UA-5",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://minagro.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Environmental Protection and Natural Resources",
+      "href": "ministry-06-ministry-of-environmental-protection-and-natural-resources.html",
       "abbreviation": "UA-6",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mepr.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Housing and Communal Services of Ukraine",
+      "href": "ministry-07-ministry-of-housing-and-communal-services-of-ukraine.html",
       "abbreviation": "UA-7",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://www.minregionbud.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Youth and Sports of Ukraine",
+      "href": "ministry-08-ministry-of-youth-and-sports-of-ukraine.html",
       "abbreviation": "UA-8",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mms.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Internal Affairs of Ukraine",
+      "href": "ministry-09-ministry-of-internal-affairs-of-ukraine.html",
       "abbreviation": "UA-9",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://www.mvs.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Digital Transformation of Ukraine",
+      "href": "ministry-10-ministry-of-digital-transformation-of-ukraine.html",
       "abbreviation": "UA-10",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://thedigital.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry for Veterans Affairs",
+      "href": "ministry-11-ministry-for-veterans-affairs.html",
       "abbreviation": "UA-11",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://mva.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry for Development of Communities and Territories of Ukraine",
+      "href": "ministry-12-ministry-for-development-of-communities-and-territories-of-u.html",
       "abbreviation": "UA-12",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mindev.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Healthcare of Ukraine",
+      "href": "ministry-13-ministry-of-healthcare-of-ukraine.html",
       "abbreviation": "UA-13",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://www.moz.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Foreign Affairs of Ukraine",
+      "href": "ministry-14-ministry-of-foreign-affairs-of-ukraine.html",
       "abbreviation": "UA-14",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mfa.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Education and Science of Ukraine",
+      "href": "ministry-15-ministry-of-education-and-science-of-ukraine.html",
       "abbreviation": "UA-15",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mon.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Social Policy",
+      "href": "ministry-16-ministry-of-social-policy.html",
       "abbreviation": "UA-16",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://msp.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Justice of Ukraine",
+      "href": "ministry-17-ministry-of-justice-of-ukraine.html",
       "abbreviation": "UA-17",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "http://www.minjust.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Defence of Ukraine",
+      "href": "ministry-18-ministry-of-defence-of-ukraine.html",
       "abbreviation": "UA-18",
-      "officialHref": "https://diia.gov.ua/"
+      "officialHref": "https://mod.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economy of Ukraine",
+      "href": "ministry-19-ministry-of-economy-of-ukraine.html",
+      "abbreviation": "UA-19",
+      "officialHref": "https://me.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Energy of Ukraine",
+      "href": "ministry-20-ministry-of-energy-of-ukraine.html",
+      "abbreviation": "UA-20",
+      "officialHref": "http://www.menr.gov.ua/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Q4294649",
+      "href": "ministry-21-q4294649.html",
+      "abbreviation": "UA-21",
+      "officialHref": "http://www.minregionbud.gov.ua",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Office of the President of Ukraine",
+      "href": "ministry-22-office-of-the-president-of-ukraine.html",
+      "abbreviation": "UA-22",
+      "officialHref": "https://www.president.gov.ua/administration",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Secretariat of Cabinet of Ministers (Ukraine)",
+      "href": "ministry-23-secretariat-of-cabinet-of-ministers-ukraine.html",
+      "abbreviation": "UA-23",
+      "officialHref": "http://www.kmu.gov.ua/control/uk/publish/article?&art_id=246386344&cat_id=244824300",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -293,5 +391,11 @@
       "name": "Sevastopol",
       "code": "40"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

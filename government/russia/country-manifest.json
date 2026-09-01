@@ -24,7 +24,8 @@
     "Panama": "Russia"
   },
   "sources": [
-    "https://www.gosuslugi.ru/"
+    "https://www.gosuslugi.ru/",
+    "http://government.ru/en/ministries/"
   ],
   "utilities": [
     {
@@ -60,112 +61,172 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Internal Affairs",
+      "href": "ministry-01-ministry-of-internal-affairs.html",
       "abbreviation": "RU-1",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Civil Defence, Emergencies and Disaster Relief",
+      "href": "ministry-02-ministry-of-civil-defence-emergencies-and-disaster-relief.html",
       "abbreviation": "RU-2",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Foreign Affairs",
+      "href": "ministry-03-ministry-of-foreign-affairs.html",
       "abbreviation": "RU-3",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-04-ministry-of-defence.html",
       "abbreviation": "RU-4",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-05-ministry-of-justice.html",
       "abbreviation": "RU-5",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-06-ministry-of-health.html",
       "abbreviation": "RU-6",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Culture",
+      "href": "ministry-07-ministry-of-culture.html",
       "abbreviation": "RU-7",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Science and Higher Education",
+      "href": "ministry-08-ministry-of-science-and-higher-education.html",
       "abbreviation": "RU-8",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Natural Resources and Environment",
+      "href": "ministry-09-ministry-of-natural-resources-and-environment.html",
       "abbreviation": "RU-9",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Industry and Trade",
+      "href": "ministry-10-ministry-of-industry-and-trade.html",
       "abbreviation": "RU-10",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Education",
+      "href": "ministry-11-ministry-of-education.html",
       "abbreviation": "RU-11",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry for the Development of the Russian Far East and Arctic",
+      "href": "ministry-12-ministry-for-the-development-of-the-russian-far-east-and-arc.html",
       "abbreviation": "RU-12",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Agriculture",
+      "href": "ministry-13-ministry-of-agriculture.html",
       "abbreviation": "RU-13",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Sport",
+      "href": "ministry-14-ministry-of-sport.html",
       "abbreviation": "RU-14",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Construction, Housing and Utilities",
+      "href": "ministry-15-ministry-of-construction-housing-and-utilities.html",
       "abbreviation": "RU-15",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-16-ministry-of-transport.html",
       "abbreviation": "RU-16",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Labour and Social Protection",
+      "href": "ministry-17-ministry-of-labour-and-social-protection.html",
       "abbreviation": "RU-17",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-18-ministry-of-finance.html",
       "abbreviation": "RU-18",
-      "officialHref": "https://www.gosuslugi.ru/"
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Digital Development, Communications and Mass Media",
+      "href": "ministry-19-ministry-of-digital-development-communications-and-mass-medi.html",
+      "abbreviation": "RU-19",
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Economic Development",
+      "href": "ministry-20-ministry-of-economic-development.html",
+      "abbreviation": "RU-20",
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Energy",
+      "href": "ministry-21-ministry-of-energy.html",
+      "abbreviation": "RU-21",
+      "officialHref": "http://government.ru/en/ministries/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -517,5 +578,11 @@
       "name": "Zabaykalsky Krai",
       "code": "ZAB"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

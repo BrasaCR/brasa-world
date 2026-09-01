@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defence",
+      "ministry-01-ministry-of-defence.html",
       "MK-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-02-ministry-of-internal-affairs.html",
       "MK-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and Foreign Trade",
+      "ministry-03-ministry-of-foreign-affairs-and-foreign-trade.html",
       "MK-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Finance",
+      "ministry-04-ministry-of-finance.html",
       "MK-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice",
+      "ministry-05-ministry-of-justice.html",
       "MK-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Public Administration",
+      "ministry-06-ministry-of-public-administration.html",
       "MK-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of European Affairs",
+      "ministry-07-ministry-of-european-affairs.html",
       "MK-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Economy and Labour",
+      "ministry-08-ministry-of-economy-and-labour.html",
       "MK-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Energy, Mining and Mineral Resources",
+      "ministry-09-ministry-of-energy-mining-and-mineral-resources.html",
       "MK-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Agriculture, Forestry and Water Economy",
+      "ministry-10-ministry-of-agriculture-forestry-and-water-economy.html",
       "MK-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health",
+      "ministry-11-ministry-of-health.html",
       "MK-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Education and Science",
+      "ministry-12-ministry-of-education-and-science.html",
       "MK-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Social Policy, Demography and Youth",
+      "ministry-13-ministry-of-social-policy-demography-and-youth.html",
       "MK-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Local Self-Government",
+      "ministry-14-ministry-of-local-self-government.html",
       "MK-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Culture and Tourism",
+      "ministry-15-ministry-of-culture-and-tourism.html",
       "MK-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport",
+      "ministry-16-ministry-of-transport.html",
       "MK-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Environment and Physical Planning",
+      "ministry-17-ministry-of-environment-and-physical-planning.html",
       "MK-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Digital Transformation",
+      "ministry-18-ministry-of-digital-transformation.html",
       "MK-18"
+    ],
+    [
+      "Ministry of Sport",
+      "ministry-19-ministry-of-sport.html",
+      "MK-19"
     ]
   ]
 };

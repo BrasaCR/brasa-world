@@ -38,94 +38,129 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Culture (Greece)",
+      "ministry-01-ministry-of-culture-greece.html",
       "GR-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Infrastructure and Transport (Greece)",
+      "ministry-02-ministry-of-infrastructure-and-transport-greece.html",
       "GR-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Labour and Social Security",
+      "ministry-03-ministry-of-labour-and-social-security.html",
       "GR-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Q134981574",
+      "ministry-04-q134981574.html",
       "GR-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Tourism (Greece)",
+      "ministry-05-ministry-of-tourism-greece.html",
       "GR-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Justice (Greece)",
+      "ministry-06-ministry-of-justice-greece.html",
       "GR-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of National Economy and Finance (Greece)",
+      "ministry-07-ministry-of-national-economy-and-finance-greece.html",
       "GR-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health (Greece)",
+      "ministry-08-ministry-of-health-greece.html",
       "GR-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Public Order and Citizen Protection",
+      "ministry-09-ministry-of-public-order-and-citizen-protection.html",
       "GR-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of National Defence (Greece)",
+      "ministry-10-ministry-of-national-defence-greece.html",
       "GR-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Foreign Affairs of Greece",
+      "ministry-11-ministry-of-foreign-affairs-of-greece.html",
       "GR-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Education, Religious Affairs and Sports",
+      "ministry-12-ministry-of-education-religious-affairs-and-sports.html",
       "GR-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of the Interior (Greece)",
+      "ministry-13-ministry-of-the-interior-greece.html",
       "GR-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Rural Development and Food (Greece)",
+      "ministry-14-ministry-of-rural-development-and-food-greece.html",
       "GR-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of the Environment and Energy (Greece)",
+      "ministry-15-ministry-of-the-environment-and-energy-greece.html",
       "GR-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Economy, Development and Tourism",
+      "ministry-16-ministry-of-economy-development-and-tourism.html",
       "GR-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Citizen Protection (Greece)",
+      "ministry-17-ministry-of-citizen-protection-greece.html",
       "GR-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Digital Governance (Greece)",
+      "ministry-18-ministry-of-digital-governance-greece.html",
       "GR-18"
+    ],
+    [
+      "Ministry of Labour and Social Security (Greece)",
+      "ministry-19-ministry-of-labour-and-social-security-greece.html",
+      "GR-19"
+    ],
+    [
+      "Ministry of Social Cohesion and Family",
+      "ministry-20-ministry-of-social-cohesion-and-family.html",
+      "GR-20"
+    ],
+    [
+      "Ministry of Migration and Asylum",
+      "ministry-21-ministry-of-migration-and-asylum.html",
+      "GR-21"
+    ],
+    [
+      "Ministry of Climate Crisis and Civil Protection",
+      "ministry-22-ministry-of-climate-crisis-and-civil-protection.html",
+      "GR-22"
+    ],
+    [
+      "Ministry of Development, Competitiveness and Shipping",
+      "ministry-23-ministry-of-development-competitiveness-and-shipping.html",
+      "GR-23"
+    ],
+    [
+      "Ministry of Shipping and Island Policy (Greece)",
+      "ministry-24-ministry-of-shipping-and-island-policy-greece.html",
+      "GR-24"
+    ],
+    [
+      "Ministry of Development (Greece)",
+      "ministry-25-ministry-of-development-greece.html",
+      "GR-25"
     ]
   ]
 };

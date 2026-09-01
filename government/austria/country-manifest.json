@@ -24,7 +24,25 @@
     "Panama": "Austria"
   },
   "sources": [
-    "https://www.oesterreich.gv.at/"
+    "https://www.oesterreich.gv.at/",
+    "http://www.bmi.gv.at",
+    "http://en.bmfj.gv.at/",
+    "https://www.justiz.gv.at/",
+    "https://www.bmwkms.gv.at/",
+    "https://www.bmfwf.gv.at/",
+    "http://www.bmlvs.gv.at/",
+    "https://www.bmbwf.gv.at/",
+    "https://www.bmeia.gv.at/",
+    "https://www.bmf.gv.at/",
+    "https://www.bmk.gv.at",
+    "https://www.bml.gv.at",
+    "https://www.bundeskanzleramt.gv.at/",
+    "https://www.bmaw.gv.at/",
+    "https://www.bmnt.gv.at/",
+    "http://www.bmwfj.gv.at/",
+    "https://www.bmkoes.gv.at/",
+    "http://www.bmgf.gv.at/",
+    "https://www.sozialministerium.at/"
   ],
   "utilities": [
     {
@@ -60,112 +78,148 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Federal Ministry of the Interior",
+      "href": "ministry-01-federal-ministry-of-the-interior.html",
       "abbreviation": "AT-1",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "http://www.bmi.gv.at",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Federal Ministry of Families and Youth",
+      "href": "ministry-02-federal-ministry-of-families-and-youth.html",
       "abbreviation": "AT-2",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "http://en.bmfj.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Federal Ministry of Justice",
+      "href": "ministry-03-federal-ministry-of-justice.html",
       "abbreviation": "AT-3",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.justiz.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry for Housing, Arts, Culture, Media and Sport",
+      "href": "ministry-04-ministry-for-housing-arts-culture-media-and-sport.html",
       "abbreviation": "AT-4",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmwkms.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Federal Ministry of Women, Science and Research",
+      "href": "ministry-05-federal-ministry-of-women-science-and-research.html",
       "abbreviation": "AT-5",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmfwf.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Federal Ministry of Defence",
+      "href": "ministry-06-federal-ministry-of-defence.html",
       "abbreviation": "AT-6",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "http://www.bmlvs.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Federal Ministry of Education",
+      "href": "ministry-07-federal-ministry-of-education.html",
       "abbreviation": "AT-7",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmbwf.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Federal Ministry for European and International Affairs",
+      "href": "ministry-08-federal-ministry-for-european-and-international-affairs.html",
       "abbreviation": "AT-8",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmeia.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Federal Ministry of Finance",
+      "href": "ministry-09-federal-ministry-of-finance.html",
       "abbreviation": "AT-9",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmf.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology",
+      "href": "ministry-10-federal-ministry-for-climate-action-environment-energy-mobil.html",
       "abbreviation": "AT-10",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmk.gv.at",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Federal Ministry of Agriculture, Forestry, Environment, Regions and Water Management",
+      "href": "ministry-11-federal-ministry-of-agriculture-forestry-environment-regions.html",
       "abbreviation": "AT-11",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bml.gv.at",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Federal Chancellery of Austria",
+      "href": "ministry-12-federal-chancellery-of-austria.html",
       "abbreviation": "AT-12",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bundeskanzleramt.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Federal Ministry of Economy, Energy and Tourism",
+      "href": "ministry-13-federal-ministry-of-economy-energy-and-tourism.html",
       "abbreviation": "AT-13",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmaw.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Federal Ministry of Sustainability and Tourism",
+      "href": "ministry-14-federal-ministry-of-sustainability-and-tourism.html",
       "abbreviation": "AT-14",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmnt.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Federal Ministry for Economic Affairs, Family and Youth",
+      "href": "ministry-15-federal-ministry-for-economic-affairs-family-and-youth.html",
       "abbreviation": "AT-15",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "http://www.bmwfj.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Federal Ministry for Arts, Culture, the Civil Service and Sport",
+      "href": "ministry-16-federal-ministry-for-arts-culture-the-civil-service-and-spor.html",
       "abbreviation": "AT-16",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.bmkoes.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Federal Ministry of Health",
+      "href": "ministry-17-federal-ministry-of-health.html",
       "abbreviation": "AT-17",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "http://www.bmgf.gv.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Federal Ministry of Labour, Social Affairs, Health, Care and Consumer Protection",
+      "href": "ministry-18-federal-ministry-of-labour-social-affairs-health-care-and-co.html",
       "abbreviation": "AT-18",
-      "officialHref": "https://www.oesterreich.gv.at/"
+      "officialHref": "https://www.sozialministerium.at/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -221,5 +275,11 @@
       "name": "Wien",
       "code": "9"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

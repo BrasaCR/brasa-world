@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Justice of Lithuania",
+      "ministry-01-ministry-of-justice-of-lithuania.html",
       "LT-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education, Science and Sport",
+      "ministry-02-ministry-of-education-science-and-sport.html",
       "LT-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Social Security and Labour of Lithuania",
+      "ministry-03-ministry-of-social-security-and-labour-of-lithuania.html",
       "LT-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-04-ministry-of-transport-and-communications.html",
       "LT-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Energy of Lithuania",
+      "ministry-05-ministry-of-energy-of-lithuania.html",
       "LT-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Culture of Lithuania",
+      "ministry-06-ministry-of-culture-of-lithuania.html",
       "LT-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture of Lithuania",
+      "ministry-07-ministry-of-agriculture-of-lithuania.html",
       "LT-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of the Interior of Lithuania",
+      "ministry-08-ministry-of-the-interior-of-lithuania.html",
       "LT-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of the Economy and Innovation of the Republic of Lithuania",
+      "ministry-09-ministry-of-the-economy-and-innovation-of-the-republic-of-li.html",
       "LT-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Finance (Lithuania)",
+      "ministry-10-ministry-of-finance-lithuania.html",
       "LT-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Health of Lithuania",
+      "ministry-11-ministry-of-health-of-lithuania.html",
       "LT-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Foreign Affairs of Lithuania",
+      "ministry-12-ministry-of-foreign-affairs-of-lithuania.html",
       "LT-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Environment",
+      "ministry-13-ministry-of-environment.html",
       "LT-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of National Defence of Lithuania",
+      "ministry-14-ministry-of-national-defence-of-lithuania.html",
       "LT-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Agency of Youth Affairs of Lithuania",
+      "ministry-15-agency-of-youth-affairs-of-lithuania.html",
       "LT-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "LT-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "LT-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "LT-18"
     ]
   ]
 };

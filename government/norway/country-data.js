@@ -38,94 +38,89 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Education and Research of Norway",
+      "ministry-01-ministry-of-education-and-research-of-norway.html",
       "NO-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice and Public Security of Norway",
+      "ministry-02-ministry-of-justice-and-public-security-of-norway.html",
       "NO-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Norway's Ministry of Local Government and Modernisation",
+      "ministry-03-norway-s-ministry-of-local-government-and-modernisation.html",
       "NO-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Norwegian Ministry of Health and Care Services",
+      "ministry-04-norwegian-ministry-of-health-and-care-services.html",
       "NO-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance of Norway",
+      "ministry-05-ministry-of-finance-of-norway.html",
       "NO-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-06-ministry-of-transport-and-communications.html",
       "NO-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Climate and Environment",
+      "ministry-07-ministry-of-climate-and-environment.html",
       "NO-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Foreign Affairs of Norway",
+      "ministry-08-ministry-of-foreign-affairs-of-norway.html",
       "NO-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Digitalization and Administration",
+      "ministry-09-ministry-of-digitalization-and-administration.html",
       "NO-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Defence of Norway",
+      "ministry-10-ministry-of-defence-of-norway.html",
       "NO-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Office of the Prime Minister",
+      "ministry-11-office-of-the-prime-minister.html",
       "NO-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Agriculture and Food",
+      "ministry-12-ministry-of-agriculture-and-food.html",
       "NO-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Energy of Norway",
+      "ministry-13-ministry-of-energy-of-norway.html",
       "NO-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Children and Families",
+      "ministry-14-ministry-of-children-and-families.html",
       "NO-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Labour and Social Inclusion of Norway",
+      "ministry-15-ministry-of-labour-and-social-inclusion-of-norway.html",
       "NO-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Trade, Industry and Fisheries",
+      "ministry-16-ministry-of-trade-industry-and-fisheries.html",
       "NO-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Culture of Norway",
+      "ministry-17-ministry-of-culture-of-norway.html",
       "NO-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "NO-18"
     ]
   ]
 };

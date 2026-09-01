@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Economy of Luxembourg",
+      "ministry-01-ministry-of-economy-of-luxembourg.html",
       "LU-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Sport",
+      "ministry-02-ministry-of-sport.html",
       "LU-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Agriculture, Food and Viticulture",
+      "ministry-03-ministry-of-agriculture-food-and-viticulture.html",
       "LU-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Foreign and European Affairs, Defence, Development Cooperation and Foreign Trade",
+      "ministry-04-ministry-of-foreign-and-european-affairs-defence-development.html",
       "LU-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees",
+      "ministry-05-ministry-of-family-affairs-solidarity-living-together-and-re.html",
       "LU-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Labour",
+      "ministry-06-ministry-of-labour.html",
       "LU-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Finance of Luxembourg",
+      "ministry-07-ministry-of-finance-of-luxembourg.html",
       "LU-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of the Civil Service",
+      "ministry-08-ministry-of-the-civil-service.html",
       "LU-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry for the Interior of Luxembourg",
+      "ministry-09-ministry-for-the-interior-of-luxembourg.html",
       "LU-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Mobility and Public Works",
+      "ministry-10-ministry-of-mobility-and-public-works.html",
       "LU-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of State",
+      "ministry-11-ministry-of-state.html",
       "LU-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Education, Children and Youth",
+      "ministry-12-ministry-of-education-children-and-youth.html",
       "LU-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Culture of Luxembourg",
+      "ministry-13-ministry-of-culture-of-luxembourg.html",
       "LU-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Digitalisation",
+      "ministry-14-ministry-of-digitalisation.html",
       "LU-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Health and Social security",
+      "ministry-15-ministry-of-health-and-social-security.html",
       "LU-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Research and Higher Education",
+      "ministry-16-ministry-of-research-and-higher-education.html",
       "LU-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry for Gender Equality and Diversity",
+      "ministry-17-ministry-for-gender-equality-and-diversity.html",
       "LU-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Housing and Spatial Planning",
+      "ministry-18-ministry-of-housing-and-spatial-planning.html",
       "LU-18"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-19-ministry-of-justice.html",
+      "LU-19"
+    ],
+    [
+      "Ministry of the Environment, Climate and Biodiversity",
+      "ministry-20-ministry-of-the-environment-climate-and-biodiversity.html",
+      "LU-20"
     ]
   ]
 };

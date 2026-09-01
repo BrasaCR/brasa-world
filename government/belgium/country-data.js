@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Brussels Mobility",
+      "ministry-01-brussels-mobility.html",
       "BE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Federal Public Service Justice",
+      "ministry-02-federal-public-service-justice.html",
       "BE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Federal Public Service Social Security",
+      "ministry-03-federal-public-service-social-security.html",
       "BE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Federal Public Service Economy",
+      "ministry-04-federal-public-service-economy.html",
       "BE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Federal Public Service Interior",
+      "ministry-05-federal-public-service-interior.html",
       "BE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Federal Public Service Health",
+      "ministry-06-federal-public-service-health.html",
       "BE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Federal Public Service Foreign Affairs",
+      "ministry-07-federal-public-service-foreign-affairs.html",
       "BE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Federal Public Service Finance",
+      "ministry-08-federal-public-service-finance.html",
       "BE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Federal Public Service Transport",
+      "ministry-09-federal-public-service-transport.html",
       "BE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Federal Public Service Employment",
+      "ministry-10-federal-public-service-employment.html",
       "BE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Defence",
+      "ministry-11-defence.html",
       "BE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of Agriculture and Fisheries",
+      "ministry-12-department-of-agriculture-and-fisheries.html",
       "BE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Economy, Sciency & Innovation",
+      "ministry-13-department-of-economy-sciency-innovation.html",
       "BE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Federal Public Service Chancellery of the Prime Minister",
+      "ministry-14-federal-public-service-chancellery-of-the-prime-minister.html",
       "BE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of the German-speaking Community",
+      "ministry-15-ministry-of-the-german-speaking-community.html",
       "BE-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of Welfare, Public Health and Family",
+      "ministry-16-department-of-welfare-public-health-and-family.html",
       "BE-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Flemish Ministry of Education and Training",
+      "ministry-17-flemish-ministry-of-education-and-training.html",
       "BE-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Department for Culture, Youth and Media",
+      "ministry-18-department-for-culture-youth-and-media.html",
       "BE-18"
+    ],
+    [
+      "Federal Public Service Policy and Support",
+      "ministry-19-federal-public-service-policy-and-support.html",
+      "BE-19"
     ]
   ]
 };

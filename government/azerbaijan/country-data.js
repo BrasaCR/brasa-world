@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Justice",
+      "ministry-01-ministry-of-justice.html",
       "AZ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Ecology and Natural Resources",
+      "ministry-02-ministry-of-ecology-and-natural-resources.html",
       "AZ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Q97221244",
+      "ministry-03-q97221244.html",
       "AZ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Digital Development and Transportation of Azerbaijan",
+      "ministry-04-ministry-of-digital-development-and-transportation-of-azerba.html",
       "AZ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Finance",
+      "ministry-05-ministry-of-finance.html",
       "AZ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Youth and Sports (Azerbaijan)",
+      "ministry-06-ministry-of-youth-and-sports-azerbaijan.html",
       "AZ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture of Azerbaijan",
+      "ministry-07-ministry-of-agriculture-of-azerbaijan.html",
       "AZ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Emergency Situations",
+      "ministry-08-ministry-of-emergency-situations.html",
       "AZ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Defence Industry of Azerbaijan",
+      "ministry-09-ministry-of-defence-industry-of-azerbaijan.html",
       "AZ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Foreign Affairs of Azerbaijan",
+      "ministry-10-ministry-of-foreign-affairs-of-azerbaijan.html",
       "AZ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-11-ministry-of-internal-affairs.html",
       "AZ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Defence of Azerbaijan",
+      "ministry-12-ministry-of-defence-of-azerbaijan.html",
       "AZ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Healthcare",
+      "ministry-13-ministry-of-healthcare.html",
       "AZ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Science and Education of the Republic of Azerbaijan",
+      "ministry-14-ministry-of-science-and-education-of-the-republic-of-azerbai.html",
       "AZ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Culture (Azerbaijan)",
+      "ministry-15-ministry-of-culture-azerbaijan.html",
       "AZ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Industry and Energy (Azerbaijan)",
+      "ministry-16-ministry-of-industry-and-energy-azerbaijan.html",
       "AZ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "State Tax Service under the Ministry of the Economy",
+      "ministry-17-state-tax-service-under-the-ministry-of-the-economy.html",
       "AZ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Labour and Social Protection of the Population (Azerbaijan)",
+      "ministry-18-ministry-of-labour-and-social-protection-of-the-population-a.html",
       "AZ-18"
+    ],
+    [
+      "Ministry of Economy of Azerbaijan",
+      "ministry-19-ministry-of-economy-of-azerbaijan.html",
+      "AZ-19"
     ]
   ]
 };

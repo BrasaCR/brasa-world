@@ -38,94 +38,109 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Cabinet Office",
+      "ministry-01-cabinet-office.html",
       "GB-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "HM Treasury",
+      "ministry-02-hm-treasury.html",
       "GB-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Foreign, Commonwealth & Development Office",
+      "ministry-03-foreign-commonwealth-development-office.html",
       "GB-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Home Office",
+      "ministry-04-home-office.html",
       "GB-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence",
+      "ministry-05-ministry-of-defence.html",
       "GB-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Justice",
+      "ministry-06-ministry-of-justice.html",
       "GB-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department for Education",
+      "ministry-07-department-for-education.html",
       "GB-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Health and Social Care",
+      "ministry-08-department-of-health-and-social-care.html",
       "GB-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department for Transport",
+      "ministry-09-department-for-transport.html",
       "GB-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department for Work and Pensions",
+      "ministry-10-department-for-work-and-pensions.html",
       "GB-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Department for Business and Trade",
+      "ministry-11-department-for-business-and-trade.html",
       "GB-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department for Energy Security and Net Zero",
+      "ministry-12-department-for-energy-security-and-net-zero.html",
       "GB-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department for Science, Innovation and Technology",
+      "ministry-13-department-for-science-innovation-and-technology.html",
       "GB-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department for Environment, Food & Rural Affairs",
+      "ministry-14-department-for-environment-food-rural-affairs.html",
       "GB-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department for Culture, Media and Sport",
+      "ministry-15-department-for-culture-media-and-sport.html",
       "GB-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department for Housing, Communities and Local Government",
+      "ministry-16-department-for-housing-communities-and-local-government.html",
       "GB-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Northern Ireland Office",
+      "ministry-17-northern-ireland-office.html",
       "GB-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Scotland Office",
+      "ministry-18-scotland-office.html",
       "GB-18"
+    ],
+    [
+      "Wales Office",
+      "ministry-19-wales-office.html",
+      "GB-19"
+    ],
+    [
+      "Office of the Advocate General for Scotland",
+      "ministry-20-office-of-the-advocate-general-for-scotland.html",
+      "GB-20"
+    ],
+    [
+      "Attorney General’s Office",
+      "ministry-21-attorney-general-s-office.html",
+      "GB-21"
     ]
   ]
 };

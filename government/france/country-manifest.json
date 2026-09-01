@@ -24,7 +24,8 @@
     "Panama": "France"
   },
   "sources": [
-    "https://www.service-public.fr/"
+    "https://www.service-public.fr/",
+    "https://www.gouvernement.fr/composition-du-gouvernement"
   ],
   "utilities": [
     {
@@ -60,112 +61,124 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Prime Minister",
+      "href": "ministry-01-prime-minister.html",
       "abbreviation": "FR-1",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of the Interior",
+      "href": "ministry-02-ministry-of-the-interior.html",
       "abbreviation": "FR-2",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry for Europe and Foreign Affairs",
+      "href": "ministry-03-ministry-for-europe-and-foreign-affairs.html",
       "abbreviation": "FR-3",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Justice",
+      "href": "ministry-04-ministry-of-justice.html",
       "abbreviation": "FR-4",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of the Economy, Finance and Industrial and Digital Sovereignty",
+      "href": "ministry-05-ministry-of-the-economy-finance-and-industrial-and-digital-s.html",
       "abbreviation": "FR-5",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of the Armed Forces",
+      "href": "ministry-06-ministry-of-the-armed-forces.html",
       "abbreviation": "FR-6",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry for Ecological Transition",
+      "href": "ministry-07-ministry-for-ecological-transition.html",
       "abbreviation": "FR-7",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of National Education",
+      "href": "ministry-08-ministry-of-national-education.html",
       "abbreviation": "FR-8",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Higher Education and Research",
+      "href": "ministry-09-ministry-of-higher-education-and-research.html",
       "abbreviation": "FR-9",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Labour and Employment",
+      "href": "ministry-10-ministry-of-labour-and-employment.html",
       "abbreviation": "FR-10",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Health and Access to Care",
+      "href": "ministry-11-ministry-of-health-and-access-to-care.html",
       "abbreviation": "FR-11",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Agriculture and Food Sovereignty",
+      "href": "ministry-12-ministry-of-agriculture-and-food-sovereignty.html",
       "abbreviation": "FR-12",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Culture",
+      "href": "ministry-13-ministry-of-culture.html",
       "abbreviation": "FR-13",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry for Overseas France",
+      "href": "ministry-14-ministry-for-overseas-france.html",
       "abbreviation": "FR-14",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Sports, Youth and Community Life",
+      "href": "ministry-15-ministry-of-sports-youth-and-community-life.html",
       "abbreviation": "FR-15",
-      "officialHref": "https://www.service-public.fr/"
-    },
-    {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
-      "abbreviation": "FR-16",
-      "officialHref": "https://www.service-public.fr/"
-    },
-    {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
-      "abbreviation": "FR-17",
-      "officialHref": "https://www.service-public.fr/"
-    },
-    {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
-      "abbreviation": "FR-18",
-      "officialHref": "https://www.service-public.fr/"
+      "officialHref": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -289,5 +302,11 @@
       "name": "Wallis-et-Futuna",
       "code": "WF"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

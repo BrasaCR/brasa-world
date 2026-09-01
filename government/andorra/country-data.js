@@ -38,94 +38,34 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Tourism of Andorra",
+      "ministry-01-ministry-of-tourism-of-andorra.html",
       "AD-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education and Higher Education of Andorra",
+      "ministry-02-ministry-of-education-and-higher-education-of-andorra.html",
       "AD-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Culture and Sports of Andorra",
+      "ministry-03-ministry-of-culture-and-sports-of-andorra.html",
       "AD-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-04-ministry-of-foreign-affairs.html",
       "AD-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Territorial Planning of Andorra",
+      "ministry-05-ministry-of-territorial-planning-of-andorra.html",
       "AD-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance of Andorra",
+      "ministry-06-ministry-of-finance-of-andorra.html",
       "AD-6"
-    ],
-    [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
-      "AD-7"
-    ],
-    [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
-      "AD-8"
-    ],
-    [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
-      "AD-9"
-    ],
-    [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
-      "AD-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "AD-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "AD-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "AD-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "AD-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "AD-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "AD-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "AD-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "AD-18"
     ]
   ]
 };

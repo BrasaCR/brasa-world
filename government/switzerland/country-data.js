@@ -38,94 +38,44 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Federal Chancellery",
+      "ministry-01-federal-chancellery.html",
       "CH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Federal Department of Foreign Affairs",
+      "ministry-02-federal-department-of-foreign-affairs.html",
       "CH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Federal Department of Home Affairs",
+      "ministry-03-federal-department-of-home-affairs.html",
       "CH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Federal Department of Justice and Police",
+      "ministry-04-federal-department-of-justice-and-police.html",
       "CH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Federal Department of Defence, Civil Protection and Sport",
+      "ministry-05-federal-department-of-defence-civil-protection-and-sport.html",
       "CH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Federal Department of Finance",
+      "ministry-06-federal-department-of-finance.html",
       "CH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Federal Department of Economic Affairs, Education and Research",
+      "ministry-07-federal-department-of-economic-affairs-education-and-researc.html",
       "CH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Federal Department of the Environment, Transport, Energy and Communications",
+      "ministry-08-federal-department-of-the-environment-transport-energy-and-c.html",
       "CH-8"
-    ],
-    [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
-      "CH-9"
-    ],
-    [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
-      "CH-10"
-    ],
-    [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
-      "CH-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "CH-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "CH-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "CH-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "CH-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "CH-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "CH-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "CH-18"
     ]
   ]
 };

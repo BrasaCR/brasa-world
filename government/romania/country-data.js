@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance",
+      "ministry-01-ministry-of-finance.html",
       "RO-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice",
+      "ministry-02-ministry-of-justice.html",
       "RO-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Research, Innovation and Digitization (Romania)",
+      "ministry-03-ministry-of-research-innovation-and-digitization-romania.html",
       "RO-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health",
+      "ministry-04-ministry-of-health.html",
       "RO-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Economy, Entrepreneurship and Tourism of Romania",
+      "ministry-05-ministry-of-economy-entrepreneurship-and-tourism-of-romania.html",
       "RO-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Culture",
+      "ministry-06-ministry-of-culture.html",
       "RO-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of National Defense",
+      "ministry-07-ministry-of-national-defense.html",
       "RO-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-08-ministry-of-internal-affairs.html",
       "RO-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Labour, Family, Youth and Social Solidarity",
+      "ministry-09-ministry-of-labour-family-youth-and-social-solidarity.html",
       "RO-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Environment, Water and Forests",
+      "ministry-10-ministry-of-environment-water-and-forests.html",
       "RO-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry for Development, Public Works and Administration",
+      "ministry-11-ministry-for-development-public-works-and-administration.html",
       "RO-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Education of Romania",
+      "ministry-12-ministry-of-education-of-romania.html",
       "RO-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs of Romania",
+      "ministry-13-ministry-of-foreign-affairs-of-romania.html",
       "RO-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Q110129961",
+      "ministry-14-q110129961.html",
       "RO-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Energy of Romania",
+      "ministry-15-ministry-of-energy-of-romania.html",
       "RO-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Communications and Information Society",
+      "ministry-16-ministry-of-communications-and-information-society.html",
       "RO-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Transport and Infrastructure of Romania",
+      "ministry-17-ministry-of-transport-and-infrastructure-of-romania.html",
       "RO-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Agriculture and Rural Development of Romania",
+      "ministry-18-ministry-of-agriculture-and-rural-development-of-romania.html",
       "RO-18"
+    ],
+    [
+      "Ministry of European Investments and Projects",
+      "ministry-19-ministry-of-european-investments-and-projects.html",
+      "RO-19"
     ]
   ]
 };

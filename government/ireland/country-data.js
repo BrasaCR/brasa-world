@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Department of Enterprise, Trade and Employment",
+      "ministry-01-department-of-enterprise-trade-and-employment.html",
       "IE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Department of the Taoiseach",
+      "ministry-02-department-of-the-taoiseach.html",
       "IE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Department of Finance of Ireland",
+      "ministry-03-department-of-finance-of-ireland.html",
       "IE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Agriculture, Food and the Marine",
+      "ministry-04-department-of-agriculture-food-and-the-marine.html",
       "IE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Transport of Ireland",
+      "ministry-05-department-of-transport-of-ireland.html",
       "IE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Education of Ireland",
+      "ministry-06-department-of-education-of-ireland.html",
       "IE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Further and Higher Education, Research, Innovation and Science",
+      "ministry-07-department-of-further-and-higher-education-research-innovati.html",
       "IE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Foreign Affairs of Ireland",
+      "ministry-08-department-of-foreign-affairs-of-ireland.html",
       "IE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department of Rural and Community Development",
+      "ministry-09-department-of-rural-and-community-development.html",
       "IE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of Public Expenditure, National Development Plan Delivery and Reform",
+      "ministry-10-department-of-public-expenditure-national-development-plan-d.html",
       "IE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Department of Health of Ireland",
+      "ministry-11-department-of-health-of-ireland.html",
       "IE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of Culture, Communications and Sport",
+      "ministry-12-department-of-culture-communications-and-sport.html",
       "IE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Defence of Ireland",
+      "ministry-13-department-of-defence-of-ireland.html",
       "IE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department of Housing, Local Government and Heritage",
+      "ministry-14-department-of-housing-local-government-and-heritage.html",
       "IE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department of Children, Disability and Equality",
+      "ministry-15-department-of-children-disability-and-equality.html",
       "IE-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of Climate, Energy and the Environment",
+      "ministry-16-department-of-climate-energy-and-the-environment.html",
       "IE-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Department of Social Protection",
+      "ministry-17-department-of-social-protection.html",
       "IE-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Department of Justice of Ireland",
+      "ministry-18-department-of-justice-of-ireland.html",
       "IE-18"
     ]
   ]

@@ -36,111 +36,123 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Economy of Luxembourg",
     "page": "Government of Luxembourg",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-economy-of-luxembourg.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Sport",
     "page": "Government of Luxembourg",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-sport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Agriculture, Food and Viticulture",
     "page": "Government of Luxembourg",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-agriculture-food-and-viticulture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Foreign and European Affairs, Defence, Development Cooperation and Foreign Trade",
     "page": "Government of Luxembourg",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-foreign-and-european-affairs-defence-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees",
     "page": "Government of Luxembourg",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-family-affairs-solidarity-living-together-and-re.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Labour",
     "page": "Government of Luxembourg",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-labour.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Finance of Luxembourg",
     "page": "Government of Luxembourg",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-finance-of-luxembourg.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of the Civil Service",
     "page": "Government of Luxembourg",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-the-civil-service.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry for the Interior of Luxembourg",
     "page": "Government of Luxembourg",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-for-the-interior-of-luxembourg.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Mobility and Public Works",
     "page": "Government of Luxembourg",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-mobility-and-public-works.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of State",
     "page": "Government of Luxembourg",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-state.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Education, Children and Youth",
     "page": "Government of Luxembourg",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-education-children-and-youth.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Culture of Luxembourg",
     "page": "Government of Luxembourg",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-culture-of-luxembourg.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Digitalisation",
     "page": "Government of Luxembourg",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-digitalisation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Health and Social security",
     "page": "Government of Luxembourg",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-health-and-social-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Research and Higher Education",
     "page": "Government of Luxembourg",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-research-and-higher-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry for Gender Equality and Diversity",
     "page": "Government of Luxembourg",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-for-gender-equality-and-diversity.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Housing and Spatial Planning",
     "page": "Government of Luxembourg",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-housing-and-spatial-planning.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice",
+    "page": "Government of Luxembourg",
+    "url": "ministry-19-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of the Environment, Climate and Biodiversity",
+    "page": "Government of Luxembourg",
+    "url": "ministry-20-ministry-of-the-environment-climate-and-biodiversity.html",
     "verified": "2026-09-01"
   }
 ]

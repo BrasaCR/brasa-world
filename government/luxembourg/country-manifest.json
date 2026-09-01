@@ -24,7 +24,27 @@
     "Panama": "Luxembourg"
   },
   "sources": [
-    "https://guichet.public.lu/"
+    "https://guichet.public.lu/",
+    "https://meco.gouvernement.lu/",
+    "https://msp.gouvernement.lu/",
+    "https://ma.gouvernement.lu/",
+    "https://maee.gouvernement.lu/",
+    "http://mfsva.gouvernement.lu/fr.html",
+    "https://mt.gouvernement.lu/",
+    "https://mfin.gouvernement.lu/",
+    "https://mfp.gouvernement.lu/",
+    "https://maint.gouvernement.lu/",
+    "https://mmtp.gouvernement.lu/",
+    "https://me.gouvernement.lu/",
+    "http://www.men.public.lu/fr/index.html",
+    "https://mcult.gouvernement.lu/",
+    "https://MinDigital.gouvernement.lu/",
+    "https://msss.gouvernement.lu/",
+    "https://mesr.gouvernement.lu/",
+    "https://mega.gouvernement.lu/",
+    "https://mlogat.gouvernement.lu/lb/le-ministere.html",
+    "https://mjust.gouvernement.lu/",
+    "https://mecb.gouvernement.lu/"
   ],
   "utilities": [
     {
@@ -60,112 +80,164 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Economy of Luxembourg",
+      "href": "ministry-01-ministry-of-economy-of-luxembourg.html",
       "abbreviation": "LU-1",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://meco.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Sport",
+      "href": "ministry-02-ministry-of-sport.html",
       "abbreviation": "LU-2",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://msp.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Agriculture, Food and Viticulture",
+      "href": "ministry-03-ministry-of-agriculture-food-and-viticulture.html",
       "abbreviation": "LU-3",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://ma.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Foreign and European Affairs, Defence, Development Cooperation and Foreign Trade",
+      "href": "ministry-04-ministry-of-foreign-and-european-affairs-defence-development.html",
       "abbreviation": "LU-4",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://maee.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees",
+      "href": "ministry-05-ministry-of-family-affairs-solidarity-living-together-and-re.html",
       "abbreviation": "LU-5",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "http://mfsva.gouvernement.lu/fr.html",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Labour",
+      "href": "ministry-06-ministry-of-labour.html",
       "abbreviation": "LU-6",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mt.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Finance of Luxembourg",
+      "href": "ministry-07-ministry-of-finance-of-luxembourg.html",
       "abbreviation": "LU-7",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mfin.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of the Civil Service",
+      "href": "ministry-08-ministry-of-the-civil-service.html",
       "abbreviation": "LU-8",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mfp.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry for the Interior of Luxembourg",
+      "href": "ministry-09-ministry-for-the-interior-of-luxembourg.html",
       "abbreviation": "LU-9",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://maint.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Mobility and Public Works",
+      "href": "ministry-10-ministry-of-mobility-and-public-works.html",
       "abbreviation": "LU-10",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mmtp.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of State",
+      "href": "ministry-11-ministry-of-state.html",
       "abbreviation": "LU-11",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://me.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Education, Children and Youth",
+      "href": "ministry-12-ministry-of-education-children-and-youth.html",
       "abbreviation": "LU-12",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "http://www.men.public.lu/fr/index.html",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Culture of Luxembourg",
+      "href": "ministry-13-ministry-of-culture-of-luxembourg.html",
       "abbreviation": "LU-13",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mcult.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Digitalisation",
+      "href": "ministry-14-ministry-of-digitalisation.html",
       "abbreviation": "LU-14",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://MinDigital.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Health and Social security",
+      "href": "ministry-15-ministry-of-health-and-social-security.html",
       "abbreviation": "LU-15",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://msss.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Research and Higher Education",
+      "href": "ministry-16-ministry-of-research-and-higher-education.html",
       "abbreviation": "LU-16",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mesr.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry for Gender Equality and Diversity",
+      "href": "ministry-17-ministry-for-gender-equality-and-diversity.html",
       "abbreviation": "LU-17",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mega.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Housing and Spatial Planning",
+      "href": "ministry-18-ministry-of-housing-and-spatial-planning.html",
       "abbreviation": "LU-18",
-      "officialHref": "https://guichet.public.lu/"
+      "officialHref": "https://mlogat.gouvernement.lu/lb/le-ministere.html",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "ministry-19-ministry-of-justice.html",
+      "abbreviation": "LU-19",
+      "officialHref": "https://mjust.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of the Environment, Climate and Biodiversity",
+      "href": "ministry-20-ministry-of-the-environment-climate-and-biodiversity.html",
+      "abbreviation": "LU-20",
+      "officialHref": "https://mecb.gouvernement.lu/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -233,5 +305,11 @@
       "name": "Wiltz",
       "code": "WI"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }
