@@ -209,10 +209,6 @@
       "code": "DC"
     },
     {
-      "name": "Micronesia",
-      "code": "FM"
-    },
-    {
       "name": "Florida",
       "code": "FL"
     },
@@ -259,10 +255,6 @@
     {
       "name": "Maine",
       "code": "ME"
-    },
-    {
-      "name": "Marshall Islands",
-      "code": "MH"
     },
     {
       "name": "Maryland",
@@ -339,10 +331,6 @@
     {
       "name": "Oregon",
       "code": "OR"
-    },
-    {
-      "name": "Palau",
-      "code": "PW"
     },
     {
       "name": "Pennsylvania",
