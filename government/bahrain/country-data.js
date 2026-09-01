@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Housing",
+      "ministry-01-ministry-of-housing.html",
       "BH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Transportation",
+      "ministry-02-ministry-of-transportation.html",
       "BH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Interior",
+      "ministry-03-ministry-of-interior.html",
       "BH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Labour",
+      "ministry-04-ministry-of-labour.html",
       "BH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Municipalities Affairs and Agriculture",
+      "ministry-05-ministry-of-municipalities-affairs-and-agriculture.html",
       "BH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Foreign Affairs of Bahrain",
+      "ministry-06-ministry-of-foreign-affairs-of-bahrain.html",
       "BH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Social Development",
+      "ministry-07-ministry-of-social-development.html",
       "BH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Education",
+      "ministry-08-ministry-of-education.html",
       "BH-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Industry and Commerce",
+      "ministry-09-ministry-of-industry-and-commerce.html",
       "BH-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Youth and Sport Affairs of Bahrain",
+      "ministry-10-ministry-of-youth-and-sport-affairs-of-bahrain.html",
       "BH-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Finance",
+      "ministry-11-ministry-of-finance.html",
       "BH-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Legal Affairs",
+      "ministry-12-ministry-of-legal-affairs.html",
       "BH-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Works",
+      "ministry-13-ministry-of-works.html",
       "BH-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Justice",
+      "ministry-14-ministry-of-justice.html",
       "BH-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice, Islamic Affairs and Endowment",
+      "ministry-15-ministry-of-justice-islamic-affairs-and-endowment.html",
       "BH-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Health",
+      "ministry-16-ministry-of-health.html",
       "BH-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "BH-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "BH-18"
     ]
   ]
 };

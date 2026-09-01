@@ -36,111 +36,183 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Interior",
     "page": "Government of Syria",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Information",
     "page": "Government of Syria",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-information.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Electricity",
     "page": "Government of Syria",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-electricity.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Women's Affairs Office",
     "page": "Government of Syria",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-women-s-affairs-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Agriculture and Agrarian Reform of Syria",
     "page": "Government of Syria",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-agriculture-and-agrarian-reform-of-syria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Emergency and Disaster Management (Syria)",
     "page": "Government of Syria",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-emergency-and-disaster-management-syria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Transport",
     "page": "Government of Syria",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Justice",
     "page": "Government of Syria",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Presidential Affairs (Syria)",
     "page": "Government of Syria",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-presidential-affairs-syria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Foreign Affairs and Expatriates",
     "page": "Government of Syria",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-foreign-affairs-and-expatriates.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Defense",
     "page": "Government of Syria",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-defense.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Higher Education (Syria)",
     "page": "Government of Syria",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-higher-education-syria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Endowments",
     "page": "Government of Syria",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-endowments.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Energy",
     "page": "Government of Syria",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Water Resources",
     "page": "Government of Syria",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-water-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Administrative Development (Syria)",
     "page": "Government of Syria",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-administrative-development-syria.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Finance",
     "page": "Government of Syria",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Internal Trade and Consumer Protection (Syria)",
     "page": "Government of Syria",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-internal-trade-and-consumer-protection-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Industry (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-19-ministry-of-industry-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Tourism (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-20-ministry-of-tourism-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Culture (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-21-ministry-of-culture-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education",
+    "page": "Government of Syria",
+    "url": "ministry-22-ministry-of-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Oil and Mineral Reserves (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-23-ministry-of-oil-and-mineral-reserves-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Local Administration and Environment (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-24-ministry-of-local-administration-and-environment-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Works and Housing (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-25-ministry-of-public-works-and-housing-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Communications and Information Technology",
+    "page": "Government of Syria",
+    "url": "ministry-26-ministry-of-communications-and-information-technology.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health",
+    "page": "Government of Syria",
+    "url": "ministry-27-ministry-of-health.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Economy and Trade (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-28-ministry-of-economy-and-trade-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Affairs and Labour (Syria)",
+    "page": "Government of Syria",
+    "url": "ministry-29-ministry-of-social-affairs-and-labour-syria.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Youth and Sports",
+    "page": "Government of Syria",
+    "url": "ministry-30-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   }
 ]

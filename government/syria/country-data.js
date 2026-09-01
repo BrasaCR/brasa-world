@@ -38,94 +38,154 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Interior",
+      "ministry-01-ministry-of-interior.html",
       "SY-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Information",
+      "ministry-02-ministry-of-information.html",
       "SY-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Electricity",
+      "ministry-03-ministry-of-electricity.html",
       "SY-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Women's Affairs Office",
+      "ministry-04-women-s-affairs-office.html",
       "SY-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Agriculture and Agrarian Reform of Syria",
+      "ministry-05-ministry-of-agriculture-and-agrarian-reform-of-syria.html",
       "SY-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Emergency and Disaster Management (Syria)",
+      "ministry-06-ministry-of-emergency-and-disaster-management-syria.html",
       "SY-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Transport",
+      "ministry-07-ministry-of-transport.html",
       "SY-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Justice",
+      "ministry-08-ministry-of-justice.html",
       "SY-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Presidential Affairs (Syria)",
+      "ministry-09-ministry-of-presidential-affairs-syria.html",
       "SY-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Foreign Affairs and Expatriates",
+      "ministry-10-ministry-of-foreign-affairs-and-expatriates.html",
       "SY-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Defense",
+      "ministry-11-ministry-of-defense.html",
       "SY-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Higher Education (Syria)",
+      "ministry-12-ministry-of-higher-education-syria.html",
       "SY-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Endowments",
+      "ministry-13-ministry-of-endowments.html",
       "SY-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Energy",
+      "ministry-14-ministry-of-energy.html",
       "SY-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Water Resources",
+      "ministry-15-ministry-of-water-resources.html",
       "SY-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Administrative Development (Syria)",
+      "ministry-16-ministry-of-administrative-development-syria.html",
       "SY-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Finance",
+      "ministry-17-ministry-of-finance.html",
       "SY-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Internal Trade and Consumer Protection (Syria)",
+      "ministry-18-ministry-of-internal-trade-and-consumer-protection-syria.html",
       "SY-18"
+    ],
+    [
+      "Ministry of Industry (Syria)",
+      "ministry-19-ministry-of-industry-syria.html",
+      "SY-19"
+    ],
+    [
+      "Ministry of Tourism (Syria)",
+      "ministry-20-ministry-of-tourism-syria.html",
+      "SY-20"
+    ],
+    [
+      "Ministry of Culture (Syria)",
+      "ministry-21-ministry-of-culture-syria.html",
+      "SY-21"
+    ],
+    [
+      "Ministry of Education",
+      "ministry-22-ministry-of-education.html",
+      "SY-22"
+    ],
+    [
+      "Ministry of Oil and Mineral Reserves (Syria)",
+      "ministry-23-ministry-of-oil-and-mineral-reserves-syria.html",
+      "SY-23"
+    ],
+    [
+      "Ministry of Local Administration and Environment (Syria)",
+      "ministry-24-ministry-of-local-administration-and-environment-syria.html",
+      "SY-24"
+    ],
+    [
+      "Ministry of Public Works and Housing (Syria)",
+      "ministry-25-ministry-of-public-works-and-housing-syria.html",
+      "SY-25"
+    ],
+    [
+      "Ministry of Communications and Information Technology",
+      "ministry-26-ministry-of-communications-and-information-technology.html",
+      "SY-26"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-27-ministry-of-health.html",
+      "SY-27"
+    ],
+    [
+      "Ministry of Economy and Trade (Syria)",
+      "ministry-28-ministry-of-economy-and-trade-syria.html",
+      "SY-28"
+    ],
+    [
+      "Ministry of Social Affairs and Labour (Syria)",
+      "ministry-29-ministry-of-social-affairs-and-labour-syria.html",
+      "SY-29"
+    ],
+    [
+      "Ministry of Youth and Sports",
+      "ministry-30-ministry-of-youth-and-sports.html",
+      "SY-30"
     ]
   ]
 };

@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Defense",
+      "ministry-01-ministry-of-defense.html",
       "KW-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Interior",
+      "ministry-02-ministry-of-interior.html",
       "KW-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Communications",
+      "ministry-03-ministry-of-communications.html",
       "KW-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Higher Education",
+      "ministry-04-ministry-of-higher-education.html",
       "KW-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Education",
+      "ministry-05-ministry-of-education.html",
       "KW-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Electricity and Water and Renewable Energy",
+      "ministry-06-ministry-of-electricity-and-water-and-renewable-energy.html",
       "KW-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Minister of Housing",
+      "ministry-07-minister-of-housing.html",
       "KW-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Transportation",
+      "ministry-08-ministry-of-transportation.html",
       "KW-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Oil",
+      "ministry-09-ministry-of-oil.html",
       "KW-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Commerce and Industry",
+      "ministry-10-ministry-of-commerce-and-industry.html",
       "KW-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Finance",
+      "ministry-11-ministry-of-finance.html",
       "KW-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Public Works",
+      "ministry-12-ministry-of-public-works.html",
       "KW-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-13-ministry-of-foreign-affairs.html",
       "KW-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Information",
+      "ministry-14-ministry-of-information.html",
       "KW-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Justice",
+      "ministry-15-ministry-of-justice.html",
       "KW-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Health",
+      "ministry-16-ministry-of-health.html",
       "KW-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Awqaf and Islamic Affairs of Kuwait",
+      "ministry-17-ministry-of-awqaf-and-islamic-affairs-of-kuwait.html",
       "KW-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Information and Culture",
+      "ministry-18-ministry-of-information-and-culture.html",
       "KW-18"
+    ],
+    [
+      "Ministry Of Social Affairs And Labour",
+      "ministry-19-ministry-of-social-affairs-and-labour.html",
+      "KW-19"
     ]
   ]
 };

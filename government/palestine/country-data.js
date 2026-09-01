@@ -38,94 +38,99 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Industry (Palestine)",
+      "ministry-01-ministry-of-industry-palestine.html",
       "PS-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Tourism and Antiquities",
+      "ministry-02-ministry-of-tourism-and-antiquities.html",
       "PS-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and Expatriates of the State of Palestine",
+      "ministry-03-ministry-of-foreign-affairs-and-expatriates-of-the-state-of-.html",
       "PS-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Health of Palestine",
+      "ministry-04-ministry-of-health-of-palestine.html",
       "PS-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of National Economy (Palestine)",
+      "ministry-05-ministry-of-national-economy-palestine.html",
       "PS-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Social Development (Palestine)",
+      "ministry-06-ministry-of-social-development-palestine.html",
       "PS-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture",
+      "ministry-07-ministry-of-agriculture.html",
       "PS-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Justice (Palestine)",
+      "ministry-08-ministry-of-justice-palestine.html",
       "PS-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Palestinian Ministry of Interior",
+      "ministry-09-palestinian-ministry-of-interior.html",
       "PS-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Local Government",
+      "ministry-10-ministry-of-local-government.html",
       "PS-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Palestinian Ministry of Labour",
+      "ministry-11-palestinian-ministry-of-labour.html",
       "PS-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Culture (State of Palestine)",
+      "ministry-12-ministry-of-culture-state-of-palestine.html",
       "PS-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Information (State of Palestine)",
+      "ministry-13-ministry-of-information-state-of-palestine.html",
       "PS-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Palestinian Ministry of Jerusalem Affairs",
+      "ministry-14-palestinian-ministry-of-jerusalem-affairs.html",
       "PS-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Women's Affairs (Palestine)",
+      "ministry-15-ministry-of-women-s-affairs-palestine.html",
       "PS-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Palestinian Land Authority",
+      "ministry-16-palestinian-land-authority.html",
       "PS-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Awqaf and Religious Affairs (Palestine)",
+      "ministry-17-ministry-of-awqaf-and-religious-affairs-palestine.html",
       "PS-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Education Ministry of the Palestinian National Authority",
+      "ministry-18-education-ministry-of-the-palestinian-national-authority.html",
       "PS-18"
+    ],
+    [
+      "Palestinian Ministry of Transport and Communications",
+      "ministry-19-palestinian-ministry-of-transport-and-communications.html",
+      "PS-19"
     ]
   ]
 };

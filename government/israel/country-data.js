@@ -38,94 +38,134 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Foreign Affairs of Israel",
+      "ministry-01-ministry-of-foreign-affairs-of-israel.html",
       "IL-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Community Affairs",
+      "ministry-02-ministry-of-community-affairs.html",
       "IL-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Tourism",
+      "ministry-03-ministry-of-tourism.html",
       "IL-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of National Security",
+      "ministry-04-ministry-of-national-security.html",
       "IL-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice of Israel",
+      "ministry-05-ministry-of-justice-of-israel.html",
       "IL-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance",
+      "ministry-06-ministry-of-finance.html",
       "IL-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Diaspora Affairs",
+      "ministry-07-ministry-of-diaspora-affairs.html",
       "IL-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Prime Minister's Office",
+      "ministry-08-prime-minister-s-office.html",
       "IL-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Health",
+      "ministry-09-ministry-of-health.html",
       "IL-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Israel Ministry of Education",
+      "ministry-10-israel-ministry-of-education.html",
       "IL-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Construction and Housing",
+      "ministry-11-ministry-of-construction-and-housing.html",
       "IL-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Religious Services",
+      "ministry-12-ministry-of-religious-services.html",
       "IL-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Culture and Sports",
+      "ministry-13-ministry-of-culture-and-sports.html",
       "IL-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Agriculture and Food Security of Israel",
+      "ministry-14-ministry-of-agriculture-and-food-security-of-israel.html",
       "IL-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Communications",
+      "ministry-15-ministry-of-communications.html",
       "IL-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Transport and Road Safety",
+      "ministry-16-ministry-of-transport-and-road-safety.html",
       "IL-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Aliyah and Integration",
+      "ministry-17-ministry-of-aliyah-and-integration.html",
       "IL-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Defense",
+      "ministry-18-ministry-of-defense.html",
       "IL-18"
+    ],
+    [
+      "Israel Ministry of Economy and Industry",
+      "ministry-19-israel-ministry-of-economy-and-industry.html",
+      "IL-19"
+    ],
+    [
+      "Ministry of Energy and infrastructures",
+      "ministry-20-ministry-of-energy-and-infrastructures.html",
+      "IL-20"
+    ],
+    [
+      "Ministry of Interior",
+      "ministry-21-ministry-of-interior.html",
+      "IL-21"
+    ],
+    [
+      "Ministry of Environmental Protection",
+      "ministry-22-ministry-of-environmental-protection.html",
+      "IL-22"
+    ],
+    [
+      "Israeli Ministry of Jerusalem and Heritage",
+      "ministry-23-israeli-ministry-of-jerusalem-and-heritage.html",
+      "IL-23"
+    ],
+    [
+      "Ministry for Social Equality",
+      "ministry-24-ministry-for-social-equality.html",
+      "IL-24"
+    ],
+    [
+      "Ministry of Science and Technology, Israel",
+      "ministry-25-ministry-of-science-and-technology-israel.html",
+      "IL-25"
+    ],
+    [
+      "Ministry of Welfare and Social Affairs",
+      "ministry-26-ministry-of-welfare-and-social-affairs.html",
+      "IL-26"
     ]
   ]
 };

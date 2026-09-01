@@ -38,94 +38,114 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Education and Higher Education",
+      "ministry-01-ministry-of-education-and-higher-education.html",
       "LB-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Public Works and Transport",
+      "ministry-02-ministry-of-public-works-and-transport.html",
       "LB-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Agriculture",
+      "ministry-03-ministry-of-agriculture.html",
       "LB-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Youth & Sports Lebanon",
+      "ministry-04-ministry-of-youth-sports-lebanon.html",
       "LB-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Electrical and Water Resources of Lebanon",
+      "ministry-05-ministry-of-electrical-and-water-resources-of-lebanon.html",
       "LB-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Information",
+      "ministry-06-ministry-of-information.html",
       "LB-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Environment",
+      "ministry-07-ministry-of-environment.html",
       "LB-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-08-ministry-of-foreign-affairs.html",
       "LB-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Telecommunications (Lebanon)",
+      "ministry-09-ministry-of-telecommunications-lebanon.html",
       "LB-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Tourism",
+      "ministry-10-ministry-of-tourism.html",
       "LB-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Social Affairs",
+      "ministry-11-ministry-of-social-affairs.html",
       "LB-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of National Defense",
+      "ministry-12-ministry-of-national-defense.html",
       "LB-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs and Emigrants",
+      "ministry-13-ministry-of-foreign-affairs-and-emigrants.html",
       "LB-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Interior and Municipalities",
+      "ministry-14-ministry-of-interior-and-municipalities.html",
       "LB-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Public Health",
+      "ministry-15-ministry-of-public-health.html",
       "LB-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Finance",
+      "ministry-16-ministry-of-finance.html",
       "LB-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Labour of Lebanon",
+      "ministry-17-ministry-of-labour-of-lebanon.html",
       "LB-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Office of the Minister of State for Administrative Reform",
+      "ministry-18-office-of-the-minister-of-state-for-administrative-reform.html",
       "LB-18"
+    ],
+    [
+      "Ministry of Economy and Trade",
+      "ministry-19-ministry-of-economy-and-trade.html",
+      "LB-19"
+    ],
+    [
+      "Ministry of the Displaced of Lebanon",
+      "ministry-20-ministry-of-the-displaced-of-lebanon.html",
+      "LB-20"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-21-ministry-of-culture.html",
+      "LB-21"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-22-ministry-of-justice.html",
+      "LB-22"
     ]
   ]
 };

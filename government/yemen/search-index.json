@@ -36,111 +36,279 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Finance",
     "page": "Government of Yemen",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Justice",
     "page": "Government of Yemen",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Interior",
     "page": "Government of Yemen",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-interior.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Information",
     "page": "Government of Yemen",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-information.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Transport",
     "page": "Government of Yemen",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-transport.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Defense",
     "page": "Government of Yemen",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-defense.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Culture",
     "page": "Government of Yemen",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Fisheries",
     "page": "Government of Yemen",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-fisheries.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Local Administration",
     "page": "Government of Yemen",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-local-administration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Education of Yemen",
     "page": "Government of Yemen",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-education-of-yemen.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Technical Education and Vocational Training",
     "page": "Government of Yemen",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-technical-education-and-vocational-training.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Foreign Affairs of Yemen",
     "page": "Government of Yemen",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-foreign-affairs-of-yemen.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Water and Environment",
     "page": "Government of Yemen",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-water-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Yemen",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Youth and Sports",
     "page": "Government of Yemen",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-youth-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Legal Affairs",
     "page": "Government of Yemen",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-legal-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Communication",
     "page": "Government of Yemen",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-communication.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Higher Education and Scientific Research",
     "page": "Government of Yemen",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-higher-education-and-scientific-research.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Planning and International Cooperation",
+    "page": "Government of Yemen",
+    "url": "ministry-19-ministry-of-planning-and-international-cooperation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Oil and Minerals",
+    "page": "Government of Yemen",
+    "url": "ministry-20-ministry-of-oil-and-minerals.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture and Irrigation",
+    "page": "Government of Yemen",
+    "url": "ministry-21-ministry-of-agriculture-and-irrigation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Industry and Trade",
+    "page": "Government of Yemen",
+    "url": "ministry-22-ministry-of-industry-and-trade.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Social Affairs and Labor",
+    "page": "Government of Yemen",
+    "url": "ministry-23-ministry-of-social-affairs-and-labor.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Works and Highways",
+    "page": "Government of Yemen",
+    "url": "ministry-24-ministry-of-public-works-and-highways.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Endowments and Guidance",
+    "page": "Government of Yemen",
+    "url": "ministry-25-ministry-of-endowments-and-guidance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Civil Service and Insurance",
+    "page": "Government of Yemen",
+    "url": "ministry-26-ministry-of-civil-service-and-insurance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Public Health and Population",
+    "page": "Government of Yemen",
+    "url": "ministry-27-ministry-of-public-health-and-population.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Human Rights",
+    "page": "Government of Yemen",
+    "url": "ministry-28-ministry-of-human-rights.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Expatriate Affairs",
+    "page": "Government of Yemen",
+    "url": "ministry-29-ministry-of-expatriate-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Agriculture, Irrigation and Fisheries",
+    "page": "Government of Yemen",
+    "url": "ministry-30-ministry-of-agriculture-irrigation-and-fisheries.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministery of Construction and Reconstruction",
+    "page": "Government of Yemen",
+    "url": "ministry-31-ministery-of-construction-and-reconstruction.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Industry",
+    "page": "Government of Yemen",
+    "url": "ministry-32-ministery-of-industry.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Supply and Trade",
+    "page": "Government of Yemen",
+    "url": "ministry-33-ministery-of-supply-and-trade.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Electricity and Water",
+    "page": "Government of Yemen",
+    "url": "ministry-34-ministery-of-electricity-and-water.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of State for Foreign Affairs",
+    "page": "Government of Yemen",
+    "url": "ministry-35-ministery-of-state-for-foreign-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Civil Service and Administrative Reform",
+    "page": "Government of Yemen",
+    "url": "ministry-36-ministery-of-civil-service-and-administrative-reform.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Parliamentary Affairs",
+    "page": "Government of Yemen",
+    "url": "ministry-37-ministery-of-parliamentary-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Insurance and Social Affairs",
+    "page": "Government of Yemen",
+    "url": "ministry-38-ministery-of-insurance-and-social-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Housing and Urban Planning",
+    "page": "Government of Yemen",
+    "url": "ministry-39-ministery-of-housing-and-urban-planning.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Labour and Vocational Training",
+    "page": "Government of Yemen",
+    "url": "ministry-40-ministery-of-labour-and-vocational-training.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Insurance, Social Affairs and Labour",
+    "page": "Government of Yemen",
+    "url": "ministry-41-ministery-of-insurance-social-affairs-and-labour.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Culture and Tourism",
+    "page": "Government of Yemen",
+    "url": "ministry-42-ministery-of-culture-and-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Legal Affairs and House of Representatives Affairs",
+    "page": "Government of Yemen",
+    "url": "ministry-43-ministery-of-legal-affairs-and-house-of-representatives-affa.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "ministery of Construction, Housing and Urban Planning",
+    "page": "Government of Yemen",
+    "url": "ministry-44-ministery-of-construction-housing-and-urban-planning.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Information, Culture and Tourism",
+    "page": "Government of Yemen",
+    "url": "ministry-45-ministry-of-information-culture-and-tourism.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Electricity and Energy",
+    "page": "Government of Yemen",
+    "url": "ministry-46-ministry-of-electricity-and-energy.html",
     "verified": "2026-09-01"
   }
 ]

@@ -36,111 +36,123 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Justice",
     "page": "Government of Jordan",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-justice.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Culture",
     "page": "Government of Jordan",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Social Development",
     "page": "Government of Jordan",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-social-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Planning and International Cooperation",
     "page": "Government of Jordan",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-planning-and-international-cooperation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Youth of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-youth-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Tourism and Antiquities of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-tourism-and-antiquities-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Finance (Jordan)",
     "page": "Government of Jordan",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-finance-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Environment of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-environment-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Awqaf, Islamic Affairs, and Holy Places",
     "page": "Government of Jordan",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-awqaf-islamic-affairs-and-holy-places.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Digital Economy and Entrepreneurship (Jordan)",
     "page": "Government of Jordan",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-digital-economy-and-entrepreneurship-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Political and Parliamentary Affairs",
     "page": "Government of Jordan",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-political-and-parliamentary-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Transport of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-transport-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Public Works and Housing of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-public-works-and-housing-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Higher Education and Scientific Research",
     "page": "Government of Jordan",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-higher-education-and-scientific-research.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Education of The Hashemite Kingdom of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-education-of-the-hashemite-kingdom-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Agriculture of Jordan",
     "page": "Government of Jordan",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-agriculture-of-jordan.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Industry and Trade and Supply",
     "page": "Government of Jordan",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-industry-and-trade-and-supply.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Health",
     "page": "Government of Jordan",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-health.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Foreign Affairs of the Kingdom of Jordan",
+    "page": "Government of Jordan",
+    "url": "ministry-19-ministry-of-foreign-affairs-of-the-kingdom-of-jordan.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Interior",
+    "page": "Government of Jordan",
+    "url": "ministry-20-ministry-of-interior.html",
     "verified": "2026-09-01"
   }
 ]

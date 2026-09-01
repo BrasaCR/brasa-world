@@ -36,111 +36,141 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Energy",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Sports",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Commerce",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-commerce.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Communications and Information Technology",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-communications-and-information-technology.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Economy and Planning (Saudi Arabia)",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-economy-and-planning-saudi-arabia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Environment, Water, and Agriculture (Saudi Arabia)",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-environment-water-and-agriculture-saudi-arabia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Ministry of Islamic Affairs, Da’wah, and Guidance",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-ministry-of-islamic-affairs-da-wah-and-guidance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Hajj and Umrah",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-hajj-and-umrah.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Ministry of Media",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-ministry-of-media.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Municipalities and Housing",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-municipalities-and-housing.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Human Resources and Social Development",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-human-resources-and-social-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Transport and Logistic Services of Saudi Arabia",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-transport-and-logistic-services-of-saudi-arabia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Culture",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-culture.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Health",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Defense Saudi Arabia",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-defense-saudi-arabia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Foreign Affairs of Saudi Arabia",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-foreign-affairs-of-saudi-arabia.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of National Guard",
     "page": "Government of Saudi Arabia",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-national-guard.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Finance",
+    "page": "Government of Saudi Arabia",
+    "url": "ministry-19-ministry-of-finance.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice",
+    "page": "Government of Saudi Arabia",
+    "url": "ministry-20-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Industry and Mineral Resources",
+    "page": "Government of Saudi Arabia",
+    "url": "ministry-21-ministry-of-industry-and-mineral-resources.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Education",
+    "page": "Government of Saudi Arabia",
+    "url": "ministry-22-ministry-of-education.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Interior",
+    "page": "Government of Saudi Arabia",
+    "url": "ministry-23-ministry-of-interior.html",
     "verified": "2026-09-01"
   }
 ]

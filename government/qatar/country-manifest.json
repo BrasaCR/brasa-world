@@ -24,7 +24,14 @@
     "Panama": "Qatar"
   },
   "sources": [
-    "https://hukoomi.gov.qa/"
+    "https://hukoomi.gov.qa/",
+    "http://www.mme.gov.qa/cui/view.dox?id=316&siteID=1",
+    "http://www.motc.gov.qa/en",
+    "http://www.moc.gov.qa",
+    "http://www.mdps.gov.qa/",
+    "https://www.mofa.gov.qa/en/home",
+    "https://portal.moi.gov.qa/wps/portal/en",
+    "https://www.mof.gov.qa/"
   ],
   "utilities": [
     {
@@ -60,112 +67,148 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Environment and Climate Change",
+      "href": "ministry-01-ministry-of-environment-and-climate-change.html",
       "abbreviation": "QA-1",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "http://www.mme.gov.qa/cui/view.dox?id=316&siteID=1",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Information",
+      "href": "ministry-02-ministry-of-information.html",
       "abbreviation": "QA-2",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Education and Higher Education of Qatar",
+      "href": "ministry-03-ministry-of-education-and-higher-education-of-qatar.html",
       "abbreviation": "QA-3",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Business and Trade of Qatar",
+      "href": "ministry-04-ministry-of-business-and-trade-of-qatar.html",
       "abbreviation": "QA-4",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Transport and Communications",
+      "href": "ministry-05-ministry-of-transport-and-communications.html",
       "abbreviation": "QA-5",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "http://www.motc.gov.qa/en",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Information and Communications Technology (ictQATAR)",
+      "href": "ministry-06-ministry-of-information-and-communications-technology-ictqat.html",
       "abbreviation": "QA-6",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Culture",
+      "href": "ministry-07-ministry-of-culture.html",
       "abbreviation": "QA-7",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "http://www.moc.gov.qa",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Awqaf and Islamic Affairs",
+      "href": "ministry-08-ministry-of-awqaf-and-islamic-affairs.html",
       "abbreviation": "QA-8",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Development Planning and Statistics",
+      "href": "ministry-09-ministry-of-development-planning-and-statistics.html",
       "abbreviation": "QA-9",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "http://www.mdps.gov.qa/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Foreign Affairs of Qatar",
+      "href": "ministry-10-ministry-of-foreign-affairs-of-qatar.html",
       "abbreviation": "QA-10",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://www.mofa.gov.qa/en/home",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Interior",
+      "href": "ministry-11-ministry-of-interior.html",
       "abbreviation": "QA-11",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://portal.moi.gov.qa/wps/portal/en",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Justice of Qatar",
+      "href": "ministry-12-ministry-of-justice-of-qatar.html",
       "abbreviation": "QA-12",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Public Health",
+      "href": "ministry-13-ministry-of-public-health.html",
       "abbreviation": "QA-13",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Transport",
+      "href": "ministry-14-ministry-of-transport.html",
       "abbreviation": "QA-14",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Finance of Qatar",
+      "href": "ministry-15-ministry-of-finance-of-qatar.html",
       "abbreviation": "QA-15",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://www.mof.gov.qa/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Social Development and Family",
+      "href": "ministry-16-ministry-of-social-development-and-family.html",
       "abbreviation": "QA-16",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Sports and Youth",
+      "href": "ministry-17-ministry-of-sports-and-youth.html",
       "abbreviation": "QA-17",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Education and Higher Education",
+      "href": "ministry-18-ministry-of-education-and-higher-education.html",
       "abbreviation": "QA-18",
-      "officialHref": "https://hukoomi.gov.qa/"
+      "officialHref": "https://hukoomi.gov.qa/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -213,5 +256,11 @@
       "name": "Umm Şalāl",
       "code": "US"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

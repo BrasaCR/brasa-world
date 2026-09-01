@@ -38,93 +38,93 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Environment and Climate Change",
+      "ministry-01-ministry-of-environment-and-climate-change.html",
       "QA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Information",
+      "ministry-02-ministry-of-information.html",
       "QA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Education and Higher Education of Qatar",
+      "ministry-03-ministry-of-education-and-higher-education-of-qatar.html",
       "QA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Business and Trade of Qatar",
+      "ministry-04-ministry-of-business-and-trade-of-qatar.html",
       "QA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Transport and Communications",
+      "ministry-05-ministry-of-transport-and-communications.html",
       "QA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Information and Communications Technology (ictQATAR)",
+      "ministry-06-ministry-of-information-and-communications-technology-ictqat.html",
       "QA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Culture",
+      "ministry-07-ministry-of-culture.html",
       "QA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Awqaf and Islamic Affairs",
+      "ministry-08-ministry-of-awqaf-and-islamic-affairs.html",
       "QA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Development Planning and Statistics",
+      "ministry-09-ministry-of-development-planning-and-statistics.html",
       "QA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Foreign Affairs of Qatar",
+      "ministry-10-ministry-of-foreign-affairs-of-qatar.html",
       "QA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Interior",
+      "ministry-11-ministry-of-interior.html",
       "QA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Justice of Qatar",
+      "ministry-12-ministry-of-justice-of-qatar.html",
       "QA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Public Health",
+      "ministry-13-ministry-of-public-health.html",
       "QA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Transport",
+      "ministry-14-ministry-of-transport.html",
       "QA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Finance of Qatar",
+      "ministry-15-ministry-of-finance-of-qatar.html",
       "QA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Social Development and Family",
+      "ministry-16-ministry-of-social-development-and-family.html",
       "QA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Sports and Youth",
+      "ministry-17-ministry-of-sports-and-youth.html",
       "QA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Education and Higher Education",
+      "ministry-18-ministry-of-education-and-higher-education.html",
       "QA-18"
     ]
   ]

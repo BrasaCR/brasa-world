@@ -38,94 +38,129 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Electricity",
+      "ministry-01-ministry-of-electricity.html",
       "IQ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Education",
+      "ministry-02-ministry-of-education.html",
       "IQ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Planning",
+      "ministry-03-ministry-of-planning.html",
       "IQ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Oil",
+      "ministry-04-ministry-of-oil.html",
       "IQ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Culture, Tourism and Antiquities",
+      "ministry-05-ministry-of-culture-tourism-and-antiquities.html",
       "IQ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Environment of Iraq",
+      "ministry-06-ministry-of-environment-of-iraq.html",
       "IQ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Migration and Displacement",
+      "ministry-07-ministry-of-migration-and-displacement.html",
       "IQ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Construction, Housing, Municipalities and Public Works of Iraq",
+      "ministry-08-ministry-of-construction-housing-municipalities-and-public-w.html",
       "IQ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice",
+      "ministry-09-ministry-of-justice.html",
       "IQ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Minister of Economy",
+      "ministry-10-minister-of-economy.html",
       "IQ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Agriculture",
+      "ministry-11-ministry-of-agriculture.html",
       "IQ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Minister of Youth and Sports (Iraq)",
+      "ministry-12-minister-of-youth-and-sports-iraq.html",
       "IQ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Foreign Affairs of the Republic of Iraq",
+      "ministry-13-ministry-of-foreign-affairs-of-the-republic-of-iraq.html",
       "IQ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Industry and Minerals",
+      "ministry-14-ministry-of-industry-and-minerals.html",
       "IQ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Trade of Iraq",
+      "ministry-15-ministry-of-trade-of-iraq.html",
       "IQ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-16-ministry-of-higher-education-and-scientific-research.html",
       "IQ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Municipal and Rural Affairs",
+      "ministry-17-ministry-of-municipal-and-rural-affairs.html",
       "IQ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Water Resources",
+      "ministry-18-ministry-of-water-resources.html",
       "IQ-18"
+    ],
+    [
+      "Ministry of Transport (Iraq)",
+      "ministry-19-ministry-of-transport-iraq.html",
+      "IQ-19"
+    ],
+    [
+      "Ministry of Finance (Iraq)",
+      "ministry-20-ministry-of-finance-iraq.html",
+      "IQ-20"
+    ],
+    [
+      "Ministry of Defence of Iraq",
+      "ministry-21-ministry-of-defence-of-iraq.html",
+      "IQ-21"
+    ],
+    [
+      "Ministry of Natural Resources",
+      "ministry-22-ministry-of-natural-resources.html",
+      "IQ-22"
+    ],
+    [
+      "Ministry of Health",
+      "ministry-23-ministry-of-health.html",
+      "IQ-23"
+    ],
+    [
+      "Ministry of Communications",
+      "ministry-24-ministry-of-communications.html",
+      "IQ-24"
+    ],
+    [
+      "Ministry of Interior",
+      "ministry-25-ministry-of-interior.html",
+      "IQ-25"
     ]
   ]
 };

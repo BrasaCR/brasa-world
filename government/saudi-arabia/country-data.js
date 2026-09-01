@@ -38,94 +38,119 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Energy",
+      "ministry-01-ministry-of-energy.html",
       "SA-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Sports",
+      "ministry-02-ministry-of-sports.html",
       "SA-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Commerce",
+      "ministry-03-ministry-of-commerce.html",
       "SA-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Tourism",
+      "ministry-04-ministry-of-tourism.html",
       "SA-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Communications and Information Technology",
+      "ministry-05-ministry-of-communications-and-information-technology.html",
       "SA-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economy and Planning (Saudi Arabia)",
+      "ministry-06-ministry-of-economy-and-planning-saudi-arabia.html",
       "SA-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Environment, Water, and Agriculture (Saudi Arabia)",
+      "ministry-07-ministry-of-environment-water-and-agriculture-saudi-arabia.html",
       "SA-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Islamic Affairs, Da’wah, and Guidance",
+      "ministry-08-ministry-of-islamic-affairs-da-wah-and-guidance.html",
       "SA-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Hajj and Umrah",
+      "ministry-09-ministry-of-hajj-and-umrah.html",
       "SA-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Media",
+      "ministry-10-ministry-of-media.html",
       "SA-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Municipalities and Housing",
+      "ministry-11-ministry-of-municipalities-and-housing.html",
       "SA-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Human Resources and Social Development",
+      "ministry-12-ministry-of-human-resources-and-social-development.html",
       "SA-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Transport and Logistic Services of Saudi Arabia",
+      "ministry-13-ministry-of-transport-and-logistic-services-of-saudi-arabia.html",
       "SA-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Culture",
+      "ministry-14-ministry-of-culture.html",
       "SA-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Health",
+      "ministry-15-ministry-of-health.html",
       "SA-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Defense Saudi Arabia",
+      "ministry-16-ministry-of-defense-saudi-arabia.html",
       "SA-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Foreign Affairs of Saudi Arabia",
+      "ministry-17-ministry-of-foreign-affairs-of-saudi-arabia.html",
       "SA-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of National Guard",
+      "ministry-18-ministry-of-national-guard.html",
       "SA-18"
+    ],
+    [
+      "Ministry of Finance",
+      "ministry-19-ministry-of-finance.html",
+      "SA-19"
+    ],
+    [
+      "Ministry of Justice",
+      "ministry-20-ministry-of-justice.html",
+      "SA-20"
+    ],
+    [
+      "Ministry of Industry and Mineral Resources",
+      "ministry-21-ministry-of-industry-and-mineral-resources.html",
+      "SA-21"
+    ],
+    [
+      "Ministry of Education",
+      "ministry-22-ministry-of-education.html",
+      "SA-22"
+    ],
+    [
+      "Ministry of Interior",
+      "ministry-23-ministry-of-interior.html",
+      "SA-23"
     ]
   ]
 };

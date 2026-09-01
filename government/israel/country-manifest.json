@@ -24,7 +24,32 @@
     "Panama": "Israel"
   },
   "sources": [
-    "https://www.gov.il/"
+    "https://www.gov.il/",
+    "https://www.gov.il/he/departments/ministry_of_foreign_affairs/",
+    "https://www.gov.il/he/departments/ministry_of_community_affairs",
+    "https://www.gov.il/ar/departments/ministry_of_tourism/govil-landing-page",
+    "https://www.gov.il/he/Departments/ministry_of_public_security",
+    "https://www.gov.il/he/departments/ministry_of_justice",
+    "https://www.gov.il/he/departments/ministry_of_finance",
+    "https://www.gov.il/he/departments/ministry_of_diaspora",
+    "http://www.pmo.gov.il",
+    "https://www.gov.il/he/departments/ministry_of_health",
+    "https://www.edu.gov.il/",
+    "http://www.moch.gov.il/english/Pages/HomePage.aspx",
+    "http://www.dat.gov.il",
+    "https://www.gov.il/he/departments/ministry_of_culture_and_sport/",
+    "https://www.gov.il/he/Departments/ministry_of_agriculture_and_rural_development",
+    "https://www.gov.il/he/departments/ministry_of_communications",
+    "https://www.gov.il/he/departments/ministry_of_transport_and_road_safety",
+    "https://www.gov.il/he/departments/ministry_of_aliyah_and_integration",
+    "https://mod.gov.il/",
+    "https://www.gov.il/he/departments/ministry_of_economy",
+    "https://www.gov.il/he/departments/ministry_of_energy",
+    "https://www.gov.il/he/departments/ministry_of_interior",
+    "https://www.gov.il/he/departments/ministry_of_environmental_protection",
+    "https://www.gov.il/he/departments/ministry_for_social_equality",
+    "https://www.gov.il/he/departments/ministry_of_science_and_technology",
+    "https://www.gov.il/he/departments/molsa"
   ],
   "utilities": [
     {
@@ -60,112 +85,212 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Foreign Affairs of Israel",
+      "href": "ministry-01-ministry-of-foreign-affairs-of-israel.html",
       "abbreviation": "IL-1",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_foreign_affairs/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Community Affairs",
+      "href": "ministry-02-ministry-of-community-affairs.html",
       "abbreviation": "IL-2",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_community_affairs",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Tourism",
+      "href": "ministry-03-ministry-of-tourism.html",
       "abbreviation": "IL-3",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/ar/departments/ministry_of_tourism/govil-landing-page",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of National Security",
+      "href": "ministry-04-ministry-of-national-security.html",
       "abbreviation": "IL-4",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/Departments/ministry_of_public_security",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Justice of Israel",
+      "href": "ministry-05-ministry-of-justice-of-israel.html",
       "abbreviation": "IL-5",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_justice",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Finance",
+      "href": "ministry-06-ministry-of-finance.html",
       "abbreviation": "IL-6",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_finance",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Diaspora Affairs",
+      "href": "ministry-07-ministry-of-diaspora-affairs.html",
       "abbreviation": "IL-7",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_diaspora",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Prime Minister's Office",
+      "href": "ministry-08-prime-minister-s-office.html",
       "abbreviation": "IL-8",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "http://www.pmo.gov.il",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Ministry of Health",
+      "href": "ministry-09-ministry-of-health.html",
       "abbreviation": "IL-9",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_health",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Israel Ministry of Education",
+      "href": "ministry-10-israel-ministry-of-education.html",
       "abbreviation": "IL-10",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.edu.gov.il/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Construction and Housing",
+      "href": "ministry-11-ministry-of-construction-and-housing.html",
       "abbreviation": "IL-11",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "http://www.moch.gov.il/english/Pages/HomePage.aspx",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Religious Services",
+      "href": "ministry-12-ministry-of-religious-services.html",
       "abbreviation": "IL-12",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "http://www.dat.gov.il",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Culture and Sports",
+      "href": "ministry-13-ministry-of-culture-and-sports.html",
       "abbreviation": "IL-13",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_culture_and_sport/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Agriculture and Food Security of Israel",
+      "href": "ministry-14-ministry-of-agriculture-and-food-security-of-israel.html",
       "abbreviation": "IL-14",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/Departments/ministry_of_agriculture_and_rural_development",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Communications",
+      "href": "ministry-15-ministry-of-communications.html",
       "abbreviation": "IL-15",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_communications",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Transport and Road Safety",
+      "href": "ministry-16-ministry-of-transport-and-road-safety.html",
       "abbreviation": "IL-16",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_transport_and_road_safety",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Aliyah and Integration",
+      "href": "ministry-17-ministry-of-aliyah-and-integration.html",
       "abbreviation": "IL-17",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_aliyah_and_integration",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Defense",
+      "href": "ministry-18-ministry-of-defense.html",
       "abbreviation": "IL-18",
-      "officialHref": "https://www.gov.il/"
+      "officialHref": "https://mod.gov.il/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Israel Ministry of Economy and Industry",
+      "href": "ministry-19-israel-ministry-of-economy-and-industry.html",
+      "abbreviation": "IL-19",
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_economy",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Energy and infrastructures",
+      "href": "ministry-20-ministry-of-energy-and-infrastructures.html",
+      "abbreviation": "IL-20",
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_energy",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Interior",
+      "href": "ministry-21-ministry-of-interior.html",
+      "abbreviation": "IL-21",
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_interior",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Environmental Protection",
+      "href": "ministry-22-ministry-of-environmental-protection.html",
+      "abbreviation": "IL-22",
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_environmental_protection",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Israeli Ministry of Jerusalem and Heritage",
+      "href": "ministry-23-israeli-ministry-of-jerusalem-and-heritage.html",
+      "abbreviation": "IL-23",
+      "officialHref": "https://www.gov.il/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for Social Equality",
+      "href": "ministry-24-ministry-for-social-equality.html",
+      "abbreviation": "IL-24",
+      "officialHref": "https://www.gov.il/he/departments/ministry_for_social_equality",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Science and Technology, Israel",
+      "href": "ministry-25-ministry-of-science-and-technology-israel.html",
+      "abbreviation": "IL-25",
+      "officialHref": "https://www.gov.il/he/departments/ministry_of_science_and_technology",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Welfare and Social Affairs",
+      "href": "ministry-26-ministry-of-welfare-and-social-affairs.html",
+      "abbreviation": "IL-26",
+      "officialHref": "https://www.gov.il/he/departments/molsa",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -209,5 +334,11 @@
       "name": "Yerushalayim",
       "code": "JM"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

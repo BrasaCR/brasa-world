@@ -38,94 +38,139 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Petroleum",
+      "ministry-01-ministry-of-petroleum.html",
       "IR-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Culture and Islamic Guidance",
+      "ministry-02-ministry-of-culture-and-islamic-guidance.html",
       "IR-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Commerce of Iran",
+      "ministry-03-ministry-of-commerce-of-iran.html",
       "IR-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Sport and Youth",
+      "ministry-04-ministry-of-sport-and-youth.html",
       "IR-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Roads and Transportation",
+      "ministry-05-ministry-of-roads-and-transportation.html",
       "IR-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Economic Affairs and Finance (Iran)",
+      "ministry-06-ministry-of-economic-affairs-and-finance-iran.html",
       "IR-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Agriculture Jihad",
+      "ministry-07-ministry-of-agriculture-jihad.html",
       "IR-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Science, Research and Technology (Iran)",
+      "ministry-08-ministry-of-science-research-and-technology-iran.html",
       "IR-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Welfare and Social Security (Iran)",
+      "ministry-09-ministry-of-welfare-and-social-security-iran.html",
       "IR-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Energy (Iran)",
+      "ministry-10-ministry-of-energy-iran.html",
       "IR-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Culture and Art",
+      "ministry-11-ministry-of-culture-and-art.html",
       "IR-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Infrastructure of Iran",
+      "ministry-12-ministry-of-infrastructure-of-iran.html",
       "IR-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "oghaf and Charity Affairs Organization of Iran",
+      "ministry-13-oghaf-and-charity-affairs-organization-of-iran.html",
       "IR-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Jihad of Construction",
+      "ministry-14-jihad-of-construction.html",
       "IR-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Cooperatives, Labour, and Social Welfare",
+      "ministry-15-ministry-of-cooperatives-labour-and-social-welfare.html",
       "IR-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Culture (Iran)",
+      "ministry-16-ministry-of-culture-iran.html",
       "IR-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Foreign Affairs of Iran",
+      "ministry-17-ministry-of-foreign-affairs-of-iran.html",
       "IR-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Education of Iran",
+      "ministry-18-ministry-of-education-of-iran.html",
       "IR-18"
+    ],
+    [
+      "Ministry of Justice (Iran)",
+      "ministry-19-ministry-of-justice-iran.html",
+      "IR-19"
+    ],
+    [
+      "Ministry of Industry, Mine and Trade",
+      "ministry-20-ministry-of-industry-mine-and-trade.html",
+      "IR-20"
+    ],
+    [
+      "Ministry of Defense and Armed Forces Logistics",
+      "ministry-21-ministry-of-defense-and-armed-forces-logistics.html",
+      "IR-21"
+    ],
+    [
+      "Ministry of Interior (Iran)",
+      "ministry-22-ministry-of-interior-iran.html",
+      "IR-22"
+    ],
+    [
+      "Ministry of Roads and Urban Development",
+      "ministry-23-ministry-of-roads-and-urban-development.html",
+      "IR-23"
+    ],
+    [
+      "Ministry of Information and Communications Technology",
+      "ministry-24-ministry-of-information-and-communications-technology.html",
+      "IR-24"
+    ],
+    [
+      "Ministry of Health and Medical Education",
+      "ministry-25-ministry-of-health-and-medical-education.html",
+      "IR-25"
+    ],
+    [
+      "Ministry of Intelligence",
+      "ministry-26-ministry-of-intelligence.html",
+      "IR-26"
+    ],
+    [
+      "Ministry of Cultural Heritage, Tourism and Handicrafts",
+      "ministry-27-ministry-of-cultural-heritage-tourism-and-handicrafts.html",
+      "IR-27"
     ]
   ]
 };

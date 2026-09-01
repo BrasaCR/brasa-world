@@ -38,94 +38,234 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Finance",
+      "ministry-01-ministry-of-finance.html",
       "YE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Justice",
+      "ministry-02-ministry-of-justice.html",
       "YE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Interior",
+      "ministry-03-ministry-of-interior.html",
       "YE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Information",
+      "ministry-04-ministry-of-information.html",
       "YE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Transport",
+      "ministry-05-ministry-of-transport.html",
       "YE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Defense",
+      "ministry-06-ministry-of-defense.html",
       "YE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Culture",
+      "ministry-07-ministry-of-culture.html",
       "YE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Fisheries",
+      "ministry-08-ministry-of-fisheries.html",
       "YE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Local Administration",
+      "ministry-09-ministry-of-local-administration.html",
       "YE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Education of Yemen",
+      "ministry-10-ministry-of-education-of-yemen.html",
       "YE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Technical Education and Vocational Training",
+      "ministry-11-ministry-of-technical-education-and-vocational-training.html",
       "YE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Foreign Affairs of Yemen",
+      "ministry-12-ministry-of-foreign-affairs-of-yemen.html",
       "YE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Water and Environment",
+      "ministry-13-ministry-of-water-and-environment.html",
       "YE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Tourism",
+      "ministry-14-ministry-of-tourism.html",
       "YE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Youth and Sports",
+      "ministry-15-ministry-of-youth-and-sports.html",
       "YE-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Legal Affairs",
+      "ministry-16-ministry-of-legal-affairs.html",
       "YE-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Communication",
+      "ministry-17-ministry-of-communication.html",
       "YE-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-18-ministry-of-higher-education-and-scientific-research.html",
       "YE-18"
+    ],
+    [
+      "Ministry of Planning and International Cooperation",
+      "ministry-19-ministry-of-planning-and-international-cooperation.html",
+      "YE-19"
+    ],
+    [
+      "Ministry of Oil and Minerals",
+      "ministry-20-ministry-of-oil-and-minerals.html",
+      "YE-20"
+    ],
+    [
+      "Ministry of Agriculture and Irrigation",
+      "ministry-21-ministry-of-agriculture-and-irrigation.html",
+      "YE-21"
+    ],
+    [
+      "Ministry of Industry and Trade",
+      "ministry-22-ministry-of-industry-and-trade.html",
+      "YE-22"
+    ],
+    [
+      "Ministry of Social Affairs and Labor",
+      "ministry-23-ministry-of-social-affairs-and-labor.html",
+      "YE-23"
+    ],
+    [
+      "Ministry of Public Works and Highways",
+      "ministry-24-ministry-of-public-works-and-highways.html",
+      "YE-24"
+    ],
+    [
+      "Ministry of Endowments and Guidance",
+      "ministry-25-ministry-of-endowments-and-guidance.html",
+      "YE-25"
+    ],
+    [
+      "Ministry of Civil Service and Insurance",
+      "ministry-26-ministry-of-civil-service-and-insurance.html",
+      "YE-26"
+    ],
+    [
+      "Ministry of Public Health and Population",
+      "ministry-27-ministry-of-public-health-and-population.html",
+      "YE-27"
+    ],
+    [
+      "Ministry of Human Rights",
+      "ministry-28-ministry-of-human-rights.html",
+      "YE-28"
+    ],
+    [
+      "Ministry of Expatriate Affairs",
+      "ministry-29-ministry-of-expatriate-affairs.html",
+      "YE-29"
+    ],
+    [
+      "Ministry of Agriculture, Irrigation and Fisheries",
+      "ministry-30-ministry-of-agriculture-irrigation-and-fisheries.html",
+      "YE-30"
+    ],
+    [
+      "Ministery of Construction and Reconstruction",
+      "ministry-31-ministery-of-construction-and-reconstruction.html",
+      "YE-31"
+    ],
+    [
+      "ministery of Industry",
+      "ministry-32-ministery-of-industry.html",
+      "YE-32"
+    ],
+    [
+      "ministery of Supply and Trade",
+      "ministry-33-ministery-of-supply-and-trade.html",
+      "YE-33"
+    ],
+    [
+      "ministery of Electricity and Water",
+      "ministry-34-ministery-of-electricity-and-water.html",
+      "YE-34"
+    ],
+    [
+      "ministery of State for Foreign Affairs",
+      "ministry-35-ministery-of-state-for-foreign-affairs.html",
+      "YE-35"
+    ],
+    [
+      "ministery of Civil Service and Administrative Reform",
+      "ministry-36-ministery-of-civil-service-and-administrative-reform.html",
+      "YE-36"
+    ],
+    [
+      "ministery of Parliamentary Affairs",
+      "ministry-37-ministery-of-parliamentary-affairs.html",
+      "YE-37"
+    ],
+    [
+      "ministery of Insurance and Social Affairs",
+      "ministry-38-ministery-of-insurance-and-social-affairs.html",
+      "YE-38"
+    ],
+    [
+      "ministery of Housing and Urban Planning",
+      "ministry-39-ministery-of-housing-and-urban-planning.html",
+      "YE-39"
+    ],
+    [
+      "ministery of Labour and Vocational Training",
+      "ministry-40-ministery-of-labour-and-vocational-training.html",
+      "YE-40"
+    ],
+    [
+      "ministery of Insurance, Social Affairs and Labour",
+      "ministry-41-ministery-of-insurance-social-affairs-and-labour.html",
+      "YE-41"
+    ],
+    [
+      "ministery of Culture and Tourism",
+      "ministry-42-ministery-of-culture-and-tourism.html",
+      "YE-42"
+    ],
+    [
+      "ministery of Legal Affairs and House of Representatives Affairs",
+      "ministry-43-ministery-of-legal-affairs-and-house-of-representatives-affa.html",
+      "YE-43"
+    ],
+    [
+      "ministery of Construction, Housing and Urban Planning",
+      "ministry-44-ministery-of-construction-housing-and-urban-planning.html",
+      "YE-44"
+    ],
+    [
+      "Ministry of Information, Culture and Tourism",
+      "ministry-45-ministry-of-information-culture-and-tourism.html",
+      "YE-45"
+    ],
+    [
+      "Ministry of Electricity and Energy",
+      "ministry-46-ministry-of-electricity-and-energy.html",
+      "YE-46"
     ]
   ]
 };

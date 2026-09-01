@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Cabinet Affairs",
+      "ministry-01-ministry-of-cabinet-affairs.html",
       "AE-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Presidential Court",
+      "ministry-02-ministry-of-presidential-court.html",
       "AE-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Interior",
+      "ministry-03-ministry-of-interior.html",
       "AE-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Defence",
+      "ministry-04-ministry-of-defence.html",
       "AE-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-05-ministry-of-foreign-affairs.html",
       "AE-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Finance",
+      "ministry-06-ministry-of-finance.html",
       "AE-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Economy and Tourism",
+      "ministry-07-ministry-of-economy-and-tourism.html",
       "AE-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Investment",
+      "ministry-08-ministry-of-investment.html",
       "AE-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Justice",
+      "ministry-09-ministry-of-justice.html",
       "AE-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Education",
+      "ministry-10-ministry-of-education.html",
       "AE-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Higher Education and Scientific Research",
+      "ministry-11-ministry-of-higher-education-and-scientific-research.html",
       "AE-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Health and Prevention",
+      "ministry-12-ministry-of-health-and-prevention.html",
       "AE-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Family",
+      "ministry-13-ministry-of-family.html",
       "AE-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Community Empowerment",
+      "ministry-14-ministry-of-community-empowerment.html",
       "AE-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Human Resources and Emiratisation",
+      "ministry-15-ministry-of-human-resources-and-emiratisation.html",
       "AE-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Energy and Infrastructure",
+      "ministry-16-ministry-of-energy-and-infrastructure.html",
       "AE-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Industry and Advanced Technology",
+      "ministry-17-ministry-of-industry-and-advanced-technology.html",
       "AE-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Climate Change and Environment",
+      "ministry-18-ministry-of-climate-change-and-environment.html",
       "AE-18"
+    ],
+    [
+      "Ministry of Culture",
+      "ministry-19-ministry-of-culture.html",
+      "AE-19"
+    ],
+    [
+      "Ministry of Sports",
+      "ministry-20-ministry-of-sports.html",
+      "AE-20"
     ]
   ]
 };

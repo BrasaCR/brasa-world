@@ -24,7 +24,31 @@
     "Panama": "Oman"
   },
   "sources": [
-    "https://gov.om/"
+    "https://gov.om/",
+    "http://www.mocioman.gov.om",
+    "https://eservices.housing.gov.om/",
+    "http://www.mod.gov.om/",
+    "https://mosa.gov.om/",
+    "https://meca.gov.om/en/",
+    "https://www.mrmwr.gov.om/",
+    "http://www.moe.gov.om",
+    "http://www.mocs.gov.om/",
+    "http://www.mofw.gov.om",
+    "https://www.mara.gov.om/",
+    "https://fm.gov.om/",
+    "http://www.mhc.gov.om",
+    "http://www.moi.gov.om",
+    "https://www.omaninfo.om/",
+    "https://www.mosd.gov.om/",
+    "http://www.mog.gov.om",
+    "https://www.motc.gov.om/",
+    "https://www.omantourism.gov.om/",
+    "http://www.mof.gov.om",
+    "https://www.manpower.gov.om/",
+    "http://www.mola.gov.om",
+    "https://www.moheri.gov.om/",
+    "https://www.moj.gov.om/",
+    "https://www.moh.gov.om/"
   ],
   "utilities": [
     {
@@ -60,112 +84,228 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Commerce and Industry",
+      "href": "ministry-01-ministry-of-commerce-and-industry.html",
       "abbreviation": "OM-1",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mocioman.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Housing",
+      "href": "ministry-02-ministry-of-housing.html",
       "abbreviation": "OM-2",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://eservices.housing.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-03-ministry-of-defence.html",
       "abbreviation": "OM-3",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mod.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Sports Affair",
+      "href": "ministry-04-ministry-of-sports-affair.html",
       "abbreviation": "OM-4",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://mosa.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Ministry of Environment and Climatic Affairs",
+      "href": "ministry-05-ministry-of-environment-and-climatic-affairs.html",
       "abbreviation": "OM-5",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://meca.gov.om/en/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Ministry of Regional Municipalities and Water Resources",
+      "href": "ministry-06-ministry-of-regional-municipalities-and-water-resources.html",
       "abbreviation": "OM-6",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://www.mrmwr.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "Ministry of Education (Oman)",
+      "href": "ministry-07-ministry-of-education-oman.html",
       "abbreviation": "OM-7",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.moe.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Ministry of Civil Service",
+      "href": "ministry-08-ministry-of-civil-service.html",
       "abbreviation": "OM-8",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mocs.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Royal Office of Oman",
+      "href": "ministry-09-royal-office-of-oman.html",
       "abbreviation": "OM-9",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://gov.om/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Ministry of Agriculture and Fisheries Wealth",
+      "href": "ministry-10-ministry-of-agriculture-and-fisheries-wealth.html",
       "abbreviation": "OM-10",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mofw.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry of Endowments and Religious Affairs",
+      "href": "ministry-11-ministry-of-endowments-and-religious-affairs.html",
       "abbreviation": "OM-11",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://www.mara.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Foreign Affairs of Oman",
+      "href": "ministry-12-ministry-of-foreign-affairs-of-oman.html",
       "abbreviation": "OM-12",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://fm.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry of Heritage and Culture",
+      "href": "ministry-13-ministry-of-heritage-and-culture.html",
       "abbreviation": "OM-13",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mhc.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry of Interior",
+      "href": "ministry-14-ministry-of-interior.html",
       "abbreviation": "OM-14",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.moi.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Information",
+      "href": "ministry-15-ministry-of-information.html",
       "abbreviation": "OM-15",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://www.omaninfo.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Social Affairs and Labour",
+      "href": "ministry-16-ministry-of-social-affairs-and-labour.html",
       "abbreviation": "OM-16",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://www.mosd.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Ministry of Energy and Minerals",
+      "href": "ministry-17-ministry-of-energy-and-minerals.html",
       "abbreviation": "OM-17",
-      "officialHref": "https://gov.om/"
+      "officialHref": "http://www.mog.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Transport and Communications",
+      "href": "ministry-18-ministry-of-transport-and-communications.html",
       "abbreviation": "OM-18",
-      "officialHref": "https://gov.om/"
+      "officialHref": "https://www.motc.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Tourism",
+      "href": "ministry-19-ministry-of-tourism.html",
+      "abbreviation": "OM-19",
+      "officialHref": "https://www.omantourism.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Finance",
+      "href": "ministry-20-ministry-of-finance.html",
+      "abbreviation": "OM-20",
+      "officialHref": "http://www.mof.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Manpower",
+      "href": "ministry-21-ministry-of-manpower.html",
+      "abbreviation": "OM-21",
+      "officialHref": "https://www.manpower.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Legal Affairs",
+      "href": "ministry-22-ministry-of-legal-affairs.html",
+      "abbreviation": "OM-22",
+      "officialHref": "http://www.mola.gov.om",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Higher Education",
+      "href": "ministry-23-ministry-of-higher-education.html",
+      "abbreviation": "OM-23",
+      "officialHref": "https://www.moheri.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice and Legal Affairs",
+      "href": "ministry-24-ministry-of-justice-and-legal-affairs.html",
+      "abbreviation": "OM-24",
+      "officialHref": "https://gov.om/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "ministry-25-ministry-of-justice.html",
+      "abbreviation": "OM-25",
+      "officialHref": "https://www.moj.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Transport, Communications and Information Technology",
+      "href": "ministry-26-ministry-of-transport-communications-and-information-technol.html",
+      "abbreviation": "OM-26",
+      "officialHref": "https://gov.om/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Culture, Sports and Youth of Oman",
+      "href": "ministry-27-ministry-of-culture-sports-and-youth-of-oman.html",
+      "abbreviation": "OM-27",
+      "officialHref": "https://gov.om/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health",
+      "href": "ministry-28-ministry-of-health.html",
+      "abbreviation": "OM-28",
+      "officialHref": "https://www.moh.gov.om/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -229,5 +369,11 @@
       "name": "Zufar",
       "code": "ZU"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

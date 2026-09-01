@@ -36,111 +36,159 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Foreign Affairs of Israel",
     "page": "Government of Israel",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-foreign-affairs-of-israel.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Community Affairs",
     "page": "Government of Israel",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-community-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Tourism",
     "page": "Government of Israel",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-tourism.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of National Security",
     "page": "Government of Israel",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-national-security.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Ministry of Justice of Israel",
     "page": "Government of Israel",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-ministry-of-justice-of-israel.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Ministry of Finance",
     "page": "Government of Israel",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-ministry-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Ministry of Diaspora Affairs",
     "page": "Government of Israel",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-ministry-of-diaspora-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Prime Minister's Office",
     "page": "Government of Israel",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-prime-minister-s-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Ministry of Health",
     "page": "Government of Israel",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-ministry-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Israel Ministry of Education",
     "page": "Government of Israel",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-israel-ministry-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry of Construction and Housing",
     "page": "Government of Israel",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-of-construction-and-housing.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Religious Services",
     "page": "Government of Israel",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-religious-services.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry of Culture and Sports",
     "page": "Government of Israel",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-of-culture-and-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry of Agriculture and Food Security of Israel",
     "page": "Government of Israel",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-of-agriculture-and-food-security-of-israel.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Communications",
     "page": "Government of Israel",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-communications.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Transport and Road Safety",
     "page": "Government of Israel",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-transport-and-road-safety.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Ministry of Aliyah and Integration",
     "page": "Government of Israel",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-ministry-of-aliyah-and-integration.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Defense",
     "page": "Government of Israel",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-defense.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Israel Ministry of Economy and Industry",
+    "page": "Government of Israel",
+    "url": "ministry-19-israel-ministry-of-economy-and-industry.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Energy and infrastructures",
+    "page": "Government of Israel",
+    "url": "ministry-20-ministry-of-energy-and-infrastructures.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Interior",
+    "page": "Government of Israel",
+    "url": "ministry-21-ministry-of-interior.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Environmental Protection",
+    "page": "Government of Israel",
+    "url": "ministry-22-ministry-of-environmental-protection.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Israeli Ministry of Jerusalem and Heritage",
+    "page": "Government of Israel",
+    "url": "ministry-23-israeli-ministry-of-jerusalem-and-heritage.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for Social Equality",
+    "page": "Government of Israel",
+    "url": "ministry-24-ministry-for-social-equality.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Science and Technology, Israel",
+    "page": "Government of Israel",
+    "url": "ministry-25-ministry-of-science-and-technology-israel.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Welfare and Social Affairs",
+    "page": "Government of Israel",
+    "url": "ministry-26-ministry-of-welfare-and-social-affairs.html",
     "verified": "2026-09-01"
   }
 ]
