@@ -103,34 +103,29 @@ window.BRASA_COUNTRY = {
       "RO-13"
     ],
     [
-      "Q110129961",
-      "ministry-14-q110129961.html",
+      "Ministry of Energy of Romania",
+      "ministry-14-ministry-of-energy-of-romania.html",
       "RO-14"
     ],
     [
-      "Ministry of Energy of Romania",
-      "ministry-15-ministry-of-energy-of-romania.html",
+      "Ministry of Communications and Information Society",
+      "ministry-15-ministry-of-communications-and-information-society.html",
       "RO-15"
     ],
     [
-      "Ministry of Communications and Information Society",
-      "ministry-16-ministry-of-communications-and-information-society.html",
+      "Ministry of Transport and Infrastructure of Romania",
+      "ministry-16-ministry-of-transport-and-infrastructure-of-romania.html",
       "RO-16"
     ],
     [
-      "Ministry of Transport and Infrastructure of Romania",
-      "ministry-17-ministry-of-transport-and-infrastructure-of-romania.html",
+      "Ministry of Agriculture and Rural Development of Romania",
+      "ministry-17-ministry-of-agriculture-and-rural-development-of-romania.html",
       "RO-17"
     ],
     [
-      "Ministry of Agriculture and Rural Development of Romania",
-      "ministry-18-ministry-of-agriculture-and-rural-development-of-romania.html",
-      "RO-18"
-    ],
-    [
       "Ministry of European Investments and Projects",
-      "ministry-19-ministry-of-european-investments-and-projects.html",
-      "RO-19"
+      "ministry-18-ministry-of-european-investments-and-projects.html",
+      "RO-18"
     ]
   ]
 };

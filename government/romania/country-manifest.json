@@ -183,49 +183,41 @@
       "verified": "2026-09-01"
     },
     {
-      "name": "Q110129961",
-      "href": "ministry-14-q110129961.html",
-      "abbreviation": "RO-14",
-      "officialHref": "https://mfamilie.gov.ro/",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Ministry of Energy of Romania",
-      "href": "ministry-15-ministry-of-energy-of-romania.html",
-      "abbreviation": "RO-15",
+      "href": "ministry-14-ministry-of-energy-of-romania.html",
+      "abbreviation": "RO-14",
       "officialHref": "http://energie.gov.ro/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Communications and Information Society",
-      "href": "ministry-16-ministry-of-communications-and-information-society.html",
-      "abbreviation": "RO-16",
+      "href": "ministry-15-ministry-of-communications-and-information-society.html",
+      "abbreviation": "RO-15",
       "officialHref": "http://www.mcsi.ro",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Transport and Infrastructure of Romania",
-      "href": "ministry-17-ministry-of-transport-and-infrastructure-of-romania.html",
-      "abbreviation": "RO-17",
+      "href": "ministry-16-ministry-of-transport-and-infrastructure-of-romania.html",
+      "abbreviation": "RO-16",
       "officialHref": "http://mt.gov.ro/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Agriculture and Rural Development of Romania",
-      "href": "ministry-18-ministry-of-agriculture-and-rural-development-of-romania.html",
-      "abbreviation": "RO-18",
+      "href": "ministry-17-ministry-of-agriculture-and-rural-development-of-romania.html",
+      "abbreviation": "RO-17",
       "officialHref": "https://www.madr.ro/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of European Investments and Projects",
-      "href": "ministry-19-ministry-of-european-investments-and-projects.html",
-      "abbreviation": "RO-19",
+      "href": "ministry-18-ministry-of-european-investments-and-projects.html",
+      "abbreviation": "RO-18",
       "officialHref": "https://mfe.gov.ro/",
       "verification": "exact-official",
       "verified": "2026-09-01"

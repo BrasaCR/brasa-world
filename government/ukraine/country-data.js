@@ -138,19 +138,14 @@ window.BRASA_COUNTRY = {
       "UA-20"
     ],
     [
-      "Q4294649",
-      "ministry-21-q4294649.html",
+      "Office of the President of Ukraine",
+      "ministry-21-office-of-the-president-of-ukraine.html",
       "UA-21"
     ],
     [
-      "Office of the President of Ukraine",
-      "ministry-22-office-of-the-president-of-ukraine.html",
-      "UA-22"
-    ],
-    [
       "Secretariat of Cabinet of Ministers (Ukraine)",
-      "ministry-23-secretariat-of-cabinet-of-ministers-ukraine.html",
-      "UA-23"
+      "ministry-22-secretariat-of-cabinet-of-ministers-ukraine.html",
+      "UA-22"
     ]
   ]
 };

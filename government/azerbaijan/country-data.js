@@ -48,89 +48,84 @@ window.BRASA_COUNTRY = {
       "AZ-2"
     ],
     [
-      "Q97221244",
-      "ministry-03-q97221244.html",
+      "Ministry of Digital Development and Transportation of Azerbaijan",
+      "ministry-03-ministry-of-digital-development-and-transportation-of-azerba.html",
       "AZ-3"
     ],
     [
-      "Ministry of Digital Development and Transportation of Azerbaijan",
-      "ministry-04-ministry-of-digital-development-and-transportation-of-azerba.html",
+      "Ministry of Finance",
+      "ministry-04-ministry-of-finance.html",
       "AZ-4"
     ],
     [
-      "Ministry of Finance",
-      "ministry-05-ministry-of-finance.html",
+      "Ministry of Youth and Sports (Azerbaijan)",
+      "ministry-05-ministry-of-youth-and-sports-azerbaijan.html",
       "AZ-5"
     ],
     [
-      "Ministry of Youth and Sports (Azerbaijan)",
-      "ministry-06-ministry-of-youth-and-sports-azerbaijan.html",
+      "Ministry of Agriculture of Azerbaijan",
+      "ministry-06-ministry-of-agriculture-of-azerbaijan.html",
       "AZ-6"
     ],
     [
-      "Ministry of Agriculture of Azerbaijan",
-      "ministry-07-ministry-of-agriculture-of-azerbaijan.html",
+      "Ministry of Emergency Situations",
+      "ministry-07-ministry-of-emergency-situations.html",
       "AZ-7"
     ],
     [
-      "Ministry of Emergency Situations",
-      "ministry-08-ministry-of-emergency-situations.html",
+      "Ministry of Defence Industry of Azerbaijan",
+      "ministry-08-ministry-of-defence-industry-of-azerbaijan.html",
       "AZ-8"
     ],
     [
-      "Ministry of Defence Industry of Azerbaijan",
-      "ministry-09-ministry-of-defence-industry-of-azerbaijan.html",
+      "Ministry of Foreign Affairs of Azerbaijan",
+      "ministry-09-ministry-of-foreign-affairs-of-azerbaijan.html",
       "AZ-9"
     ],
     [
-      "Ministry of Foreign Affairs of Azerbaijan",
-      "ministry-10-ministry-of-foreign-affairs-of-azerbaijan.html",
+      "Ministry of Internal Affairs",
+      "ministry-10-ministry-of-internal-affairs.html",
       "AZ-10"
     ],
     [
-      "Ministry of Internal Affairs",
-      "ministry-11-ministry-of-internal-affairs.html",
+      "Ministry of Defence of Azerbaijan",
+      "ministry-11-ministry-of-defence-of-azerbaijan.html",
       "AZ-11"
     ],
     [
-      "Ministry of Defence of Azerbaijan",
-      "ministry-12-ministry-of-defence-of-azerbaijan.html",
+      "Ministry of Healthcare",
+      "ministry-12-ministry-of-healthcare.html",
       "AZ-12"
     ],
     [
-      "Ministry of Healthcare",
-      "ministry-13-ministry-of-healthcare.html",
+      "Ministry of Science and Education of the Republic of Azerbaijan",
+      "ministry-13-ministry-of-science-and-education-of-the-republic-of-azerbai.html",
       "AZ-13"
     ],
     [
-      "Ministry of Science and Education of the Republic of Azerbaijan",
-      "ministry-14-ministry-of-science-and-education-of-the-republic-of-azerbai.html",
+      "Ministry of Culture (Azerbaijan)",
+      "ministry-14-ministry-of-culture-azerbaijan.html",
       "AZ-14"
     ],
     [
-      "Ministry of Culture (Azerbaijan)",
-      "ministry-15-ministry-of-culture-azerbaijan.html",
+      "Ministry of Industry and Energy (Azerbaijan)",
+      "ministry-15-ministry-of-industry-and-energy-azerbaijan.html",
       "AZ-15"
     ],
     [
-      "Ministry of Industry and Energy (Azerbaijan)",
-      "ministry-16-ministry-of-industry-and-energy-azerbaijan.html",
+      "State Tax Service under the Ministry of the Economy",
+      "ministry-16-state-tax-service-under-the-ministry-of-the-economy.html",
       "AZ-16"
     ],
     [
-      "State Tax Service under the Ministry of the Economy",
-      "ministry-17-state-tax-service-under-the-ministry-of-the-economy.html",
+      "Ministry of Labour and Social Protection of the Population (Azerbaijan)",
+      "ministry-17-ministry-of-labour-and-social-protection-of-the-population-a.html",
       "AZ-17"
     ],
     [
-      "Ministry of Labour and Social Protection of the Population (Azerbaijan)",
-      "ministry-18-ministry-of-labour-and-social-protection-of-the-population-a.html",
-      "AZ-18"
-    ],
-    [
       "Ministry of Economy of Azerbaijan",
-      "ministry-19-ministry-of-economy-of-azerbaijan.html",
-      "AZ-19"
+      "ministry-18-ministry-of-economy-of-azerbaijan.html",
+      "AZ-18"
     ]
   ]
 };

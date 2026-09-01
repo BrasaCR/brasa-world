@@ -109,177 +109,169 @@
       "verified": "2026-09-01"
     },
     {
-      "name": "Q134981574",
-      "href": "ministry-04-q134981574.html",
-      "abbreviation": "GR-4",
-      "officialHref": "https://www.culture.gov.gr/en/ministry/SitePages/Home.aspx",
-      "verification": "exact-official",
-      "verified": "2026-09-01"
-    },
-    {
       "name": "Ministry of Tourism (Greece)",
-      "href": "ministry-05-ministry-of-tourism-greece.html",
-      "abbreviation": "GR-5",
+      "href": "ministry-04-ministry-of-tourism-greece.html",
+      "abbreviation": "GR-4",
       "officialHref": "https://mintour.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Justice (Greece)",
-      "href": "ministry-06-ministry-of-justice-greece.html",
-      "abbreviation": "GR-6",
+      "href": "ministry-05-ministry-of-justice-greece.html",
+      "abbreviation": "GR-5",
       "officialHref": "https://ministryofjustice.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Economy and Finance (Greece)",
-      "href": "ministry-07-ministry-of-national-economy-and-finance-greece.html",
-      "abbreviation": "GR-7",
+      "href": "ministry-06-ministry-of-national-economy-and-finance-greece.html",
+      "abbreviation": "GR-6",
       "officialHref": "https://minfin.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Health (Greece)",
-      "href": "ministry-08-ministry-of-health-greece.html",
-      "abbreviation": "GR-8",
+      "href": "ministry-07-ministry-of-health-greece.html",
+      "abbreviation": "GR-7",
       "officialHref": "https://www.moh.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Public Order and Citizen Protection",
-      "href": "ministry-09-ministry-of-public-order-and-citizen-protection.html",
-      "abbreviation": "GR-9",
+      "href": "ministry-08-ministry-of-public-order-and-citizen-protection.html",
+      "abbreviation": "GR-8",
       "officialHref": "http://www.mopocp.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of National Defence (Greece)",
-      "href": "ministry-10-ministry-of-national-defence-greece.html",
-      "abbreviation": "GR-10",
+      "href": "ministry-09-ministry-of-national-defence-greece.html",
+      "abbreviation": "GR-9",
       "officialHref": "https://www.mod.mil.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Foreign Affairs of Greece",
-      "href": "ministry-11-ministry-of-foreign-affairs-of-greece.html",
-      "abbreviation": "GR-11",
+      "href": "ministry-10-ministry-of-foreign-affairs-of-greece.html",
+      "abbreviation": "GR-10",
       "officialHref": "https://www.mfa.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Education, Religious Affairs and Sports",
-      "href": "ministry-12-ministry-of-education-religious-affairs-and-sports.html",
-      "abbreviation": "GR-12",
+      "href": "ministry-11-ministry-of-education-religious-affairs-and-sports.html",
+      "abbreviation": "GR-11",
       "officialHref": "https://www.minedu.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of the Interior (Greece)",
-      "href": "ministry-13-ministry-of-the-interior-greece.html",
-      "abbreviation": "GR-13",
+      "href": "ministry-12-ministry-of-the-interior-greece.html",
+      "abbreviation": "GR-12",
       "officialHref": "https://www.ypes.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Rural Development and Food (Greece)",
-      "href": "ministry-14-ministry-of-rural-development-and-food-greece.html",
-      "abbreviation": "GR-14",
+      "href": "ministry-13-ministry-of-rural-development-and-food-greece.html",
+      "abbreviation": "GR-13",
       "officialHref": "https://minagric.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of the Environment and Energy (Greece)",
-      "href": "ministry-15-ministry-of-the-environment-and-energy-greece.html",
-      "abbreviation": "GR-15",
+      "href": "ministry-14-ministry-of-the-environment-and-energy-greece.html",
+      "abbreviation": "GR-14",
       "officialHref": "https://ypen.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Economy, Development and Tourism",
-      "href": "ministry-16-ministry-of-economy-development-and-tourism.html",
-      "abbreviation": "GR-16",
+      "href": "ministry-15-ministry-of-economy-development-and-tourism.html",
+      "abbreviation": "GR-15",
       "officialHref": "http://www.mnec.gr/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Citizen Protection (Greece)",
-      "href": "ministry-17-ministry-of-citizen-protection-greece.html",
-      "abbreviation": "GR-17",
+      "href": "ministry-16-ministry-of-citizen-protection-greece.html",
+      "abbreviation": "GR-16",
       "officialHref": "https://www.minocp.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Digital Governance (Greece)",
-      "href": "ministry-18-ministry-of-digital-governance-greece.html",
-      "abbreviation": "GR-18",
+      "href": "ministry-17-ministry-of-digital-governance-greece.html",
+      "abbreviation": "GR-17",
       "officialHref": "https://mindigital.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Labour and Social Security (Greece)",
-      "href": "ministry-19-ministry-of-labour-and-social-security-greece.html",
-      "abbreviation": "GR-19",
+      "href": "ministry-18-ministry-of-labour-and-social-security-greece.html",
+      "abbreviation": "GR-18",
       "officialHref": "https://ypergasias.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Social Cohesion and Family",
-      "href": "ministry-20-ministry-of-social-cohesion-and-family.html",
-      "abbreviation": "GR-20",
+      "href": "ministry-19-ministry-of-social-cohesion-and-family.html",
+      "abbreviation": "GR-19",
       "officialHref": "https://minscfa.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Migration and Asylum",
-      "href": "ministry-21-ministry-of-migration-and-asylum.html",
-      "abbreviation": "GR-21",
+      "href": "ministry-20-ministry-of-migration-and-asylum.html",
+      "abbreviation": "GR-20",
       "officialHref": "https://migration.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Climate Crisis and Civil Protection",
-      "href": "ministry-22-ministry-of-climate-crisis-and-civil-protection.html",
-      "abbreviation": "GR-22",
+      "href": "ministry-21-ministry-of-climate-crisis-and-civil-protection.html",
+      "abbreviation": "GR-21",
       "officialHref": "https://civilprotection.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Development, Competitiveness and Shipping",
-      "href": "ministry-23-ministry-of-development-competitiveness-and-shipping.html",
-      "abbreviation": "GR-23",
+      "href": "ministry-22-ministry-of-development-competitiveness-and-shipping.html",
+      "abbreviation": "GR-22",
       "officialHref": "http://www.mindev.gov.gr/",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Shipping and Island Policy (Greece)",
-      "href": "ministry-24-ministry-of-shipping-and-island-policy-greece.html",
-      "abbreviation": "GR-24",
+      "href": "ministry-23-ministry-of-shipping-and-island-policy-greece.html",
+      "abbreviation": "GR-23",
       "officialHref": "https://www.ynanp.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
     },
     {
       "name": "Ministry of Development (Greece)",
-      "href": "ministry-25-ministry-of-development-greece.html",
-      "abbreviation": "GR-25",
+      "href": "ministry-24-ministry-of-development-greece.html",
+      "abbreviation": "GR-24",
       "officialHref": "https://www.mindev.gov.gr",
       "verification": "exact-official",
       "verified": "2026-09-01"
