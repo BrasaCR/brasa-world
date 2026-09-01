@@ -10,7 +10,25 @@
   "primaryPortal": "https://www.gob.go.cr/",
   "sources": [
     "https://www.gob.go.cr/",
-    "https://www.presidencia.go.cr/"
+    "https://www.presidencia.go.cr/",
+    "https://www.mag.go.cr/",
+    "https://www.minae.go.cr/",
+    "https://www.comex.go.cr/",
+    "https://www.mcj.go.cr/",
+    "https://www.mep.go.cr/",
+    "https://www.hacienda.go.cr/",
+    "https://www.mjp.go.cr/",
+    "https://www.meic.go.cr/",
+    "https://www.micitt.go.cr/",
+    "https://www.mideplan.go.cr/",
+    "https://www.rree.go.cr/",
+    "https://www.ministeriodesalud.go.cr/",
+    "https://www.seguridadpublica.go.cr/",
+    "https://www.mtss.go.cr/",
+    "https://www.mopt.go.cr/",
+    "https://www.ict.go.cr/",
+    "https://www.mivah.go.cr/",
+    "https://www.mgp.go.cr/"
   ],
   "utilities": [
     {
@@ -49,115 +67,153 @@
       "name": "Ministerio de Agricultura y Ganadería",
       "href": "min-of-agricultura.html",
       "abbreviation": "MAG",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mag.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ambiente y Energía",
       "href": "min-of-amb-ener.html",
       "abbreviation": "MINAE",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.minae.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Comercio Exterior",
       "href": "min-of-comex.html",
       "abbreviation": "COMEX",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.comex.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Cultura y Juventud",
       "href": "min-of-cultura.html",
       "abbreviation": "MCJ",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mcj.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación Pública",
       "href": "min-of-education.html",
       "abbreviation": "MEP",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mep.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Hacienda",
       "href": "min-of-hacienda.html",
       "abbreviation": "MH",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.hacienda.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Justicia y Paz",
       "href": "min-of-justicia.html",
       "abbreviation": "MJP",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mjp.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía, Industria y Comercio",
       "href": "min-of-meic.html",
       "abbreviation": "MEIC",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.meic.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones",
       "href": "min-of-micitt.html",
       "abbreviation": "MICITT",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.micitt.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Planificación Nacional y Política Económica",
       "href": "min-of-mideplan.html",
       "abbreviation": "MIDEPLAN",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mideplan.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Relaciones Exteriores y Culto",
       "href": "min-of-rree.html",
       "abbreviation": "RREE",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.rree.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Salud",
       "href": "min-of-salud.html",
       "abbreviation": "MS",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.ministeriodesalud.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Seguridad Pública",
       "href": "min-of-seguridad.html",
       "abbreviation": "MSP",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.seguridadpublica.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Trabajo y Seguridad Social",
       "href": "min-of-trabajo.html",
       "abbreviation": "MTSS",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mtss.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Obras Públicas y Transportes",
       "href": "min-of-transportes.html",
       "abbreviation": "MOPT",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mopt.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Instituto Costarricense de Turismo",
       "href": "min-of-turismo.html",
       "abbreviation": "ICT",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.ict.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Vivienda y Asentamientos Humanos",
       "href": "min-of-vivienda.html",
       "abbreviation": "MIVAH",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mivah.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Gobernación y Policía",
       "href": "min-of-gobernacion.html",
       "abbreviation": "MGP",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.mgp.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Presidencia de la República",
       "href": "presidencia.html",
       "abbreviation": "PRESIDENCIA",
-      "officialHref": "https://www.gob.go.cr/"
+      "officialHref": "https://www.presidencia.go.cr/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [],
@@ -191,5 +247,11 @@
       "name": "San José",
       "code": "1"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }
