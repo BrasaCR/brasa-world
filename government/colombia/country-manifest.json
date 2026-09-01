@@ -31,7 +31,9 @@
     "https://www.funcionpublica.gov.co/gestor-normativo/manual-estructura-del-estado/rama-ejecutiva-orden-nacional",
     "https://sui.superservicios.gov.co/Servicios-Informativos/Empresas-prestadoras",
     "https://www.crcom.gov.co/es/micrositios/yo-mido-calidad/abc-sobre-medicion-calidad",
-    "https://www.gov.co/"
+    "https://www.gov.co/",
+    "https://www.mineducacion.gov.co/portal/",
+    "https://mintransporte.gov.co/"
   ],
   "utilities": [
     {
@@ -70,115 +72,153 @@
       "name": "Ministerio del Interior",
       "href": "ministry-01-ministerio-del-interior.html",
       "abbreviation": "MININTERIOR",
-      "officialHref": "https://www.mininterior.gov.co/"
+      "officialHref": "https://www.mininterior.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-02-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "CANCILLERIA",
-      "officialHref": "https://www.cancilleria.gov.co/"
+      "officialHref": "https://www.cancilleria.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Hacienda y Crédito Público",
       "href": "ministry-03-ministerio-de-hacienda-y-credito-publico.html",
       "abbreviation": "MINHACIENDA",
-      "officialHref": "https://www.minhacienda.gov.co/"
+      "officialHref": "https://www.minhacienda.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Justicia y del Derecho",
       "href": "ministry-04-ministerio-de-justicia-y-del-derecho.html",
       "abbreviation": "MINJUSTICIA",
-      "officialHref": "https://www.minjusticia.gov.co/"
+      "officialHref": "https://www.minjusticia.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Defensa Nacional",
       "href": "ministry-05-ministerio-de-defensa-nacional.html",
       "abbreviation": "MINDEFENSA",
-      "officialHref": "https://www.mindefensa.gov.co/"
+      "officialHref": "https://www.mindefensa.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Agricultura y Desarrollo Rural",
       "href": "ministry-06-ministerio-de-agricultura-y-desarrollo-rural.html",
       "abbreviation": "MINAGRICULTURA",
-      "officialHref": "https://www.minagricultura.gov.co/"
+      "officialHref": "https://www.minagricultura.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Salud y Protección Social",
       "href": "ministry-07-ministerio-de-salud-y-proteccion-social.html",
       "abbreviation": "MINSALUD",
-      "officialHref": "https://www.minsalud.gov.co/"
+      "officialHref": "https://www.minsalud.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Trabajo",
       "href": "ministry-08-ministerio-del-trabajo.html",
       "abbreviation": "MINTRABAJO",
-      "officialHref": "https://www.mintrabajo.gov.co/"
+      "officialHref": "https://www.mintrabajo.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Minas y Energía",
       "href": "ministry-09-ministerio-de-minas-y-energia.html",
       "abbreviation": "MINENERGIA",
-      "officialHref": "https://www.minenergia.gov.co/"
+      "officialHref": "https://www.minenergia.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Comercio, Industria y Turismo",
       "href": "ministry-10-ministerio-de-comercio-industria-y-turismo.html",
       "abbreviation": "MINCIT",
-      "officialHref": "https://www.mincit.gov.co/"
+      "officialHref": "https://www.mincit.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Educación Nacional",
       "href": "ministry-11-ministerio-de-educacion-nacional.html",
       "abbreviation": "MINEDUCACION",
-      "officialHref": "https://www.gov.co/"
+      "officialHref": "https://www.mineducacion.gov.co/portal/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Ambiente y Desarrollo Sostenible",
       "href": "ministry-12-ministerio-de-ambiente-y-desarrollo-sostenible.html",
       "abbreviation": "MINAMBIENTE",
-      "officialHref": "https://www.minambiente.gov.co/"
+      "officialHref": "https://www.minambiente.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Vivienda, Ciudad y Territorio",
       "href": "ministry-13-ministerio-de-vivienda-ciudad-y-territorio.html",
       "abbreviation": "MINVIVIENDA",
-      "officialHref": "https://www.minvivienda.gov.co/"
+      "officialHref": "https://www.minvivienda.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
       "href": "ministry-14-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaci.html",
       "abbreviation": "MINTIC",
-      "officialHref": "https://www.mintic.gov.co/"
+      "officialHref": "https://www.mintic.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Transporte",
       "href": "ministry-15-ministerio-de-transporte.html",
       "abbreviation": "MINTRANSPORTE",
-      "officialHref": "https://www.gov.co/"
+      "officialHref": "https://mintransporte.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de las Culturas, las Artes y los Saberes",
       "href": "ministry-16-ministerio-de-las-culturas-las-artes-y-los-saberes.html",
       "abbreviation": "MINCULTURAS",
-      "officialHref": "https://www.mincultura.gov.co/"
+      "officialHref": "https://www.mincultura.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Ciencia, Tecnología e Innovación",
       "href": "ministry-17-ministerio-de-ciencia-tecnologia-e-innovacion.html",
       "abbreviation": "MINCIENCIAS",
-      "officialHref": "https://minciencias.gov.co/"
+      "officialHref": "https://minciencias.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Deporte",
       "href": "ministry-18-ministerio-del-deporte.html",
       "abbreviation": "MINDEPORTE",
-      "officialHref": "https://www.mindeporte.gov.co/"
+      "officialHref": "https://www.mindeporte.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Igualdad y Equidad",
       "href": "ministry-19-ministerio-de-igualdad-y-equidad.html",
       "abbreviation": "MINIGUALDAD",
-      "officialHref": "https://www.minigualdadyequidad.gov.co/"
+      "officialHref": "https://www.minigualdadyequidad.gov.co/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     }
   ],
   "sharedPages": [
@@ -331,5 +371,11 @@
       "name": "Vichada",
       "code": "VID"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

@@ -24,7 +24,9 @@
     "https://www.panamadigital.gob.pa/OnlineServices",
     "https://www.presidencia.gob.pa/pagina/ministros",
     "https://asep.gob.pa/direcciones/services/prestadores/",
-    "https://asep.gob.pa/direcciones/services/agua-y-alcantarillado/prestadores/"
+    "https://asep.gob.pa/direcciones/services/agua-y-alcantarillado/prestadores/",
+    "https://www.meduca.gob.pa/",
+    "https://www.mop.gob.pa/"
   ],
   "utilities": [
     {
@@ -63,109 +65,145 @@
       "name": "Ministerio de Salud",
       "href": "ministry-01-ministerio-de-salud.html",
       "abbreviation": "MINSA",
-      "officialHref": "https://www.minsa.gob.pa/"
+      "officialHref": "https://www.minsa.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Ambiente",
       "href": "ministry-02-ministerio-de-ambiente.html",
       "abbreviation": "MIAMBIENTE",
-      "officialHref": "https://www.miambiente.gob.pa/"
+      "officialHref": "https://www.miambiente.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-03-ministerio-de-educacion.html",
       "abbreviation": "MEDUCA",
-      "officialHref": "https://www.panamadigital.gob.pa/"
+      "officialHref": "https://www.meduca.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
       "href": "ministry-04-ministerio-de-economia-y-finanzas.html",
       "abbreviation": "MEF",
-      "officialHref": "https://www.mef.gob.pa/"
+      "officialHref": "https://www.mef.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Obras Públicas · Transportation",
       "href": "ministry-05-ministerio-de-obras-publicas-transportation.html",
       "abbreviation": "MOP",
-      "officialHref": "https://www.panamadigital.gob.pa/"
+      "officialHref": "https://www.mop.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Seguridad Pública",
       "href": "ministry-06-ministerio-de-seguridad-publica.html",
       "abbreviation": "MINSEG",
-      "officialHref": "https://www.minseg.gob.pa/"
+      "officialHref": "https://www.minseg.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Desarrollo Agropecuario",
       "href": "ministry-07-ministerio-de-desarrollo-agropecuario.html",
       "abbreviation": "MIDA",
-      "officialHref": "https://www.mida.gob.pa/"
+      "officialHref": "https://www.mida.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Trabajo y Desarrollo Laboral",
       "href": "ministry-08-ministerio-de-trabajo-y-desarrollo-laboral.html",
       "abbreviation": "MITRADEL",
-      "officialHref": "https://www.mitradel.gob.pa/"
+      "officialHref": "https://www.mitradel.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Vivienda y Ordenamiento Territorial",
       "href": "ministry-09-ministerio-de-vivienda-y-ordenamiento-territorial.html",
       "abbreviation": "MIVIOT",
-      "officialHref": "https://www.miviot.gob.pa/"
+      "officialHref": "https://www.miviot.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Cultura",
       "href": "ministry-10-ministerio-de-cultura.html",
       "abbreviation": "MICULTURA",
-      "officialHref": "https://www.micultura.gob.pa/"
+      "officialHref": "https://www.micultura.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Gobierno",
       "href": "ministry-11-ministerio-de-gobierno.html",
       "abbreviation": "MINGOB",
-      "officialHref": "https://www.mingob.gob.pa/"
+      "officialHref": "https://www.mingob.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Comercio e Industrias",
       "href": "ministry-12-ministerio-de-comercio-e-industrias.html",
       "abbreviation": "MICI",
-      "officialHref": "https://www.mici.gob.pa/"
+      "officialHref": "https://www.mici.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-13-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "MIRE",
-      "officialHref": "https://www.mire.gob.pa/"
+      "officialHref": "https://www.mire.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Desarrollo Social",
       "href": "ministry-14-ministerio-de-desarrollo-social.html",
       "abbreviation": "MIDES",
-      "officialHref": "https://www.mides.gob.pa/"
+      "officialHref": "https://www.mides.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Presidencia de la República",
       "href": "ministry-15-presidencia-de-la-republica.html",
       "abbreviation": "PRESIDENCIA",
-      "officialHref": "https://www.presidencia.gob.pa/"
+      "officialHref": "https://www.presidencia.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Tribunal Electoral",
       "href": "ministry-16-tribunal-electoral.html",
       "abbreviation": "TE",
-      "officialHref": "https://www.tribunal-electoral.gob.pa/"
+      "officialHref": "https://www.tribunal-electoral.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Caja de Seguro Social",
       "href": "ministry-17-caja-de-seguro-social.html",
       "abbreviation": "CSS",
-      "officialHref": "https://www.css.gob.pa/"
+      "officialHref": "https://www.css.gob.pa/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Autoridad del Canal de Panamá",
       "href": "ministry-18-autoridad-del-canal-de-panama.html",
       "abbreviation": "ACP",
-      "officialHref": "https://www.pancanal.com/"
+      "officialHref": "https://www.pancanal.com/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     }
   ],
   "sharedPages": [
@@ -238,5 +276,11 @@
       "name": "Veraguas",
       "code": "9"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

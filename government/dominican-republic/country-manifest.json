@@ -29,7 +29,9 @@
     "https://presidencia.gob.do/ministerios",
     "https://sie.gob.do/document/sie-079-2026-tf/",
     "https://indotel.gob.do/",
-    "https://www.inapa.gob.do/"
+    "https://www.inapa.gob.do/",
+    "https://mopc.gob.do/",
+    "https://ministeriodeeducacion.gob.do/"
   ],
   "utilities": [
     {
@@ -68,139 +70,185 @@
       "name": "Ministerio de la Presidencia",
       "href": "ministry-01-ministerio-de-la-presidencia.html",
       "abbreviation": "MINPRE",
-      "officialHref": "https://presidencia.gob.do/ministerios"
+      "officialHref": "https://presidencia.gob.do/ministerios",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio Administrativo de la Presidencia",
       "href": "ministry-02-ministerio-administrativo-de-la-presidencia.html",
       "abbreviation": "MAPRE",
-      "officialHref": "https://mapre.gob.do/"
+      "officialHref": "https://mapre.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Obras Públicas y Comunicaciones",
       "href": "ministry-03-ministerio-de-obras-publicas-y-comunicaciones.html",
       "abbreviation": "MOPC",
-      "officialHref": "https://presidencia.gob.do/"
+      "officialHref": "https://mopc.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Hacienda y Economía",
       "href": "ministry-04-ministerio-de-hacienda-y-economia.html",
       "abbreviation": "MH",
-      "officialHref": "https://www.hacienda.gob.do/"
+      "officialHref": "https://www.hacienda.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Energía y Minas",
       "href": "ministry-05-ministerio-de-energia-y-minas.html",
       "abbreviation": "MEM",
-      "officialHref": "https://mem.gob.do/"
+      "officialHref": "https://mem.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Cultura",
       "href": "ministry-06-ministerio-de-cultura.html",
       "abbreviation": "MINC",
-      "officialHref": "https://cultura.gob.do/"
+      "officialHref": "https://cultura.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores",
       "href": "ministry-07-ministerio-de-relaciones-exteriores.html",
       "abbreviation": "MIREX",
-      "officialHref": "https://mirex.gob.do/"
+      "officialHref": "https://mirex.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Turismo",
       "href": "ministry-08-ministerio-de-turismo.html",
       "abbreviation": "MITUR",
-      "officialHref": "https://www.mitur.gob.do/"
+      "officialHref": "https://www.mitur.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Trabajo",
       "href": "ministry-09-ministerio-de-trabajo.html",
       "abbreviation": "MT",
-      "officialHref": "https://mt.gob.do/"
+      "officialHref": "https://mt.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Defensa",
       "href": "ministry-10-ministerio-de-defensa.html",
       "abbreviation": "MIDE",
-      "officialHref": "https://mide.gob.do/"
+      "officialHref": "https://mide.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de la Mujer",
       "href": "ministry-11-ministerio-de-la-mujer.html",
       "abbreviation": "MMUJER",
-      "officialHref": "https://mujer.gob.do/"
+      "officialHref": "https://mujer.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Vivienda y Edificaciones",
       "href": "ministry-12-ministerio-de-vivienda-y-edificaciones.html",
       "abbreviation": "MIVED",
-      "officialHref": "https://mived.gob.do/"
+      "officialHref": "https://mived.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Administración Pública",
       "href": "ministry-13-ministerio-de-administracion-publica.html",
       "abbreviation": "MAP",
-      "officialHref": "https://map.gob.do/"
+      "officialHref": "https://map.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Medio Ambiente y Recursos Naturales",
       "href": "ministry-14-ministerio-de-medio-ambiente-y-recursos-naturales.html",
       "abbreviation": "MIMARENA",
-      "officialHref": "https://ambiente.gob.do/"
+      "officialHref": "https://ambiente.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Agricultura",
       "href": "ministry-15-ministerio-de-agricultura.html",
       "abbreviation": "MA",
-      "officialHref": "https://agricultura.gob.do/"
+      "officialHref": "https://agricultura.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Juventud",
       "href": "ministry-16-ministerio-de-juventud.html",
       "abbreviation": "MJ",
-      "officialHref": "https://juventud.gob.do/"
+      "officialHref": "https://juventud.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Deportes y Recreación",
       "href": "ministry-17-ministerio-de-deportes-y-recreacion.html",
       "abbreviation": "MIDEREC",
-      "officialHref": "https://miderec.gob.do/"
+      "officialHref": "https://miderec.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-18-ministerio-de-educacion.html",
       "abbreviation": "MINERD",
-      "officialHref": "https://presidencia.gob.do/"
+      "officialHref": "https://ministeriodeeducacion.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Educación Superior, Ciencia y Tecnología",
       "href": "ministry-19-ministerio-de-educacion-superior-ciencia-y-tecnologia.html",
       "abbreviation": "MESCYT",
-      "officialHref": "https://mescyt.gob.do/"
+      "officialHref": "https://mescyt.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Industria, Comercio y Mipymes",
       "href": "ministry-20-ministerio-de-industria-comercio-y-mipymes.html",
       "abbreviation": "MICM",
-      "officialHref": "https://micm.gob.do/"
+      "officialHref": "https://micm.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Interior y Policía",
       "href": "ministry-21-ministerio-de-interior-y-policia.html",
       "abbreviation": "MIP",
-      "officialHref": "https://mip.gob.do/"
+      "officialHref": "https://mip.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Salud Pública",
       "href": "ministry-22-ministerio-de-salud-publica.html",
       "abbreviation": "MISPAS",
-      "officialHref": "https://www.msp.gob.do/"
+      "officialHref": "https://www.msp.gob.do/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Justicia",
       "href": "ministry-23-ministerio-de-justicia.html",
       "abbreviation": "MJUS",
-      "officialHref": "https://presidencia.gob.do/ministerios"
+      "officialHref": "https://presidencia.gob.do/ministerios",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     }
   ],
   "sharedPages": [
@@ -257,5 +305,11 @@
       "name": "Valdesia",
       "code": "42"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

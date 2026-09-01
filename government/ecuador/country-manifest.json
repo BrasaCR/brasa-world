@@ -29,7 +29,9 @@
     "https://gobec-dev02.gobiernoelectronico.gob.ec/instituciones",
     "https://datosabiertos.presidencia.gob.ec/dataset/",
     "https://www.asambleanacional.gob.ec/es/noticias/instituciones",
-    "https://www.arcotel.gob.ec/"
+    "https://www.arcotel.gob.ec/",
+    "https://educacion.gob.ec/",
+    "https://www.obraspublicas.gob.ec/"
   ],
   "utilities": [
     {
@@ -68,121 +70,161 @@
       "name": "Ministerio de Agricultura y Ganadería",
       "href": "ministry-01-ministerio-de-agricultura-y-ganaderia.html",
       "abbreviation": "MAG",
-      "officialHref": "https://www.agricultura.gob.ec/"
+      "officialHref": "https://www.agricultura.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Cultura y Patrimonio",
       "href": "ministry-02-ministerio-de-cultura-y-patrimonio.html",
       "abbreviation": "MCYP",
-      "officialHref": "https://www.culturaypatrimonio.gob.ec/"
+      "officialHref": "https://www.culturaypatrimonio.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Defensa Nacional",
       "href": "ministry-03-ministerio-de-defensa-nacional.html",
       "abbreviation": "MIDENA",
-      "officialHref": "https://www.defensa.gob.ec/"
+      "officialHref": "https://www.defensa.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Desarrollo Urbano y Vivienda",
       "href": "ministry-04-ministerio-de-desarrollo-urbano-y-vivienda.html",
       "abbreviation": "MIDUVI",
-      "officialHref": "https://www.habitatyvivienda.gob.ec/"
+      "officialHref": "https://www.habitatyvivienda.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Economía y Finanzas",
       "href": "ministry-05-ministerio-de-economia-y-finanzas.html",
       "abbreviation": "MEF",
-      "officialHref": "https://www.finanzas.gob.ec/"
+      "officialHref": "https://www.finanzas.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Educación",
       "href": "ministry-06-ministerio-de-educacion.html",
       "abbreviation": "MINEDUC",
-      "officialHref": "https://www.presidencia.gob.ec/"
+      "officialHref": "https://educacion.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Energía y Minas",
       "href": "ministry-07-ministerio-de-energia-y-minas.html",
       "abbreviation": "MEM",
-      "officialHref": "https://www.recursosyenergia.gob.ec/"
+      "officialHref": "https://www.recursosyenergia.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Gobierno",
       "href": "ministry-08-ministerio-de-gobierno.html",
       "abbreviation": "MDG",
-      "officialHref": "https://www.ministeriodegobierno.gob.ec/"
+      "officialHref": "https://www.ministeriodegobierno.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Inclusión Económica y Social",
       "href": "ministry-09-ministerio-de-inclusion-economica-y-social.html",
       "abbreviation": "MIES",
-      "officialHref": "https://www.inclusion.gob.ec/"
+      "officialHref": "https://www.inclusion.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
       "href": "ministry-10-ministerio-de-produccion-comercio-exterior-inversiones-y-pes.html",
       "abbreviation": "MPCEIP",
-      "officialHref": "https://www.produccion.gob.ec/"
+      "officialHref": "https://www.produccion.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Relaciones Exteriores y Movilidad Humana",
       "href": "ministry-11-ministerio-de-relaciones-exteriores-y-movilidad-humana.html",
       "abbreviation": "MREMH",
-      "officialHref": "https://www.cancilleria.gob.ec/"
+      "officialHref": "https://www.cancilleria.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Salud Pública",
       "href": "ministry-12-ministerio-de-salud-publica.html",
       "abbreviation": "MSP",
-      "officialHref": "https://www.salud.gob.ec/"
+      "officialHref": "https://www.salud.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Telecomunicaciones y de la Sociedad de la Información",
       "href": "ministry-13-ministerio-de-telecomunicaciones-y-de-la-sociedad-de-la-info.html",
       "abbreviation": "MINTEL",
-      "officialHref": "https://www.telecomunicaciones.gob.ec/"
+      "officialHref": "https://www.telecomunicaciones.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Trabajo",
       "href": "ministry-14-ministerio-del-trabajo.html",
       "abbreviation": "MDT",
-      "officialHref": "https://www.trabajo.gob.ec/"
+      "officialHref": "https://www.trabajo.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de Transporte y Obras Públicas",
       "href": "ministry-15-ministerio-de-transporte-y-obras-publicas.html",
       "abbreviation": "MTOP",
-      "officialHref": "https://www.presidencia.gob.ec/"
+      "officialHref": "https://www.obraspublicas.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Ministerio de Turismo",
       "href": "ministry-16-ministerio-de-turismo.html",
       "abbreviation": "MINTUR",
-      "officialHref": "https://www.turismo.gob.ec/"
+      "officialHref": "https://www.turismo.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio de la Mujer y Derechos Humanos",
       "href": "ministry-17-ministerio-de-la-mujer-y-derechos-humanos.html",
       "abbreviation": "MMDH",
-      "officialHref": "https://www.derechoshumanos.gob.ec/"
+      "officialHref": "https://www.derechoshumanos.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Ambiente, Agua y Transición Ecológica",
       "href": "ministry-18-ministerio-del-ambiente-agua-y-transicion-ecologica.html",
       "abbreviation": "MAATE",
-      "officialHref": "https://www.ambiente.gob.ec/"
+      "officialHref": "https://www.ambiente.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Deporte",
       "href": "ministry-19-ministerio-del-deporte.html",
       "abbreviation": "MD",
-      "officialHref": "https://www.deporte.gob.ec/"
+      "officialHref": "https://www.deporte.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Ministerio del Interior",
       "href": "ministry-20-ministerio-del-interior.html",
       "abbreviation": "MDI",
-      "officialHref": "https://www.ministeriodelinterior.gob.ec/"
+      "officialHref": "https://www.ministeriodelinterior.gob.ec/",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     }
   ],
   "sharedPages": [
@@ -299,5 +341,11 @@
       "name": "Zamora-Chinchipe",
       "code": "Z"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

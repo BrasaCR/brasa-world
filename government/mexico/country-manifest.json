@@ -29,7 +29,9 @@
     "https://www.gob.mx/gobierno",
     "https://beta.cfe.mx/Hogar/Pages/default.aspx",
     "https://www.ift.org.mx/",
-    "https://portal.conagua.gob.mx/Tarifas/paginas/Principal.aspx"
+    "https://portal.conagua.gob.mx/Tarifas/paginas/Principal.aspx",
+    "https://www.gob.mx/sict/es/",
+    "https://www.gob.mx/sep"
   ],
   "utilities": [
     {
@@ -68,139 +70,185 @@
       "name": "Secretaría de Gobernación",
       "href": "ministry-01-secretaria-de-gobernacion.html",
       "abbreviation": "SEGOB",
-      "officialHref": "https://www.gob.mx/segob"
+      "officialHref": "https://www.gob.mx/segob",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Relaciones Exteriores",
       "href": "ministry-02-secretaria-de-relaciones-exteriores.html",
       "abbreviation": "SRE",
-      "officialHref": "https://www.gob.mx/sre"
+      "officialHref": "https://www.gob.mx/sre",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de la Defensa Nacional",
       "href": "ministry-03-secretaria-de-la-defensa-nacional.html",
       "abbreviation": "DEFENSA",
-      "officialHref": "https://www.gob.mx/defensa"
+      "officialHref": "https://www.gob.mx/defensa",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Marina",
       "href": "ministry-04-secretaria-de-marina.html",
       "abbreviation": "SEMAR",
-      "officialHref": "https://www.gob.mx/semar"
+      "officialHref": "https://www.gob.mx/semar",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Seguridad y Protección Ciudadana",
       "href": "ministry-05-secretaria-de-seguridad-y-proteccion-ciudadana.html",
       "abbreviation": "SSPC",
-      "officialHref": "https://www.gob.mx/sspc"
+      "officialHref": "https://www.gob.mx/sspc",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Hacienda y Crédito Público",
       "href": "ministry-06-secretaria-de-hacienda-y-credito-publico.html",
       "abbreviation": "SHCP",
-      "officialHref": "https://www.gob.mx/shcp"
+      "officialHref": "https://www.gob.mx/shcp",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Bienestar",
       "href": "ministry-07-secretaria-de-bienestar.html",
       "abbreviation": "BIENESTAR",
-      "officialHref": "https://www.gob.mx/bienestar"
+      "officialHref": "https://www.gob.mx/bienestar",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Medio Ambiente y Recursos Naturales",
       "href": "ministry-08-secretaria-de-medio-ambiente-y-recursos-naturales.html",
       "abbreviation": "SEMARNAT",
-      "officialHref": "https://www.gob.mx/semarnat"
+      "officialHref": "https://www.gob.mx/semarnat",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Energía",
       "href": "ministry-09-secretaria-de-energia.html",
       "abbreviation": "SENER",
-      "officialHref": "https://www.gob.mx/sener"
+      "officialHref": "https://www.gob.mx/sener",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Economía",
       "href": "ministry-10-secretaria-de-economia.html",
       "abbreviation": "SE",
-      "officialHref": "https://www.gob.mx/se"
+      "officialHref": "https://www.gob.mx/se",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Agricultura y Desarrollo Rural",
       "href": "ministry-11-secretaria-de-agricultura-y-desarrollo-rural.html",
       "abbreviation": "AGRICULTURA",
-      "officialHref": "https://www.gob.mx/agricultura"
+      "officialHref": "https://www.gob.mx/agricultura",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Infraestructura, Comunicaciones y Transportes",
       "href": "ministry-12-secretaria-de-infraestructura-comunicaciones-y-transportes.html",
       "abbreviation": "SICT",
-      "officialHref": "https://www.gob.mx/"
+      "officialHref": "https://www.gob.mx/sict/es/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Secretaría Anticorrupción y Buen Gobierno",
       "href": "ministry-13-secretaria-anticorrupcion-y-buen-gobierno.html",
       "abbreviation": "BUEN GOBIERNO",
-      "officialHref": "https://www.gob.mx/buengobierno"
+      "officialHref": "https://www.gob.mx/buengobierno",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Educación Pública",
       "href": "ministry-14-secretaria-de-educacion-publica.html",
       "abbreviation": "SEP",
-      "officialHref": "https://www.gob.mx/"
+      "officialHref": "https://www.gob.mx/sep",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
       "name": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
       "href": "ministry-15-secretaria-de-ciencia-humanidades-tecnologia-e-innovacion.html",
       "abbreviation": "SECIHTI",
-      "officialHref": "https://www.gob.mx/secihti"
+      "officialHref": "https://www.gob.mx/secihti",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Salud",
       "href": "ministry-16-secretaria-de-salud.html",
       "abbreviation": "SALUD",
-      "officialHref": "https://www.gob.mx/salud"
+      "officialHref": "https://www.gob.mx/salud",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría del Trabajo y Previsión Social",
       "href": "ministry-17-secretaria-del-trabajo-y-prevision-social.html",
       "abbreviation": "STPS",
-      "officialHref": "https://www.gob.mx/stps"
+      "officialHref": "https://www.gob.mx/stps",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
       "href": "ministry-18-secretaria-de-desarrollo-agrario-territorial-y-urbano.html",
       "abbreviation": "SEDATU",
-      "officialHref": "https://www.gob.mx/sedatu"
+      "officialHref": "https://www.gob.mx/sedatu",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Cultura",
       "href": "ministry-19-secretaria-de-cultura.html",
       "abbreviation": "CULTURA",
-      "officialHref": "https://www.gob.mx/cultura"
+      "officialHref": "https://www.gob.mx/cultura",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de Turismo",
       "href": "ministry-20-secretaria-de-turismo.html",
       "abbreviation": "SECTUR",
-      "officialHref": "https://www.gob.mx/sectur"
+      "officialHref": "https://www.gob.mx/sectur",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Secretaría de las Mujeres",
       "href": "ministry-21-secretaria-de-las-mujeres.html",
       "abbreviation": "MUJERES",
-      "officialHref": "https://www.gob.mx/mujeres"
+      "officialHref": "https://www.gob.mx/mujeres",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Agencia de Transformación Digital y Telecomunicaciones",
       "href": "ministry-22-agencia-de-transformacion-digital-y-telecomunicaciones.html",
       "abbreviation": "ATDT",
-      "officialHref": "https://www.gob.mx/atdt"
+      "officialHref": "https://www.gob.mx/atdt",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     },
     {
       "name": "Presidencia de la República",
       "href": "ministry-23-presidencia-de-la-republica.html",
       "abbreviation": "PRESIDENCIA",
-      "officialHref": "https://www.gob.mx/presidencia"
+      "officialHref": "https://www.gob.mx/presidencia",
+      "verification": "exact-official",
+      "verified": "2026-08-26"
     }
   ],
   "sharedPages": [
@@ -349,5 +397,11 @@
       "name": "Zacatecas",
       "code": "ZAC"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }
