@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of Internal and Social Affairs",
+      "ministry-01-ministry-of-internal-and-social-affairs.html",
       "KI-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Commerce, Industry and Cooperatives",
+      "ministry-02-ministry-of-commerce-industry-and-cooperatives.html",
       "KI-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and Immigration",
+      "ministry-03-ministry-of-foreign-affairs-and-immigration.html",
       "KI-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Infrastructure and Sustainable Energy",
+      "ministry-04-ministry-of-infrastructure-and-sustainable-energy.html",
       "KI-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Environment, Lands and Agricultural Development",
+      "ministry-05-ministry-of-environment-lands-and-agricultural-development.html",
       "KI-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Line and Phoenix Islands Development",
+      "ministry-06-ministry-of-line-and-phoenix-islands-development.html",
       "KI-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Fisheries and Marine Resources Development",
+      "ministry-07-ministry-of-fisheries-and-marine-resources-development.html",
       "KI-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Employment and Human Resources",
+      "ministry-08-ministry-of-employment-and-human-resources.html",
       "KI-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Information, Communications, Transport and Tourism Development",
+      "ministry-09-ministry-of-information-communications-transport-and-tourism.html",
       "KI-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Women, Youth, Sports and Social Affairs",
+      "ministry-10-ministry-of-women-youth-sports-and-social-affairs.html",
       "KI-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Education",
+      "ministry-11-ministry-of-education.html",
       "KI-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Justice",
+      "ministry-12-ministry-of-justice.html",
       "KI-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Fisheries and Marine Resource Development",
+      "ministry-13-ministry-of-fisheries-and-marine-resource-development.html",
       "KI-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-14-ministry-of-internal-affairs.html",
       "KI-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Finance and Economic Development",
+      "ministry-15-ministry-of-finance-and-economic-development.html",
       "KI-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Health and Medical Services",
+      "ministry-16-ministry-of-health-and-medical-services.html",
       "KI-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "KI-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "KI-18"
     ]
   ]
 };

@@ -38,94 +38,59 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Office of the President",
+      "ministry-01-office-of-the-president.html",
       "MH-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Foreign Affairs and Trade",
+      "ministry-02-ministry-of-foreign-affairs-and-trade.html",
       "MH-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Finance, Banking and Postal Services",
+      "ministry-03-ministry-of-finance-banking-and-postal-services.html",
       "MH-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice, Immigration and Labour",
+      "ministry-04-ministry-of-justice-immigration-and-labour.html",
       "MH-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Health and Human Services",
+      "ministry-05-ministry-of-health-and-human-services.html",
       "MH-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education, Sports and Training",
+      "ministry-06-ministry-of-education-sports-and-training.html",
       "MH-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Natural Resources and Commerce",
+      "ministry-07-ministry-of-natural-resources-and-commerce.html",
       "MH-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Works, Infrastructure and Utilities",
+      "ministry-08-ministry-of-works-infrastructure-and-utilities.html",
       "MH-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Transport, Communications and Information Technology",
+      "ministry-09-ministry-of-transport-communications-and-information-technol.html",
       "MH-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Culture and Internal Affairs",
+      "ministry-10-ministry-of-culture-and-internal-affairs.html",
       "MH-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Environment",
+      "ministry-11-ministry-of-environment.html",
       "MH-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "MH-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "MH-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "MH-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "MH-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "MH-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "MH-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "MH-18"
     ]
   ]
 };

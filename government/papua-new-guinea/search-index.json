@@ -36,111 +36,165 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Department of Prime Minister and National Executive Council",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-department-of-prime-minister-and-national-executive-council.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Department of Treasury",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-department-of-treasury.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Department of Finance",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-department-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Department of Foreign Affairs",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-department-of-foreign-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Department of Defence",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-department-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Department of Justice and Attorney General",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-department-of-justice-and-attorney-general.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Department of Police",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-department-of-police.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Department of Correctional Services",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-department-of-correctional-services.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Department of Provincial and Local Government Affairs",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-department-of-provincial-and-local-government-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Department of National Planning and Monitoring",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-department-of-national-planning-and-monitoring.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Department of Education",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-department-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Department of Higher Education, Research, Science and Technology",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-department-of-higher-education-research-science-and-technolo.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Department of Health",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-department-of-health.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Department of Agriculture and Livestock",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-department-of-agriculture-and-livestock.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Department of Fisheries and Marine Resources",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-department-of-fisheries-and-marine-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Department of Forestry",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-department-of-forestry.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Department of Petroleum and Energy",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-department-of-petroleum-and-energy.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Department of Mineral Policy and Geohazards Management",
     "page": "Government of Papua New Guinea",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-department-of-mineral-policy-and-geohazards-management.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Works and Highways",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-19-department-of-works-and-highways.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Transport",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-20-department-of-transport.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Information and Communications Technology",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-21-department-of-information-and-communications-technology.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Lands and Physical Planning",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-22-department-of-lands-and-physical-planning.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Environment and Conservation",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-23-department-of-environment-and-conservation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Commerce and Industry",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-24-department-of-commerce-and-industry.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Labour and Industrial Relations",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-25-department-of-labour-and-industrial-relations.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Community Development and Religion",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-26-department-of-community-development-and-religion.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Personnel Management",
+    "page": "Government of Papua New Guinea",
+    "url": "ministry-27-department-of-personnel-management.html",
     "verified": "2026-09-01"
   }
 ]

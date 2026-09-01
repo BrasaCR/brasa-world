@@ -38,94 +38,139 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Department of Prime Minister and National Executive Council",
+      "ministry-01-department-of-prime-minister-and-national-executive-council.html",
       "PG-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Department of Treasury",
+      "ministry-02-department-of-treasury.html",
       "PG-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Department of Finance",
+      "ministry-03-department-of-finance.html",
       "PG-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Foreign Affairs",
+      "ministry-04-department-of-foreign-affairs.html",
       "PG-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Defence",
+      "ministry-05-department-of-defence.html",
       "PG-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Justice and Attorney General",
+      "ministry-06-department-of-justice-and-attorney-general.html",
       "PG-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Police",
+      "ministry-07-department-of-police.html",
       "PG-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Correctional Services",
+      "ministry-08-department-of-correctional-services.html",
       "PG-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department of Provincial and Local Government Affairs",
+      "ministry-09-department-of-provincial-and-local-government-affairs.html",
       "PG-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of National Planning and Monitoring",
+      "ministry-10-department-of-national-planning-and-monitoring.html",
       "PG-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Department of Education",
+      "ministry-11-department-of-education.html",
       "PG-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of Higher Education, Research, Science and Technology",
+      "ministry-12-department-of-higher-education-research-science-and-technolo.html",
       "PG-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Health",
+      "ministry-13-department-of-health.html",
       "PG-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department of Agriculture and Livestock",
+      "ministry-14-department-of-agriculture-and-livestock.html",
       "PG-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department of Fisheries and Marine Resources",
+      "ministry-15-department-of-fisheries-and-marine-resources.html",
       "PG-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of Forestry",
+      "ministry-16-department-of-forestry.html",
       "PG-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Department of Petroleum and Energy",
+      "ministry-17-department-of-petroleum-and-energy.html",
       "PG-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Department of Mineral Policy and Geohazards Management",
+      "ministry-18-department-of-mineral-policy-and-geohazards-management.html",
       "PG-18"
+    ],
+    [
+      "Department of Works and Highways",
+      "ministry-19-department-of-works-and-highways.html",
+      "PG-19"
+    ],
+    [
+      "Department of Transport",
+      "ministry-20-department-of-transport.html",
+      "PG-20"
+    ],
+    [
+      "Department of Information and Communications Technology",
+      "ministry-21-department-of-information-and-communications-technology.html",
+      "PG-21"
+    ],
+    [
+      "Department of Lands and Physical Planning",
+      "ministry-22-department-of-lands-and-physical-planning.html",
+      "PG-22"
+    ],
+    [
+      "Department of Environment and Conservation",
+      "ministry-23-department-of-environment-and-conservation.html",
+      "PG-23"
+    ],
+    [
+      "Department of Commerce and Industry",
+      "ministry-24-department-of-commerce-and-industry.html",
+      "PG-24"
+    ],
+    [
+      "Department of Labour and Industrial Relations",
+      "ministry-25-department-of-labour-and-industrial-relations.html",
+      "PG-25"
+    ],
+    [
+      "Department of Community Development and Religion",
+      "ministry-26-department-of-community-development-and-religion.html",
+      "PG-26"
+    ],
+    [
+      "Department of Personnel Management",
+      "ministry-27-department-of-personnel-management.html",
+      "PG-27"
     ]
   ]
 };

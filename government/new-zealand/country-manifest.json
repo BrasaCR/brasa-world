@@ -24,7 +24,39 @@
     "Panama": "New Zealand"
   },
   "sources": [
-    "https://www.govt.nz/"
+    "https://www.govt.nz/",
+    "https://www.hud.govt.nz/",
+    "http://www.tpk.govt.nz/",
+    "https://www.defence.govt.nz",
+    "https://www.linz.govt.nz",
+    "https://www.stats.govt.nz/",
+    "https://www.publicservice.govt.nz/",
+    "https://www.orangatamariki.govt.nz/",
+    "http://www.ero.govt.nz/",
+    "https://www.mpia.govt.nz/",
+    "https://www.education.govt.nz/",
+    "http://www.mch.govt.nz/",
+    "http://mfe.govt.nz/",
+    "http://www.mbie.govt.nz",
+    "http://www.mfat.govt.nz/",
+    "http://www.sfo.govt.nz/",
+    "http://www.msd.govt.nz/",
+    "http://www.customs.govt.nz",
+    "http://www.treasury.govt.nz/",
+    "https://doc.govt.nz",
+    "https://www.crownlaw.govt.nz/",
+    "https://www.gcsb.govt.nz/",
+    "http://www.mpi.govt.nz/",
+    "http://www.nzsis.govt.nz/",
+    "https://www.ird.govt.nz/",
+    "https://www.justice.govt.nz/",
+    "http://www.corrections.govt.nz/",
+    "https://www.dia.govt.nz/",
+    "https://www.dpmc.govt.nz",
+    "https://women.govt.nz/",
+    "http://www.health.govt.nz",
+    "https://fs.fish.govt.nz/",
+    "https://www.transport.govt.nz"
   ],
   "utilities": [
     {
@@ -60,112 +92,284 @@
   ],
   "ministries": [
     {
-      "name": "Health ministry or national health authority",
-      "href": "ministry-01-health-ministry-or-national-health-authority.html",
+      "name": "Ministry of Housing and Urban Development",
+      "href": "ministry-01-ministry-of-housing-and-urban-development.html",
       "abbreviation": "NZ-1",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.hud.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Environment and climate authority",
-      "href": "ministry-02-environment-and-climate-authority.html",
+      "name": "Ministry of Regulation",
+      "href": "ministry-02-ministry-of-regulation.html",
       "abbreviation": "NZ-2",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.govt.nz/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Education ministry or national education authority",
-      "href": "ministry-03-education-ministry-or-national-education-authority.html",
+      "name": "Ministry of Māori Development",
+      "href": "ministry-03-ministry-of-maori-development.html",
       "abbreviation": "NZ-3",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.tpk.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Finance and treasury authority",
-      "href": "ministry-04-finance-and-treasury-authority.html",
+      "name": "Ministry of Defence",
+      "href": "ministry-04-ministry-of-defence.html",
       "abbreviation": "NZ-4",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.defence.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Transport and infrastructure authority",
-      "href": "ministry-05-transport-and-infrastructure-authority.html",
+      "name": "Land Information New Zealand",
+      "href": "ministry-05-land-information-new-zealand.html",
       "abbreviation": "NZ-5",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.linz.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Interior and public safety authority",
-      "href": "ministry-06-interior-and-public-safety-authority.html",
+      "name": "Statistics New Zealand",
+      "href": "ministry-06-statistics-new-zealand.html",
       "abbreviation": "NZ-6",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.stats.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Agriculture and rural affairs authority",
-      "href": "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "name": "New Zealand Ministry of Works",
+      "href": "ministry-07-new-zealand-ministry-of-works.html",
       "abbreviation": "NZ-7",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.govt.nz/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Labour and employment authority",
-      "href": "ministry-08-labour-and-employment-authority.html",
+      "name": "Te Kawa Mataaho Public Service Commission",
+      "href": "ministry-08-te-kawa-mataaho-public-service-commission.html",
       "abbreviation": "NZ-8",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.publicservice.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Housing and spatial planning authority",
-      "href": "ministry-09-housing-and-spatial-planning-authority.html",
+      "name": "Oranga Tamariki—Ministry for Children",
+      "href": "ministry-09-oranga-tamariki-ministry-for-children.html",
       "abbreviation": "NZ-9",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.orangatamariki.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Culture and heritage authority",
-      "href": "ministry-10-culture-and-heritage-authority.html",
+      "name": "Education Review Office",
+      "href": "ministry-10-education-review-office.html",
       "abbreviation": "NZ-10",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.ero.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Justice authority",
-      "href": "ministry-11-justice-authority.html",
+      "name": "Ministry for Pacific Peoples",
+      "href": "ministry-11-ministry-for-pacific-peoples.html",
       "abbreviation": "NZ-11",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.mpia.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Economy, commerce and industry authority",
-      "href": "ministry-12-economy-commerce-and-industry-authority.html",
+      "name": "Ministry of Education of New Zealand",
+      "href": "ministry-12-ministry-of-education-of-new-zealand.html",
       "abbreviation": "NZ-12",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "https://www.education.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Foreign affairs authority",
-      "href": "ministry-13-foreign-affairs-authority.html",
+      "name": "Ministry for Culture and Heritage",
+      "href": "ministry-13-ministry-for-culture-and-heritage.html",
       "abbreviation": "NZ-13",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.mch.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Social protection authority",
-      "href": "ministry-14-social-protection-authority.html",
+      "name": "Ministry for the Environment",
+      "href": "ministry-14-ministry-for-the-environment.html",
       "abbreviation": "NZ-14",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://mfe.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Head of government and cabinet",
-      "href": "ministry-15-head-of-government-and-cabinet.html",
+      "name": "Ministry of Business, Innovation and Employment",
+      "href": "ministry-15-ministry-of-business-innovation-and-employment.html",
       "abbreviation": "NZ-15",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.mbie.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Electoral authority",
-      "href": "ministry-16-electoral-authority.html",
+      "name": "Ministry of Foreign Affairs and Trade of New Zealand",
+      "href": "ministry-16-ministry-of-foreign-affairs-and-trade-of-new-zealand.html",
       "abbreviation": "NZ-16",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.mfat.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "National social insurance authority",
-      "href": "ministry-17-national-social-insurance-authority.html",
+      "name": "Serious Fraud Office",
+      "href": "ministry-17-serious-fraud-office.html",
       "abbreviation": "NZ-17",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.sfo.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     },
     {
-      "name": "Digital government authority",
-      "href": "ministry-18-digital-government-authority.html",
+      "name": "Ministry of Social Development",
+      "href": "ministry-18-ministry-of-social-development.html",
       "abbreviation": "NZ-18",
-      "officialHref": "https://www.govt.nz/"
+      "officialHref": "http://www.msd.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "New Zealand Customs Service",
+      "href": "ministry-19-new-zealand-customs-service.html",
+      "abbreviation": "NZ-19",
+      "officialHref": "http://www.customs.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "New Zealand Treasury",
+      "href": "ministry-20-new-zealand-treasury.html",
+      "abbreviation": "NZ-20",
+      "officialHref": "http://www.treasury.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Department of Conservation",
+      "href": "ministry-21-department-of-conservation.html",
+      "abbreviation": "NZ-21",
+      "officialHref": "https://doc.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Crown Law Office",
+      "href": "ministry-22-crown-law-office.html",
+      "abbreviation": "NZ-22",
+      "officialHref": "https://www.crownlaw.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Government Communications Security Bureau",
+      "href": "ministry-23-government-communications-security-bureau.html",
+      "abbreviation": "NZ-23",
+      "officialHref": "https://www.gcsb.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for Primary Industries",
+      "href": "ministry-24-ministry-for-primary-industries.html",
+      "abbreviation": "NZ-24",
+      "officialHref": "http://www.mpi.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "New Zealand Security Intelligence Service",
+      "href": "ministry-25-new-zealand-security-intelligence-service.html",
+      "abbreviation": "NZ-25",
+      "officialHref": "http://www.nzsis.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "New Zealand Department of Agriculture",
+      "href": "ministry-26-new-zealand-department-of-agriculture.html",
+      "abbreviation": "NZ-26",
+      "officialHref": "https://www.govt.nz/",
+      "verification": "official-directory",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Inland Revenue",
+      "href": "ministry-27-inland-revenue.html",
+      "abbreviation": "NZ-27",
+      "officialHref": "https://www.ird.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Justice",
+      "href": "ministry-28-ministry-of-justice.html",
+      "abbreviation": "NZ-28",
+      "officialHref": "https://www.justice.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Department of Corrections",
+      "href": "ministry-29-department-of-corrections.html",
+      "abbreviation": "NZ-29",
+      "officialHref": "http://www.corrections.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Department of Internal Affairs",
+      "href": "ministry-30-department-of-internal-affairs.html",
+      "abbreviation": "NZ-30",
+      "officialHref": "https://www.dia.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Department of the Prime Minister and Cabinet",
+      "href": "ministry-31-department-of-the-prime-minister-and-cabinet.html",
+      "abbreviation": "NZ-31",
+      "officialHref": "https://www.dpmc.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry for Women",
+      "href": "ministry-32-ministry-for-women.html",
+      "abbreviation": "NZ-32",
+      "officialHref": "https://women.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Health",
+      "href": "ministry-33-ministry-of-health.html",
+      "abbreviation": "NZ-33",
+      "officialHref": "http://www.health.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Fisheries New Zealand",
+      "href": "ministry-34-fisheries-new-zealand.html",
+      "abbreviation": "NZ-34",
+      "officialHref": "https://fs.fish.govt.nz/",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
+    },
+    {
+      "name": "Ministry of Transport",
+      "href": "ministry-35-ministry-of-transport.html",
+      "abbreviation": "NZ-35",
+      "officialHref": "https://www.transport.govt.nz",
+      "verification": "exact-official",
+      "verified": "2026-09-01"
     }
   ],
   "sharedPages": [
@@ -253,5 +457,11 @@
       "name": "Chatham Islands Territory",
       "code": "CIT"
     }
-  ]
+  ],
+  "localization": {
+    "status": "verified",
+    "verified": "2026-09-01",
+    "genericMinistries": 0,
+    "providerFallback": false
+  }
 }

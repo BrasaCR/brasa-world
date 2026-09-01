@@ -38,94 +38,59 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Office of the President",
+      "ministry-01-office-of-the-president.html",
       "FM-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Department of Foreign Affairs",
+      "ministry-02-department-of-foreign-affairs.html",
       "FM-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Department of Finance and Administration",
+      "ministry-03-department-of-finance-and-administration.html",
       "FM-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Justice",
+      "ministry-04-department-of-justice.html",
       "FM-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Health and Social Affairs",
+      "ministry-05-department-of-health-and-social-affairs.html",
       "FM-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Education",
+      "ministry-06-department-of-education.html",
       "FM-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Resources and Development",
+      "ministry-07-department-of-resources-and-development.html",
       "FM-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Transportation, Communications and Infrastructure",
+      "ministry-08-department-of-transportation-communications-and-infrastructu.html",
       "FM-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department of Environment, Climate Change and Emergency Management",
+      "ministry-09-department-of-environment-climate-change-and-emergency-manag.html",
       "FM-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of Public Safety",
+      "ministry-10-department-of-public-safety.html",
       "FM-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Office of National Archives, Culture and Historic Preservation",
+      "ministry-11-office-of-national-archives-culture-and-historic-preservatio.html",
       "FM-11"
-    ],
-    [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
-      "FM-12"
-    ],
-    [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
-      "FM-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "FM-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "FM-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "FM-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "FM-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "FM-18"
     ]
   ]
 };

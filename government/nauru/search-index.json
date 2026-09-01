@@ -36,111 +36,87 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Office of the President",
     "page": "Government of Nauru",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-office-of-the-president.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Department of Chief Secretary",
     "page": "Government of Nauru",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-department-of-chief-secretary.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Department of Finance",
     "page": "Government of Nauru",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-department-of-finance.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Department of Foreign Affairs and Trade",
     "page": "Government of Nauru",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-department-of-foreign-affairs-and-trade.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Department of Justice and Border Control",
     "page": "Government of Nauru",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-department-of-justice-and-border-control.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Department of Education",
     "page": "Government of Nauru",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-department-of-education.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "Department of Health and Medical Services",
     "page": "Government of Nauru",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-department-of-health-and-medical-services.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Department of Infrastructure Development",
     "page": "Government of Nauru",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-department-of-infrastructure-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Department of Commerce, Industry and Environment",
     "page": "Government of Nauru",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-department-of-commerce-industry-and-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Department of Climate Change and National Resilience",
     "page": "Government of Nauru",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-department-of-climate-change-and-national-resilience.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Department of Fisheries and Marine Resources",
     "page": "Government of Nauru",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-department-of-fisheries-and-marine-resources.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Department of Sports",
     "page": "Government of Nauru",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-department-of-sports.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Department of Women and Social Development Affairs",
     "page": "Government of Nauru",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-department-of-women-and-social-development-affairs.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Department of Media and Information",
     "page": "Government of Nauru",
-    "url": "ministry-14-social-protection-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Head of government and cabinet",
-    "page": "Government of Nauru",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Electoral authority",
-    "page": "Government of Nauru",
-    "url": "ministry-16-electoral-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "National social insurance authority",
-    "page": "Government of Nauru",
-    "url": "ministry-17-national-social-insurance-authority.html",
-    "verified": "2026-09-01"
-  },
-  {
-    "label": "Digital government authority",
-    "page": "Government of Nauru",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-14-department-of-media-and-information.html",
     "verified": "2026-09-01"
   }
 ]

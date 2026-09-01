@@ -38,94 +38,69 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Prime Minister’s Office",
+      "ministry-01-prime-minister-s-office.html",
       "VU-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance and Economic Management",
+      "ministry-02-ministry-of-finance-and-economic-management.html",
       "VU-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs, International Cooperation and External Trade",
+      "ministry-03-ministry-of-foreign-affairs-international-cooperation-and-ex.html",
       "VU-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Internal Affairs",
+      "ministry-04-ministry-of-internal-affairs.html",
       "VU-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Justice and Community Services",
+      "ministry-05-ministry-of-justice-and-community-services.html",
       "VU-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education and Training",
+      "ministry-06-ministry-of-education-and-training.html",
       "VU-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Health",
+      "ministry-07-ministry-of-health.html",
       "VU-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Agriculture, Livestock, Forestry, Fisheries and Biosecurity",
+      "ministry-08-ministry-of-agriculture-livestock-forestry-fisheries-and-bio.html",
       "VU-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Climate Change Adaptation, Meteorology, Geo-Hazards, Environment, Energy and Disaster Management",
+      "ministry-09-ministry-of-climate-change-adaptation-meteorology-geo-hazard.html",
       "VU-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Infrastructure and Public Utilities",
+      "ministry-10-ministry-of-infrastructure-and-public-utilities.html",
       "VU-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Lands and Natural Resources",
+      "ministry-11-ministry-of-lands-and-natural-resources.html",
       "VU-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Tourism, Trade, Commerce and Ni-Vanuatu Business",
+      "ministry-12-ministry-of-tourism-trade-commerce-and-ni-vanuatu-business.html",
       "VU-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Youth and Sports Development",
+      "ministry-13-ministry-of-youth-and-sports-development.html",
       "VU-13"
-    ],
-    [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
-      "VU-14"
-    ],
-    [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
-      "VU-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "VU-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "VU-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "VU-18"
     ]
   ]
 };

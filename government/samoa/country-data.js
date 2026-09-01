@@ -38,94 +38,79 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Ministry of the Prime Minister and Cabinet",
+      "ministry-01-ministry-of-the-prime-minister-and-cabinet.html",
       "WS-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance",
+      "ministry-02-ministry-of-finance.html",
       "WS-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs and Trade",
+      "ministry-03-ministry-of-foreign-affairs-and-trade.html",
       "WS-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Justice and Courts Administration",
+      "ministry-04-ministry-of-justice-and-courts-administration.html",
       "WS-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Police, Prisons and Corrections",
+      "ministry-05-ministry-of-police-prisons-and-corrections.html",
       "WS-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Education and Culture",
+      "ministry-06-ministry-of-education-and-culture.html",
       "WS-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Health",
+      "ministry-07-ministry-of-health.html",
       "WS-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Agriculture and Fisheries",
+      "ministry-08-ministry-of-agriculture-and-fisheries.html",
       "WS-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Natural Resources and Environment",
+      "ministry-09-ministry-of-natural-resources-and-environment.html",
       "WS-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Works, Transport and Infrastructure",
+      "ministry-10-ministry-of-works-transport-and-infrastructure.html",
       "WS-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Commerce, Industry and Labour",
+      "ministry-11-ministry-of-commerce-industry-and-labour.html",
       "WS-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Communications and Information Technology",
+      "ministry-12-ministry-of-communications-and-information-technology.html",
       "WS-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Women, Community and Social Development",
+      "ministry-13-ministry-of-women-community-and-social-development.html",
       "WS-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Public Enterprises",
+      "ministry-14-ministry-of-public-enterprises.html",
       "WS-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry for Revenue",
+      "ministry-15-ministry-for-revenue.html",
       "WS-15"
-    ],
-    [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
-      "WS-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "WS-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "WS-18"
     ]
   ]
 };

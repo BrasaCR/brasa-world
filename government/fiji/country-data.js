@@ -38,94 +38,104 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Office of the Prime Minister",
+      "ministry-01-office-of-the-prime-minister.html",
       "FJ-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Ministry of Finance, Strategic Planning, National Development and Statistics",
+      "ministry-02-ministry-of-finance-strategic-planning-national-development-.html",
       "FJ-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Ministry of Foreign Affairs",
+      "ministry-03-ministry-of-foreign-affairs.html",
       "FJ-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Ministry of Home Affairs and Immigration",
+      "ministry-04-ministry-of-home-affairs-and-immigration.html",
       "FJ-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Ministry of Defence and Veteran Affairs",
+      "ministry-05-ministry-of-defence-and-veteran-affairs.html",
       "FJ-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Ministry of Justice",
+      "ministry-06-ministry-of-justice.html",
       "FJ-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Ministry of Education",
+      "ministry-07-ministry-of-education.html",
       "FJ-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Ministry of Health and Medical Services",
+      "ministry-08-ministry-of-health-and-medical-services.html",
       "FJ-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Ministry of Agriculture and Waterways",
+      "ministry-09-ministry-of-agriculture-and-waterways.html",
       "FJ-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Ministry of Fisheries and Forestry",
+      "ministry-10-ministry-of-fisheries-and-forestry.html",
       "FJ-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Ministry of Public Works, Meteorological Services and Transport",
+      "ministry-11-ministry-of-public-works-meteorological-services-and-transpo.html",
       "FJ-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Ministry of Housing and Local Government",
+      "ministry-12-ministry-of-housing-and-local-government.html",
       "FJ-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Ministry of Trade, Cooperatives, Micro, Small and Medium Enterprises and Communications",
+      "ministry-13-ministry-of-trade-cooperatives-micro-small-and-medium-enterp.html",
       "FJ-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Ministry of Tourism and Civil Aviation",
+      "ministry-14-ministry-of-tourism-and-civil-aviation.html",
       "FJ-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Ministry of Lands and Mineral Resources",
+      "ministry-15-ministry-of-lands-and-mineral-resources.html",
       "FJ-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Ministry of Environment and Climate Change",
+      "ministry-16-ministry-of-environment-and-climate-change.html",
       "FJ-16"
     ],
     [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
+      "Ministry of Women, Children and Social Protection",
+      "ministry-17-ministry-of-women-children-and-social-protection.html",
       "FJ-17"
     ],
     [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
+      "Ministry of Youth and Sports",
+      "ministry-18-ministry-of-youth-and-sports.html",
       "FJ-18"
+    ],
+    [
+      "Ministry of Employment, Productivity and Workplace Relations",
+      "ministry-19-ministry-of-employment-productivity-and-workplace-relations.html",
+      "FJ-19"
+    ],
+    [
+      "Ministry of iTaukei Affairs and Culture",
+      "ministry-20-ministry-of-itaukei-affairs-and-culture.html",
+      "FJ-20"
     ]
   ]
 };

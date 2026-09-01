@@ -36,111 +36,213 @@
     "verified": "2026-09-01"
   },
   {
-    "label": "Health ministry or national health authority",
+    "label": "Ministry of Housing and Urban Development",
     "page": "Government of New Zealand",
-    "url": "ministry-01-health-ministry-or-national-health-authority.html",
+    "url": "ministry-01-ministry-of-housing-and-urban-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Environment and climate authority",
+    "label": "Ministry of Regulation",
     "page": "Government of New Zealand",
-    "url": "ministry-02-environment-and-climate-authority.html",
+    "url": "ministry-02-ministry-of-regulation.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Education ministry or national education authority",
+    "label": "Ministry of Māori Development",
     "page": "Government of New Zealand",
-    "url": "ministry-03-education-ministry-or-national-education-authority.html",
+    "url": "ministry-03-ministry-of-maori-development.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Finance and treasury authority",
+    "label": "Ministry of Defence",
     "page": "Government of New Zealand",
-    "url": "ministry-04-finance-and-treasury-authority.html",
+    "url": "ministry-04-ministry-of-defence.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Transport and infrastructure authority",
+    "label": "Land Information New Zealand",
     "page": "Government of New Zealand",
-    "url": "ministry-05-transport-and-infrastructure-authority.html",
+    "url": "ministry-05-land-information-new-zealand.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Interior and public safety authority",
+    "label": "Statistics New Zealand",
     "page": "Government of New Zealand",
-    "url": "ministry-06-interior-and-public-safety-authority.html",
+    "url": "ministry-06-statistics-new-zealand.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Agriculture and rural affairs authority",
+    "label": "New Zealand Ministry of Works",
     "page": "Government of New Zealand",
-    "url": "ministry-07-agriculture-and-rural-affairs-authority.html",
+    "url": "ministry-07-new-zealand-ministry-of-works.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Labour and employment authority",
+    "label": "Te Kawa Mataaho Public Service Commission",
     "page": "Government of New Zealand",
-    "url": "ministry-08-labour-and-employment-authority.html",
+    "url": "ministry-08-te-kawa-mataaho-public-service-commission.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Housing and spatial planning authority",
+    "label": "Oranga Tamariki—Ministry for Children",
     "page": "Government of New Zealand",
-    "url": "ministry-09-housing-and-spatial-planning-authority.html",
+    "url": "ministry-09-oranga-tamariki-ministry-for-children.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Culture and heritage authority",
+    "label": "Education Review Office",
     "page": "Government of New Zealand",
-    "url": "ministry-10-culture-and-heritage-authority.html",
+    "url": "ministry-10-education-review-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Justice authority",
+    "label": "Ministry for Pacific Peoples",
     "page": "Government of New Zealand",
-    "url": "ministry-11-justice-authority.html",
+    "url": "ministry-11-ministry-for-pacific-peoples.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Economy, commerce and industry authority",
+    "label": "Ministry of Education of New Zealand",
     "page": "Government of New Zealand",
-    "url": "ministry-12-economy-commerce-and-industry-authority.html",
+    "url": "ministry-12-ministry-of-education-of-new-zealand.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Foreign affairs authority",
+    "label": "Ministry for Culture and Heritage",
     "page": "Government of New Zealand",
-    "url": "ministry-13-foreign-affairs-authority.html",
+    "url": "ministry-13-ministry-for-culture-and-heritage.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Social protection authority",
+    "label": "Ministry for the Environment",
     "page": "Government of New Zealand",
-    "url": "ministry-14-social-protection-authority.html",
+    "url": "ministry-14-ministry-for-the-environment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Head of government and cabinet",
+    "label": "Ministry of Business, Innovation and Employment",
     "page": "Government of New Zealand",
-    "url": "ministry-15-head-of-government-and-cabinet.html",
+    "url": "ministry-15-ministry-of-business-innovation-and-employment.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Electoral authority",
+    "label": "Ministry of Foreign Affairs and Trade of New Zealand",
     "page": "Government of New Zealand",
-    "url": "ministry-16-electoral-authority.html",
+    "url": "ministry-16-ministry-of-foreign-affairs-and-trade-of-new-zealand.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "National social insurance authority",
+    "label": "Serious Fraud Office",
     "page": "Government of New Zealand",
-    "url": "ministry-17-national-social-insurance-authority.html",
+    "url": "ministry-17-serious-fraud-office.html",
     "verified": "2026-09-01"
   },
   {
-    "label": "Digital government authority",
+    "label": "Ministry of Social Development",
     "page": "Government of New Zealand",
-    "url": "ministry-18-digital-government-authority.html",
+    "url": "ministry-18-ministry-of-social-development.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "New Zealand Customs Service",
+    "page": "Government of New Zealand",
+    "url": "ministry-19-new-zealand-customs-service.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "New Zealand Treasury",
+    "page": "Government of New Zealand",
+    "url": "ministry-20-new-zealand-treasury.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Conservation",
+    "page": "Government of New Zealand",
+    "url": "ministry-21-department-of-conservation.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Crown Law Office",
+    "page": "Government of New Zealand",
+    "url": "ministry-22-crown-law-office.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Government Communications Security Bureau",
+    "page": "Government of New Zealand",
+    "url": "ministry-23-government-communications-security-bureau.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for Primary Industries",
+    "page": "Government of New Zealand",
+    "url": "ministry-24-ministry-for-primary-industries.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "New Zealand Security Intelligence Service",
+    "page": "Government of New Zealand",
+    "url": "ministry-25-new-zealand-security-intelligence-service.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "New Zealand Department of Agriculture",
+    "page": "Government of New Zealand",
+    "url": "ministry-26-new-zealand-department-of-agriculture.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Inland Revenue",
+    "page": "Government of New Zealand",
+    "url": "ministry-27-inland-revenue.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Justice",
+    "page": "Government of New Zealand",
+    "url": "ministry-28-ministry-of-justice.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Corrections",
+    "page": "Government of New Zealand",
+    "url": "ministry-29-department-of-corrections.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of Internal Affairs",
+    "page": "Government of New Zealand",
+    "url": "ministry-30-department-of-internal-affairs.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Department of the Prime Minister and Cabinet",
+    "page": "Government of New Zealand",
+    "url": "ministry-31-department-of-the-prime-minister-and-cabinet.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry for Women",
+    "page": "Government of New Zealand",
+    "url": "ministry-32-ministry-for-women.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Health",
+    "page": "Government of New Zealand",
+    "url": "ministry-33-ministry-of-health.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Fisheries New Zealand",
+    "page": "Government of New Zealand",
+    "url": "ministry-34-fisheries-new-zealand.html",
+    "verified": "2026-09-01"
+  },
+  {
+    "label": "Ministry of Transport",
+    "page": "Government of New Zealand",
+    "url": "ministry-35-ministry-of-transport.html",
     "verified": "2026-09-01"
   }
 ]

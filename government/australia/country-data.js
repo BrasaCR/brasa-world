@@ -38,94 +38,84 @@ window.BRASA_COUNTRY = {
   ],
   "ministries": [
     [
-      "Health ministry or national health authority",
-      "ministry-01-health-ministry-or-national-health-authority.html",
+      "Department of the Prime Minister and Cabinet",
+      "ministry-01-department-of-the-prime-minister-and-cabinet.html",
       "AU-1"
     ],
     [
-      "Environment and climate authority",
-      "ministry-02-environment-and-climate-authority.html",
+      "Attorney-General’s Department",
+      "ministry-02-attorney-general-s-department.html",
       "AU-2"
     ],
     [
-      "Education ministry or national education authority",
-      "ministry-03-education-ministry-or-national-education-authority.html",
+      "Department of Agriculture, Fisheries and Forestry",
+      "ministry-03-department-of-agriculture-fisheries-and-forestry.html",
       "AU-3"
     ],
     [
-      "Finance and treasury authority",
-      "ministry-04-finance-and-treasury-authority.html",
+      "Department of Climate Change, Energy, the Environment and Water",
+      "ministry-04-department-of-climate-change-energy-the-environment-and-wate.html",
       "AU-4"
     ],
     [
-      "Transport and infrastructure authority",
-      "ministry-05-transport-and-infrastructure-authority.html",
+      "Department of Defence",
+      "ministry-05-department-of-defence.html",
       "AU-5"
     ],
     [
-      "Interior and public safety authority",
-      "ministry-06-interior-and-public-safety-authority.html",
+      "Department of Education",
+      "ministry-06-department-of-education.html",
       "AU-6"
     ],
     [
-      "Agriculture and rural affairs authority",
-      "ministry-07-agriculture-and-rural-affairs-authority.html",
+      "Department of Employment and Workplace Relations",
+      "ministry-07-department-of-employment-and-workplace-relations.html",
       "AU-7"
     ],
     [
-      "Labour and employment authority",
-      "ministry-08-labour-and-employment-authority.html",
+      "Department of Finance",
+      "ministry-08-department-of-finance.html",
       "AU-8"
     ],
     [
-      "Housing and spatial planning authority",
-      "ministry-09-housing-and-spatial-planning-authority.html",
+      "Department of Foreign Affairs and Trade",
+      "ministry-09-department-of-foreign-affairs-and-trade.html",
       "AU-9"
     ],
     [
-      "Culture and heritage authority",
-      "ministry-10-culture-and-heritage-authority.html",
+      "Department of Health, Disability and Ageing",
+      "ministry-10-department-of-health-disability-and-ageing.html",
       "AU-10"
     ],
     [
-      "Justice authority",
-      "ministry-11-justice-authority.html",
+      "Department of Home Affairs",
+      "ministry-11-department-of-home-affairs.html",
       "AU-11"
     ],
     [
-      "Economy, commerce and industry authority",
-      "ministry-12-economy-commerce-and-industry-authority.html",
+      "Department of Industry, Science and Resources",
+      "ministry-12-department-of-industry-science-and-resources.html",
       "AU-12"
     ],
     [
-      "Foreign affairs authority",
-      "ministry-13-foreign-affairs-authority.html",
+      "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "ministry-13-department-of-infrastructure-transport-regional-development-.html",
       "AU-13"
     ],
     [
-      "Social protection authority",
-      "ministry-14-social-protection-authority.html",
+      "Department of Social Services",
+      "ministry-14-department-of-social-services.html",
       "AU-14"
     ],
     [
-      "Head of government and cabinet",
-      "ministry-15-head-of-government-and-cabinet.html",
+      "Department of the Treasury",
+      "ministry-15-department-of-the-treasury.html",
       "AU-15"
     ],
     [
-      "Electoral authority",
-      "ministry-16-electoral-authority.html",
+      "Department of Veterans’ Affairs",
+      "ministry-16-department-of-veterans-affairs.html",
       "AU-16"
-    ],
-    [
-      "National social insurance authority",
-      "ministry-17-national-social-insurance-authority.html",
-      "AU-17"
-    ],
-    [
-      "Digital government authority",
-      "ministry-18-digital-government-authority.html",
-      "AU-18"
     ]
   ]
 };
