@@ -60,6 +60,12 @@ test('streams anonymous business pathways through its service binding', async ()
   assert.equal(upstream.pathname, '/api/v1/opportunities'); assert.equal(upstream.searchParams.get('capability'), 'customer-service');
   assert.equal(upstream.searchParams.get('countryCode'), 'CR'); assert.deepEqual(await response.json(), { data: [{ id: 'retail' }] });
 });
+test('streams validated multilingual business experiences', async () => {
+  let upstream;
+  const businessEnv = { ...env, BUSINESS: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: { id: 'retail', type: 'business-experience', locale: 'es' } }), { headers: { 'cache-control': 'public, max-age=300' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/retail?locale=es'), businessEnv); assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*'); assert.equal(upstream.pathname, '/api/v1/experiences/retail'); assert.equal(upstream.searchParams.get('locale'), 'es');
+  const invalid = await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/..%2Fprivate'), businessEnv); assert.equal(invalid.status, 400);
+});
 
 test('streams anonymous civic discovery through the Government binding', async () => {
   let upstream;

@@ -1,3 +1,5 @@
+import { consumerAccess } from './consumer-access.js';
+
 const ALLOWED_ORIGINS = new Set([
   'https://brasa.world',
   'https://brasa.education',
@@ -56,6 +58,17 @@ async function businessPathways(request, env, url) {
   return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...headers, 'content-type': 'application/json; charset=utf-8' } });
 }
 
+async function businessExperience(request, env, url) {
+  if (!env.BUSINESS) return json({ error: 'business_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+  let id; try { id = decodeURIComponent(url.pathname.slice('/v1/business/experiences/'.length)); } catch { return json({ error: 'invalid_experience_id' }, 400, PUBLIC_API_CORS); }
+  const locale = url.searchParams.get('locale') || 'en';
+  if (!/^[a-z0-9-]{1,80}$/.test(id)) return json({ error: 'invalid_experience_id' }, 400, PUBLIC_API_CORS);
+  if (!/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/.test(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
+  const upstreamUrl = new URL(`/api/v1/experiences/${encodeURIComponent(id)}`, 'https://brasa-business'); upstreamUrl.searchParams.set('locale', locale);
+  const upstream = await env.BUSINESS.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
+  return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...PUBLIC_API_CORS, 'content-type': 'application/json; charset=utf-8', 'cache-control': upstream.headers.get('cache-control') || 'no-store' } });
+}
+
 async function governmentServices(request, env, url) {
   if (!env.GOVERNMENT) return json({ error: 'government_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
   const upstreamUrl = new URL('/api/v1/services', 'https://brasa-government');
@@ -83,12 +96,18 @@ function shieldResponse(response, requestId) {
 
 function routeName(pathname) {
   if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
+  if (pathname.startsWith('/v1/business/experiences/')) return '/v1/business/experiences/:id';
   return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/government/services', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
 }
 
 async function handleRequest(request, env, consumer) {
     const url = new URL(request.url);
     if (request.url.length > 4096 || [...url.searchParams].length > 16) return json({ error: 'request_too_large' }, 414, { 'cache-control': 'no-store' });
+    if (url.pathname.startsWith('/v1/business/experiences/')) {
+      if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
+      if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
+      try { return await businessExperience(request, env, url); } catch (error) { console.error(JSON.stringify({ event: 'business_experience_gateway_error', message: error instanceof Error ? error.message : 'unknown' })); return json({ error: 'business_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' }); }
+    }
     if (url.pathname === '/v1/government/services') {
       if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
       if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
@@ -169,4 +188,3 @@ export default {
     }
   }
 };
-import { consumerAccess } from './consumer-access.js';

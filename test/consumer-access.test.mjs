@@ -22,6 +22,7 @@ test('hashes API keys, enforces scopes, and reports quota headers', async () => 
   const response = await worker.fetch(new Request('https://api.brasa.world/v1/content', { headers: { authorization: `Bearer ${key}` } }), { ASSETS: assets, API_DB });
   assert.equal(response.status, 200); assert.equal(response.headers.get('ratelimit-limit'), '10'); assert.equal(response.headers.get('ratelimit-remaining'), '9'); assert.notEqual(API_DB.calls[0].values[0], key); assert.equal(API_DB.calls[0].values[0].length, 64);
   const denied = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=school-a', { headers: { authorization: `Bearer ${key}` } }), { ASSETS: assets, API_DB: database() }); assert.equal(denied.status, 403);
+  const businessDenied = await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/retail', { headers: { authorization: `Bearer ${key}` } }), { ASSETS: assets, API_DB: database() }); assert.equal(businessDenied.status, 403);
 });
 
 test('rejects revoked keys and daily quota exhaustion', async () => {

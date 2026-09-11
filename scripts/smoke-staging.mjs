@@ -6,6 +6,7 @@ const checks = [
   ['/health', (body) => body.ok === true && body.service === 'brasa-content'],
   [`/v1/education/lessons?schoolId=${encodeURIComponent(schoolId)}&locale=en`, (body) => Array.isArray(body.data)],
   ['/v1/business/pathways?limit=1', (body) => Array.isArray(body.data) && body.meta],
+  ['/v1/business/experiences/retail?locale=es', (body) => body.data?.type === 'business-experience' && body.data?.locale === 'es' && body.data?.steps?.length === 4],
   ['/v1/government/services?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta]
 ];
 for (const [path, validate] of checks) {

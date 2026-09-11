@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: BRASA Public API
-  version: 1.2.0
+  version: 1.3.0
   description: Public discovery remains credential-free. Registered server-side consumers may send a bearer API key for scoped quota accounting. No endpoint in this document accepts GovID or private learner data.
 servers:
   - url: https://api.brasa.world
@@ -63,6 +63,18 @@ paths:
       responses:
         '200': { description: Anonymous business pathways; not job or income promises }
         '400': { $ref: '#/components/responses/InvalidRequest' }
+  /v1/business/experiences/{id}:
+    get:
+      operationId: getBusinessExperience
+      summary: Get a multilingual action experience for one business pathway
+      description: Informational, offline-eligible steps; never a job, income, financing, certification, or eligibility promise.
+      parameters:
+        - { name: id, in: path, required: true, schema: { type: string, pattern: '^[a-z0-9-]{1,80}$' } }
+        - { name: locale, in: query, schema: { type: string, default: en } }
+      responses:
+        '200': { description: Four-step business pathway experience }
+        '400': { $ref: '#/components/responses/InvalidRequest' }
+        '404': { $ref: '#/components/responses/NotFound' }
   /v1/government/services:
     get:
       operationId: findGovernmentServices

@@ -20,7 +20,7 @@ export async function consumerAccess(request, env) {
   const keyHash = hex(await crypto.subtle.digest('SHA-256', encoder.encode(key)));
   const consumer = await env.API_DB.prepare("SELECT id, name, scopes_json AS scopesJson, daily_limit AS dailyLimit FROM api_consumers WHERE key_hash = ? AND status = 'active' AND revoked_at IS NULL").bind(keyHash).first();
   if (!consumer) return fail(401, 'invalid_api_key');
-  const pathname = new URL(request.url).pathname, requiredScope = pathname.startsWith('/v1/content/') ? 'content:read' : scopeByRoute.get(pathname);
+  const pathname = new URL(request.url).pathname, requiredScope = pathname.startsWith('/v1/content/') ? 'content:read' : pathname.startsWith('/v1/business/experiences/') ? 'business:read' : scopeByRoute.get(pathname);
   const scopes = JSON.parse(consumer.scopesJson);
   if (!Array.isArray(scopes) || !scopes.every((scope) => typeof scope === 'string')) return fail(503, 'consumer_registry_invalid');
   if (requiredScope && !scopes.includes(requiredScope)) return fail(403, 'api_scope_required');

@@ -4,10 +4,10 @@ Verified on 2026-09-11 in Cloudflare account `badb6e9082c963c6cf48d311d067ca47`.
 
 | Component | Staging resource | Verification |
 | --- | --- | --- |
-| World gateway | `brasa-content-api-staging` (`1ade3fae-afa0-46d3-9aff-5db9b69a4b5c`) | Domain routes, lesson discovery, and consumer access lifecycle passed |
+| World gateway | `brasa-content-api-staging` (`4d7edc94-97d3-4c27-8bdd-cd03bc7ef00c`) | Domain routes, consumer access, and Phase 6 Business experiences passed |
 | Education | `brasa-education-staging` (`2d5f9d73-758c-493d-acb5-3f921f248aaa`) | Phase 4 controls and Phase 5 bounded lesson discovery passed |
 | Identity | `brasa-identity-staging` (`989af24d-e73d-4bc2-8e82-9c62f34b9ec8`) | Emergency actor-session revocation plus protected invitation and session lifecycle passed; broader GovID routes return 404 |
-| Business | `brasa-business-staging` | Health and opportunity discovery passed |
+| Business | `brasa-business-staging` (`52a59d3f-9152-4994-8e05-1dcfd7ba407c`) | Health, opportunity discovery, and multilingual action experience passed |
 | Government | `brasa-government-staging` | Health and civic-service discovery passed; restricted metadata returned 404 |
 | Education database | `brasa-education-staging` / `0ebb424e-50d8-48a4-9964-1cfec6d60994` | Additive school migration applied; non-personal smoke fixture seeded |
 | Identity database | `brasa-identity-staging` / `df39f4ff-b3e8-4dcc-acbd-932995200322` | Hashed one-time invitations plus rotating, expiring, revocable Education sessions |
@@ -34,3 +34,5 @@ Phase 5 consumer access retains anonymous public discovery and adds optional ser
 Consumer operations now run through a local Cloudflare-authenticated tool rather than an internet-facing administration route. Live staging verification passed create 200, suspension rejection 401, resume 200, old-key rejection after rotation 401, replacement access 200, and final revocation rejection 401. Six content-free lifecycle audit events were verified before the temporary consumers, usage, and audit rows were removed; post-check counts were zero. No plaintext key was emitted by the automated lifecycle check.
 
 The `api.brasa.world` production gate is now executable and intentionally closed. It checks the production environment, database and version identifiers, custom-domain and policy approvals, service and alert verification, and a named pilot consumer. The release runbook covers independent provisioning, Time Travel recovery, gateway rollback, incident thresholds, and a 24-hour canary. No production resource or DNS record was created while establishing this gate.
+
+Phase 6 now exposes a four-step Business experience owned by the Business service and routed through World at `/v1/business/experiences/{id}`. Live checks passed the original opportunity route and the Spanish Retail experience through both the Business Worker and the World service binding; the response contains existing BRASA guide links and explicit no-promise language. OpenAPI is version 1.3.0, and the matching credential-free widget renders remote fields only through text nodes. The first gateway check briefly observed a 404 during post-deploy binding propagation; direct comparison then returned 200 on both paths, and the complete repeated smoke gate passed.
