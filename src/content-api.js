@@ -29,10 +29,13 @@ async function educationLessons(request, env, url) {
   if (!env.EDUCATION) return json({ error: 'education_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
   const schoolId = url.searchParams.get('schoolId') || '';
   const locale = url.searchParams.get('locale') || 'en';
+  const page = url.searchParams.get('page'), limit = url.searchParams.get('limit'), query = url.searchParams.get('q'), offline = url.searchParams.get('offlineEligible');
   if (!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(schoolId)) return json({ error: 'invalid_school_id' }, 400, PUBLIC_API_CORS);
   if (!/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/.test(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
+  if ((page !== null && (!/^\d+$/.test(page) || Number(page) < 1 || Number(page) > 100000)) || (limit !== null && (!/^\d+$/.test(limit) || Number(limit) < 1 || Number(limit) > 50)) || (query !== null && query.trim().length > 100) || (offline !== null && !['true', 'false'].includes(offline))) return json({ error: 'invalid_lesson_query' }, 400, PUBLIC_API_CORS);
   const upstreamUrl = new URL(`/api/v1/schools/${encodeURIComponent(schoolId)}/lessons`, 'https://brasa-education');
   upstreamUrl.searchParams.set('locale', locale);
+  for (const field of ['page', 'limit', 'q', 'offlineEligible']) { const value = url.searchParams.get(field); if (value !== null) upstreamUrl.searchParams.set(field, value.trim()); }
   const upstream = await env.EDUCATION.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
   const headers = { ...PUBLIC_API_CORS, 'cache-control': upstream.headers.get('cache-control') || 'no-store' };
   const etag = upstream.headers.get('etag');

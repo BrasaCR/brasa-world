@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: BRASA Public API
-  version: 1.0.0
+  version: 1.1.0
   description: Public, credential-free discovery contracts. No endpoint in this document accepts GovID or private learner data.
 servers:
   - url: https://api.brasa.world
@@ -35,8 +35,12 @@ paths:
       parameters:
         - { name: schoolId, in: query, required: true, schema: { type: string, pattern: '^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$' } }
         - { name: locale, in: query, schema: { type: string, default: en } }
+        - { name: q, in: query, description: Case-insensitive title or summary search, schema: { type: string, maxLength: 100 } }
+        - { name: offlineEligible, in: query, schema: { type: boolean } }
+        - { name: page, in: query, schema: { type: integer, minimum: 1, maximum: 100000, default: 1 } }
+        - { name: limit, in: query, schema: { type: integer, minimum: 1, maximum: 50, default: 25 } }
       responses:
-        '200': { description: Published lessons only }
+        '200': { description: Published lessons only, with page, limit, and hasMore metadata, content: { application/json: { schema: { $ref: '#/components/schemas/ListResponse' } } } }
         '400': { $ref: '#/components/responses/InvalidRequest' }
         '503': { $ref: '#/components/responses/Unavailable' }
   /v1/business/pathways:

@@ -44,6 +44,13 @@ test('validates lesson queries before calling Education', async () => {
   const response = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=../../private'), educationEnv);
   assert.equal(response.status, 400); assert.equal(calls, 0);
 });
+test('forwards bounded lesson discovery filters', async () => {
+  let upstream;
+  const educationEnv = { ...env, EDUCATION: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [], meta: { page: 2, limit: 10, hasMore: false } })); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=school-a&locale=es&q=agua&offlineEligible=true&page=2&limit=10'), educationEnv);
+  assert.equal(response.status, 200); assert.equal(upstream.searchParams.get('q'), 'agua'); assert.equal(upstream.searchParams.get('offlineEligible'), 'true'); assert.equal(upstream.searchParams.get('page'), '2'); assert.equal(upstream.searchParams.get('limit'), '10');
+  const invalid = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=school-a&limit=51'), educationEnv); assert.equal(invalid.status, 400);
+});
 
 test('streams anonymous business pathways through its service binding', async () => {
   let upstream;

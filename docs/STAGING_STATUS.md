@@ -4,8 +4,8 @@ Verified on 2026-09-11 in Cloudflare account `badb6e9082c963c6cf48d311d067ca47`.
 
 | Component | Staging resource | Verification |
 | --- | --- | --- |
-| World gateway | `brasa-content-api-staging` | Health and all three bound domain routes passed |
-| Education | `brasa-education-staging` (`f6ba31d6-6c52-4bd8-89c6-9ef4ebad84ae`) | Phase 4 governance, audit/export, lifecycle controls, onboarding, settings, administration, and lessons passed |
+| World gateway | `brasa-content-api-staging` (`0a012e9f-8d3c-4b8e-8506-8587f5d18077`) | Health, all three bound domain routes, and Phase 5 lesson discovery passed |
+| Education | `brasa-education-staging` (`2d5f9d73-758c-493d-acb5-3f921f248aaa`) | Phase 4 controls and Phase 5 bounded lesson discovery passed |
 | Identity | `brasa-identity-staging` (`989af24d-e73d-4bc2-8e82-9c62f34b9ec8`) | Emergency actor-session revocation plus protected invitation and session lifecycle passed; broader GovID routes return 404 |
 | Business | `brasa-business-staging` | Health and opportunity discovery passed |
 | Government | `brasa-government-staging` | Health and civic-service discovery passed; restricted metadata returned 404 |
@@ -25,3 +25,5 @@ School-owned settings passed live verification with a temporary administrator: s
 Platform lifecycle controls passed against a temporary tenant: suspension 200, immediate rejection of the old administrator session 401, reactivation 200, ownership recovery 200, replacement invitation exchange 201, and replacement administrator access 200. Migration `0004_school_suspension.sql` preserves pre-suspension membership state. Temporary tenant data and sessions were removed or revoked afterward, and no raw credentials were printed or persisted locally.
 
 Phase 4 governance verification used a temporary administrator: exchange 201, private audit history 200, and bounded school export 200 with schema `brasa.school-export.v1`. The export contained no access-token material. Recovery now requires exact school confirmation plus a bounded reason and retains an optional evidence reference in the audit record. Temporary access was revoked after verification.
+
+Phase 5 lesson discovery now supports locale, bounded title/summary search, offline-eligibility filtering, and page/limit pagination while preserving the existing `data` response field. Live gateway verification returned 200 with one matching record and `{ page: 1, limit: 1, hasMore: false }`; an Education service smoke check returned the seeded published lesson. OpenAPI is version 1.1.0, and the credential-free lesson widget can request filters and progressively load additional pages without inserting API content as HTML.
