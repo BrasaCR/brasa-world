@@ -7,6 +7,9 @@ const checks = [
   [`/v1/education/lessons?schoolId=${encodeURIComponent(schoolId)}&locale=en`, (body) => Array.isArray(body.data)],
   ['/v1/business/pathways?limit=1', (body) => Array.isArray(body.data) && body.meta],
   ['/v1/business/experiences/retail?locale=es', (body) => body.data?.type === 'business-experience' && body.data?.locale === 'es' && body.data?.steps?.length === 4],
+  ['/v1/business/experiences/retail/learning?locale=es', (body) => Array.isArray(body.data) && body.meta?.progressTracked === false],
+  ['/v1/business/experiences/retail/preparation?countryCode=CR', (body) => Array.isArray(body.data) && body.meta?.informationalOnly === true && body.meta?.legalAdvice === false],
+  ['/v1/business/experiences/retail/providers?countryCode=CR&limit=6', (body) => Array.isArray(body.data) && body.meta?.verifiedOnly === true],
   ['/v1/business/providers?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta?.notice],
   ['/v1/government/services?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta]
 ];

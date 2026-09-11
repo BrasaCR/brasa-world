@@ -43,6 +43,8 @@ The `BUSINESS` service binding exposes public category pathways through `GET /v1
 
 The same binding exposes verified, unexpired marketplace provider records through read-only `GET /v1/business/providers`. World forwards public filters and streams the Business response; it does not duplicate marketplace storage or expose reporting, moderation, publishing, or renewal operations. Those write and governance responsibilities remain owned by Business.
 
+World also exposes the complete pathway composition as three read-only subresources: `GET /v1/business/experiences/{id}/learning`, `/preparation`, and `/providers`. Each response remains owned and assembled by Business through its Education, Government, and provider-registry boundaries. World validates only the public route inputs, streams responses through the `BUSINESS` service binding, applies the shared `business:read` scope, and stores no learner, civic, or marketplace records.
+
 ## Phase 7 Government-powered experiences
 
 The `GOVERNMENT` service binding exposes anonymous civic navigation through `GET /v1/government/services`. Results retain source URLs and review status, are labeled informational, and never determine eligibility. Unsupported countries fail closed. The widget accepts only visitor-entered query/category/country inputs, omits credentials, restricts outbound protocols, and sends no GovID activity or political profile.

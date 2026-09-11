@@ -67,6 +67,25 @@ test('streams validated multilingual business experiences', async () => {
   const invalid = await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/..%2Fprivate'), businessEnv); assert.equal(invalid.status, 400);
 });
 
+test('routes the complete business experience through bounded subresources', async () => {
+  const requests = [];
+  const businessEnv = { ...env, BUSINESS: { fetch: async (request) => { const upstream = new URL(request.url); requests.push(upstream); return Response.json({ data: [], meta: { informationalOnly: true } }, { headers: { 'cache-control': 'public, max-age=120' } }); } } };
+  const cases = [
+    ['/v1/business/experiences/retail/learning?locale=es-CR', '/api/v1/experiences/retail/learning', { locale: 'es-CR' }],
+    ['/v1/business/experiences/retail/preparation?countryCode=cr', '/api/v1/experiences/retail/preparation', { countryCode: 'CR' }],
+    ['/v1/business/experiences/retail/providers?countryCode=CR&limit=6', '/api/v1/experiences/retail/providers', { countryCode: 'CR', limit: '6' }]
+  ];
+  for (const [path, pathname, query] of cases) {
+    const response = await worker.fetch(new Request(`https://api.brasa.world${path}`), businessEnv);
+    assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*'); assert.match(response.headers.get('cache-control'), /^public/);
+    const upstream = requests.at(-1); assert.equal(upstream.pathname, pathname);
+    for (const [name, value] of Object.entries(query)) assert.equal(upstream.searchParams.get(name), value);
+  }
+  assert.equal((await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/retail/preparation?countryCode=COSTA-RICA'), businessEnv)).status, 400);
+  assert.equal((await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/retail/providers?limit=21'), businessEnv)).status, 400);
+  assert.equal((await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/retail/private'), businessEnv)).status, 404);
+});
+
 test('streams only the public provider registry and forwards bounded filters', async () => {
   let upstream;
   const businessEnv = { ...env, BUSINESS: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [], meta: { notice: 'Verified records are informational listings, not endorsements or guarantees.' } }), { headers: { 'cache-control': 'public, max-age=120' } }); } } };

@@ -70,11 +70,19 @@ async function businessProviders(request, env, url) {
 
 async function businessExperience(request, env, url) {
   if (!env.BUSINESS) return json({ error: 'business_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
-  let id; try { id = decodeURIComponent(url.pathname.slice('/v1/business/experiences/'.length)); } catch { return json({ error: 'invalid_experience_id' }, 400, PUBLIC_API_CORS); }
-  const locale = url.searchParams.get('locale') || 'en';
+  const route = url.pathname.match(/^\/v1\/business\/experiences\/([^/]+)(?:\/(learning|preparation|providers))?$/);
+  if (!route) return json({ error: 'not_found' }, 404, PUBLIC_API_CORS);
+  let id; try { id = decodeURIComponent(route[1]); } catch { return json({ error: 'invalid_experience_id' }, 400, PUBLIC_API_CORS); }
+  const resource = route[2] || null, locale = url.searchParams.get('locale') || 'en', countryCode = url.searchParams.get('countryCode'), limit = url.searchParams.get('limit');
   if (!/^[a-z0-9-]{1,80}$/.test(id)) return json({ error: 'invalid_experience_id' }, 400, PUBLIC_API_CORS);
-  if (!/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/.test(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
-  const upstreamUrl = new URL(`/api/v1/experiences/${encodeURIComponent(id)}`, 'https://brasa-business'); upstreamUrl.searchParams.set('locale', locale);
+  if ((!resource || resource === 'learning') && !/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/.test(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
+  if (countryCode !== null && !/^[A-Za-z]{2}$/.test(countryCode)) return json({ error: 'invalid_country_code' }, 400, PUBLIC_API_CORS);
+  if (limit !== null && (resource !== 'providers' || !/^\d+$/.test(limit) || Number(limit) < 1 || Number(limit) > 20)) return json({ error: 'invalid_limit' }, 400, PUBLIC_API_CORS);
+  const suffix = resource ? `/${resource}` : '';
+  const upstreamUrl = new URL(`/api/v1/experiences/${encodeURIComponent(id)}${suffix}`, 'https://brasa-business');
+  if (!resource || resource === 'learning') upstreamUrl.searchParams.set('locale', locale);
+  if (countryCode !== null && ['preparation', 'providers'].includes(resource)) upstreamUrl.searchParams.set('countryCode', countryCode.toUpperCase());
+  if (limit !== null && resource === 'providers') upstreamUrl.searchParams.set('limit', limit);
   const upstream = await env.BUSINESS.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
   return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...PUBLIC_API_CORS, 'content-type': 'application/json; charset=utf-8', 'cache-control': upstream.headers.get('cache-control') || 'no-store' } });
 }
@@ -106,7 +114,8 @@ function shieldResponse(response, requestId) {
 
 function routeName(pathname) {
   if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
-  if (pathname.startsWith('/v1/business/experiences/')) return '/v1/business/experiences/:id';
+  const experience = pathname.match(/^\/v1\/business\/experiences\/[^/]+(?:\/(learning|preparation|providers))?$/);
+  if (experience) return `/v1/business/experiences/:id${experience[1] ? `/${experience[1]}` : ''}`;
   return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/business/providers', '/v1/government/services', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
 }
 
