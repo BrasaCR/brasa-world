@@ -27,6 +27,8 @@ Phase 5 begins with the public Education Lessons API at `/v1/education/lessons` 
 Phase 6 adds anonymous, visitor-selected business pathways at `/v1/business/pathways` and the `<brasa-business-pathways>` widget without sharing learner data.
 
 Phase 7 adds anonymous, sourced civic discovery at `/v1/government/services` and the informational `<brasa-government-services>` widget without sharing GovID activity or political data.
+
+The consolidated public contract is published as `/openapi.yaml`; deployment order and rollback boundaries are documented in `docs/RELEASE.md`.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world
