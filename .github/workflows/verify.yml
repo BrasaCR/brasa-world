@@ -19,5 +19,5 @@ jobs:
       - run: npm ci --ignore-scripts
       - run: npm test
       - run: npm run build
-      - run: npx wrangler deploy --config wrangler.content-api.jsonc --dry-run --outdir .worker-dry-run
+      - run: npm run package:staging
       - run: npm audit --audit-level=high

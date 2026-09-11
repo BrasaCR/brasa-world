@@ -18,3 +18,7 @@ No database migration or route change should be performed implicitly. Back up D1
 ## Rollback boundary
 
 Each Worker deploy is independently reversible. Roll back the central gateway first if an integration fails; bound Education, Business, and Government sites continue operating directly. Database migrations in this milestone are additive and must not be rolled back by dropping tables.
+
+## Staging gate
+
+The manual `Deploy staging` workflow is the only automated deployment entry point. It always selects Wrangler's named `staging` environment, whose gateway binds only to `*-staging` services and a separate analytics dataset. Configure protected GitHub environment secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and `STAGING_BASE_URL`; optionally set `STAGING_SCHOOL_ID` to a published preview tenant. The workflow tests and packages before deployment, then exercises health, Education, Business, and Government through the public gateway. It contains no production deployment command.

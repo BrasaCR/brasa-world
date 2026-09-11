@@ -16,5 +16,17 @@
     "enabled": true,
     "logs": { "head_sampling_rate": 1 },
     "traces": { "enabled": true, "head_sampling_rate": 0.05 }
+  },
+  "env": {
+    "staging": {
+      "name": "brasa-content-api-staging",
+      "workers_dev": true,
+      "services": [
+        { "binding": "EDUCATION", "service": "brasa-education-staging" },
+        { "binding": "BUSINESS", "service": "brasa-business-staging" },
+        { "binding": "GOVERNMENT", "service": "brasa-government-staging" }
+      ],
+      "analytics_engine_datasets": [{ "binding": "ANALYTICS", "dataset": "brasa_content_api_staging" }]
+    }
   }
 }
