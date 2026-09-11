@@ -1,0 +1,31 @@
+{
+  "contractVersion": "1.0.0",
+  "owner": "brasa-world",
+  "privacy": {
+    "anonymousOnly": true,
+    "forbiddenFields": ["govId", "actorId", "studentId", "learnerId", "membership", "progress", "grade", "credential", "eligibility", "political", "activity"]
+  },
+  "operations": {
+    "listPublishedLessons": {
+      "publicPath": "/v1/education/lessons",
+      "servicePath": "/api/v1/schools/:schoolId/lessons",
+      "methods": ["GET", "HEAD", "OPTIONS"],
+      "requiredQuery": ["schoolId"],
+      "response": { "requiredRoot": ["data"], "requiredItem": ["id", "schoolId", "slug", "locale", "title", "body", "accessibility", "offlineEligible"] }
+    },
+    "listBusinessPathways": {
+      "publicPath": "/v1/business/pathways",
+      "servicePath": "/api/v1/opportunities",
+      "methods": ["GET", "HEAD", "OPTIONS"],
+      "requiredQuery": [],
+      "response": { "requiredRoot": ["data", "meta"], "requiredItem": ["schemaVersion", "id", "type", "title", "url", "capabilities", "countryCodes", "status"] }
+    },
+    "findGovernmentServices": {
+      "publicPath": "/v1/government/services",
+      "servicePath": "/api/v1/services",
+      "methods": ["GET", "HEAD", "OPTIONS"],
+      "requiredQuery": [],
+      "response": { "requiredRoot": ["data", "meta"], "requiredItem": ["schemaVersion", "id", "countryCode", "label", "category", "sourceUrl", "sourceStatus", "informationalOnly"] }
+    }
+  }
+}

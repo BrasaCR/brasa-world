@@ -48,3 +48,6 @@ The `GOVERNMENT` service binding exposes anonymous civic navigation through `GET
 ## BRASA Shield foundation v0.1
 
 The gateway applies one security-response policy to every route, rejects oversized request surfaces before binding calls, and correlates failures using Cloudflare Ray IDs or cryptographically random request IDs. Security events contain route templates, status, severity, method, and duration only—never IP addresses, raw queries, cookies, authorization values, GovID, or phone data. Operational threat, incident, and recovery documents live in `security/`. Production rate limits remain a Cloudflare WAF deployment requirement because an in-isolate counter would be neither global nor reliable.
+## Cross-repository public contracts
+
+`contracts/public-api.v1.json` is the canonical compatibility boundary for anonymous Education, Business, and Government discovery. Domain repositories carry a scoped consumer snapshot and validate real handler output against it. Any removal or type/meaning change to a required field requires a new major contract; additive optional fields may remain within v1. World verifies that the OpenAPI operation IDs and gateway responses remain aligned with the canonical contract.
