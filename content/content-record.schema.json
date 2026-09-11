@@ -4,7 +4,7 @@
   "title": "BRASA content record",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schemaVersion", "id", "url", "title", "locale", "kind", "pillar", "offline"],
+  "required": ["schemaVersion", "id", "url", "title", "locale", "kind", "pillar", "offline", "translation", "source"],
   "properties": {
     "schemaVersion": { "const": 1 },
     "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
@@ -16,6 +16,26 @@
     "kind": { "enum": ["homepage", "country", "human-capability", "public-service", "open-ledger", "explainer", "other"] },
     "pillar": { "enum": ["world", "human-capability", "civic-knowledge", "marketplace", "brasa-open", "brasa-shield"] },
     "capabilities": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9-]+$" }, "uniqueItems": true },
-    "offline": { "type": "boolean" }
+    "offline": { "type": "boolean" },
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sourceLocale", "status", "reviewedAt"],
+      "properties": {
+        "sourceLocale": { "type": "string" },
+        "status": { "enum": ["source", "draft", "reviewed"] },
+        "reviewedAt": { "type": ["string", "null"], "format": "date-time" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["repository", "path", "sha256"],
+      "properties": {
+        "repository": { "const": "brasa-world" },
+        "path": { "type": "string" },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+      }
+    }
   }
 }

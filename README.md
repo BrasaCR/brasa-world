@@ -15,6 +15,8 @@
 ## Worldwide content engine
 
 Existing pages are indexed without changing their design or URLs. Run `npm run content:build` to generate `content/catalog.json`, `npm run content:check` to validate the sources, and `npm test` to verify country coverage and product boundaries. Architecture and privacy rules are in [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
+
+The optional read-only API uses `wrangler.content-api.toml` and exposes `GET /v1/content`, `GET /v1/content/:id`, and `GET /health`. It is intentionally separate from the ledger Worker and has no identity or database binding.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world

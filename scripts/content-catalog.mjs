@@ -1,5 +1,6 @@
 import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 
 const IGNORED_HTML = new Set(['template.html', 'offline.html']);
 const isContentHtml = (name) => name.endsWith('.html') && !IGNORED_HTML.has(name) && !name.startsWith('google');
@@ -50,7 +51,13 @@ export async function buildCatalog(root) {
     const locale = match(html, /<html[^>]+lang=["']([^"']+)["']/i) || 'en';
     const countryCode = match(html, /<meta\s+name=["']brasa-country["']\s+content=["']([A-Za-z]{2})["'][^>]*>/i).toUpperCase() || null;
     const classification = classify(relativePath);
-    const record = { schemaVersion: 1, id: stableId(relativePath), url: canonicalUrl(relativePath), title, description, locale, countryCode, ...classification, capabilities: [], offline: true };
+    const sourcePath = relativePath.split(path.sep).join('/');
+    const record = {
+      schemaVersion: 1, id: stableId(relativePath), url: canonicalUrl(relativePath), title, description, locale, countryCode,
+      ...classification, capabilities: [], offline: true,
+      translation: { sourceLocale: 'en', status: locale === 'en' ? 'source' : 'draft', reviewedAt: null },
+      source: { repository: 'brasa-world', path: sourcePath, sha256: createHash('sha256').update(html).digest('hex') }
+    };
     if (!title) warnings.push(`${relativePath}: missing title`);
     if (!description) warnings.push(`${relativePath}: missing description`);
     if (classification.kind === 'country' && !countryCode) warnings.push(`${relativePath}: missing brasa-country metadata`);

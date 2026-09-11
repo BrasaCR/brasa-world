@@ -19,4 +19,8 @@ The catalog carries no user data, authorization token, learning history, transac
 
 ## Next executable milestone
 
-Phase 1.1 should add reviewed source metadata and translation provenance, then expose the catalog from a small read-only Worker endpoint. That endpoint can power search, country discovery, and Phase 2 sitemap generation without coupling public content to GovID or Education.
+Phase 1.1 adds source paths and SHA-256 change detection, explicit translation state, and a read-only Worker endpoint. `GET /v1/content` supports bounded pagination and exact filters for country, locale, pillar, and kind; `GET /v1/content/:id` returns one record. Only approved BRASA origins receive cross-origin access. Public results are cacheable, errors are not, and optional analytics contain only endpoint/count/version aggregates.
+
+## Next executable milestone
+
+Phase 2 should generate canonical URLs, sitemap partitions, and structured metadata from the catalog, while converting the 208 missing legacy descriptions into a reviewed editorial queue rather than inventing or bulk-publishing copy.
