@@ -1,87 +1,56 @@
-/* =============================================================================
-   BRASA service worker
-   -----------------------------------------------------------------------------
-   Goal: never serve a stale page. Pages are ALWAYS fetched from the network
-   first, so the index and every right page show the latest deploy immediately.
-   Cache is only a fallback for offline. Live ledger data is never touched.
+const CACHE_VERSION = 'brasa-app-v3-2026-09-11';
+const STATIC_CACHE = `${CACHE_VERSION}-static`;
+const PAGE_CACHE = `${CACHE_VERSION}-pages`;
+const OFFLINE_URL = '/offline.html';
+const PRECACHE = ['/', OFFLINE_URL, '/manifest.webmanifest', '/favicon.ico', '/icons/icon-192.png', '/icons/icon-512.png'];
+const PRIVATE_PATHS = [/^\/v1\//, /^\/api\//, /^\/(health|verify|session|credential|keys|credentials|rights|module|payments|destinations|thread|campuses|officers|recover|metrics|report|ussd|whatsapp)(\/|$)/];
 
-   To force an update across all visitors, bump CACHE_VERSION below.
-   ============================================================================ */
-
-const CACHE_VERSION = 'brasa-v2-2026-06-17';
-const OFFLINE_URL   = '/offline.html';
-
-// Same-origin static assets that are safe to cache and rarely change.
-const PRECACHE = [OFFLINE_URL, '/favicon.ico', '/apple-touch-icon.png'];
-
-/* ---- install: cache the offline shell, take over immediately ---- */
+function isPrivateRequest(request, url) {
+  return request.headers.has('authorization') || request.headers.has('cookie') || PRIVATE_PATHS.some((pattern) => pattern.test(url.pathname));
+}
+function cacheable(response) {
+  const control = response.headers.get('cache-control') || '';
+  return response.ok && !response.headers.has('set-cookie') && !/private|no-store/i.test(control);
+}
 self.addEventListener('install', (event) => {
-  event.waitUntil((async () => {
-    const cache = await caches.open(CACHE_VERSION);
-    // Cache each item individually so one missing file can't break install.
-    await Promise.all(PRECACHE.map((url) =>
-      cache.add(new Request(url, { cache: 'reload' })).catch(() => {})
-    ));
-    await self.skipWaiting();
-  })());
+  event.waitUntil(caches.open(STATIC_CACHE).then((cache) => Promise.all(PRECACHE.map((url) => cache.add(new Request(url, { cache: 'reload' })).catch(() => null)))));
 });
-
-/* ---- activate: delete every old cache, claim open pages ---- */
 self.addEventListener('activate', (event) => {
   event.waitUntil((async () => {
-    const keys = await caches.keys();
-    await Promise.all(keys.filter((k) => k !== CACHE_VERSION).map((k) => caches.delete(k)));
+    const current = new Set([STATIC_CACHE, PAGE_CACHE]);
+    await Promise.all((await caches.keys()).filter((key) => key.startsWith('brasa-') && !current.has(key)).map((key) => caches.delete(key)));
     await self.clients.claim();
   })());
 });
-
-/* ---- fetch strategy ----
-   - Cross-origin (R2 images, fonts, the ledger API): not intercepted — straight
-     to the network, so live data stays live and nothing is cached stale.
-   - Page navigations (HTML): NETWORK-FIRST. Fresh page every time online;
-     last-seen page when offline; offline.html if never seen.
-   - Same-origin static files: stale-while-revalidate (fast, self-updating).   */
 self.addEventListener('fetch', (event) => {
-  const req = event.request;
-  if (req.method !== 'GET') return;
-
-  const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return; // leave cross-origin alone
-
-  const isNavigation =
-    req.mode === 'navigate' ||
-    (req.headers.get('accept') || '').includes('text/html');
-
-  if (isNavigation) {
+  const request = event.request;
+  if (request.method !== 'GET') return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin || isPrivateRequest(request, url)) return;
+  const navigation = request.mode === 'navigate' || (request.headers.get('accept') || '').includes('text/html');
+  if (navigation) {
     event.respondWith((async () => {
       try {
-        const fresh = await fetch(req);                 // always try the network first
-        const cache = await caches.open(CACHE_VERSION);
-        cache.put(req, fresh.clone()).catch(() => {});  // keep a copy for offline
-        return fresh;
+        const response = await fetch(request);
+        if (cacheable(response)) await (await caches.open(PAGE_CACHE)).put(request, response.clone());
+        return response;
       } catch {
-        const cached = await caches.match(req);
-        return cached || (await caches.match(OFFLINE_URL)) ||
-          new Response('Offline', { status: 503, headers: { 'content-type': 'text/plain' } });
+        return (await caches.match(request)) || (await caches.match(OFFLINE_URL)) || new Response('BRASA is offline.', { status: 503, headers: { 'content-type': 'text/plain; charset=utf-8' } });
       }
     })());
     return;
   }
-
-  // Same-origin static asset: serve cache fast, refresh in the background.
+  if (!['style', 'script', 'image', 'font'].includes(request.destination)) return;
   event.respondWith((async () => {
-    const cache = await caches.open(CACHE_VERSION);
-    const cached = await cache.match(req);
-    const network = fetch(req).then((res) => {
-      if (res && res.ok) cache.put(req, res.clone()).catch(() => {});
-      return res;
+    const cached = await caches.match(request);
+    const network = fetch(request).then(async (response) => {
+      if (cacheable(response)) await (await caches.open(STATIC_CACHE)).put(request, response.clone());
+      return response;
     }).catch(() => null);
-    return cached || (await network) ||
-      new Response('', { status: 504 });
+    return cached || (await network) || new Response('', { status: 504 });
   })());
 });
-
-/* Optional: lets a page tell the worker to activate a new version on demand. */
 self.addEventListener('message', (event) => {
-  if (event.data === 'skipWaiting') self.skipWaiting();
+  if (event.data?.type === 'SKIP_WAITING') self.skipWaiting();
+  if (event.data?.type === 'CLEAR_OFFLINE_DATA') event.waitUntil(Promise.all([caches.delete(STATIC_CACHE), caches.delete(PAGE_CACHE)]));
 });

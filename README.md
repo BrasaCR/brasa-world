@@ -19,6 +19,8 @@ Existing pages are indexed without changing their design or URLs. Run `npm run c
 The optional read-only API uses `wrangler.content-api.toml` and exposes `GET /v1/content`, `GET /v1/content/:id`, and `GET /health`. It is intentionally separate from the ledger Worker and has no identity or database binding.
 
 Run `npm run build` to regenerate the content catalog, partitioned sitemaps, structured SEO metadata, and the editorial review queue. Sitemap alternates are emitted only after real localized page URLs exist; documentation translations are not presented to search engines as translated product pages.
+
+The Phase 3 PWA foundation is installed from the existing homepage. It provides an offline fallback and cached public pages while explicitly excluding authentication, identity, payments, reports, API routes, and live data.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world

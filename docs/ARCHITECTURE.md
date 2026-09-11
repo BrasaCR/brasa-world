@@ -28,3 +28,7 @@ Phase 2 should generate canonical URLs, sitemap partitions, and structured metad
 ## Phase 2 distribution foundation
 
 The SEO build produces a sitemap index with country, Human Capability, BRASA Open, and general World partitions. It also produces canonical/Open Graph/Schema.org records for later HTML injection and a source-hash-linked editorial queue. It never advertises locale routes merely because a translated README exists; `hreflang` is published only when an actual reviewed localized page is present.
+
+## Phase 3 PWA foundation
+
+The existing HTML homepage remains the application shell. Its manifest and service worker add installation, network-first offline pages, safe static-asset caching, and an accessible offline fallback without a framework dependency. Requests carrying cookies or authorization and routes for APIs, GovID, credentials, payments, reports, metrics, webhooks, and live ledgers bypass caches. Responses marked private/no-store or setting cookies are also ineligible. Updates install in the background and emit `brasa:update-ready`; the interface can choose when to activate them without interrupting a learner.
