@@ -53,3 +53,12 @@ test('streams anonymous business pathways through its service binding', async ()
   assert.equal(upstream.pathname, '/api/v1/opportunities'); assert.equal(upstream.searchParams.get('capability'), 'customer-service');
   assert.equal(upstream.searchParams.get('countryCode'), 'CR'); assert.deepEqual(await response.json(), { data: [{ id: 'retail' }] });
 });
+
+test('streams anonymous civic discovery through the Government binding', async () => {
+  let upstream;
+  const governmentEnv = { ...env, GOVERNMENT: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [{ id: 'water' }] }), { headers: { 'cache-control': 'public, max-age=300' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/government/services?q=water&countryCode=CR'), governmentEnv);
+  assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*');
+  assert.equal(upstream.pathname, '/api/v1/services'); assert.equal(upstream.searchParams.get('q'), 'water'); assert.equal(upstream.searchParams.get('countryCode'), 'CR');
+  assert.deepEqual(await response.json(), { data: [{ id: 'water' }] });
+});

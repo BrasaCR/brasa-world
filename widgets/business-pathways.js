@@ -17,7 +17,8 @@ class BrasaBusinessPathways extends HTMLElement {
       const payload = await response.json(), pathways = Array.isArray(payload.data) ? payload.data : [];
       list.replaceChildren(...pathways.map((pathway) => {
         const item = document.createElement('li'), link = document.createElement('a');
-        link.textContent = String(pathway.title || 'Business pathway'); link.href = new URL(String(pathway.url || '/'), 'https://brasa.business').href;
+        link.textContent = String(pathway.title || 'Business pathway');
+        const destination = new URL(String(pathway.url || '/'), 'https://brasa.business'); link.href = destination.protocol === 'https:' ? destination.href : 'https://brasa.business/';
         item.append(link); return item;
       }));
       status.textContent = pathways.length ? `${pathways.length} public pathway${pathways.length === 1 ? '' : 's'} available.` : 'No matching public pathways yet.';

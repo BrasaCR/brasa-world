@@ -17,3 +17,10 @@ Business pathways use the same credential-free model:
 <script type="module" src="https://api.brasa.world/widgets/business-pathways.js"></script>
 <brasa-business-pathways capability="customer-service" country-code="CR"></brasa-business-pathways>
 ```
+
+Civic discovery remains anonymous and clearly labels links as informational:
+
+```html
+<script type="module" src="https://api.brasa.world/widgets/government-services.js"></script>
+<brasa-government-services query="water" country-code="CR"></brasa-government-services>
+```
