@@ -36,3 +36,7 @@ The existing HTML homepage remains the application shell. Its manifest and servi
 ## Phase 5 Education API and widgets
 
 `api.brasa.world` reaches Education through the `EDUCATION` service binding, never a public REST hop. The first endpoint streams published lesson responses at `GET /v1/education/lessons?schoolId=&locale=` and exposes wildcard CORS because it is public, credential-free embed data. Validation occurs before the binding call; upstream errors are sanitized. The `<brasa-lessons>` web component omits credentials, escapes content through DOM text nodes, isolates styles, announces loading/error state, and requires no framework.
+
+## Phase 6 Business-powered experiences
+
+The `BUSINESS` service binding exposes public category pathways through `GET /v1/business/pathways`. Capability and country filters are visitor-selected inputs, not inferred learner data. No GovID, school membership, credential, or progress crosses the boundary. The companion widget renders safe links to BRASA Business and can be embedded independently of Education authentication.

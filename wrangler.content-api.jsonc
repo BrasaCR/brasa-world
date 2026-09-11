@@ -6,7 +6,10 @@
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
   "assets": { "directory": ".api-assets", "binding": "ASSETS", "run_worker_first": ["/v1/*", "/health"] },
-  "services": [{ "binding": "EDUCATION", "service": "brasa-education" }],
+  "services": [
+    { "binding": "EDUCATION", "service": "brasa-education" },
+    { "binding": "BUSINESS", "service": "brasa-business" }
+  ],
   "analytics_engine_datasets": [{ "binding": "ANALYTICS", "dataset": "brasa_content_api" }],
   "observability": {
     "enabled": true,

@@ -23,6 +23,8 @@ Run `npm run build` to regenerate the content catalog, partitioned sitemaps, str
 The Phase 3 PWA foundation is installed from the existing homepage. It provides an offline fallback and cached public pages while explicitly excluding authentication, identity, payments, reports, API routes, and live data.
 
 Phase 5 begins with the public Education Lessons API at `/v1/education/lessons` and the credential-free `<brasa-lessons>` widget in `widgets/`.
+
+Phase 6 adds anonymous, visitor-selected business pathways at `/v1/business/pathways` and the `<brasa-business-pathways>` widget without sharing learner data.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world

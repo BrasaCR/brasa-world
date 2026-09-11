@@ -8,4 +8,5 @@ await mkdir(path.join(output, 'widgets'), { recursive: true });
 await cp(path.join(root, 'content', 'catalog.json'), path.join(output, 'catalog.json'));
 await cp(path.join(root, 'content', 'content-record.schema.json'), path.join(output, 'content', 'content-record.schema.json'));
 await cp(path.join(root, 'widgets', 'lessons.js'), path.join(output, 'widgets', 'lessons.js'));
+await cp(path.join(root, 'widgets', 'business-pathways.js'), path.join(output, 'widgets', 'business-pathways.js'));
 console.log('Built minimal API asset bundle.');

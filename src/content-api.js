@@ -41,6 +41,18 @@ async function educationLessons(request, env, url) {
   return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...headers, 'content-type': 'application/json; charset=utf-8' } });
 }
 
+async function businessPathways(request, env, url) {
+  if (!env.BUSINESS) return json({ error: 'business_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+  const upstreamUrl = new URL('/api/v1/opportunities', 'https://brasa-business');
+  for (const field of ['capability', 'countryCode', 'limit']) {
+    const value = url.searchParams.get(field); if (value) upstreamUrl.searchParams.set(field, value);
+  }
+  const upstream = await env.BUSINESS.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
+  const headers = { ...PUBLIC_API_CORS, 'cache-control': upstream.headers.get('cache-control') || 'no-store' };
+  if (!upstream.ok) return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...headers, 'content-type': 'application/json; charset=utf-8' } });
+  return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...headers, 'content-type': 'application/json; charset=utf-8' } });
+}
+
 function positiveInteger(value, fallback, maximum) {
   if (value === null || value === '') return fallback;
   const parsed = Number(value);
@@ -50,6 +62,15 @@ function positiveInteger(value, fallback, maximum) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (url.pathname === '/v1/business/pathways') {
+      if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
+      if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
+      try { return await businessPathways(request, env, url); }
+      catch (error) {
+        console.error(JSON.stringify({ event: 'business_gateway_error', message: error instanceof Error ? error.message : 'unknown' }));
+        return json({ error: 'business_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+      }
+    }
     if (url.pathname === '/v1/education/lessons') {
       if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
       if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });

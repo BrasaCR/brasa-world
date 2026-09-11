@@ -44,3 +44,12 @@ test('validates lesson queries before calling Education', async () => {
   const response = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=../../private'), educationEnv);
   assert.equal(response.status, 400); assert.equal(calls, 0);
 });
+
+test('streams anonymous business pathways through its service binding', async () => {
+  let upstream;
+  const businessEnv = { ...env, BUSINESS: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [{ id: 'retail' }] }), { headers: { 'cache-control': 'public, max-age=300' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/business/pathways?capability=customer-service&countryCode=CR'), businessEnv);
+  assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*');
+  assert.equal(upstream.pathname, '/api/v1/opportunities'); assert.equal(upstream.searchParams.get('capability'), 'customer-service');
+  assert.equal(upstream.searchParams.get('countryCode'), 'CR'); assert.deepEqual(await response.json(), { data: [{ id: 'retail' }] });
+});
