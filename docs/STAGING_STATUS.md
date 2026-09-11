@@ -5,8 +5,8 @@ Verified on 2026-09-11 in Cloudflare account `badb6e9082c963c6cf48d311d067ca47`.
 | Component | Staging resource | Verification |
 | --- | --- | --- |
 | World gateway | `brasa-content-api-staging` | Health and all three bound domain routes passed |
-| Education | `brasa-education-staging` (`4e2a59b2-f18b-426f-b997-a487cdf1b1bb`) | School onboarding, administrator-owned presentation and language settings, tenant administration, and lesson workflow passed |
-| Identity | `brasa-identity-staging` (`7ca19123-ff29-418e-a081-f34dcb770c9b`) | Service-authenticated invitation issuance, one-time exchange, rotation, logout, and Education-only introspection passed; broader GovID routes return 404 |
+| Education | `brasa-education-staging` (`a22e6cae-0347-46e1-b7c6-b89aa4ea5a7e`) | School lifecycle controls, onboarding, administrator settings, tenant administration, and lesson workflow passed |
+| Identity | `brasa-identity-staging` (`989af24d-e73d-4bc2-8e82-9c62f34b9ec8`) | Emergency actor-session revocation plus protected invitation and session lifecycle passed; broader GovID routes return 404 |
 | Business | `brasa-business-staging` | Health and opportunity discovery passed |
 | Government | `brasa-government-staging` | Health and civic-service discovery passed; restricted metadata returned 404 |
 | Education database | `brasa-education-staging` / `0ebb424e-50d8-48a4-9964-1cfec6d60994` | Additive school migration applied; non-personal smoke fixture seeded |
@@ -21,3 +21,5 @@ The binding-authenticated invitation flow passed end to end with dynamically gen
 School onboarding now uses a separate staging-only platform-operator secret. Migration `0003_school_settings.sql` added supported locales and bounded branding settings. A temporary school onboarding returned 201, its first administrator exchange returned 201, authorized school management returned 200, and an unauthenticated onboarding request returned 401. The temporary tenant, membership, audit data, and administrator session were removed or revoked after verification; no raw operator credential or invitation was printed or persisted locally.
 
 School-owned settings passed live verification with a temporary administrator: session exchange 201, settings read 200, bounded update 200, unsafe support URL rejection 400, and restoration 200. The session and temporary membership were revoked afterward. School suspension, status changes, and ownership recovery remain excluded from administrator settings.
+
+Platform lifecycle controls passed against a temporary tenant: suspension 200, immediate rejection of the old administrator session 401, reactivation 200, ownership recovery 200, replacement invitation exchange 201, and replacement administrator access 200. Migration `0004_school_suspension.sql` preserves pre-suspension membership state. Temporary tenant data and sessions were removed or revoked afterward, and no raw credentials were printed or persisted locally.
