@@ -28,3 +28,19 @@ test('restricts CORS and rejects invalid pagination', async () => {
   assert.equal(denied.status, 400);
   assert.equal(denied.headers.get('access-control-allow-origin'), null);
 });
+
+test('streams public lessons through the Education service binding', async () => {
+  let upstream;
+  const educationEnv = { ...env, EDUCATION: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [{ id: 'lesson-1' }] }), { headers: { 'cache-control': 'public, max-age=300' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=school-a&locale=en'), educationEnv);
+  assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*');
+  assert.equal(upstream.pathname, '/api/v1/schools/school-a/lessons'); assert.equal(upstream.searchParams.get('locale'), 'en');
+  assert.deepEqual(await response.json(), { data: [{ id: 'lesson-1' }] });
+});
+
+test('validates lesson queries before calling Education', async () => {
+  let calls = 0;
+  const educationEnv = { ...env, EDUCATION: { fetch: async () => { calls += 1; return new Response('{}'); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/education/lessons?schoolId=../../private'), educationEnv);
+  assert.equal(response.status, 400); assert.equal(calls, 0);
+});

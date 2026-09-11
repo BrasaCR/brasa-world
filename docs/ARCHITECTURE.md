@@ -32,3 +32,7 @@ The SEO build produces a sitemap index with country, Human Capability, BRASA Ope
 ## Phase 3 PWA foundation
 
 The existing HTML homepage remains the application shell. Its manifest and service worker add installation, network-first offline pages, safe static-asset caching, and an accessible offline fallback without a framework dependency. Requests carrying cookies or authorization and routes for APIs, GovID, credentials, payments, reports, metrics, webhooks, and live ledgers bypass caches. Responses marked private/no-store or setting cookies are also ineligible. Updates install in the background and emit `brasa:update-ready`; the interface can choose when to activate them without interrupting a learner.
+
+## Phase 5 Education API and widgets
+
+`api.brasa.world` reaches Education through the `EDUCATION` service binding, never a public REST hop. The first endpoint streams published lesson responses at `GET /v1/education/lessons?schoolId=&locale=` and exposes wildcard CORS because it is public, credential-free embed data. Validation occurs before the binding call; upstream errors are sanitized. The `<brasa-lessons>` web component omits credentials, escapes content through DOM text nodes, isolates styles, announces loading/error state, and requires no framework.

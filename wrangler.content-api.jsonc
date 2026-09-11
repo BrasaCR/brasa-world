@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "brasa-content-api",
+  "main": "src/content-api.js",
+  "compatibility_date": "2026-09-11",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "assets": { "directory": ".api-assets", "binding": "ASSETS", "run_worker_first": ["/v1/*", "/health"] },
+  "services": [{ "binding": "EDUCATION", "service": "brasa-education" }],
+  "analytics_engine_datasets": [{ "binding": "ANALYTICS", "dataset": "brasa_content_api" }],
+  "observability": {
+    "enabled": true,
+    "logs": { "head_sampling_rate": 1 },
+    "traces": { "enabled": true, "head_sampling_rate": 0.05 }
+  }
+}

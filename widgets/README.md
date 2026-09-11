@@ -1,0 +1,12 @@
+# BRASA Lessons widget
+
+Add the module once and identify the public school tenant:
+
+```html
+<script type="module" src="https://api.brasa.world/widgets/lessons.js"></script>
+<brasa-lessons school-id="school-id" locale="en"></brasa-lessons>
+```
+
+The widget has no framework dependency, sends no credentials, uses semantic live status, preserves host-page styles through Shadow DOM, and renders API strings with `textContent`. Only published lessons returned by the public Education service appear.
+
+Run `npm run build` before packaging the API Worker; this creates a minimal ignored asset bundle containing the catalog contract and widgets.

@@ -21,6 +21,8 @@ The optional read-only API uses `wrangler.content-api.toml` and exposes `GET /v1
 Run `npm run build` to regenerate the content catalog, partitioned sitemaps, structured SEO metadata, and the editorial review queue. Sitemap alternates are emitted only after real localized page URLs exist; documentation translations are not presented to search engines as translated product pages.
 
 The Phase 3 PWA foundation is installed from the existing homepage. It provides an offline fallback and cached public pages while explicitly excluding authentication, identity, payments, reports, API routes, and live data.
+
+Phase 5 begins with the public Education Lessons API at `/v1/education/lessons` and the credential-free `<brasa-lessons>` widget in `widgets/`.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world

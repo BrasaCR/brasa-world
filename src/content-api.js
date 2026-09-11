@@ -9,6 +9,7 @@ const json = (body, status = 200, headers = {}) => new Response(JSON.stringify(b
   status,
   headers: { 'content-type': 'application/json; charset=utf-8', ...headers }
 });
+const PUBLIC_API_CORS = { 'access-control-allow-origin': '*', 'access-control-allow-methods': 'GET, HEAD, OPTIONS', 'access-control-allow-headers': 'accept' };
 
 function corsHeaders(request) {
   const origin = request.headers.get('origin');
@@ -24,6 +25,22 @@ async function loadCatalog(request, env) {
   return response.json();
 }
 
+async function educationLessons(request, env, url) {
+  if (!env.EDUCATION) return json({ error: 'education_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+  const schoolId = url.searchParams.get('schoolId') || '';
+  const locale = url.searchParams.get('locale') || 'en';
+  if (!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(schoolId)) return json({ error: 'invalid_school_id' }, 400, PUBLIC_API_CORS);
+  if (!/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/.test(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
+  const upstreamUrl = new URL(`/api/v1/schools/${encodeURIComponent(schoolId)}/lessons`, 'https://brasa-education');
+  upstreamUrl.searchParams.set('locale', locale);
+  const upstream = await env.EDUCATION.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
+  const headers = { ...PUBLIC_API_CORS, 'cache-control': upstream.headers.get('cache-control') || 'no-store' };
+  const etag = upstream.headers.get('etag');
+  if (etag) headers.etag = etag;
+  if (!upstream.ok) return json({ error: upstream.status === 404 ? 'not_found' : 'education_service_error' }, upstream.status, headers);
+  return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...headers, 'content-type': 'application/json; charset=utf-8' } });
+}
+
 function positiveInteger(value, fallback, maximum) {
   if (value === null || value === '') return fallback;
   const parsed = Number(value);
@@ -33,6 +50,15 @@ function positiveInteger(value, fallback, maximum) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (url.pathname === '/v1/education/lessons') {
+      if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
+      if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
+      try { return await educationLessons(request, env, url); }
+      catch (error) {
+        console.error(JSON.stringify({ event: 'education_gateway_error', message: error instanceof Error ? error.message : 'unknown' }));
+        return json({ error: 'education_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+      }
+    }
     const cors = corsHeaders(request);
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: { ...cors, 'access-control-allow-methods': 'GET, HEAD, OPTIONS', 'access-control-allow-headers': 'accept' } });
     if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...cors, allow: 'GET, HEAD, OPTIONS' });

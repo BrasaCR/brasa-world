@@ -1,0 +1,11 @@
+import { cp, mkdir, rm } from 'node:fs/promises';
+import path from 'node:path';
+const root = path.resolve(import.meta.dirname, '..');
+const output = path.join(root, '.api-assets');
+await rm(output, { recursive: true, force: true });
+await mkdir(path.join(output, 'content'), { recursive: true });
+await mkdir(path.join(output, 'widgets'), { recursive: true });
+await cp(path.join(root, 'content', 'catalog.json'), path.join(output, 'catalog.json'));
+await cp(path.join(root, 'content', 'content-record.schema.json'), path.join(output, 'content', 'content-record.schema.json'));
+await cp(path.join(root, 'widgets', 'lessons.js'), path.join(output, 'widgets', 'lessons.js'));
+console.log('Built minimal API asset bundle.');
