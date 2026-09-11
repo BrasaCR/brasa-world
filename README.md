@@ -11,6 +11,10 @@
 
 
 🌍 BRASA World
+
+## Worldwide content engine
+
+Existing pages are indexed without changing their design or URLs. Run `npm run content:build` to generate `content/catalog.json`, `npm run content:check` to validate the sources, and `npm test` to verify country coverage and product boundaries. Architecture and privacy rules are in [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world
