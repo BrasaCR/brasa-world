@@ -67,9 +67,25 @@ function positiveInteger(value, fallback, maximum) {
   return Number.isInteger(parsed) && parsed > 0 ? Math.min(parsed, maximum) : null;
 }
 
-export default {
-  async fetch(request, env) {
+function shieldResponse(response, requestId) {
+  const secured = new Response(response.body, response);
+  secured.headers.set('x-content-type-options', 'nosniff');
+  secured.headers.set('referrer-policy', 'no-referrer');
+  secured.headers.set('permissions-policy', 'camera=(), microphone=(), geolocation=(), payment=()');
+  secured.headers.set('content-security-policy', "default-src 'none'; frame-ancestors 'none'");
+  secured.headers.set('cross-origin-resource-policy', 'cross-origin');
+  secured.headers.set('x-request-id', requestId);
+  return secured;
+}
+
+function routeName(pathname) {
+  if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
+  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/government/services', '/health'].includes(pathname) ? pathname : 'unmatched';
+}
+
+async function handleRequest(request, env) {
     const url = new URL(request.url);
+    if (request.url.length > 4096 || [...url.searchParams].length > 16) return json({ error: 'request_too_large' }, 414, { 'cache-control': 'no-store' });
     if (url.pathname === '/v1/government/services') {
       if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
       if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
@@ -127,6 +143,20 @@ export default {
     } catch (error) {
       console.error('content_api_error', error instanceof Error ? error.message : 'unknown');
       return json({ error: 'service_unavailable' }, 503, { ...cors, 'cache-control': 'no-store' });
+    }
+}
+
+export default {
+  async fetch(request, env) {
+    const requestId = request.headers.get('cf-ray') || crypto.randomUUID();
+    const started = Date.now();
+    try {
+      const response = await handleRequest(request, env);
+      if (response.status >= 400) console.warn(JSON.stringify({ schemaVersion: 1, event: 'public_api_request', requestId, severity: response.status >= 500 ? 'high' : 'low', route: routeName(new URL(request.url).pathname), method: request.method, status: response.status, durationMs: Date.now() - started }));
+      return shieldResponse(response, requestId);
+    } catch {
+      console.error(JSON.stringify({ schemaVersion: 1, event: 'gateway_unhandled_error', requestId, severity: 'high', route: routeName(new URL(request.url).pathname), method: request.method, status: 500, durationMs: Date.now() - started }));
+      return shieldResponse(json({ error: 'internal_error' }, 500, { 'cache-control': 'no-store' }), requestId);
     }
   }
 };

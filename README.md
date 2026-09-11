@@ -29,6 +29,8 @@ Phase 6 adds anonymous, visitor-selected business pathways at `/v1/business/path
 Phase 7 adds anonymous, sourced civic discovery at `/v1/government/services` and the informational `<brasa-government-services>` widget without sharing GovID activity or political data.
 
 The consolidated public contract is published as `/openapi.yaml`; deployment order and rollback boundaries are documented in `docs/RELEASE.md`.
+
+BRASA Shield Foundation v0.1 adds uniform gateway hardening, request correlation, privacy-minimized security events, request-surface limits, a threat model, incident response, and Ember recovery checklist before preview deployment.
  
 One unified system: Education · Government · Business — built precisely for every citizen of the world.
 🌐 Website: brasa.world
