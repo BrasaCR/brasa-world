@@ -5,7 +5,7 @@ Verified on 2026-09-11 in Cloudflare account `badb6e9082c963c6cf48d311d067ca47`.
 | Component | Staging resource | Verification |
 | --- | --- | --- |
 | World gateway | `brasa-content-api-staging` | Health and all three bound domain routes passed |
-| Education | `brasa-education-staging` (`a22e6cae-0347-46e1-b7c6-b89aa4ea5a7e`) | School lifecycle controls, onboarding, administrator settings, tenant administration, and lesson workflow passed |
+| Education | `brasa-education-staging` (`f6ba31d6-6c52-4bd8-89c6-9ef4ebad84ae`) | Phase 4 governance, audit/export, lifecycle controls, onboarding, settings, administration, and lessons passed |
 | Identity | `brasa-identity-staging` (`989af24d-e73d-4bc2-8e82-9c62f34b9ec8`) | Emergency actor-session revocation plus protected invitation and session lifecycle passed; broader GovID routes return 404 |
 | Business | `brasa-business-staging` | Health and opportunity discovery passed |
 | Government | `brasa-government-staging` | Health and civic-service discovery passed; restricted metadata returned 404 |
@@ -23,3 +23,5 @@ School onboarding now uses a separate staging-only platform-operator secret. Mig
 School-owned settings passed live verification with a temporary administrator: session exchange 201, settings read 200, bounded update 200, unsafe support URL rejection 400, and restoration 200. The session and temporary membership were revoked afterward. School suspension, status changes, and ownership recovery remain excluded from administrator settings.
 
 Platform lifecycle controls passed against a temporary tenant: suspension 200, immediate rejection of the old administrator session 401, reactivation 200, ownership recovery 200, replacement invitation exchange 201, and replacement administrator access 200. Migration `0004_school_suspension.sql` preserves pre-suspension membership state. Temporary tenant data and sessions were removed or revoked afterward, and no raw credentials were printed or persisted locally.
+
+Phase 4 governance verification used a temporary administrator: exchange 201, private audit history 200, and bounded school export 200 with schema `brasa.school-export.v1`. The export contained no access-token material. Recovery now requires exact school confirmation plus a bounded reason and retains an optional evidence reference in the audit record. Temporary access was revoked after verification.
