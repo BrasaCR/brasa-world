@@ -11,7 +11,8 @@ const checks = [
   ['/v1/business/experiences/retail/preparation?countryCode=CR', (body) => Array.isArray(body.data) && body.meta?.informationalOnly === true && body.meta?.legalAdvice === false],
   ['/v1/business/experiences/retail/providers?countryCode=CR&limit=6', (body) => Array.isArray(body.data) && body.meta?.verifiedOnly === true],
   ['/v1/business/providers?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta?.notice],
-  ['/v1/government/services?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta]
+  ['/v1/government/services?countryCode=CR&limit=1', (body) => Array.isArray(body.data) && body.meta],
+  ['/v1/government/experiences/service-navigator?topic=water&locale=es&countryCode=CR', (body) => body.data?.type === 'government-experience' && body.data?.boundaries?.eligibilityDecision === false && body.data?.boundaries?.personalDataRequested === false]
 ];
 for (const [path, validate] of checks) {
   const response = await fetch(`${baseUrl}${path}`, { headers: { accept: 'application/json' }, signal: AbortSignal.timeout(10000) });

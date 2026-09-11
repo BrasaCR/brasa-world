@@ -4,11 +4,11 @@ Verified on 2026-09-11 in Cloudflare account `badb6e9082c963c6cf48d311d067ca47`.
 
 | Component | Staging resource | Verification |
 | --- | --- | --- |
-| World gateway | `brasa-content-api-staging` (`8508f244-e74a-4f4c-9942-49193f846caf`) | Domain routes, consumer access, and complete Business Learn → Prepare → Connect composition passed |
+| World gateway | `brasa-content-api-staging` (`a350aab5-0b3d-4b03-950b-1fb31ec8e80d`) | Domain routes, consumer access, complete Business composition, and the first Government-powered experience passed |
 | Education | `brasa-education-staging` (`2d5f9d73-758c-493d-acb5-3f921f248aaa`) | Phase 4 controls and Phase 5 bounded lesson discovery passed |
 | Identity | `brasa-identity-staging` (`989af24d-e73d-4bc2-8e82-9c62f34b9ec8`) | Emergency actor-session revocation plus protected invitation and session lifecycle passed; broader GovID routes return 404 |
 | Business | `brasa-business-staging` (`a67ae38d-73b0-4ed0-a74c-d9b574ad468c`) | Health, multilingual experiences, BRASA Open learning, Government wayfinding, and governed provider matching passed |
-| Government | `brasa-government-staging` | Health and civic-service discovery passed; restricted metadata returned 404 |
+| Government | `brasa-government-staging` (`c0cdb741-35b2-441d-bfeb-b7fbc0b94332`) | Health, civic-service discovery, and the bilingual anonymous service navigator passed |
 | Education database | `brasa-education-staging` / `0ebb424e-50d8-48a4-9964-1cfec6d60994` | Additive school migration applied; non-personal smoke fixture seeded |
 | Identity database | `brasa-identity-staging` / `df39f4ff-b3e8-4dcc-acbd-932995200322` | Hashed one-time invitations plus rotating, expiring, revocable Education sessions |
 | API consumer database | `brasa-api-staging` / `d4e42dc0-2eec-4e9e-a216-1418f02ef355` | Hashed keys, scopes, status/revocation state, and UTC-day aggregate quotas |
@@ -40,3 +40,5 @@ Phase 6 now exposes a four-step Business experience owned by the Business servic
 Phase 6 provider discovery is now routed through World at read-only `/v1/business/providers`, using the Business service binding rather than duplicating marketplace data. The gateway forwards bounded category, capability, country, and limit filters, applies the existing `business:read` consumer boundary, and deliberately exposes no provider-report or operator-write route. OpenAPI is version 1.4.0. Live staging returned 200 with an empty array and the non-endorsement notice; the Business staging database remained at zero providers and zero reports.
 
 Phase 6 composition is now complete through the World gateway. Read-only `/v1/business/experiences/{id}/learning`, `/preparation`, and `/providers` routes stream their Business-owned responses through the existing service binding and `business:read` boundary. World validates locale, country, and result limits but stores no learner, civic, or provider data. OpenAPI is version 1.5.0. The full staging smoke gate returned 200 for the Spanish Retail experience, its published BRASA Open lesson, Costa Rica government wayfinding with explicit informational/legal boundaries, and current matched provider records. No production Worker or DNS record was changed.
+
+Phase 7 now has its first Government-owned experience. `/service-navigator.html` provides an accessible English/Spanish flow, and `/api/v1/experiences/service-navigator` accepts only six curated topics rather than free-text personal narratives. The World gateway exposes it at `/v1/government/experiences/service-navigator`, validates its bounded inputs before the service binding, and applies `government:read`. Both layers explicitly report that results are informational, unreviewed catalog sources—not an official service, legal advice, or an eligibility decision. OpenAPI is version 1.6.0, and the complete cross-service staging smoke gate passed. Production and DNS remain unchanged.

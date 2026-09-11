@@ -49,6 +49,8 @@ World also exposes the complete pathway composition as three read-only subresour
 
 The `GOVERNMENT` service binding exposes anonymous civic navigation through `GET /v1/government/services`. Results retain source URLs and review status, are labeled informational, and never determine eligibility. Unsupported countries fail closed. The widget accepts only visitor-entered query/category/country inputs, omits credentials, restricts outbound protocols, and sends no GovID activity or political profile.
 
+The first guided Government experience is routed at `GET /v1/government/experiences/service-navigator`. It accepts only six curated service topics, English or Spanish, Costa Rica, and a bounded result limit. Government owns and composes the guidance and catalog matches; World streams the response through the `GOVERNMENT` binding and applies `government:read`. No personal narrative, identity, application, location history, legal conclusion, or eligibility decision enters the flow.
+
 ## BRASA Shield foundation v0.1
 
 The gateway applies one security-response policy to every route, rejects oversized request surfaces before binding calls, and correlates failures using Cloudflare Ray IDs or cryptographically random request IDs. Security events contain route templates, status, severity, method, and duration only—never IP addresses, raw queries, cookies, authorization values, GovID, or phone data. Operational threat, incident, and recovery documents live in `security/`. Production rate limits remain a Cloudflare WAF deployment requirement because an in-isolate counter would be neither global nor reliable.

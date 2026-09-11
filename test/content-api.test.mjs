@@ -104,3 +104,14 @@ test('streams anonymous civic discovery through the Government binding', async (
   assert.equal(upstream.pathname, '/api/v1/services'); assert.equal(upstream.searchParams.get('q'), 'water'); assert.equal(upstream.searchParams.get('countryCode'), 'CR');
   assert.deepEqual(await response.json(), { data: [{ id: 'water' }] });
 });
+
+test('streams the anonymous service navigator through Government ownership', async () => {
+  let upstream, calls = 0;
+  const governmentEnv = { ...env, GOVERNMENT: { fetch: async (request) => { calls += 1; upstream = new URL(request.url); return Response.json({ data: { type: 'government-experience', boundaries: { eligibilityDecision: false } } }, { headers: { 'cache-control': 'public, max-age=300' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/government/experiences/service-navigator?topic=health&locale=es&countryCode=CR&limit=6'), governmentEnv);
+  assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*'); assert.match(response.headers.get('cache-control'), /^public/);
+  assert.equal(upstream.pathname, '/api/v1/experiences/service-navigator');
+  for (const [name, value] of [['topic','health'],['locale','es'],['countryCode','CR'],['limit','6']]) assert.equal(upstream.searchParams.get(name), value);
+  assert.equal((await worker.fetch(new Request('https://api.brasa.world/v1/government/experiences/service-navigator?topic=personal-story'), governmentEnv)).status, 400); assert.equal(calls, 1);
+  const denied = await worker.fetch(new Request('https://api.brasa.world/v1/government/experiences/service-navigator', { method: 'POST' }), governmentEnv); assert.equal(denied.status, 405);
+});

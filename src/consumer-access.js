@@ -4,6 +4,7 @@ const scopeByRoute = new Map([
   ['/v1/business/pathways', 'business:read'],
   ['/v1/business/providers', 'business:read'],
   ['/v1/government/services', 'government:read'],
+  ['/v1/government/experiences/service-navigator', 'government:read'],
   ['/v1/content', 'content:read']
 ]);
 

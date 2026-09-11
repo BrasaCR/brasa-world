@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: BRASA Public API
-  version: 1.5.0
+  version: 1.6.0
   description: Public discovery remains credential-free. Registered server-side consumers may send a bearer API key for scoped quota accounting. No endpoint in this document accepts GovID or private learner data.
 servers:
   - url: https://api.brasa.world
@@ -139,6 +139,20 @@ paths:
       responses:
         '200': { description: Anonymous informational links }
         '400': { $ref: '#/components/responses/InvalidRequest' }
+  /v1/government/experiences/service-navigator:
+    get:
+      operationId: getGovernmentServiceNavigator
+      summary: Get anonymous, guided public-service wayfinding
+      description: Accepts only curated service topics. Results preserve source-review status and provide neither legal advice nor eligibility decisions.
+      parameters:
+        - { name: topic, in: query, schema: { type: string, enum: [water, health, education, business, transport, housing], default: water } }
+        - { name: locale, in: query, schema: { type: string, enum: [en, es], default: en } }
+        - { name: countryCode, in: query, schema: { type: string, enum: [CR], default: CR } }
+        - { name: limit, in: query, schema: { type: integer, minimum: 1, maximum: 12, default: 8 } }
+      responses:
+        '200': { description: Four guidance steps and bounded possible catalog matches }
+        '400': { $ref: '#/components/responses/InvalidRequest' }
+        '503': { $ref: '#/components/responses/Unavailable' }
 components:
   securitySchemes:
     ApiKey:

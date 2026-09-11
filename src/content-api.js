@@ -95,6 +95,19 @@ async function governmentServices(request, env, url) {
   return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...PUBLIC_API_CORS, 'content-type': 'application/json; charset=utf-8', 'cache-control': upstream.headers.get('cache-control') || 'no-store' } });
 }
 
+async function governmentExperience(request, env, url) {
+  if (!env.GOVERNMENT) return json({ error: 'government_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+  const topic = url.searchParams.get('topic'), locale = url.searchParams.get('locale'), countryCode = url.searchParams.get('countryCode'), limit = url.searchParams.get('limit');
+  if (topic !== null && !['water','health','education','business','transport','housing'].includes(topic)) return json({ error: 'invalid_topic' }, 400, PUBLIC_API_CORS);
+  if (locale !== null && !['en','es'].includes(locale)) return json({ error: 'invalid_locale' }, 400, PUBLIC_API_CORS);
+  if (countryCode !== null && countryCode !== 'CR') return json({ error: 'country_not_available' }, 400, PUBLIC_API_CORS);
+  if (limit !== null && (!/^\d+$/.test(limit) || Number(limit) < 1 || Number(limit) > 12)) return json({ error: 'invalid_limit' }, 400, PUBLIC_API_CORS);
+  const upstreamUrl = new URL('/api/v1/experiences/service-navigator', 'https://brasa-government');
+  for (const field of ['topic', 'locale', 'countryCode', 'limit']) { const value = url.searchParams.get(field); if (value !== null) upstreamUrl.searchParams.set(field, value.trim()); }
+  const upstream = await env.GOVERNMENT.fetch(new Request(upstreamUrl, { method: request.method, headers: { accept: 'application/json' } }));
+  return new Response(request.method === 'HEAD' ? null : upstream.body, { status: upstream.status, headers: { ...PUBLIC_API_CORS, 'content-type': 'application/json; charset=utf-8', 'cache-control': upstream.headers.get('cache-control') || 'no-store' } });
+}
+
 function positiveInteger(value, fallback, maximum) {
   if (value === null || value === '') return fallback;
   const parsed = Number(value);
@@ -116,7 +129,7 @@ function routeName(pathname) {
   if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
   const experience = pathname.match(/^\/v1\/business\/experiences\/[^/]+(?:\/(learning|preparation|providers))?$/);
   if (experience) return `/v1/business/experiences/:id${experience[1] ? `/${experience[1]}` : ''}`;
-  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/business/providers', '/v1/government/services', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
+  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/business/providers', '/v1/government/services', '/v1/government/experiences/service-navigator', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
 }
 
 async function handleRequest(request, env, consumer) {
@@ -133,6 +146,15 @@ async function handleRequest(request, env, consumer) {
       try { return await governmentServices(request, env, url); }
       catch (error) {
         console.error(JSON.stringify({ event: 'government_gateway_error', message: error instanceof Error ? error.message : 'unknown' }));
+        return json({ error: 'government_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
+      }
+    }
+    if (url.pathname === '/v1/government/experiences/service-navigator') {
+      if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
+      if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });
+      try { return await governmentExperience(request, env, url); }
+      catch (error) {
+        console.error(JSON.stringify({ event: 'government_experience_gateway_error', message: error instanceof Error ? error.message : 'unknown' }));
         return json({ error: 'government_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
       }
     }
