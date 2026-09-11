@@ -21,6 +21,9 @@
     "staging": {
       "name": "brasa-content-api-staging",
       "workers_dev": true,
+      "d1_databases": [
+        { "binding": "API_DB", "database_name": "brasa-api-staging", "database_id": "d4e42dc0-2eec-4e9e-a216-1418f02ef355", "migrations_dir": "migrations-api" }
+      ],
       "services": [
         { "binding": "EDUCATION", "service": "brasa-education-staging" },
         { "binding": "BUSINESS", "service": "brasa-business-staging" },

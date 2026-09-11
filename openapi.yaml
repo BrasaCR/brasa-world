@@ -1,11 +1,20 @@
 openapi: 3.1.0
 info:
   title: BRASA Public API
-  version: 1.1.0
-  description: Public, credential-free discovery contracts. No endpoint in this document accepts GovID or private learner data.
+  version: 1.2.0
+  description: Public discovery remains credential-free. Registered server-side consumers may send a bearer API key for scoped quota accounting. No endpoint in this document accepts GovID or private learner data.
 servers:
   - url: https://api.brasa.world
 paths:
+  /v1/account/usage:
+    get:
+      operationId: getConsumerUsage
+      summary: Read the authenticated consumer's current daily usage
+      security: [{ ApiKey: [] }]
+      responses:
+        '200': { description: Consumer scopes and current UTC-day request count }
+        '401': { description: Missing, invalid, or revoked API key }
+        '429': { description: Daily consumer quota exceeded }
   /v1/content:
     get:
       operationId: listContent
@@ -68,6 +77,11 @@ paths:
         '200': { description: Anonymous informational links }
         '400': { $ref: '#/components/responses/InvalidRequest' }
 components:
+  securitySchemes:
+    ApiKey:
+      type: http
+      scheme: bearer
+      bearerFormat: BRASA API key
   schemas:
     ListResponse:
       type: object

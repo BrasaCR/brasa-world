@@ -83,10 +83,10 @@ function shieldResponse(response, requestId) {
 
 function routeName(pathname) {
   if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
-  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/government/services', '/health'].includes(pathname) ? pathname : 'unmatched';
+  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/government/services', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
 }
 
-async function handleRequest(request, env) {
+async function handleRequest(request, env, consumer) {
     const url = new URL(request.url);
     if (request.url.length > 4096 || [...url.searchParams].length > 16) return json({ error: 'request_too_large' }, 414, { 'cache-control': 'no-store' });
     if (url.pathname === '/v1/government/services') {
@@ -120,6 +120,10 @@ async function handleRequest(request, env) {
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: { ...cors, 'access-control-allow-methods': 'GET, HEAD, OPTIONS', 'access-control-allow-headers': 'accept' } });
     if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...cors, allow: 'GET, HEAD, OPTIONS' });
     if (url.pathname === '/health') return json({ ok: true, service: 'brasa-content', version: 1 }, 200, cors);
+    if (url.pathname === '/v1/account/usage') {
+      if (!consumer) return json({ error: 'api_key_required' }, 401, { 'cache-control': 'no-store' });
+      return json({ data: { consumerId: consumer.id, name: consumer.name, scopes: consumer.scopes, usageDay: consumer.usageDay, requestCount: consumer.requestCount, dailyLimit: consumer.dailyLimit } }, 200, { 'cache-control': 'no-store' });
+    }
 
     try {
       const catalog = await loadCatalog(request, env);
@@ -154,7 +158,9 @@ export default {
     const requestId = request.headers.get('cf-ray') || crypto.randomUUID();
     const started = Date.now();
     try {
-      const response = await handleRequest(request, env);
+      const access = await consumerAccess(request, env);
+      const response = access.response || await handleRequest(request, env, access.consumer);
+      for (const [name, value] of Object.entries(access.headers || {})) response.headers.set(name, value);
       if (response.status >= 400) console.warn(JSON.stringify({ schemaVersion: 1, event: 'public_api_request', requestId, severity: response.status >= 500 ? 'high' : 'low', route: routeName(new URL(request.url).pathname), method: request.method, status: response.status, durationMs: Date.now() - started }));
       return shieldResponse(response, requestId);
     } catch {
@@ -163,3 +169,4 @@ export default {
     }
   }
 };
+import { consumerAccess } from './consumer-access.js';
