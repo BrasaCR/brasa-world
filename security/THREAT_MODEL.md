@@ -23,3 +23,5 @@
 ## Explicitly prohibited automation
 
 Shield v0.1 cannot alter cryptography, delete database records, broaden tenant access, rotate master recovery credentials, modify backups, or deploy production changes autonomously. Those actions require a documented human-approved procedure.
+
+CI installs locked dependencies with lifecycle scripts disabled, runs tests/build/package validation, and blocks high-severity npm audit findings. `esbuild` and `workerd` lifecycle scripts require explicit human review before any allowlist is introduced.
