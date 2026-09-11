@@ -41,6 +41,8 @@ The existing HTML homepage remains the application shell. Its manifest and servi
 
 The `BUSINESS` service binding exposes public category pathways through `GET /v1/business/pathways`. Capability and country filters are visitor-selected inputs, not inferred learner data. No GovID, school membership, credential, or progress crosses the boundary. The companion widget renders safe links to BRASA Business and can be embedded independently of Education authentication.
 
+The same binding exposes verified, unexpired marketplace provider records through read-only `GET /v1/business/providers`. World forwards public filters and streams the Business response; it does not duplicate marketplace storage or expose reporting, moderation, publishing, or renewal operations. Those write and governance responsibilities remain owned by Business.
+
 ## Phase 7 Government-powered experiences
 
 The `GOVERNMENT` service binding exposes anonymous civic navigation through `GET /v1/government/services`. Results retain source URLs and review status, are labeled informational, and never determine eligibility. Unsupported countries fail closed. The widget accepts only visitor-entered query/category/country inputs, omits credentials, restricts outbound protocols, and sends no GovID activity or political profile.

@@ -2,6 +2,7 @@ const encoder = new TextEncoder();
 const scopeByRoute = new Map([
   ['/v1/education/lessons', 'education:read'],
   ['/v1/business/pathways', 'business:read'],
+  ['/v1/business/providers', 'business:read'],
   ['/v1/government/services', 'government:read'],
   ['/v1/content', 'content:read']
 ]);

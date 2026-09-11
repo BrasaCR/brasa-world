@@ -67,6 +67,16 @@ test('streams validated multilingual business experiences', async () => {
   const invalid = await worker.fetch(new Request('https://api.brasa.world/v1/business/experiences/..%2Fprivate'), businessEnv); assert.equal(invalid.status, 400);
 });
 
+test('streams only the public provider registry and forwards bounded filters', async () => {
+  let upstream;
+  const businessEnv = { ...env, BUSINESS: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [], meta: { notice: 'Verified records are informational listings, not endorsements or guarantees.' } }), { headers: { 'cache-control': 'public, max-age=120' } }); } } };
+  const response = await worker.fetch(new Request('https://api.brasa.world/v1/business/providers?category=retail&capability=sales&countryCode=CR&limit=10'), businessEnv);
+  assert.equal(response.status, 200); assert.equal(response.headers.get('access-control-allow-origin'), '*');
+  assert.equal(upstream.pathname, '/api/v1/providers'); assert.equal(upstream.searchParams.get('category'), 'retail'); assert.equal(upstream.searchParams.get('capability'), 'sales'); assert.equal(upstream.searchParams.get('countryCode'), 'CR'); assert.equal(upstream.searchParams.get('limit'), '10');
+  assert.deepEqual((await response.json()).data, []);
+  const write = await worker.fetch(new Request('https://api.brasa.world/v1/business/providers/provider-1/reports', { method: 'POST' }), businessEnv); assert.equal(write.status, 405);
+});
+
 test('streams anonymous civic discovery through the Government binding', async () => {
   let upstream;
   const governmentEnv = { ...env, GOVERNMENT: { fetch: async (request) => { upstream = new URL(request.url); return new Response(JSON.stringify({ data: [{ id: 'water' }] }), { headers: { 'cache-control': 'public, max-age=300' } }); } } };
