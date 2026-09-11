@@ -1,1 +1,1 @@
-{"name":"@brasa/world-content","private":true,"type":"module","scripts":{"content:build":"node scripts/build-content-catalog.mjs","content:check":"node scripts/build-content-catalog.mjs --check","test":"node --test test/*.test.mjs"}}
+{"name":"@brasa/world-content","private":true,"type":"module","scripts":{"content:build":"node scripts/build-content-catalog.mjs","content:check":"node scripts/build-content-catalog.mjs --check","seo:build":"node scripts/build-seo.mjs","build":"npm run content:build && npm run seo:build","test":"node --test test/*.test.mjs"}}

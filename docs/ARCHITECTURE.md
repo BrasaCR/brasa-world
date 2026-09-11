@@ -24,3 +24,7 @@ Phase 1.1 adds source paths and SHA-256 change detection, explicit translation s
 ## Next executable milestone
 
 Phase 2 should generate canonical URLs, sitemap partitions, and structured metadata from the catalog, while converting the 208 missing legacy descriptions into a reviewed editorial queue rather than inventing or bulk-publishing copy.
+
+## Phase 2 distribution foundation
+
+The SEO build produces a sitemap index with country, Human Capability, BRASA Open, and general World partitions. It also produces canonical/Open Graph/Schema.org records for later HTML injection and a source-hash-linked editorial queue. It never advertises locale routes merely because a translated README exists; `hreflang` is published only when an actual reviewed localized page is present.

@@ -1,0 +1,1669 @@
+{
+  "schemaVersion": 1,
+  "issues": [
+    {
+      "id": "ledger-afghanistan",
+      "path": "ledger-afghanistan.html",
+      "canonical": "https://brasa.world/ledger-afghanistan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "997f0808702f85adaa954ade51cfcc70098263162dcf2f09f4d26a7fd6e8518d"
+    },
+    {
+      "id": "ledger-albania",
+      "path": "ledger-albania.html",
+      "canonical": "https://brasa.world/ledger-albania",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "eecbed131f50c3f9f0029b55c893721775c0fe7b7e04110a407d06fc451b0961"
+    },
+    {
+      "id": "ledger-algeria",
+      "path": "ledger-algeria.html",
+      "canonical": "https://brasa.world/ledger-algeria",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "eea57af92f0f90906e1e78ac32b1d4a1cbc493f6102cc5a13d507e6c151c9880"
+    },
+    {
+      "id": "ledger-andorra",
+      "path": "ledger-andorra.html",
+      "canonical": "https://brasa.world/ledger-andorra",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "64d0985566fcdb385878664c800c7a2f7d4cb5b364ea915c73b7665d323152b3"
+    },
+    {
+      "id": "ledger-angola",
+      "path": "ledger-angola.html",
+      "canonical": "https://brasa.world/ledger-angola",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "fc108b8c935b2be5c65a9162891ece6dcbf89d3a75bbdd9f551900f55e940848"
+    },
+    {
+      "id": "ledger-antigua-and-barbuda",
+      "path": "ledger-antigua-and-barbuda.html",
+      "canonical": "https://brasa.world/ledger-antigua-and-barbuda",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a289624176fe078e22ab1927c5d4fcfcfff000a52d39d95e0b96bae21b8b098d"
+    },
+    {
+      "id": "ledger-argentina",
+      "path": "ledger-argentina.html",
+      "canonical": "https://brasa.world/ledger-argentina",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a1d249e17025cb2d598ee2bc6222084a5a1ef964d8cb58ecd4821b4e8faf83fd"
+    },
+    {
+      "id": "ledger-armenia",
+      "path": "ledger-armenia.html",
+      "canonical": "https://brasa.world/ledger-armenia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ed7c62a67d6e98056d2ccba215ef023197a20135b39bcec2ae821314a2028709"
+    },
+    {
+      "id": "ledger-australia",
+      "path": "ledger-australia.html",
+      "canonical": "https://brasa.world/ledger-australia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6486cc9909a37d3a9feb9c2de66e6e10728028a00af45e8fddc9cd0b84ccce2d"
+    },
+    {
+      "id": "ledger-austria",
+      "path": "ledger-austria.html",
+      "canonical": "https://brasa.world/ledger-austria",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b673bc364160e99737e9ae08046ce9535842c2196e5abe7c42c335419f6afe55"
+    },
+    {
+      "id": "ledger-azerbaijan",
+      "path": "ledger-azerbaijan.html",
+      "canonical": "https://brasa.world/ledger-azerbaijan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3dfdd99cadaec9e5481a99061da6270a35904175df6183304cb10e5c288ed1c9"
+    },
+    {
+      "id": "ledger-bahamas",
+      "path": "ledger-bahamas.html",
+      "canonical": "https://brasa.world/ledger-bahamas",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "65e1028dfc209d11de704dc705674dc10b8f1913eb8eb555b1d6f8db0eae95dc"
+    },
+    {
+      "id": "ledger-bahrain",
+      "path": "ledger-bahrain.html",
+      "canonical": "https://brasa.world/ledger-bahrain",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3f2c7578090c4f091ce29e28bd1b4879ffd999e4a7f7f1996a820fa506aba196"
+    },
+    {
+      "id": "ledger-bangladesh",
+      "path": "ledger-bangladesh.html",
+      "canonical": "https://brasa.world/ledger-bangladesh",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "41405936065bb41c267909ab657c74b2fb86e536bfaabf110224b4a6a2d8b0f0"
+    },
+    {
+      "id": "ledger-barbados",
+      "path": "ledger-barbados.html",
+      "canonical": "https://brasa.world/ledger-barbados",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "12aea7aafa4f345a0618d1e3e4f55791ba08849336bc21bbf3dd2c9e20addbc1"
+    },
+    {
+      "id": "ledger-belarus",
+      "path": "ledger-belarus.html",
+      "canonical": "https://brasa.world/ledger-belarus",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "59dfda5edde34c0a9f749b597f624feb25a22f23441aaf27b1e8b2de98fab7e7"
+    },
+    {
+      "id": "ledger-belgium",
+      "path": "ledger-belgium.html",
+      "canonical": "https://brasa.world/ledger-belgium",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "edc36add0d34568dabc118c65cc1ec4f16c515a070d4b93aa6461022664259a2"
+    },
+    {
+      "id": "ledger-belize",
+      "path": "ledger-belize.html",
+      "canonical": "https://brasa.world/ledger-belize",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9c155e85504092842105b1adcf5b0cd073512dd40b5ba3ac622dda6a09d27133"
+    },
+    {
+      "id": "ledger-benin",
+      "path": "ledger-benin.html",
+      "canonical": "https://brasa.world/ledger-benin",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "21112dbf4d7d5c6c612db0990fed5ff0f1ec6ee22abd930a39a99669bfb576c8"
+    },
+    {
+      "id": "ledger-bhutan",
+      "path": "ledger-bhutan.html",
+      "canonical": "https://brasa.world/ledger-bhutan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "358f664c8d1c1699d3863dd37bb6d8638473c0c420c55c2b7c052a2d3ad57e98"
+    },
+    {
+      "id": "ledger-bolivia",
+      "path": "ledger-bolivia.html",
+      "canonical": "https://brasa.world/ledger-bolivia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "84576c8944a2446f3f68384790ff8cd3b14e3670d5d9a92be401ec3129070428"
+    },
+    {
+      "id": "ledger-bosnia-and-herzegovina",
+      "path": "ledger-bosnia-and-herzegovina.html",
+      "canonical": "https://brasa.world/ledger-bosnia-and-herzegovina",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "59b6932803a6a1d8ed5bdff4240b55d181adabf5e4457e05ddaf787efcd5c12e"
+    },
+    {
+      "id": "ledger-botswana",
+      "path": "ledger-botswana.html",
+      "canonical": "https://brasa.world/ledger-botswana",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "532cf62d11274f9089b47cb1ba615859d436819a97f5bb890483cd86b1c59480"
+    },
+    {
+      "id": "ledger-brazil",
+      "path": "ledger-brazil.html",
+      "canonical": "https://brasa.world/ledger-brazil",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a7bcc1047f15029c77d7fb65fa0f3b686267d1a737fd3a42bc07e7e0f85519f8"
+    },
+    {
+      "id": "ledger-brunei",
+      "path": "ledger-brunei.html",
+      "canonical": "https://brasa.world/ledger-brunei",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e773da01cce74cbaf2496507ac6358223caf796940e1960e271034f695a6647e"
+    },
+    {
+      "id": "ledger-bulgaria",
+      "path": "ledger-bulgaria.html",
+      "canonical": "https://brasa.world/ledger-bulgaria",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b6cdf1ab5b74e73ae734a9d089a57167cd5d916a532a347507a1d81d709eb1a7"
+    },
+    {
+      "id": "ledger-burkina-faso",
+      "path": "ledger-burkina-faso.html",
+      "canonical": "https://brasa.world/ledger-burkina-faso",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "834a445011abfbe90ea74e96ea272dea2e7bf48c3b2dea9289f6596d9f9c3d35"
+    },
+    {
+      "id": "ledger-burundi",
+      "path": "ledger-burundi.html",
+      "canonical": "https://brasa.world/ledger-burundi",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f6f0c4401b5875dfda521533af2cb8f08860d21b0201ccceb40f3c5ee710c0f1"
+    },
+    {
+      "id": "ledger-cabo-verde",
+      "path": "ledger-cabo-verde.html",
+      "canonical": "https://brasa.world/ledger-cabo-verde",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b7374b28b40ccdde8c5b84973d8f868aae8c38c3f9ff3ef03ba6e6e957373713"
+    },
+    {
+      "id": "ledger-cambodia",
+      "path": "ledger-cambodia.html",
+      "canonical": "https://brasa.world/ledger-cambodia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "4f83f81ea7a999ad4dcd1dfbf27dc9af7727d8cb0990ce55a620bd6e4419e39b"
+    },
+    {
+      "id": "ledger-cameroon",
+      "path": "ledger-cameroon.html",
+      "canonical": "https://brasa.world/ledger-cameroon",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "0b36e8476b7289739ba174fdb287977fb1cf6767ba24d2e80778f3891d98cd9d"
+    },
+    {
+      "id": "ledger-canada",
+      "path": "ledger-canada.html",
+      "canonical": "https://brasa.world/ledger-canada",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "1d16ff3f86db512ff8660dfd345de2c3cbff68464b2da08a902547e1411ceed4"
+    },
+    {
+      "id": "ledger-central-african-republic",
+      "path": "ledger-central-african-republic.html",
+      "canonical": "https://brasa.world/ledger-central-african-republic",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d30f9287921a82d68b2c6786283527486bdaca4bc15e9de60cab08a5c341ee01"
+    },
+    {
+      "id": "ledger-chad",
+      "path": "ledger-chad.html",
+      "canonical": "https://brasa.world/ledger-chad",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9084d71a3680ecdad4d9026df36beaac4e0c10a410eb148452bed11aa82fd242"
+    },
+    {
+      "id": "ledger-chile",
+      "path": "ledger-chile.html",
+      "canonical": "https://brasa.world/ledger-chile",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bffc7d32f8cff2aedfbdff74f05c13d3048f02dcd18ed3c49b0f6d537c0f4196"
+    },
+    {
+      "id": "ledger-china",
+      "path": "ledger-china.html",
+      "canonical": "https://brasa.world/ledger-china",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9162b3a3df4d6a692cdff869797b9c683d7e7bc59dfa62648605daa250d8a966"
+    },
+    {
+      "id": "ledger-colombia",
+      "path": "ledger-colombia.html",
+      "canonical": "https://brasa.world/ledger-colombia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6d51e5289dc77e490285e4e5a7d556a8a3bce37fba6908373105f1cd8bf36b30"
+    },
+    {
+      "id": "ledger-comoros",
+      "path": "ledger-comoros.html",
+      "canonical": "https://brasa.world/ledger-comoros",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5f07a4ada77ea3088d2d67c26ce1767041a43406f065b522a7444c7331cff74b"
+    },
+    {
+      "id": "ledger-congo",
+      "path": "ledger-congo.html",
+      "canonical": "https://brasa.world/ledger-congo",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c693e615894c9521e5317d61df42e34d4dfe068e0c028e7d59f8d8b1699daa1f"
+    },
+    {
+      "id": "ledger-costa-rica",
+      "path": "ledger-costa-rica.html",
+      "canonical": "https://brasa.world/ledger-costa-rica",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "29c9fa259f59ab52b21b285ae3bcf6ef071b0def1e8da8d24994bb5ee927dd54"
+    },
+    {
+      "id": "ledger-cote-divoire",
+      "path": "ledger-cote-divoire.html",
+      "canonical": "https://brasa.world/ledger-cote-divoire",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5d9a1372a7aeb46ebaa5686a255f12e7a899688b93859b609a5b4484d5804c9f"
+    },
+    {
+      "id": "ledger-croatia",
+      "path": "ledger-croatia.html",
+      "canonical": "https://brasa.world/ledger-croatia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ba0b97dabe818fb35112b5c0beb732c9e41411210632d97044d1ef030f157498"
+    },
+    {
+      "id": "ledger-cuba",
+      "path": "ledger-cuba.html",
+      "canonical": "https://brasa.world/ledger-cuba",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9c74d9591c7f4a5f94b3cf16f3a1820b4beb268d31008c851ca2459ecb82b182"
+    },
+    {
+      "id": "ledger-cyprus",
+      "path": "ledger-cyprus.html",
+      "canonical": "https://brasa.world/ledger-cyprus",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "4aa92a1bbdae2ec5974c156c7d72fbd956d8f930efcd34d5e4ecca557a287e7a"
+    },
+    {
+      "id": "ledger-czechia",
+      "path": "ledger-czechia.html",
+      "canonical": "https://brasa.world/ledger-czechia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b425d23fd339bc811bd7e44c2d8e5c5e403c7b9797226e463ce18c8ea9904422"
+    },
+    {
+      "id": "ledger-denmark",
+      "path": "ledger-denmark.html",
+      "canonical": "https://brasa.world/ledger-denmark",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "76422aed5d1481129a476cdcc9692b3519a8c341b425080ed09cbed69b55f3a1"
+    },
+    {
+      "id": "ledger-djibouti",
+      "path": "ledger-djibouti.html",
+      "canonical": "https://brasa.world/ledger-djibouti",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "842e501b43e4fa98ca1cedb02eb2e35c1e45aa03d1bedea8e92a18ce084e565b"
+    },
+    {
+      "id": "ledger-dominica",
+      "path": "ledger-dominica.html",
+      "canonical": "https://brasa.world/ledger-dominica",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9af030d84cb72b0a149ae714a256702d21d421dcab7eeb6d20ad03ae92fde138"
+    },
+    {
+      "id": "ledger-dominican-republic",
+      "path": "ledger-dominican-republic.html",
+      "canonical": "https://brasa.world/ledger-dominican-republic",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "936ab5c0ebbca60601139bb76b6d80ba7f64ed56cc955a7b46a6035e30764c7e"
+    },
+    {
+      "id": "ledger-dr-congo",
+      "path": "ledger-dr-congo.html",
+      "canonical": "https://brasa.world/ledger-dr-congo",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "96ec8fbfe38b0028caf2e0d02388265909a6c7120bf08cd82b934df8896be2e4"
+    },
+    {
+      "id": "ledger-ecuador",
+      "path": "ledger-ecuador.html",
+      "canonical": "https://brasa.world/ledger-ecuador",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6465bbc364d47fcebd4a6e5b4c571d6c7c79793cf24687f850a18702672ca9ff"
+    },
+    {
+      "id": "ledger-egypt",
+      "path": "ledger-egypt.html",
+      "canonical": "https://brasa.world/ledger-egypt",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7049d190ae3fd999167dc48b909181e465d5ad2ef15bc0c43171a1053031f23c"
+    },
+    {
+      "id": "ledger-el-salvador",
+      "path": "ledger-el-salvador.html",
+      "canonical": "https://brasa.world/ledger-el-salvador",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7218c6e2115004df742cbd8cc8dc64ff6e5268ff6c38d930f82751f01a722a01"
+    },
+    {
+      "id": "ledger-equatorial-guinea",
+      "path": "ledger-equatorial-guinea.html",
+      "canonical": "https://brasa.world/ledger-equatorial-guinea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "94bd75c75316f99eebd3bee190b9d463d9ee4894e1db058d2e323d3c9d158fc4"
+    },
+    {
+      "id": "ledger-eritrea",
+      "path": "ledger-eritrea.html",
+      "canonical": "https://brasa.world/ledger-eritrea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bce9c8ef710a85ef9fe792f1385318af4992d313ff53b765d43089f0ba6e19b1"
+    },
+    {
+      "id": "ledger-estonia",
+      "path": "ledger-estonia.html",
+      "canonical": "https://brasa.world/ledger-estonia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "635a2b92d838fcc9c2feca5910e6cb4dba771cbd61bd4a74c406c23a94a724fe"
+    },
+    {
+      "id": "ledger-eswatini",
+      "path": "ledger-eswatini.html",
+      "canonical": "https://brasa.world/ledger-eswatini",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e19ad3f9461f92e0d8bca30bed79c643c810177a5197a9f60a29ed818db23117"
+    },
+    {
+      "id": "ledger-ethiopia",
+      "path": "ledger-ethiopia.html",
+      "canonical": "https://brasa.world/ledger-ethiopia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ee4c34626d70b05bcf11a94406a2fc47fea9555a0df3450cf6ad7ad2ad81b65e"
+    },
+    {
+      "id": "ledger-fiji",
+      "path": "ledger-fiji.html",
+      "canonical": "https://brasa.world/ledger-fiji",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "12a08933552c1a8c2712efc8551923f7c053a36604948dd7847b78d20423522f"
+    },
+    {
+      "id": "ledger-finland",
+      "path": "ledger-finland.html",
+      "canonical": "https://brasa.world/ledger-finland",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "001e482502929d3e6dacea434f5512df79fcff4b4daf7b86ac2bf9a013dda25b"
+    },
+    {
+      "id": "ledger-france",
+      "path": "ledger-france.html",
+      "canonical": "https://brasa.world/ledger-france",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c646ebb0af8d72ff857600c1bf1f69342b7a190945af4ab56f320eeaaf9960ff"
+    },
+    {
+      "id": "ledger-gabon",
+      "path": "ledger-gabon.html",
+      "canonical": "https://brasa.world/ledger-gabon",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ce891faa7fc26dd7c6400c9aba74b67eb3cad27a81570d0e1ff8bb6d7f2af287"
+    },
+    {
+      "id": "ledger-gambia",
+      "path": "ledger-gambia.html",
+      "canonical": "https://brasa.world/ledger-gambia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e9b5a86b4d9620a51fea19f13e5ba863ba02f4fd50da36e90e3748cc3e7f1fa4"
+    },
+    {
+      "id": "ledger-georgia",
+      "path": "ledger-georgia.html",
+      "canonical": "https://brasa.world/ledger-georgia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ef299436ddb5ba85906ff2312f671bcf5f94e6b94f8a083d02c6fbfe608eed0b"
+    },
+    {
+      "id": "ledger-germany",
+      "path": "ledger-germany.html",
+      "canonical": "https://brasa.world/ledger-germany",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "20b469915f1fdcd07e7b74db58581ba6ccc298a42aff5cc2b1b47bd48a5640ca"
+    },
+    {
+      "id": "ledger-ghana",
+      "path": "ledger-ghana.html",
+      "canonical": "https://brasa.world/ledger-ghana",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3731e0155566740568427f132095b2791c8c2079cb59af68a42c984e7d76b42c"
+    },
+    {
+      "id": "ledger-greece",
+      "path": "ledger-greece.html",
+      "canonical": "https://brasa.world/ledger-greece",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c30e1c156b3a5c45183690529746102b9fbed112f8d4b1f32ba7254013b18d76"
+    },
+    {
+      "id": "ledger-grenada",
+      "path": "ledger-grenada.html",
+      "canonical": "https://brasa.world/ledger-grenada",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a06990c13bf4c4600871a8b658ec00953d7e5f721b3a6743b5c08b81a5554d1c"
+    },
+    {
+      "id": "ledger-guatemala",
+      "path": "ledger-guatemala.html",
+      "canonical": "https://brasa.world/ledger-guatemala",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "40e2a0751baaf730db74f80379382724714dc361fe82e18993efda37af1e4cb3"
+    },
+    {
+      "id": "ledger-guinea-bissau",
+      "path": "ledger-guinea-bissau.html",
+      "canonical": "https://brasa.world/ledger-guinea-bissau",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "651aa91043979cbef9341bceb78c5f26c6ecefa8bcf9da592538901df78f08d1"
+    },
+    {
+      "id": "ledger-guinea",
+      "path": "ledger-guinea.html",
+      "canonical": "https://brasa.world/ledger-guinea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "81a26cdae5730281c8cbdd730c24a9984038acc4a0574b87a45298204a0fd12c"
+    },
+    {
+      "id": "ledger-guyana",
+      "path": "ledger-guyana.html",
+      "canonical": "https://brasa.world/ledger-guyana",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "153571e714d1d54fd4a0bd79da4cbe974a0cba2d44933f69073242e0f7e8b00e"
+    },
+    {
+      "id": "ledger-haiti",
+      "path": "ledger-haiti.html",
+      "canonical": "https://brasa.world/ledger-haiti",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cc4bcae1d1fd308159e5f9faed8108638d9066cd6cbada5739cf3feb21757485"
+    },
+    {
+      "id": "ledger-honduras",
+      "path": "ledger-honduras.html",
+      "canonical": "https://brasa.world/ledger-honduras",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "35e270f62cdcbcf82fc1d4ce5bd6ec91c6836584e5b77608d051465a3fb57829"
+    },
+    {
+      "id": "ledger-hong-kong",
+      "path": "ledger-hong-kong.html",
+      "canonical": "https://brasa.world/ledger-hong-kong",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ef61f8e598b16412b41c747b36f8217de001a7dbadfd8f98fe400b0374f2f65d"
+    },
+    {
+      "id": "ledger-hungary",
+      "path": "ledger-hungary.html",
+      "canonical": "https://brasa.world/ledger-hungary",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "18aee320ed3e6f254f37e8f92533005b5b42f77491884bd92930de13c5b087d5"
+    },
+    {
+      "id": "ledger-iceland",
+      "path": "ledger-iceland.html",
+      "canonical": "https://brasa.world/ledger-iceland",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5b536cd32ae58d7d750548c33458fd47754888e66ba2425861d3a87ecb872d82"
+    },
+    {
+      "id": "ledger-india",
+      "path": "ledger-india.html",
+      "canonical": "https://brasa.world/ledger-india",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5c35685ad3efe18b6a0008256fec49c550b5145be342cb86e9677f539e9cb32a"
+    },
+    {
+      "id": "ledger-indonesia",
+      "path": "ledger-indonesia.html",
+      "canonical": "https://brasa.world/ledger-indonesia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "766abc5cba9f6c0569e804887cbceed068197b3e528c0ba5e407602f759bad1e"
+    },
+    {
+      "id": "ledger-iran",
+      "path": "ledger-iran.html",
+      "canonical": "https://brasa.world/ledger-iran",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "39fc203133c1bf63ddaedc5a92c72b30c788d0933b5c3c4df769ce2663801b6c"
+    },
+    {
+      "id": "ledger-iraq",
+      "path": "ledger-iraq.html",
+      "canonical": "https://brasa.world/ledger-iraq",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "57aae49c5b9efd57a0c9be180b198a2a5c978bcf04444a7e984d43f49dc01b31"
+    },
+    {
+      "id": "ledger-ireland",
+      "path": "ledger-ireland.html",
+      "canonical": "https://brasa.world/ledger-ireland",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "8c58ec98156b93bac4867c1604fad75d5f2909151d4e4524688482cf3c3a9541"
+    },
+    {
+      "id": "ledger-israel",
+      "path": "ledger-israel.html",
+      "canonical": "https://brasa.world/ledger-israel",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e31e63c158ad7d83d1b283db045a83f5f165a996b92ce38fd463150f62330acb"
+    },
+    {
+      "id": "ledger-italy",
+      "path": "ledger-italy.html",
+      "canonical": "https://brasa.world/ledger-italy",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6bc95e6ed2a69ca804b01909af724bd62cda11c13a8dcebe86a348de94ad793c"
+    },
+    {
+      "id": "ledger-jamaica",
+      "path": "ledger-jamaica.html",
+      "canonical": "https://brasa.world/ledger-jamaica",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7852a3ab79330bf4d425b99ab8e4b2a6e88d0dadb216f5f99cb959d00d40fe49"
+    },
+    {
+      "id": "ledger-japan",
+      "path": "ledger-japan.html",
+      "canonical": "https://brasa.world/ledger-japan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3d7086a53cb3aae0fbb3ea6735b7d1baa323512b3083610da0c4202ed4429fa5"
+    },
+    {
+      "id": "ledger-jordan",
+      "path": "ledger-jordan.html",
+      "canonical": "https://brasa.world/ledger-jordan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3366d886b8367f3d464eb9f3cc8cfb3b475636f5f49031105400a548f979a4ae"
+    },
+    {
+      "id": "ledger-kazakhstan",
+      "path": "ledger-kazakhstan.html",
+      "canonical": "https://brasa.world/ledger-kazakhstan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "18bfc2645921ae86d2fbc8c771ece1e9d28c86ea5aefcb56feeabc5a5d441afa"
+    },
+    {
+      "id": "ledger-kenya",
+      "path": "ledger-kenya.html",
+      "canonical": "https://brasa.world/ledger-kenya",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c274cc9614b4d042ef75f1848886e2d7fa3b31c47c91b012cf37a341bc4ca3cb"
+    },
+    {
+      "id": "ledger-kiribati",
+      "path": "ledger-kiribati.html",
+      "canonical": "https://brasa.world/ledger-kiribati",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "4cdd74dcd79d39414a0e72a842c1eb9654e6b277088388656e07d4276bcc0903"
+    },
+    {
+      "id": "ledger-kosovo",
+      "path": "ledger-kosovo.html",
+      "canonical": "https://brasa.world/ledger-kosovo",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "137b41b1355b4592c341825b782b793fd1f2b207943f677224f3dfc57b2a264d"
+    },
+    {
+      "id": "ledger-kuwait",
+      "path": "ledger-kuwait.html",
+      "canonical": "https://brasa.world/ledger-kuwait",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9eb44a77f29244757269a6ff1a042993d130cf94c3f158d1462ed8af003f0e59"
+    },
+    {
+      "id": "ledger-kyrgyzstan",
+      "path": "ledger-kyrgyzstan.html",
+      "canonical": "https://brasa.world/ledger-kyrgyzstan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "62870947ce2432203f94118c32b6297367df7eede479907660a6c600100da517"
+    },
+    {
+      "id": "ledger-laos",
+      "path": "ledger-laos.html",
+      "canonical": "https://brasa.world/ledger-laos",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "8b5d3a2f548dd87750b2040123ef208d10fc880855f80b2ed87ec029802f4b45"
+    },
+    {
+      "id": "ledger-latvia",
+      "path": "ledger-latvia.html",
+      "canonical": "https://brasa.world/ledger-latvia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7acff3f8082628f93fda1562e97de9eaba7cac6e2cc8b13a70392061be767a8f"
+    },
+    {
+      "id": "ledger-lebanon",
+      "path": "ledger-lebanon.html",
+      "canonical": "https://brasa.world/ledger-lebanon",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "80528bd2e23b28dda44d66671b4d073515522b4c8862a92a25448ce2f9d4e197"
+    },
+    {
+      "id": "ledger-lesotho",
+      "path": "ledger-lesotho.html",
+      "canonical": "https://brasa.world/ledger-lesotho",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "ca16602e720a2c018b2de41eccfe05a0620de20ffab06b6410db7178cb9247df"
+    },
+    {
+      "id": "ledger-liberia",
+      "path": "ledger-liberia.html",
+      "canonical": "https://brasa.world/ledger-liberia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "58446a3cf246c03390c9306ab2768235c1d03490d5aff11e394bb0b92d63309d"
+    },
+    {
+      "id": "ledger-libya",
+      "path": "ledger-libya.html",
+      "canonical": "https://brasa.world/ledger-libya",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "91992726656fc187589cfa95b22db225b03378183d40de06351262656f8db992"
+    },
+    {
+      "id": "ledger-liechtenstein",
+      "path": "ledger-liechtenstein.html",
+      "canonical": "https://brasa.world/ledger-liechtenstein",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "772cd87f85f095cb237c6dde87f4520496cdc11fd837ae29815dee5415f159e6"
+    },
+    {
+      "id": "ledger-lithuania",
+      "path": "ledger-lithuania.html",
+      "canonical": "https://brasa.world/ledger-lithuania",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "997e32c973ad4a6326d88a38cd08eb39fbe291a2a05d61bd1cd6fcfc1196cf43"
+    },
+    {
+      "id": "ledger-luxembourg",
+      "path": "ledger-luxembourg.html",
+      "canonical": "https://brasa.world/ledger-luxembourg",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "1b2ebd2657f758deae632df44ef9f92a7f4f051384933096b1cdde069c0bfb4a"
+    },
+    {
+      "id": "ledger-macau",
+      "path": "ledger-macau.html",
+      "canonical": "https://brasa.world/ledger-macau",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "988fe0039c3892f2fd4ac955450b9155d5eef631ec0046e53b91737cb8f67c7a"
+    },
+    {
+      "id": "ledger-madagascar",
+      "path": "ledger-madagascar.html",
+      "canonical": "https://brasa.world/ledger-madagascar",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "38c3c4b92721e6ccad87a78d0753b51de6bdb80f8aa7f792a1f77b57de966b6b"
+    },
+    {
+      "id": "ledger-malawi",
+      "path": "ledger-malawi.html",
+      "canonical": "https://brasa.world/ledger-malawi",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "0aeebc56cd08e404abdf9c8631f68cdcd552918bd5d4a44bc379c34635c395d2"
+    },
+    {
+      "id": "ledger-malaysia",
+      "path": "ledger-malaysia.html",
+      "canonical": "https://brasa.world/ledger-malaysia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "031ecdbc2678475b911d4b0a5898344ea583aede39424dad36bbd8fd340d43f5"
+    },
+    {
+      "id": "ledger-maldives",
+      "path": "ledger-maldives.html",
+      "canonical": "https://brasa.world/ledger-maldives",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "09de0b25220d81988c43588c9707c80cf376ca61cf74dc5a603ce2b1a3742107"
+    },
+    {
+      "id": "ledger-mali",
+      "path": "ledger-mali.html",
+      "canonical": "https://brasa.world/ledger-mali",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5bc0395cc815a2de90ef0ed8d1e75d316221fe4ae540ced3c86642c30049b442"
+    },
+    {
+      "id": "ledger-malta",
+      "path": "ledger-malta.html",
+      "canonical": "https://brasa.world/ledger-malta",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b7b4b67a60839397dbd59f061a1d907311d54cec37c90be935c9f5b59419ec5e"
+    },
+    {
+      "id": "ledger-marshall-islands",
+      "path": "ledger-marshall-islands.html",
+      "canonical": "https://brasa.world/ledger-marshall-islands",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "870ad0abac02ee440a720bc60cd48bb64a5de4671c30cc326b5a5372d7d222a1"
+    },
+    {
+      "id": "ledger-mauritania",
+      "path": "ledger-mauritania.html",
+      "canonical": "https://brasa.world/ledger-mauritania",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "2fe87ac4736bd9600aeb7fde2ab18f3255a35ddb78ac9e3744d52f7fd99e4f22"
+    },
+    {
+      "id": "ledger-mauritius",
+      "path": "ledger-mauritius.html",
+      "canonical": "https://brasa.world/ledger-mauritius",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6795ede964ef5d6136c970f451cfb44558baeef9be5f828cd590e7bebf92e86f"
+    },
+    {
+      "id": "ledger-mexico",
+      "path": "ledger-mexico.html",
+      "canonical": "https://brasa.world/ledger-mexico",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cb1aa7170bad9cb3036efff9c8e3591a8aebeca9c1f5ad96780f6eedd188df41"
+    },
+    {
+      "id": "ledger-micronesia",
+      "path": "ledger-micronesia.html",
+      "canonical": "https://brasa.world/ledger-micronesia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9ffe8a7ce17b03198181a00ad19102fb6f68a7b3babe605f79bbe886df94f561"
+    },
+    {
+      "id": "ledger-moldova",
+      "path": "ledger-moldova.html",
+      "canonical": "https://brasa.world/ledger-moldova",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d268592287cd062e6458bbb7d848ebdcaf9276e3419842d02d14512c51d33af7"
+    },
+    {
+      "id": "ledger-monaco",
+      "path": "ledger-monaco.html",
+      "canonical": "https://brasa.world/ledger-monaco",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "be4d5baaf13db7e5fb35f9999b6f7ea806fe190928f27a208e6a31b581c58aa2"
+    },
+    {
+      "id": "ledger-mongolia",
+      "path": "ledger-mongolia.html",
+      "canonical": "https://brasa.world/ledger-mongolia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bc84fd0338fc5c44aa088823bfeafd0dda5f3f81388a135d7bbcb9ac80e961f4"
+    },
+    {
+      "id": "ledger-montenegro",
+      "path": "ledger-montenegro.html",
+      "canonical": "https://brasa.world/ledger-montenegro",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "919a4074813c9d04bac215d9ee2ce3e4d841a7e014bf068d3ae01c58856e0d51"
+    },
+    {
+      "id": "ledger-morocco",
+      "path": "ledger-morocco.html",
+      "canonical": "https://brasa.world/ledger-morocco",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d5b23122ffdc5f3ac3d1c88b7f0d04a18646dbd0999150b317cd2b630662b5ed"
+    },
+    {
+      "id": "ledger-mozambique",
+      "path": "ledger-mozambique.html",
+      "canonical": "https://brasa.world/ledger-mozambique",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "97c638d3d2bf1529591b0e87bc610454eb3421a5cf92d54b9e0560fd2f5a8c03"
+    },
+    {
+      "id": "ledger-myanmar",
+      "path": "ledger-myanmar.html",
+      "canonical": "https://brasa.world/ledger-myanmar",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3e8780a00377a62c4af108ad5081ae53052f02c68cd7e792155978b85f0ee719"
+    },
+    {
+      "id": "ledger-namibia",
+      "path": "ledger-namibia.html",
+      "canonical": "https://brasa.world/ledger-namibia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "dbc5602f91dcc802658c3341e76dfd69343b0a2774b66d57fa08d5bdb0f90f29"
+    },
+    {
+      "id": "ledger-nauru",
+      "path": "ledger-nauru.html",
+      "canonical": "https://brasa.world/ledger-nauru",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d43e367f66282d974de21ab37c6f6f54846c5a5ecbe82c5b6e2d924302829dc7"
+    },
+    {
+      "id": "ledger-nepal",
+      "path": "ledger-nepal.html",
+      "canonical": "https://brasa.world/ledger-nepal",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "af1fea886ec3b13be11c473547a564bed43962a4fbbe76babb71f29995b7bb5a"
+    },
+    {
+      "id": "ledger-netherlands",
+      "path": "ledger-netherlands.html",
+      "canonical": "https://brasa.world/ledger-netherlands",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "2860d440bb27b833a3eba878fbd393780320247353276d8efbe0f2c2cf474ef3"
+    },
+    {
+      "id": "ledger-new-zealand",
+      "path": "ledger-new-zealand.html",
+      "canonical": "https://brasa.world/ledger-new-zealand",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d8f31a7fae620a3a4bfdf56751544cf0f08be038758f508f55b87ceee1bc93c4"
+    },
+    {
+      "id": "ledger-nicaragua",
+      "path": "ledger-nicaragua.html",
+      "canonical": "https://brasa.world/ledger-nicaragua",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "13b5afda5b049cbeeb8b3e1ebafc88a4ed60a7837f470578951d8f6209ec9341"
+    },
+    {
+      "id": "ledger-niger",
+      "path": "ledger-niger.html",
+      "canonical": "https://brasa.world/ledger-niger",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7e18f2830ac0858ba55b5758fbaaf584b10ec2d14db967990b8b9371810ee723"
+    },
+    {
+      "id": "ledger-nigeria",
+      "path": "ledger-nigeria.html",
+      "canonical": "https://brasa.world/ledger-nigeria",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "27af236e67771b9f65aa8c5df1495bac9504e9fdf8eb66de45f2db1c40630981"
+    },
+    {
+      "id": "ledger-north-korea",
+      "path": "ledger-north-korea.html",
+      "canonical": "https://brasa.world/ledger-north-korea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "46d20d827e3f0dd8c879cf39263890826b5206433c59c500d33bf20393e9fa77"
+    },
+    {
+      "id": "ledger-north-macedonia",
+      "path": "ledger-north-macedonia.html",
+      "canonical": "https://brasa.world/ledger-north-macedonia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "33f0c6461ac1ce33de4f3b32726ab3e8f4e0a514f960c69992d77e2efd9809c4"
+    },
+    {
+      "id": "ledger-norway",
+      "path": "ledger-norway.html",
+      "canonical": "https://brasa.world/ledger-norway",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f135aadc6ac97137af8803d6a9493b16601ee334f8a000c1dd0dd5897ea11c83"
+    },
+    {
+      "id": "ledger-oman",
+      "path": "ledger-oman.html",
+      "canonical": "https://brasa.world/ledger-oman",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "8fc23b7312eae1a2d26a6a246d7005e1ec568f7637d1c7f6d75a520492cffd22"
+    },
+    {
+      "id": "ledger-pakistan",
+      "path": "ledger-pakistan.html",
+      "canonical": "https://brasa.world/ledger-pakistan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "0e1c4a93469f0c224dc4d071f2ba42f93d044c70bc2ccaff49337d73fd64d0ed"
+    },
+    {
+      "id": "ledger-palau",
+      "path": "ledger-palau.html",
+      "canonical": "https://brasa.world/ledger-palau",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "db60ea3b7b20389a19afca6281dc33f727855925f5ea9fa1f297842fcc302cbf"
+    },
+    {
+      "id": "ledger-palestine",
+      "path": "ledger-palestine.html",
+      "canonical": "https://brasa.world/ledger-palestine",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d45496cddcd981bce0b7932b2d9d007d3109fe44fbe34fcfb7a30a275b15b013"
+    },
+    {
+      "id": "ledger-panama",
+      "path": "ledger-panama.html",
+      "canonical": "https://brasa.world/ledger-panama",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6b078ea58ce25e8d5b345f788e2dca161a8eb0a824f6d0f0740373a71ea72af1"
+    },
+    {
+      "id": "ledger-papua-new-guinea",
+      "path": "ledger-papua-new-guinea.html",
+      "canonical": "https://brasa.world/ledger-papua-new-guinea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a0f588ab9c1cd82f840fbbb0a453389a6ae7ee09d5d7794544a8986012aae67d"
+    },
+    {
+      "id": "ledger-paraguay",
+      "path": "ledger-paraguay.html",
+      "canonical": "https://brasa.world/ledger-paraguay",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e9a151a4759d6601f762d2ab65f886fa6d6a804ddd22e5fdd20dc2df5cec1d34"
+    },
+    {
+      "id": "ledger-peru",
+      "path": "ledger-peru.html",
+      "canonical": "https://brasa.world/ledger-peru",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a3320108f1171e074c0a88d8b19797ffcceb4081d7684ad1b5afff1bd4eec5a9"
+    },
+    {
+      "id": "ledger-philippines",
+      "path": "ledger-philippines.html",
+      "canonical": "https://brasa.world/ledger-philippines",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5db63954ddcbb62a0ead31165b0f898dda361d1bba4abeec390b7308b2570fed"
+    },
+    {
+      "id": "ledger-poland",
+      "path": "ledger-poland.html",
+      "canonical": "https://brasa.world/ledger-poland",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cb61b270501a468dea369f2d779a04561a9b982cb93aadde547dffaad17f3baf"
+    },
+    {
+      "id": "ledger-portugal",
+      "path": "ledger-portugal.html",
+      "canonical": "https://brasa.world/ledger-portugal",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "844a0fb5d644b5d443115271bec8de75048f37cf70bc1639c17301ec7534fc6c"
+    },
+    {
+      "id": "ledger-qatar",
+      "path": "ledger-qatar.html",
+      "canonical": "https://brasa.world/ledger-qatar",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6a7b5dcc653378de0b531bbac09cf33e732d4ed9f5fc1a0ddac4f9f0d013cd7e"
+    },
+    {
+      "id": "ledger-romania",
+      "path": "ledger-romania.html",
+      "canonical": "https://brasa.world/ledger-romania",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "715826e0c3e18384ab85ed27229c2705b6b73a54aa7d1d4a419d4e921274eb95"
+    },
+    {
+      "id": "ledger-russia",
+      "path": "ledger-russia.html",
+      "canonical": "https://brasa.world/ledger-russia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f7ab57d1d8b13e072b95d04159cba1c1011138079d8074085fc6928c3f1051bb"
+    },
+    {
+      "id": "ledger-rwanda",
+      "path": "ledger-rwanda.html",
+      "canonical": "https://brasa.world/ledger-rwanda",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d36d76e52719239d6afa27f206dbaf6793ae414ade236cf4faa5c50d621d9ae4"
+    },
+    {
+      "id": "ledger-saint-kitts-and-nevis",
+      "path": "ledger-saint-kitts-and-nevis.html",
+      "canonical": "https://brasa.world/ledger-saint-kitts-and-nevis",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "fee53797cd36b344fa945706beec330f9c2de529c8bb85ed7806c24ebc90fbd3"
+    },
+    {
+      "id": "ledger-saint-lucia",
+      "path": "ledger-saint-lucia.html",
+      "canonical": "https://brasa.world/ledger-saint-lucia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "a610a39602f46ec96f449a30fe1ecf6e7ab48f6e8b0a725666922ec7898015e7"
+    },
+    {
+      "id": "ledger-saint-vincent-and-the-grenadines",
+      "path": "ledger-saint-vincent-and-the-grenadines.html",
+      "canonical": "https://brasa.world/ledger-saint-vincent-and-the-grenadines",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "135c0e3d7427f2a43291fe98c64c50b99b079c4d2352cd23ea3fd8b7553b9b8b"
+    },
+    {
+      "id": "ledger-samoa",
+      "path": "ledger-samoa.html",
+      "canonical": "https://brasa.world/ledger-samoa",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e587b43083c77c1abd76a6e1fb08166232b540518f061a66813c7c65cfb7fc4f"
+    },
+    {
+      "id": "ledger-san-marino",
+      "path": "ledger-san-marino.html",
+      "canonical": "https://brasa.world/ledger-san-marino",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f543796b78d93c3d91a2ae3c9fe7bdef64007a100882d319a727febf47b959e8"
+    },
+    {
+      "id": "ledger-sao-tome-and-principe",
+      "path": "ledger-sao-tome-and-principe.html",
+      "canonical": "https://brasa.world/ledger-sao-tome-and-principe",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cffb929f94907515b92997987f6ac558ec85cf9ba761cc5443a967bc8c3ac8f9"
+    },
+    {
+      "id": "ledger-saudi-arabia",
+      "path": "ledger-saudi-arabia.html",
+      "canonical": "https://brasa.world/ledger-saudi-arabia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e5e258a14d9c2fec56341382b880ac27a96a5f5031076b5bdb638330a0670747"
+    },
+    {
+      "id": "ledger-senegal",
+      "path": "ledger-senegal.html",
+      "canonical": "https://brasa.world/ledger-senegal",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "920b69be8c334e522b7127c1a7f06cb4847d224df224ae0dded23f3522f5e447"
+    },
+    {
+      "id": "ledger-serbia",
+      "path": "ledger-serbia.html",
+      "canonical": "https://brasa.world/ledger-serbia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "91aa29e183d87b57f7b1f538affc5d07ee6f7cad5eb92caa7caf77a7c98d7439"
+    },
+    {
+      "id": "ledger-seychelles",
+      "path": "ledger-seychelles.html",
+      "canonical": "https://brasa.world/ledger-seychelles",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c264d4b51aebbe7b5068a30f539680502ab8e71ade057cccb482610e13842f93"
+    },
+    {
+      "id": "ledger-sierra-leone",
+      "path": "ledger-sierra-leone.html",
+      "canonical": "https://brasa.world/ledger-sierra-leone",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "0e373b5e9852b6a4dcd1ebef7ed18688675238cf41563778cf382a15ae816042"
+    },
+    {
+      "id": "ledger-singapore",
+      "path": "ledger-singapore.html",
+      "canonical": "https://brasa.world/ledger-singapore",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6f2763e455cc4619de269faa53c32e08b9700a3ae6a4c40f2b084afab938aa21"
+    },
+    {
+      "id": "ledger-slovakia",
+      "path": "ledger-slovakia.html",
+      "canonical": "https://brasa.world/ledger-slovakia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cf10a18b9e482714d3407c38740760e33c887ae6cb98461a2fbf9eeeb994562c"
+    },
+    {
+      "id": "ledger-slovenia",
+      "path": "ledger-slovenia.html",
+      "canonical": "https://brasa.world/ledger-slovenia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "df2b59c2ffb4cf0ffd1eaa48cebbdb074fe0f499b714680a57d715d99bb74f97"
+    },
+    {
+      "id": "ledger-solomon-islands",
+      "path": "ledger-solomon-islands.html",
+      "canonical": "https://brasa.world/ledger-solomon-islands",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "37891a4f53eb6e5f8e5ca7881cc0652f7d7138b973e921b1e8b053419083affb"
+    },
+    {
+      "id": "ledger-somalia",
+      "path": "ledger-somalia.html",
+      "canonical": "https://brasa.world/ledger-somalia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c8dafa396d9865ad71fb780cff58fd62cfe36e1a88ea02fbf86b5308a03962c5"
+    },
+    {
+      "id": "ledger-south-africa",
+      "path": "ledger-south-africa.html",
+      "canonical": "https://brasa.world/ledger-south-africa",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e1458b057196f95db8b39d02df4121f49ba7d5abd97b14b75cc69502078a831d"
+    },
+    {
+      "id": "ledger-south-korea",
+      "path": "ledger-south-korea.html",
+      "canonical": "https://brasa.world/ledger-south-korea",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c4d2bc96ccdeac380cb19d3f11f7ff777e982443ecca1ba8d9433c18e31e3863"
+    },
+    {
+      "id": "ledger-south-sudan",
+      "path": "ledger-south-sudan.html",
+      "canonical": "https://brasa.world/ledger-south-sudan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "842273168fbb3bbae3b151c0416ef69bb63a2823e47c2af01cdd67b40b60bdf5"
+    },
+    {
+      "id": "ledger-spain",
+      "path": "ledger-spain.html",
+      "canonical": "https://brasa.world/ledger-spain",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c23b2d4fd5c60ba7c3716d27490abfb34752b74df3efeca941e84e198c27fc49"
+    },
+    {
+      "id": "ledger-sri-lanka",
+      "path": "ledger-sri-lanka.html",
+      "canonical": "https://brasa.world/ledger-sri-lanka",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bc2739c4edbc6d07c0cd37f0bbf67d0e64d1016508c54e0949072c04fd3d35c1"
+    },
+    {
+      "id": "ledger-sudan",
+      "path": "ledger-sudan.html",
+      "canonical": "https://brasa.world/ledger-sudan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "98238157512cf558bbbb4fb1618397621e3f5a93836574b20a74d9b4db7506d2"
+    },
+    {
+      "id": "ledger-suriname",
+      "path": "ledger-suriname.html",
+      "canonical": "https://brasa.world/ledger-suriname",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bd6486dd843752a6adbf3531026a513ec699c7a1b6abc137d3b284edb3849986"
+    },
+    {
+      "id": "ledger-sweden",
+      "path": "ledger-sweden.html",
+      "canonical": "https://brasa.world/ledger-sweden",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bdcce8ebc381bf100f8500435ec25ac3d1ae0339aa11b46c329fcd0f83f9f664"
+    },
+    {
+      "id": "ledger-switzerland",
+      "path": "ledger-switzerland.html",
+      "canonical": "https://brasa.world/ledger-switzerland",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "03e5647e5e67c052a69087765d88ab047e3ca3fe260cdc7825db5a7a5ac397d0"
+    },
+    {
+      "id": "ledger-syria",
+      "path": "ledger-syria.html",
+      "canonical": "https://brasa.world/ledger-syria",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "8330b3bdb0b425205e5249eed304ca3d8549bb0e3fb939fac0a3e99116932596"
+    },
+    {
+      "id": "ledger-taiwan",
+      "path": "ledger-taiwan.html",
+      "canonical": "https://brasa.world/ledger-taiwan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d4ad78ed24295ec313234ad648baf77abc2a490ab55d499204bfda130f0af611"
+    },
+    {
+      "id": "ledger-tajikistan",
+      "path": "ledger-tajikistan.html",
+      "canonical": "https://brasa.world/ledger-tajikistan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c20fea9c3eee56d2c1246b8df4f3ba95da050672946a7d9245a6e90a80ff4aab"
+    },
+    {
+      "id": "ledger-tanzania",
+      "path": "ledger-tanzania.html",
+      "canonical": "https://brasa.world/ledger-tanzania",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f9ff73e7207eb66fd4c5f35d1ecadab42a7bb9a9084c3fb8de8a1591ee0d2585"
+    },
+    {
+      "id": "ledger-thailand",
+      "path": "ledger-thailand.html",
+      "canonical": "https://brasa.world/ledger-thailand",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "4fc6ba4ffc91f295a06d95661f5c2909c6595102b55e428bb6dbb8b5ddd28233"
+    },
+    {
+      "id": "ledger-timor-leste",
+      "path": "ledger-timor-leste.html",
+      "canonical": "https://brasa.world/ledger-timor-leste",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "b58a4cd968f1e12253ea4559e29f50043dedaea1978ec53cba50f4c3d4b017ce"
+    },
+    {
+      "id": "ledger-togo",
+      "path": "ledger-togo.html",
+      "canonical": "https://brasa.world/ledger-togo",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "6522b7ca0910d004e24dbf7821cdc196d52697c42ef1fab9a16a794812188946"
+    },
+    {
+      "id": "ledger-tonga",
+      "path": "ledger-tonga.html",
+      "canonical": "https://brasa.world/ledger-tonga",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "524839e460c068d57ddd3b0d9c23656034fb20a441c36aa3cb894023958be257"
+    },
+    {
+      "id": "ledger-trinidad-and-tobago",
+      "path": "ledger-trinidad-and-tobago.html",
+      "canonical": "https://brasa.world/ledger-trinidad-and-tobago",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3486dd42a30c356c30f7f14a2b03e88bec29c677e25349b0ea3bd1394a35a05a"
+    },
+    {
+      "id": "ledger-tunisia",
+      "path": "ledger-tunisia.html",
+      "canonical": "https://brasa.world/ledger-tunisia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f3f3a24d871d4978facf726bfdcd09f29d5efc7c96456392104be03065d3a0f0"
+    },
+    {
+      "id": "ledger-turkey",
+      "path": "ledger-turkey.html",
+      "canonical": "https://brasa.world/ledger-turkey",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "edd5d6b609a1874e572b66e1750d4769dd8313d618cd2d1d722c25cee2af2220"
+    },
+    {
+      "id": "ledger-turkmenistan",
+      "path": "ledger-turkmenistan.html",
+      "canonical": "https://brasa.world/ledger-turkmenistan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "4fec481597410857ddf08cce9fbb51a9756375f14f3d282ad9de41adb2f1c8ca"
+    },
+    {
+      "id": "ledger-tuvalu",
+      "path": "ledger-tuvalu.html",
+      "canonical": "https://brasa.world/ledger-tuvalu",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "68648d1ce13d934e03f9581cf965e05667b0a213e8337e37723a51894ce98db3"
+    },
+    {
+      "id": "ledger-uganda",
+      "path": "ledger-uganda.html",
+      "canonical": "https://brasa.world/ledger-uganda",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f99e5620912b2cdfeeab05fbf6c801c03617655ea0be8c768033ee5175ac207a"
+    },
+    {
+      "id": "ledger-ukraine",
+      "path": "ledger-ukraine.html",
+      "canonical": "https://brasa.world/ledger-ukraine",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "9b94f879b3c78ed5e24750d896728d82996859eb405b3db0866fb1d99f2c359e"
+    },
+    {
+      "id": "ledger-united-arab-emirates",
+      "path": "ledger-united-arab-emirates.html",
+      "canonical": "https://brasa.world/ledger-united-arab-emirates",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "457b710a9d9c018a088fd4aa14c4e8a1b9968b213a9c6d276195b902e8ba8943"
+    },
+    {
+      "id": "ledger-united-kingdom",
+      "path": "ledger-united-kingdom.html",
+      "canonical": "https://brasa.world/ledger-united-kingdom",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "91f81102a442abb3f567839646e1f7c7704536ce68f0e04c45bf0254846a7847"
+    },
+    {
+      "id": "ledger-united-states",
+      "path": "ledger-united-states.html",
+      "canonical": "https://brasa.world/ledger-united-states",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "2464647d811bc5fef3e5a00924e71326d76cb7bb48f05f8539e8a572557edb0e"
+    },
+    {
+      "id": "ledger-uruguay",
+      "path": "ledger-uruguay.html",
+      "canonical": "https://brasa.world/ledger-uruguay",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "7d83e96e1f7278968826e38d9df623dfab9cfbdddee210dc6b25b17d3b363095"
+    },
+    {
+      "id": "ledger-uzbekistan",
+      "path": "ledger-uzbekistan.html",
+      "canonical": "https://brasa.world/ledger-uzbekistan",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "3f4886f161b48b30670e999236e055927e4061fac847eccb2d6a0abb321fe6cb"
+    },
+    {
+      "id": "ledger-vanuatu",
+      "path": "ledger-vanuatu.html",
+      "canonical": "https://brasa.world/ledger-vanuatu",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "797ea7c917b6066a328471aea90742fd29af74521fea1f5841821101049d7281"
+    },
+    {
+      "id": "ledger-venezuela",
+      "path": "ledger-venezuela.html",
+      "canonical": "https://brasa.world/ledger-venezuela",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e9a4acb343e94d36f7f9a811b820cc539002e801443931bbc7e2a8cfe4692a23"
+    },
+    {
+      "id": "ledger-vietnam",
+      "path": "ledger-vietnam.html",
+      "canonical": "https://brasa.world/ledger-vietnam",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "1f9c1432d420b604e54f9890dd9f4fec0081218e0f91aa928375301894fd500f"
+    },
+    {
+      "id": "ledger-yemen",
+      "path": "ledger-yemen.html",
+      "canonical": "https://brasa.world/ledger-yemen",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "e91ce8fb48b12a1893e25ca8a4d11e424a6e1c60325f4c8db9023d624e52f207"
+    },
+    {
+      "id": "ledger-zambia",
+      "path": "ledger-zambia.html",
+      "canonical": "https://brasa.world/ledger-zambia",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "19c2dba557013991ff71188a734941a167b125e5a5cf3547e77ce212701eb3dc"
+    },
+    {
+      "id": "ledger-zimbabwe",
+      "path": "ledger-zimbabwe.html",
+      "canonical": "https://brasa.world/ledger-zimbabwe",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "cba6f53bc34a14512e9444358bfc94ca8ae81ea9d3c99e6bf605cfd9f539da72"
+    },
+    {
+      "id": "open-ledger-broken",
+      "path": "open-ledger-broken.html",
+      "canonical": "https://brasa.world/open-ledger-broken",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "79f6122bff1cb1569397ede30fb9223fb3102fa5e4531470cbab942cf512a86f"
+    },
+    {
+      "id": "open-ledger-citizens",
+      "path": "open-ledger-citizens.html",
+      "canonical": "https://brasa.world/open-ledger-citizens",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "bf6ff9dbccfb3de54747dfc144c8fefcfb77a54c374f39eeb514a8a997125707"
+    },
+    {
+      "id": "open-ledger-dashboard",
+      "path": "open-ledger-dashboard.html",
+      "canonical": "https://brasa.world/open-ledger-dashboard",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "1de4f9902a999feef6e15f7a7e9dfa0ffc319e78c9de8a71c4c3cb3b8424cb46"
+    },
+    {
+      "id": "open-ledger-foundations",
+      "path": "open-ledger-foundations.html",
+      "canonical": "https://brasa.world/open-ledger-foundations",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "c00afac56c0cd246e004e852ea0d03dbb346dcb62ac3f93046dda7ed120835a2"
+    },
+    {
+      "id": "open-ledger-founder",
+      "path": "open-ledger-founder.html",
+      "canonical": "https://brasa.world/open-ledger-founder",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "df259a2f9e719ae85dcb2cb79ab29729351a2fd8d51fe9f74473e87ec0e7de5e"
+    },
+    {
+      "id": "open-ledger-laws",
+      "path": "open-ledger-laws.html",
+      "canonical": "https://brasa.world/open-ledger-laws",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "d16662cdad006073300dac0589203ba81869e48d691c7f4355e945d940f52d8d"
+    },
+    {
+      "id": "open-ledger-open",
+      "path": "open-ledger-open.html",
+      "canonical": "https://brasa.world/open-ledger-open",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "2e25f3e68553a437be1b549ddb7f2138b7062ffff9fc9651f6387843aabb1e25"
+    },
+    {
+      "id": "open-ledger-operating",
+      "path": "open-ledger-operating.html",
+      "canonical": "https://brasa.world/open-ledger-operating",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "0c89be5c9e2b44c8e04abadc9a8e5415ff7c386800ce6f8fc1e2a7a4948c193f"
+    },
+    {
+      "id": "open-ledger-planet",
+      "path": "open-ledger-planet.html",
+      "canonical": "https://brasa.world/open-ledger-planet",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "5f76d85f3919df7bc83dcb56f3d90f0a4dddb0a52a8085f1502f16c72a1b632b"
+    },
+    {
+      "id": "open-ledger",
+      "path": "open-ledger.html",
+      "canonical": "https://brasa.world/open-ledger",
+      "issue": "missing-meta-description",
+      "status": "needs-editorial-review",
+      "sourceSha256": "f5cd416bdcbd9ab8acbd88d3522d9bf076ce3719dfa5040ffeadff075b979b27"
+    }
+  ]
+}

@@ -22,7 +22,6 @@ Disallow: /
 
 # Sitemaps
 Sitemap: https://brasa.world/sitemap.xml
-Sitemap: https://brasa.world/sitemap-images.xml
 
 # Crawl delay for aggressive bots
 Crawl-delay: 10
