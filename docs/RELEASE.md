@@ -22,3 +22,7 @@ Each Worker deploy is independently reversible. Roll back the central gateway fi
 ## Staging gate
 
 The manual `Deploy staging` workflow is the only automated deployment entry point. It always selects Wrangler's named `staging` environment, whose gateway binds only to `*-staging` services and a separate analytics dataset. Configure protected GitHub environment secrets `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, and `STAGING_BASE_URL`; optionally set `STAGING_SCHOOL_ID` to a published preview tenant. The workflow tests and packages before deployment, then exercises health, Education, Business, and Government through the public gateway. It contains no production deployment command.
+
+## Production gate
+
+`npm run release:check` must succeed before any production database, Worker environment, consumer, route, DNS record, or custom domain is created or changed. Its source of truth is `release/api-production-gate.json`, which records approvals and identifiers but never secrets. `npm run release:status` reports missing decisions without opening the gate. The complete sequence, proposed retention boundaries, alerts, canary checks, and recovery paths are in `docs/API_PRODUCTION_RUNBOOK.md`.

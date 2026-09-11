@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "target": "api.brasa.world",
+  "approval": { "releaseOwner": "", "approvedAt": "" },
+  "production": {
+    "databaseId": "",
+    "gatewayVersion": "",
+    "rollbackVersion": "",
+    "domainApproved": false,
+    "serviceBindingsVerified": false,
+    "alertsVerified": false
+  },
+  "policy": { "usageRetentionDays": null, "auditRetentionDays": null, "approved": false },
+  "firstConsumer": { "name": "", "scopes": [], "dailyLimit": null, "owner": "", "rollbackContact": "" }
+}
