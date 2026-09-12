@@ -20,7 +20,8 @@
   "env": {
     "production": {
       "name": "brasa-content-api-production",
-      "workers_dev": true,
+      "workers_dev": false,
+      "routes": [{ "pattern": "api.brasa.world", "custom_domain": true }],
       "d1_databases": [
         { "binding": "API_DB", "database_name": "brasa-api-production", "database_id": "ff518620-621d-4c52-aac7-7cbf76790be2", "migrations_dir": "migrations-api" }
       ],

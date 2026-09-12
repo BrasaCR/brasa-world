@@ -7,6 +7,7 @@ const env = { ASSETS: { fetch: async () => new Response(JSON.stringify({ schemaV
 test('applies Shield headers and a correlation identifier to every gateway response', async () => {
   const response = await worker.fetch(new Request('https://api.brasa.world/health', { headers: { 'cf-ray': 'test-ray' } }), env);
   assert.equal(response.headers.get('x-request-id'), 'test-ray'); assert.equal(response.headers.get('x-content-type-options'), 'nosniff');
+  assert.equal(response.headers.get('strict-transport-security'), 'max-age=31536000; includeSubDomains');
   assert.equal(response.headers.get('referrer-policy'), 'no-referrer'); assert.match(response.headers.get('permissions-policy'), /camera=\(\)/);
   assert.equal(response.headers.get('cross-origin-resource-policy'), 'cross-origin'); assert.match(response.headers.get('content-security-policy'), /frame-ancestors 'none'/);
 });

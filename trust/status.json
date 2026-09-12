@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "program": "Powered by BRASA",
-  "status": "pilot-ready-staging",
+  "status": "production-ready-prepilot",
   "verification": {
-    "productionApproved": false,
+    "productionApproved": true,
     "protectedByBrasaClaimApproved": false,
     "independentCertification": false
   },

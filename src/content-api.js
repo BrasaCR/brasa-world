@@ -119,6 +119,7 @@ function positiveInteger(value, fallback, maximum) {
 function shieldResponse(response, requestId) {
   const secured = new Response(response.body, response);
   secured.headers.set('x-content-type-options', 'nosniff');
+  secured.headers.set('strict-transport-security', 'max-age=31536000; includeSubDomains');
   secured.headers.set('referrer-policy', 'no-referrer');
   secured.headers.set('permissions-policy', 'camera=(), microphone=(), geolocation=(), payment=()');
   secured.headers.set('content-security-policy', response.headers.get('content-type')?.includes('text/html') ? "default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'" : "default-src 'none'; frame-ancestors 'none'");
