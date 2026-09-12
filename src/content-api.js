@@ -27,6 +27,8 @@ async function loadCatalog(request, env) {
   return response.json();
 }
 
+async function asset(request,env,path){return env.ASSETS.fetch(new Request(new URL(path,request.url),{headers:{accept:request.headers.get('accept')||'*/*'}}))}
+
 async function educationLessons(request, env, url) {
   if (!env.EDUCATION) return json({ error: 'education_service_unavailable' }, 503, { ...PUBLIC_API_CORS, 'cache-control': 'no-store' });
   const schoolId = url.searchParams.get('schoolId') || '';
@@ -119,7 +121,7 @@ function shieldResponse(response, requestId) {
   secured.headers.set('x-content-type-options', 'nosniff');
   secured.headers.set('referrer-policy', 'no-referrer');
   secured.headers.set('permissions-policy', 'camera=(), microphone=(), geolocation=(), payment=()');
-  secured.headers.set('content-security-policy', "default-src 'none'; frame-ancestors 'none'");
+  secured.headers.set('content-security-policy', response.headers.get('content-type')?.includes('text/html') ? "default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; img-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'" : "default-src 'none'; frame-ancestors 'none'");
   secured.headers.set('cross-origin-resource-policy', 'cross-origin');
   secured.headers.set('x-request-id', requestId);
   return secured;
@@ -129,12 +131,21 @@ function routeName(pathname) {
   if (pathname.startsWith('/v1/content/')) return '/v1/content/:id';
   const experience = pathname.match(/^\/v1\/business\/experiences\/[^/]+(?:\/(learning|preparation|providers))?$/);
   if (experience) return `/v1/business/experiences/:id${experience[1] ? `/${experience[1]}` : ''}`;
-  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/business/providers', '/v1/government/services', '/v1/government/experiences/service-navigator', '/v1/account/usage', '/health'].includes(pathname) ? pathname : 'unmatched';
+  return ['/v1/content', '/v1/education/lessons', '/v1/business/pathways', '/v1/business/providers', '/v1/government/services', '/v1/government/experiences/service-navigator', '/v1/trust/status', '/v1/account/usage', '/powered-by-brasa', '/health'].includes(pathname) ? pathname : 'unmatched';
 }
 
 async function handleRequest(request, env, consumer) {
     const url = new URL(request.url);
     if (request.url.length > 4096 || [...url.searchParams].length > 16) return json({ error: 'request_too_large' }, 414, { 'cache-control': 'no-store' });
+    if(url.pathname==='/powered-by-brasa'){
+      if(!['GET','HEAD'].includes(request.method))return json({error:'method_not_allowed'},405,{allow:'GET, HEAD'});
+      const response=await asset(request,env,'/trust/powered-by-brasa.html');return new Response(request.method==='HEAD'?null:response.body,{status:response.status,headers:{'content-type':'text/html; charset=utf-8','cache-control':'public, max-age=300'}});
+    }
+    if(url.pathname==='/v1/trust/status'){
+      if(request.method==='OPTIONS')return new Response(null,{status:204,headers:PUBLIC_API_CORS});
+      if(!['GET','HEAD'].includes(request.method))return json({error:'method_not_allowed'},405,{...PUBLIC_API_CORS,allow:'GET, HEAD, OPTIONS'});
+      const response=await asset(request,env,'/trust/status.json');if(!response.ok)return json({error:'trust_status_unavailable'},503,{...PUBLIC_API_CORS,'cache-control':'no-store'});const data=await response.json();return json({data},200,{...PUBLIC_API_CORS,'cache-control':'public, max-age=300'});
+    }
     if (url.pathname.startsWith('/v1/business/experiences/')) {
       if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: PUBLIC_API_CORS });
       if (!['GET', 'HEAD'].includes(request.method)) return json({ error: 'method_not_allowed' }, 405, { ...PUBLIC_API_CORS, allow: 'GET, HEAD, OPTIONS' });

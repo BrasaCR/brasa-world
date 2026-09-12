@@ -4,7 +4,7 @@ import path from 'node:path';
 import test from 'node:test';
 const spec = await readFile(path.resolve(import.meta.dirname, '..', 'openapi.yaml'), 'utf8');
 test('documents every public gateway and excludes private identity contracts', () => {
-  for (const route of ['/v1/content:', '/v1/content/{id}:', '/v1/education/lessons:', '/v1/business/pathways:', '/v1/business/experiences/{id}:', '/v1/business/experiences/{id}/learning:', '/v1/business/experiences/{id}/preparation:', '/v1/business/experiences/{id}/providers:', '/v1/business/providers:', '/v1/government/services:', '/v1/government/experiences/service-navigator:']) assert.match(spec, new RegExp(route.replace(/[{}]/g, '\\$&')));
+  for (const route of ['/v1/content:', '/v1/content/{id}:', '/v1/education/lessons:', '/v1/business/pathways:', '/v1/business/experiences/{id}:', '/v1/business/experiences/{id}/learning:', '/v1/business/experiences/{id}/preparation:', '/v1/business/experiences/{id}/providers:', '/v1/business/providers:', '/v1/government/services:', '/v1/government/experiences/service-navigator:', '/v1/trust/status:']) assert.match(spec, new RegExp(route.replace(/[{}]/g, '\\$&')));
   for (const privatePath of ['/session:', '/payments:', '/report:', '/credentials:']) assert.equal(spec.includes(privatePath), false);
   assert.match(spec, /No endpoint in this document accepts GovID or private learner data/);
 });

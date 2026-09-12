@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: BRASA Public API
-  version: 1.6.0
+  version: 1.7.0
   description: Public discovery remains credential-free. Registered server-side consumers may send a bearer API key for scoped quota accounting. No endpoint in this document accepts GovID or private learner data.
 servers:
   - url: https://api.brasa.world
@@ -152,6 +152,14 @@ paths:
       responses:
         '200': { description: Four guidance steps and bounded possible catalog matches }
         '400': { $ref: '#/components/responses/InvalidRequest' }
+        '503': { $ref: '#/components/responses/Unavailable' }
+  /v1/trust/status:
+    get:
+      operationId: getBrasaTrustStatus
+      summary: Read the current public Powered by BRASA verification boundary
+      description: Reports implemented controls and evidence still required before the Protected by BRASA claim can be approved. This is not an independent certification.
+      responses:
+        '200': { description: Current public trust status and claim gates }
         '503': { $ref: '#/components/responses/Unavailable' }
 components:
   securitySchemes:

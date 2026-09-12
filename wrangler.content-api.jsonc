@@ -5,7 +5,7 @@
   "compatibility_date": "2026-09-11",
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
-  "assets": { "directory": ".api-assets", "binding": "ASSETS", "run_worker_first": ["/v1/*", "/health"] },
+  "assets": { "directory": ".api-assets", "binding": "ASSETS", "run_worker_first": ["/v1/*", "/powered-by-brasa", "/health"] },
   "services": [
     { "binding": "EDUCATION", "service": "brasa-education" },
     { "binding": "BUSINESS", "service": "brasa-business" },

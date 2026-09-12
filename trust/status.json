@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "program": "Powered by BRASA",
+  "status": "pilot-ready-staging",
+  "verification": {
+    "productionApproved": false,
+    "protectedByBrasaClaimApproved": false,
+    "independentCertification": false
+  },
+  "implemented": [
+    "isolated service ownership",
+    "tenant-bound school authorization",
+    "short-lived revocable operator sessions",
+    "privacy-minimized security events",
+    "bounded public APIs and offline-safe content"
+  ],
+  "requiredBeforeProtectedClaim": [
+    "phishing-resistant administrator access",
+    "production WAF and alert verification",
+    "multi-tenant isolation exercise",
+    "backup and recovery exercise",
+    "approved retention and incident policies"
+  ],
+  "updatedAt": "2026-09-11"
+}
