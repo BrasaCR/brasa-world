@@ -20,11 +20,14 @@
   "env": {
     "production": {
       "name": "brasa-content-api-production",
-      "workers_dev": false,
+      "workers_dev": true,
+      "d1_databases": [
+        { "binding": "API_DB", "database_name": "brasa-api-production", "database_id": "ff518620-621d-4c52-aac7-7cbf76790be2", "migrations_dir": "migrations-api" }
+      ],
       "services": [
-        { "binding": "EDUCATION", "service": "brasa-education" },
-        { "binding": "BUSINESS", "service": "brasa-business" },
-        { "binding": "GOVERNMENT", "service": "brasa-government" }
+        { "binding": "EDUCATION", "service": "brasa-education-powered-production" },
+        { "binding": "BUSINESS", "service": "brasa-business-powered-production" },
+        { "binding": "GOVERNMENT", "service": "brasa-government-powered-production" }
       ],
       "analytics_engine_datasets": [{ "binding": "ANALYTICS", "dataset": "brasa_content_api" }]
     },

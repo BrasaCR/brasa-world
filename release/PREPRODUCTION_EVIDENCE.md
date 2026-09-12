@@ -32,3 +32,19 @@ These identifiers establish the staging evidence baseline only. They are not pro
 The machine-readable production gate remains authoritative. Infrastructure approval requires a timestamp, production D1 identifier, approved and rollback versions, custom-domain approval, verified production bindings and alerts, and approved retention periods. Pilot activation is a separate later gate requiring a first consumer with scopes, quota, owner, and rollback contact. Cloudflare WAF, phishing-resistant access, restore testing, tenant-isolation evidence, and legal review must be evidenced outside source code.
 
 No production Worker, route, DNS record, database, consumer, or public protection claim may be created merely because this register exists.
+
+## Production canary evidence
+
+The approved isolated production resources were provisioned on 2026-09-11 without reusing staging or changing the existing BRASA site Workers:
+
+- API database `brasa-api-production`: `ff518620-621d-4c52-aac7-7cbf76790be2`
+- Education database `brasa-education-platform-production`: `fdcc01ce-6b7e-405b-8bc0-6c35ff673e9c`
+- Business database `brasa-business-marketplace-production`: `61e0e794-30d2-4e52-a891-b9a1b46d3320`
+- Government database `brasa-government-reviews-production`: `ce6032f6-25a2-40a9-8d7a-090997cc6d3a`
+- Education Worker `brasa-education-powered-production`: `357968b6-ed49-46b4-9751-0e5473385e75`
+- Business Worker `brasa-business-powered-production`: `f1f9fbb7-2f6a-444b-aaf5-6b255359761f`
+- Government Worker `brasa-government-powered-production`: `7b3cb1ba-db0a-447e-807e-0377f1f9046c`
+- Gateway rollback candidate: `5ce4c7d9-4be6-489c-8509-31831bdb315d`
+- Gateway approved candidate: `8ecd36ef-07b5-4e8f-90d5-176ce5be47dc`
+
+All reviewed additive migrations succeeded. Thirteen gateway checks covering health, trust, content, lessons, Business composition/providers, and Government services/navigation returned 200 through the production Workers URL. The agreed policy is 90-day usage retention and 400-day audit retention. Alert delivery remains unverified, so the custom domain is not attached and the production gate remains closed.

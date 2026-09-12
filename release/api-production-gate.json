@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "target": "api.brasa.world",
-  "approval": { "releaseOwner": "Richard", "approvedAt": "" },
+  "approval": { "releaseOwner": "Richard", "approvedAt": "2026-09-12T00:31:58Z" },
   "production": {
-    "databaseId": "",
-    "gatewayVersion": "",
-    "rollbackVersion": "",
-    "domainApproved": false,
-    "serviceBindingsVerified": false,
+    "databaseId": "ff518620-621d-4c52-aac7-7cbf76790be2",
+    "gatewayVersion": "8ecd36ef-07b5-4e8f-90d5-176ce5be47dc",
+    "rollbackVersion": "5ce4c7d9-4be6-489c-8509-31831bdb315d",
+    "domainApproved": true,
+    "serviceBindingsVerified": true,
     "alertsVerified": false
   },
-  "policy": { "usageRetentionDays": null, "auditRetentionDays": null, "approved": false },
+  "policy": { "usageRetentionDays": 90, "auditRetentionDays": 400, "approved": true },
   "pilotActivation": { "approved": false, "firstConsumer": { "name": "", "scopes": [], "dailyLimit": null, "owner": "", "rollbackContact": "" } }
 }
