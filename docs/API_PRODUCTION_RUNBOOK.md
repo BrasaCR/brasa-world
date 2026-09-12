@@ -1,6 +1,6 @@
 # `api.brasa.world` production runbook
 
-Production is intentionally blocked until `release/api-production-gate.json` is complete and `npm run release:check` succeeds. The gate records decisions; it must never contain secrets.
+Production is intentionally blocked until `release/api-production-gate.json` is complete and `npm run release:check` succeeds. The gate records infrastructure decisions; it must never contain secrets. Pilot selection is deliberately later and uses the separate `npm run pilot:check` gate, so production foundations can be approved without prematurely naming a tenant or consumer.
 
 ## Proposed data policy requiring approval
 
@@ -21,9 +21,9 @@ These periods are proposals, not active policy. The release owner must approve o
 7. Approve the custom domain. Add `{ "pattern": "api.brasa.world", "custom_domain": true }` only to the production environment and deploy. Cloudflare manages the DNS record and certificate; do not also create a conflicting A, AAAA, or CNAME record.
 8. Verify TLS, `/health`, OpenAPI, all anonymous domain routes, CORS, cache behavior, and authenticated usage on `api.brasa.world` before issuing the pilot key.
 
-## Controlled first consumer
+## Controlled first consumer — after infrastructure approval
 
-Choose one server-side integration with a named technical owner and rollback contact. Grant the smallest scope set and a conservative daily quota. Never place the key in a browser, mobile application, URL, ticket, chat transcript, or repository. Verify a successful request, a denied out-of-scope request, `/v1/account/usage`, rotation, and revocation before increasing the quota or onboarding another consumer.
+After infrastructure passes `npm run release:check`, choose one server-side integration with a named technical owner and rollback contact and complete `pilotActivation` in the gate. Grant the smallest scope set and a conservative daily quota. Never place the key in a browser, mobile application, URL, ticket, chat transcript, or repository. Verify a successful request, a denied out-of-scope request, `/v1/account/usage`, rotation, and revocation before increasing the quota or onboarding another consumer. `npm run pilot:check` must pass before activation.
 
 The first 24 hours are a canary. Review 5xx responses, dependency availability, D1 failures, 401/403 changes, quota use, latency, and cache behavior at 15 minutes, one hour, four hours, and 24 hours. Suspend the consumer on anomalous use; revoke it on suspected disclosure.
 

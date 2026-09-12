@@ -18,6 +18,16 @@
     "traces": { "enabled": true, "head_sampling_rate": 0.05 }
   },
   "env": {
+    "production": {
+      "name": "brasa-content-api-production",
+      "workers_dev": false,
+      "services": [
+        { "binding": "EDUCATION", "service": "brasa-education" },
+        { "binding": "BUSINESS", "service": "brasa-business" },
+        { "binding": "GOVERNMENT", "service": "brasa-government" }
+      ],
+      "analytics_engine_datasets": [{ "binding": "ANALYTICS", "dataset": "brasa_content_api" }]
+    },
     "staging": {
       "name": "brasa-content-api-staging",
       "workers_dev": true,

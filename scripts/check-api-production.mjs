@@ -1,7 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 
-export function evaluateProductionGate(gate, config = {}) {
+export function evaluateProductionGate(gate, config = {}, options = {}) {
   const missing = [], required = (value, label) => { if (!value) missing.push(label); };
   if (gate?.schemaVersion !== 1 || gate?.target !== 'api.brasa.world') missing.push('valid gate schema and target');
   if (!config?.env?.production) missing.push('production Wrangler environment');
@@ -14,15 +14,13 @@ export function evaluateProductionGate(gate, config = {}) {
   if (!Number.isInteger(usageDays) || usageDays < 1 || usageDays > 400) missing.push('approved usage retention (1-400 days)');
   if (!Number.isInteger(auditDays) || auditDays < 30 || auditDays > 2555) missing.push('approved audit retention (30-2555 days)');
   if (gate?.policy?.approved !== true) missing.push('retention-policy approval');
-  required(gate?.firstConsumer?.name, 'first consumer name'); required(gate?.firstConsumer?.owner, 'first consumer owner'); required(gate?.firstConsumer?.rollbackContact, 'first consumer rollback contact');
-  if (!Array.isArray(gate?.firstConsumer?.scopes) || !gate.firstConsumer.scopes.length) missing.push('first consumer scopes');
-  if (!Number.isInteger(gate?.firstConsumer?.dailyLimit) || gate.firstConsumer.dailyLimit < 1) missing.push('first consumer daily limit');
+  if(options.pilot===true){const consumer=gate?.pilotActivation?.firstConsumer;if(gate?.pilotActivation?.approved!==true)missing.push('pilot activation approval');required(consumer?.name,'first consumer name');required(consumer?.owner,'first consumer owner');required(consumer?.rollbackContact,'first consumer rollback contact');if(!Array.isArray(consumer?.scopes)||!consumer.scopes.length)missing.push('first consumer scopes');if(!Number.isInteger(consumer?.dailyLimit)||consumer.dailyLimit<1)missing.push('first consumer daily limit')}
   return { ready: missing.length === 0, target: gate?.target || null, missing };
 }
 
 export async function readProductionGate() { return JSON.parse(await readFile(new URL('../release/api-production-gate.json', import.meta.url), 'utf8')); }
 export async function readProductionConfig() { return JSON.parse(await readFile(new URL('../wrangler.content-api.jsonc', import.meta.url), 'utf8')); }
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
-  const result = evaluateProductionGate(await readProductionGate(), await readProductionConfig()); console.log(JSON.stringify(result, null, 2));
+  const result = evaluateProductionGate(await readProductionGate(), await readProductionConfig(),{pilot:process.argv.includes('--pilot')}); console.log(JSON.stringify(result, null, 2));
   if (!result.ready && !process.argv.includes('--report')) process.exitCode = 1;
 }

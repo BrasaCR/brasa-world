@@ -24,9 +24,11 @@ These identifiers establish the staging evidence baseline only. They are not pro
 - Private and authenticated routes are excluded from offline caches.
 - Additive migrations, rollback instructions, threat model, incident response, and recovery checklist exist.
 - The public trust endpoint refuses the “Protected by BRASA” claim.
+- The named production Wrangler environment and production service names are defined without a database identifier, route, or deployment authorization; the release gate therefore remains closed.
+- `Richard` is recorded as release owner, but no release timestamp or operational approval is inferred.
 
 ## Human or external gates still open
 
-The machine-readable production gate remains authoritative. It requires a release owner and timestamp, production D1 identifier, approved and rollback versions, custom-domain approval, verified production bindings and alerts, approved retention periods, and a named first consumer with scopes, quota, owner, and rollback contact. Cloudflare WAF, phishing-resistant access, restore testing, tenant-isolation evidence, and legal review must be evidenced outside source code.
+The machine-readable production gate remains authoritative. Infrastructure approval requires a timestamp, production D1 identifier, approved and rollback versions, custom-domain approval, verified production bindings and alerts, and approved retention periods. Pilot activation is a separate later gate requiring a first consumer with scopes, quota, owner, and rollback contact. Cloudflare WAF, phishing-resistant access, restore testing, tenant-isolation evidence, and legal review must be evidenced outside source code.
 
 No production Worker, route, DNS record, database, consumer, or public protection claim may be created merely because this register exists.
