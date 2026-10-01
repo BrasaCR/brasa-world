@@ -5,11 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="BRASA · Free World School · Owned by the citizens of the world">
 <meta name="theme-color" content="#1B1A17">
-<meta name="application-name" content="BRASA World">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="manifest" href="/manifest.webmanifest">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 <title>BRASA — Free World School</title>
 
@@ -163,7 +158,9 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   height: 140px;
   width: auto;
   display: block;
+  transition: height 380ms var(--ease);
 }
+.site-header.scrolled .wordmark-img { height: 58px; }
 
 /* =========================================================================
    HERO · Full-bleed photograph · Identity-first · No carousel
@@ -350,6 +347,157 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .pillar:hover .pillar-photo img { transform: scale(1.06); }
 
+/* =========================================================================
+   BRASA ARCHITECTURE · The system and its educational spine
+   ========================================================================= */
+.architecture {
+  position: relative;
+  background: var(--brasa-black);
+  color: var(--brasa-cream);
+  isolation: isolate;
+  overflow: hidden;
+}
+.architecture::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background-image: url('https://images.brasa.world/Photos/vecteezy_bridge-in-rainforest-costa-rica_45759619.jpg?w=2200&q=85');
+  background-size: cover;
+  background-position: center;
+  filter: none;
+  transform: scale(1.015);
+}
+.architecture::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: transparent;
+}
+.architecture-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(18rem, 0.95fr);
+  gap: clamp(2.5rem, 7vw, 7rem);
+  align-items: start;
+}
+.architecture .eyebrow { color: var(--brasa-accent); }
+.architecture-title {
+  font-family: var(--serif);
+  font-weight: 320;
+  font-size: clamp(2.55rem, 5.4vw, 5.4rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+  font-variation-settings: "opsz" 144, "SOFT" 55, "WONK" 1;
+  max-width: 16ch;
+}
+.architecture-copy {
+  font-family: var(--sans);
+  font-size: clamp(1.05rem, 1.5vw, 1.25rem);
+  line-height: 1.7;
+  color: rgba(245, 240, 229, 0.76);
+  max-width: 46rem;
+}
+.architecture-copy strong {
+  color: var(--brasa-cream);
+  font-weight: 600;
+}
+.spine-label {
+  margin-top: clamp(4rem, 9vh, 7rem);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(245, 240, 229, 0.18);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--brasa-accent);
+}
+.spine-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.spine-card {
+  position: relative;
+  min-height: 22rem;
+  padding: clamp(1.7rem, 3vw, 2.7rem);
+  border-right: 1px solid rgba(245, 240, 229, 0.18);
+}
+.spine-card:first-child { border-left: 1px solid rgba(245, 240, 229, 0.18); }
+.spine-number {
+  display: block;
+  margin-bottom: clamp(3rem, 8vh, 6rem);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  color: rgba(245, 240, 229, 0.42);
+}
+.spine-card h3 {
+  margin-bottom: 1rem;
+  font-family: var(--serif);
+  font-size: clamp(1.65rem, 2.6vw, 2.45rem);
+  font-weight: 350;
+  line-height: 1.05;
+}
+.spine-card p {
+  font-family: var(--sans);
+  font-size: 0.96rem;
+  line-height: 1.65;
+  color: rgba(245, 240, 229, 0.66);
+}
+.system-loop {
+  margin-top: clamp(3.5rem, 8vh, 6rem);
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border-top: 1px solid rgba(245, 240, 229, 0.18);
+  border-bottom: 1px solid rgba(245, 240, 229, 0.18);
+}
+.loop-step {
+  position: relative;
+  padding: 1.6rem 2rem 1.6rem 0;
+  font-family: var(--sans);
+  font-size: clamp(0.82rem, 1.1vw, 0.96rem);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.loop-step:not(:last-child)::after {
+  content: '→';
+  position: absolute;
+  top: 50%; right: 1rem;
+  transform: translateY(-50%);
+  color: var(--brasa-accent);
+}
+.architecture-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 2rem;
+  margin-top: 2rem;
+}
+.architecture-actions a {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brasa-cream);
+  border-bottom: 1px solid var(--brasa-accent);
+  padding-bottom: 0.35rem;
+}
+@media (max-width: 800px) {
+  .architecture-intro { grid-template-columns: 1fr; gap: 1.75rem; }
+  .spine-grid { grid-template-columns: 1fr; }
+  .spine-card,
+  .spine-card:first-child {
+    min-height: auto;
+    border-left: 1px solid rgba(245, 240, 229, 0.18);
+    border-bottom: 1px solid rgba(245, 240, 229, 0.18);
+  }
+  .spine-number { margin-bottom: 2rem; }
+  .system-loop { grid-template-columns: 1fr; }
+  .loop-step { padding: 1rem 2rem 1rem 0; }
+  .loop-step:not(:last-child)::after { content: '↓'; right: 0.4rem; }
+}
+
 .pillar-content {
   position: relative;
   z-index: 3;
@@ -504,6 +652,61 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   filter: saturate(0.92) contrast(1.02);
 }
 .feature:hover .feature-photo img { transform: scale(1.05); }
+.feature--roadmap {
+  cursor: default;
+}
+a.feature--roadmap { cursor: pointer; }
+a.feature--roadmap:hover .feature-photo img { transform: scale(1.05); }
+a.feature--roadmap:focus-visible { outline: 2px solid var(--brasa-accent); outline-offset: -2px; }
+.feature--roadmap .feature-photo img {
+  filter: saturate(0.94) contrast(1.04) brightness(0.92);
+}
+.feature--roadmap .feature-photo::after {
+  background: linear-gradient(180deg, rgba(27,26,23,0.01) 35%, rgba(27,26,23,0.68) 100%);
+}
+.feature--roadmap:hover .feature-photo img { transform: scale(1.035); }
+.feature--coming-soon .feature-photo img {
+  filter: saturate(0.78) contrast(1.02) brightness(0.84);
+}
+.feature--start {
+  outline: 2px solid var(--brasa-accent);
+  outline-offset: -2px;
+}
+.feature--start .feature-photo::after {
+  background: linear-gradient(180deg, rgba(27,26,23,0.03) 20%, rgba(27,26,23,0.82) 100%);
+}
+.feature-step {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 4;
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(245, 240, 229, 0.88);
+}
+.feature--start .feature-step { color: var(--brasa-accent); }
+.journey-intro {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 2rem;
+  margin-bottom: var(--space-md);
+}
+.journey-intro .section-h { margin-bottom: 0; }
+.journey-note {
+  max-width: 38rem;
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--brasa-soft);
+}
+@media (max-width: 720px) {
+  .journey-intro { display: block; }
+  .journey-note { margin-top: 1rem; }
+}
 
 .feature-content {
   position: absolute;
@@ -567,97 +770,6 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   letter-spacing: 0.06em;
   line-height: 1.35;
   color: var(--brasa-soft);
-}
-
-/* =========================================================================
-   INDEX GATEWAY · Full-width banner
-   ========================================================================= */
-.gateway {
-  position: relative;
-  display: block;
-  width: 100%;
-  aspect-ratio: 21 / 9;
-  min-height: 320px;
-  overflow: hidden;
-  background: var(--brasa-black);
-  isolation: isolate;
-}
-@media (max-width: 720px) { .gateway { aspect-ratio: 4 / 5; } }
-
-.gateway-photo {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-}
-.gateway-photo::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(180deg, rgba(27,26,23,0.5) 0%, rgba(27,26,23,0.55) 100%);
-  z-index: 2;
-  transition: background 700ms var(--ease);
-}
-.gateway:hover .gateway-photo::after {
-  background: linear-gradient(180deg, rgba(27,26,23,0.4) 0%, rgba(27,26,23,0.45) 100%);
-}
-.gateway-photo img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 1800ms var(--ease-photo);
-  filter: saturate(0.85) contrast(1.05);
-}
-.gateway:hover .gateway-photo img { transform: scale(1.04); }
-
-.gateway-content {
-  position: absolute;
-  inset: 0;
-  z-index: 3;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 2rem;
-  color: var(--brasa-cream);
-}
-.gateway-eyebrow {
-  font-family: var(--sans);
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.28em;
-  text-transform: uppercase;
-  color: rgba(245, 240, 229, 0.75);
-  margin-bottom: 1rem;
-}
-.gateway-h {
-  font-family: var(--serif);
-  font-weight: 300;
-  font-size: clamp(2.25rem, 5vw, 4.25rem);
-  line-height: 1;
-  letter-spacing: -0.02em;
-  font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
-  margin-bottom: 1.5rem;
-  max-width: 18ch;
-}
-.gateway-arrow {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.75rem;
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  font-weight: 500;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  padding: 0.85rem 1.5rem;
-  border: 1px solid rgba(245, 240, 229, 0.4);
-  border-radius: 999px;
-  transition: background 380ms var(--ease), border-color 380ms;
-}
-.gateway:hover .gateway-arrow {
-  background: rgba(245, 240, 229, 0.1);
-  border-color: rgba(245, 240, 229, 0.7);
 }
 
 /* =========================================================================
@@ -810,7 +922,6 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .pillar:focus-visible,
 .right-tile-primary:focus-visible,
 .feature:focus-visible,
-.gateway:focus-visible { outline-offset: -3px; }
 
 .right-tile-primary { cursor: pointer; }
 
@@ -840,7 +951,8 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
          width="2400" height="1350">
   </div>
   <div class="hero-content container">
-    <h1 class="hero-identity" id="hero-identity">Welcome to a World where, Education, Business and Government are one system built precisely for you.</h1>
+    <h1 class="hero-identity" id="hero-identity">One governed architecture for how the world learns, works and serves its people.</h1>
+    <p class="hero-tag">Education, business and government—assembled as one self-reinforcing system.</p>
   </div>
   <a href="#pillars" class="hero-scroll" aria-label="Scroll to explore">Explore</a>
 </section>
@@ -922,443 +1034,104 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 </section>
 
 <!-- ──────────────────────────────────────────────────────────────────────
+     THE ARCHITECTURE · Education is the common spine
+     ────────────────────────────────────────────────────────────────────── -->
+<section class="section architecture" id="architecture" aria-labelledby="architecture-h">
+  <div class="container">
+    <div class="architecture-intro reveal">
+      <div>
+        <p class="eyebrow">The BRASA Architecture</p>
+        <h2 class="architecture-title" id="architecture-h">The parts are powerful. The connection is the system.</h2>
+      </div>
+      <div class="architecture-copy">
+        <p><strong>BRASA has assembled systems that normally operate separately into one governed, self-reinforcing architecture.</strong></p>
+        <p>Education, business, government and the Open Ledger are not separate destinations. They are connected parts of one system built around the life of a citizen—what a person learns, how that knowledge becomes useful work, how enterprise operates within government, and how every recorded action strengthens what comes next.</p>
+      </div>
+    </div>
+
+    <div class="reveal">
+      <div class="spine-label">Education is the spine</div>
+      <div class="spine-grid">
+        <article class="spine-card">
+          <span class="spine-number">01 · EDUCATION</span>
+          <h3>Education for every stage of life.</h3>
+          <p>From foundational learning to advanced study, practical skills and lifelong development. What a citizen learns becomes a living record that can move with them.</p>
+        </article>
+        <article class="spine-card">
+          <span class="spine-number">02 · BUSINESS EDUCATION</span>
+          <h3>Education applied to enterprise.</h3>
+          <p>People learn both their craft and the business of their craft—then use that knowledge to start, operate and strengthen an enterprise within the same architecture.</p>
+        </article>
+        <article class="spine-card">
+          <span class="spine-number">03 · GOVERNMENT EDUCATION</span>
+          <h3>Education for public life.</h3>
+          <p>Citizens learn how their government works, while public institutions gain a structure for clearer services, better administration and knowledge that remains current.</p>
+        </article>
+      </div>
+    </div>
+
+    <div class="system-loop reveal" aria-label="The BRASA self-reinforcing cycle">
+      <div class="loop-step">Learn</div>
+      <div class="loop-step">Apply knowledge</div>
+      <div class="loop-step">Build and serve</div>
+      <div class="loop-step">Record openly</div>
+      <div class="loop-step">Strengthen the next citizen</div>
+    </div>
+
+    <nav class="architecture-actions reveal" aria-label="Understand the BRASA architecture">
+      <a href="how-this-works.html">See how the system works →</a>
+      <a href="structure-for-citizens.html">Explore the complete structure →</a>
+      <a href="patent-pending.html">Read the patent-pending framework →</a>
+    </nav>
+  </div>
+</section>
+
+<!-- ──────────────────────────────────────────────────────────────────────
      WHERE TO BEGIN · BRASA Education · Six entry tiles
      ────────────────────────────────────────────────────────────────────── -->
 <section class="section" id="where-to-begin" aria-labelledby="begin-h">
   <div class="container">
-    <div class="reveal">
-      <p class="eyebrow">BRASA WORLD</p>
-      <h2 class="section-h" id="begin-h">Where to begin.</h2>
+    <div class="journey-intro reveal">
+      <div>
+        <p class="eyebrow">A guided introduction</p>
+        <h2 class="section-h" id="begin-h">How to start.</h2>
+      </div>
     </div>
 
     <div class="featured-grid reveal">
 
-      <a href="how-to-begin.html" class="feature">
+      <a href="how-to-begin.html" class="feature feature--start">
+        <span class="feature-step">Start here · 01</span>
         <div class="feature-photo"><img src="https://assets.brasa.world/Photos/how-to-start.jpg" alt="" loading="lazy" width="1600" height="953"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">How to start</div></div>
+        <div class="feature-content"><span class="feature-eyebrow">Open the guided path →</span><div class="feature-label">How to start</div></div>
       </a>
 
-      <a href="how-this-works.html" class="feature">
-        <div class="feature-photo"><img src="https://assets.brasa.world/Thumbnails/start-devices.jpg" alt="" loading="lazy" width="900" height="600"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">How this works</div></div>
+      <a href="the-21-rights.html" class="feature feature--roadmap" aria-label="Step 2: Open the 21 Rights.">
+        <div class="feature-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-globe-on-green-grass-with-sunset-sky_37814556.jpg?w=900&q=82" alt="The Earth resting in healthy green grass beneath a sunset sky" loading="lazy" width="900" height="600"></div>
+        <div class="feature-content"><span class="feature-eyebrow">Open the constitutional architecture →</span><div class="feature-label">The 21 Rights</div></div>
       </a>
 
-      <a href="how-you-pick.html" class="feature">
-        <div class="feature-photo"><img src="https://assets.brasa.world/Thumbnails/checklist-steps.jpg" alt="" loading="lazy" width="900" height="600"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">How you pick what to do</div></div>
+      <a href="governments-of-the-world.html" class="feature feature--roadmap" aria-label="Step 3: Open Governments of the World.">
+        <div class="feature-photo"><img src="https://assets.brasa.world/Photos/vecteezy_globe-of-the-world-on-wooden-table-and-the-background-of_46367703.jpg" alt="A globe representing the governments and citizens of the world" loading="lazy" width="900" height="600"></div>
+        <div class="feature-content"><span class="feature-eyebrow">Open the country architecture →</span><div class="feature-label">Governments of the World</div></div>
       </a>
 
-      <a href="how-you-earn.html" class="feature">
-        <div class="feature-photo"><img src="https://assets.brasa.world/Thumbnails/certificate-scroll.jpg" alt="" loading="lazy" width="900" height="600"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">How to earn a Free Business degree</div></div>
+      <a href="current-solution-projects.html" class="feature feature--roadmap" aria-label="Step 4: Open Current Solution Projects.">
+        <div class="feature-photo"><img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=900&q=82" alt="A network connecting the world's continents" loading="lazy" width="900" height="600"></div>
+        <div class="feature-content"><span class="feature-eyebrow">Open the solutions architecture →</span><div class="feature-label">Current Solution Projects</div></div>
       </a>
 
-      <a href="what-you-can-do.html" class="feature">
-        <div class="feature-photo"><img src="https://assets.brasa.world/Thumbnails/career-interview.jpg" alt="" loading="lazy" width="900" height="600"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">What can I do with this</div></div>
+      <a href="government/costa-rica/index.html#platform-architecture" class="feature feature--roadmap" aria-label="Open the Global Monitoring platform.">
+        <div class="feature-photo"><img src="https://assets.brasa.world/Photos/global-health-hero.jpg" alt="The Earth represented as a live global monitoring system" loading="lazy" width="900" height="600"></div>
+        <div class="feature-content"><span class="feature-eyebrow">Live warnings and public intelligence →</span><div class="feature-label">Global Monitoring</div></div>
       </a>
 
-      <a href="why-this-is-different.html" class="feature">
+      <div class="feature feature--roadmap feature--coming-soon" aria-label="Step 6: Coming soon.">
         <div class="feature-photo"><img src="https://assets.brasa.world/Thumbnails/diamond-coal.jpg" alt="" loading="lazy" width="900" height="600"></div>
-        <div class="feature-content"><span class="feature-eyebrow"></span><div class="feature-label">Why this is different</div></div>
-      </a>
-
-    </div>
-  </div>
-</section>
-
-<!-- ──────────────────────────────────────────────────────────────────────
-     RIGHTS · 21 Constitutional Rights · 4 Clusters
-     ────────────────────────────────────────────────────────────────────── -->
-<section class="section" id="rights" aria-labelledby="rights-h">
-  <div class="container">
-    <div class="reveal">
-      <p class="eyebrow">Constitutional Architecture</p>
-      <h2 class="section-h" id="rights-h">Twenty-one rights. One constitution.</h2>
-      <a href="/rights-dashboards.html" style="display:inline-block;margin-top:0.7rem;font-family:var(--sans);font-size:0.9rem;font-weight:600;letter-spacing:0.03em;color:var(--brasa-accent)">See all 21, live →</a>
-    </div>
-
-    <!-- TWENTY-ONE RIGHTS — single unified grid -->
-    <div class="reveal">
-      <div class="rights-grid">
-        <div class="right-tile">
-          <a href="/right-body.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-man-walking-on-the-beach-with-the-sun-setting-behind-him_34317962.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Body</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-free-will.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_bearded-man-in-silhouette-watching-a-bird-take-flight_72324866.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Free Will</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-identity.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_woman-with-outstretched-arms-in-a-golden-wheat-field_74377108.jpeg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Identity</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-truth.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_a-magnified-view-of-a-human-eye-highlighting-the-role-of_50356755.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Truth</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-language.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_welcome-in-different-language-with-world-map-background_6983340.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Language</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-communication.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_diverse-cultures-international-communication-concept-human_7042080.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Communication</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-family.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_parents-and-two-children-sitting-on-their-shoulders_7792212.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Family</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-healthy-planet.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-globe-on-green-grass-with-sunset-sky_37814556.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Healthy Planet</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-clean-water.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_serene-glass-of-water-on-nature-background_66590291.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Clean Water</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-food.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_vibrant-assortment-of-healthy-plant-based-foods-beans-nuts_74299387.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Food</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-health.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_hands-holding-a-red-heart-with-ecg-line-symbol-of-health_56711318.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Health</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-energy.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_concept-clean-energy-and-saving-power-in-nature-solar-panel_8242896.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Energy</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-shelter.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_landlord-key-for-unlocking-house-is-plugged-into-the-door_17155319.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Shelter</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-be-safe.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_orange-yellow-blue-and-white-hard-safety-wear-helmet-hat_11026601.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Be Safe</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-peace.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_peace-symbol-made-from-stones-upon-pebble-background_49721284.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Peace</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-education.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_school-backpack-for-textbooks-pens-pencils-books-and-other_32854825.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Education</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-rest.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_hammock-suspended-between-two-trees_13805083.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Rest</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-technology.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_silicon-wafer-showing-microchip-semiconductor-technology_73835924.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Technology</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-justice.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_judge-s-gavel-and-scales-of-justice-with-bokeh-background_23580681.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Justice</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-business.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_hand-of-touching-network-connecting-the-human-dots-icon-in_6966211.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Business</div>
-          </a>
-        </div>
-        <div class="right-tile">
-          <a href="/right-travel.html" class="right-tile-primary">
-            <div class="right-photo"><img src="https://images.brasa.world/Photos/vecteezy_ai-generated-landing-a-plane-against-a-golden-sky-at-sunset_36054418.jpg?w=400&q=80" alt="" loading="lazy" width="400" height="400"></div>
-            <div class="right-label">Travel</div>
-          </a>
-        </div>
+        <div class="feature-content"><span class="feature-eyebrow">The journey continues</span><div class="feature-label">Coming Soon!</div></div>
       </div>
-    </div>
-
-  </div>
-</section>
-
-<section class="section" id="federation" aria-labelledby="federation-h">
-  <div class="container">
-    <div class="reveal">
-      <p class="eyebrow">Countries of the World</p>
-      <h2 class="section-h" id="federation-h">BRASA Financial Simulations</h2>
-    </div>
-
-    <div class="featured-grid reveal">
-
-      <a href="countries-americas.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_globe-of-the-world-on-wooden-table-and-the-background-of_46367703.jpg" alt="The Americas — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">35 nations</span>
-          <div class="feature-label">The Americas</div>
-        </div>
-      </a>
-
-      <a href="countries-africa.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_magnifying-glass-on-a-table-with-a-world-map_29093864.jpg" alt="Africa — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">54 nations</span>
-          <div class="feature-label">Africa</div>
-        </div>
-      </a>
-
-      <a href="countries-europe.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_an-astronaut-aboard-the-international-space-station-watches_53400962.jpg" alt="Europe — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">49 nations</span>
-          <div class="feature-label">Europe</div>
-        </div>
-      </a>
-
-      <a href="countries-asia.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_asia-at-night-from-space-with-lights-showing-global_58517186.jpg" alt="Asia — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">32 nations</span>
-          <div class="feature-label">Asia</div>
-        </div>
-      </a>
-
-      <a href="countries-middle-east.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_earth-globe-orbiting-showing-middle-east-and-arabian-peninsula_78371121.jpg" alt="Middle East — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">14 nations</span>
-          <div class="feature-label">Middle East</div>
-        </div>
-      </a>
-
-      <a href="countries-oceania.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/vecteezy_globe-image-hd_30639213.jpg" alt="Oceania — the citizens of the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">14 nations</span>
-          <div class="feature-label">Oceania</div>
-        </div>
-      </a>
 
     </div>
-  </div>
-</section>
-
-<!-- ──────────────────────────────────────────────────────────────────────
-     FEATURED COLLECTIONS · Rotating curated selection
-     ────────────────────────────────────────────────────────────────────── -->
-<section class="section" id="featured" aria-labelledby="featured-h">
-  <div class="container">
-    <div class="reveal">
-      <p class="eyebrow">Spotlighting</p>
-      <h2 class="section-h" id="featured-h">Current Solution Projects</h2>
-    </div>
-
-    <div class="featured-grid reveal">
-
-      <a href="homes-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_modern-sustainable-tiny-home-with-solar-panels_56499173.jpg?w=900&q=82"
-               alt="BRASA Homes — fourth pillar housing distribution" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Homes</span>
-          <div class="feature-label">Housing for Citizens</div>
-        </div>
-      </a>
-
-      <a href="foods-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_ai-generated-attractive-food-images_40171034.jpg?w=900&q=82"
-               alt="BRASA Foods — fourth pillar food distribution" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Foods</span>
-          <div class="feature-label">Food for Citizens</div>
-        </div>
-      </a>
-
-      <a href="water-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/water-for-citizens.jpg"
-               alt="BRASA Water — clean water for citizens" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Water</span>
-          <div class="feature-label">Water for Citizens</div>
-        </div>
-      </a>
-
-      <a href="medicine-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/medicine-for-citizens.jpg"
-               alt="BRASA Medicine — health and medicine for citizens" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Medicine</span>
-          <div class="feature-label">Medicine for Citizens</div>
-        </div>
-      </a>
-
-      <a href="energy-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/energy-for-citizens.jpg"
-               alt="BRASA Energy — clean energy for citizens" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Energy</span>
-          <div class="feature-label">Energy for Citizens</div>
-        </div>
-      </a>
-
-      <a href="technology-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://assets.brasa.world/Photos/technology-for-citizens.jpg"
-               alt="BRASA Technology — technology for citizens" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Technology</span>
-          <div class="feature-label">Technology for Citizens</div>
-        </div>
-      </a>
-
-      <a href="philanthropy-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_health-care-health-insurance-charity-and-medicine-concept_3667146.jpg?w=900&q=82"
-               alt="Philanthropy — the constitutional infrastructure of giving" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Philanthropy</span>
-          <div class="feature-label">The infrastructure of giving.</div>
-        </div>
-      </a>
-
-      <a href="campuses-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_modern-container-hotel-resort-embracing-sustainable_69725110.jpeg?w=900&q=82"
-               alt="Campuses — the ABC system from Costa Rica to the world" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Campuses</span>
-          <div class="feature-label">The ABC system. Costa Rica to the world.</div>
-        </div>
-      </a>
-
-      <a href="structure-for-citizens.html" class="feature">
-        <div class="feature-photo">
-          <img src="https://images.brasa.world/Photos/vecteezy_global-network-connections-connecting-the-world-s-continents_76900399.jpeg?w=900&q=82"
-               alt="BRASA Structure — constitutional architecture end to end" loading="lazy" width="900" height="600">
-        </div>
-        <div class="feature-content">
-          <span class="feature-eyebrow">Structure</span>
-          <div class="feature-label">Constitutional architecture, end to end.</div>
-        </div>
-      </a>
-
-    </div>
-  </div>
-</section>
-
-<!-- ──────────────────────────────────────────────────────────────────────
-     CONSTITUTIONAL ARCHITECTURE · 5 trust signals
-     ────────────────────────────────────────────────────────────────────── -->
-<section class="section section--tight" id="open-ledger" aria-labelledby="signals-h">
-  <div class="container">
-    <div class="reveal">
-      <p class="eyebrow">How it works</p>
-      <h2 class="section-h" id="signals-h" style="margin-bottom: 3rem;">Structural facts. Verifiable, in public.</h2>
-
-      <div class="signals">
-        <div class="signal">
-          <div class="signal-num">7,100+</div>
-          <div class="signal-label">Languages. Every citizen, in their own.</div>
-        </div>
-        <div class="signal">
-          <div class="signal-num">Open</div>
-          <div class="signal-label">Ledger. Vanilla aggregate, in live reporting.</div>
-        </div>
-        <div class="signal">
-          <div class="signal-num">USSD · WA</div>
-          <div class="signal-label">AT carrier substrate + WhatsApp Business.</div>
-        </div>
-        <div class="signal">
-          <div class="signal-num">$0</div>
-          <div class="signal-label">Cost to citizens. Funded by commerce.</div>
-        </div>
-        <div class="signal">
-          <div class="signal-num">24/7</div>
-          <div class="signal-label">Live reporting. Nothing behind closed doors.</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ──────────────────────────────────────────────────────────────────────
-     INDEX GATEWAY
-     ────────────────────────────────────────────────────────────────────── -->
-<section class="section" id="index-gateway" aria-labelledby="gateway-h">
-  <div class="container">
-    <a href="/index.html" class="gateway reveal" aria-labelledby="gateway-h">
-      <div class="gateway-photo">
-        <img
-             src="https://images.brasa.world/Photos/vecteezy_ai-generated-closeup-the-planet-earth-view-at-night-and-city_37127646.jpg?w=2200&q=82"
-             alt="Earth at night — city lights across the planet"
-             loading="lazy" width="2200" height="943">
-      </div>
-      <div class="gateway-content">
-        <span class="gateway-eyebrow">The full architecture</span>
-        <h2 class="gateway-h" id="gateway-h">Open the index.</h2>
-        <span class="gateway-arrow">
-          Enter the full constitution
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-            <path d="M3 8h10M9 4l4 4-4 4"/>
-          </svg>
-        </span>
-      </div>
-    </a>
   </div>
 </section>
 
@@ -1372,9 +1145,9 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
          alt="Arenal Volcano, Costa Rica" loading="lazy" width="2000" height="1125">
     <div class="welcome-copy">
       <p class="welcome-text" id="welcome-h">
-        Welcome to BRASA. <em>Owned by the citizens of the world</em> — designed for every language, every business, every life.
+        BRASA began in Costa Rica—the place where <em>the first ember was lit.</em> A fitting birthplace for an architecture designed to serve every citizen of the world.
       </p>
-      <div class="welcome-sig">Arenal · Costa Rica · 2026</div>
+      <div class="welcome-sig">Costa Rica · The first ember · 2026</div>
     </div>
   </div>
 </section>
@@ -1393,6 +1166,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
       <a href="https://brasa.education/">Education</a>
       <a href="https://brasagovernment.net/">Government</a>
       <a href="https://brasa.business/">Business</a>
+      <a href="/patent-pending.html">Patent-pending system</a>
       <a href="/index.html">Index</a>
       <a href="/contact">Contact</a>
     </nav>
@@ -1433,6 +1207,5 @@ revealEls.forEach((el) => io.observe(el));
 
 
 <script src="/country-location.js" defer></script>
-<script src="/pwa-register.js" defer></script>
 </body>
 </html>
