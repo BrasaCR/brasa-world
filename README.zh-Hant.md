@@ -1,0 +1,43 @@
+🌐 Read in: [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt-BR.md) · [Português (Portugal)](README.pt-PT.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md) · [Polski](README.pl.md) · [Română](README.ro.md) · [Magyar](README.hu.md) · [Čeština](README.cs.md) · [Slovenčina](README.sk.md) · [Slovenščina](README.sl.md) · [Hrvatski](README.hr.md) · [Bosanski](README.bs.md) · [Српски](README.sr-Cyrl.md) · [Srpski](README.sr-Latn.md) · [Shqip](README.sq.md) · [Català](README.ca.md) · [Euskara](README.eu.md) · [Galego](README.gl.md) · [Svenska](README.sv.md) · [Dansk](README.da.md) · [Norsk](README.no.md) · [Suomi](README.fi.md) · [Íslenska](README.is.md) · [Eesti](README.et.md) · [Latviešu](README.lv.md) · [Lietuvių](README.lt.md) · [Ελληνικά](README.el.md) · [Български](README.bg.md) · [Македонски](README.mk.md) · [Українська](README.uk.md) · [Русский](README.ru.md) · [Беларуская](README.be.md) · [Հայերեն](README.hy.md) · [ქართული](README.ka.md) · [Türkçe](README.tr.md) · [Azərbaycanca](README.az.md) · [Қазақша](README.kk.md) · [Кыргызча](README.ky.md) · [O‘zbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [Türkmençe](README.tk.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [فارسی](README.fa.md) · [اردو](README.ur.md) · [پښتو](README.ps.md) · [Kurdî](README.ku.md) · [हिन्दी](README.hi.md) · [বাংলা](README.bn.md) · [ਪੰਜਾਬੀ](README.pa.md) · [ગુજરાતી](README.gu.md) · [मराठी](README.mr.md) · [नेपाली](README.ne.md) · [தமிழ்](README.ta.md) · [తెలుగు](README.te.md) · [ಕನ್ನಡ](README.kn.md) · [മലയാളം](README.ml.md) · [සිංහල](README.si.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [ខ្មែរ](README.km.md) · [ລາວ](README.lo.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Filipino](README.fil.md) · [Kiswahili](README.sw.md) · [አማርኛ](README.am.md) · [ትግርኛ](README.ti.md) · [Soomaali](README.so.md) · [Hausa](README.ha.md) · [Yorùbá](README.yo.md) · [Igbo](README.ig.md) · [isiZulu](README.zu.md) · [isiXhosa](README.xh.md) · [Afrikaans](README.af.md) · [Ikinyarwanda](README.rw.md) · [Malagasy](README.mg.md) · [Sesotho](README.st.md) · [Kreyòl ayisyen](README.ht.md)
+
+# BRASA 世界
+
+**一個連結教育、政府服務、商業與公共透明度的系統，為每一位公民而建。**
+
+[造訪 BRASA 世界](https://brasa.world/) · [教育](https://brasa.education/) · [政府服務](https://brasagovernment.net/) · [商業](https://brasa.business/)
+
+BRASA 將公共知識、公民服務、教育與商業連結起來，同時保留驅動全球系統的英文來源內容。各國頁面會引導訪客前往與其居住地相關的機構、學校、服務和企業。
+
+## 四大支柱
+
+- **教育：**尋找學校、大學、課程和終身學習機會。
+- **政府服務：**存取各部會、公共機構、公用事業機構和公民服務。
+- **商業：**協助公民創辦、經營和發展企業的免費工具。
+- **BRASA：**依國家調整的公共入口，連結整個系統。
+
+## 逐國建置
+
+BRASA 為每個受支援的國家維護獨立的國家頁面。每個頁面採用共同的全球設計，並連結到該國真實的政府機構、教育資源和服務。
+
+## 語言存取
+
+英語是 BRASA 持續維護的來源語言。訪客可以使用在地化版本，編輯人員則繼續依照同一英文標準工作。每個已發布的翻譯都有獨立網址、語言中繼資料、審查狀態以及英文版本連結。
+
+## 從這裡開始
+
+造訪 [brasa.world](https://brasa.world/)，選擇您的國家、語言或支柱。
+
+## 參與貢獻
+
+協助核實國家資訊、審查翻譯、回報過期的公共連結或改善無障礙體驗。準確性和實用的在地資訊比翻譯數量更重要。
+
+<!-- BRASA-PLATFORM-UPDATE:START -->
+## 今天的BRASA
+
+BRASA現已將198個國家目的地與教育、政府和商業連結起來。BRASA Business包含12個互聯領域：銷售與收據、CRM、庫存、人員與培訓、薪資與銀行、時間管理、家庭支援、法律事務、政府表格、報告以及共享工作空間。系統亦包括開放帳本、引導式工作流程和離線持續運作。
+
+BRASA Financials已從395筆記錄中整理出385種支付系統，涵蓋161個國家或多國市場說明以及216種支付類型，包括流動支付、即時轉帳、QR、電子錢包、現金網絡、匯款、開放銀行、本地卡系統和USSD。
+
+被收錄不代表已經啟用。資金由持牌服務商轉移；每種方式都必須經過國家與官方來源核驗、牌照審查、技術整合、結算測試和生產批准。BRASA把經過核驗的選項連接到收據、對帳和開放帳本。
+<!-- BRASA-PLATFORM-UPDATE:END -->
+*阿雷納爾 · 哥斯大黎加 · 由公民共同擁有。*

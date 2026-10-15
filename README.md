@@ -3380,3 +3380,26 @@ BRASA mete Edikasyon, Gouvenman ak Komès ansanm nan yon sèl sistèm konplè �
 Konstitisyon an vini anvan tout lòt bagay. Ouvè ak transparan. Se sitwayen lemonn ki posede li. Tout dwa pwoteje pa kad Konstitisyon BRASA a.
 
 «Arenal · Kosta Rika · 2026 — Konstwi ak Lanmou pou Tout Moun.»
+
+<!-- BRASA-PLATFORM-UPDATE:START -->
+## BRASA today: one connected civic architecture
+
+BRASA connects systems that normally operate separately: lifelong education, government knowledge, business operations, country-aware financial access, and a citizen identity that can carry verified evidence between them. Education is the spine; each pillar strengthens the others.
+
+### Built for every country
+
+- 198 country destinations connect World, Education, Business, and Government.
+- Country and language routing helps citizens reach the appropriate national experience while preserving an explicit country choice.
+- Government country packs organize public information into twelve practical categories. A country page is structural coverage, not a claim that every record has completed professional review.
+- BRASA Business connects twelve operating areas through one governed record: point of sale, CRM, inventory, people, training, payroll and banking, time, family support, legal work, government forms, reports, and the business workspace.
+
+### More ways to participate in the economy
+
+BRASA Financials now catalogs 385 distinct payment systems from 395 submitted records, representing 161 country or multi-country market descriptions and 216 payment types. The directory includes mobile money, instant bank transfers, QR payments, wallets, cash networks, remittance, open banking, domestic card systems, USSD, and other locally trusted methods.
+
+Catalogued does not mean activated. BRASA separates discovery, official-source review, country eligibility, provider onboarding, licensing, integration readiness, settlement evidence, and production approval. Licensed providers—not BRASA—hold or move money. BRASA's role is to make local options discoverable and connect verified providers to the same governed receipt, reconciliation, and open-ledger framework.
+
+### Why the connection matters
+
+A citizen should be able to learn, demonstrate capability, find work, build a business, understand government requirements, accept an appropriate local payment method, preserve evidence, and teach the next citizen without rebuilding their identity and records in disconnected systems.
+<!-- BRASA-PLATFORM-UPDATE:END -->
